@@ -30,7 +30,7 @@ nav:
     - 'blog/2021/03/17/a-uk-charity-classification-system.md'
     - 'blog/2021/01/11/classifying-the-charity-register.md'
   - 'Method':
-    - 'method/introduction.md'
+    - 'Introduction': 'method/introduction.md'
     - 'method/sampling.md'
     - 'method/designing-taxonomy.md'
     - 'method/manual-classification.md'

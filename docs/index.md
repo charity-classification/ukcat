@@ -3,7 +3,7 @@
 This project is the home of the *UK Charity Activity Tags*, a project to classify
 every UK registered charity using two classification taxonomies.
 
-The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/policy-and-research), Dr Christopher Damm at the [Centre for Regional Economic and Social Research (Sheffield Hallam University)](https://www4.shu.ac.uk/research/cresr/staff/christopher-damm) and [David Kane](https://dkane.net/) an independent freelance researcher. The project was funded by Esmée Fairbairn Foundation.
+The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/policy-and-research), Dr Christopher Damm at the [Centre for Regional Economic and Social Research (Sheffield Hallam University)](https://www4.shu.ac.uk/research/cresr/staff/christopher-damm) and [David Kane](https://dkane.net/), an independent freelance researcher. The project was funded by Esmée Fairbairn Foundation.
 
 The project started in Autumn 2020 with the first draft release of data in Summer 2021.
 
