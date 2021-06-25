@@ -1,4 +1,40 @@
-site_name: UK CAT
-site_url: https://example.com/
+site_name: UK Charity Classification
+site_url: https://dkane.net/ukcat/
 theme:
   name: material
+  icon:
+    logo: material/label
+  features:
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+repo_url: https://github.com/drkane/ukcat
+plugins:
+  - blog
+markdown_extensions:
+  - tables
+nav:
+  - 'index.md'
+  - 'Blog':
+    - 'blog/2021/03/17/a-uk-charity-classification-system.md'
+    - 'blog/2021/01/11/classifying-the-charity-register.md'
+  - 'Method':
+    - 'method/introduction.md'
+    - 'method/sampling.md'
+    - 'method/designing-taxonomy.md'
+    - 'method/manual-classification.md'
+    - 'method/machine-learning.md'
+    - 'method/rules-based-classification.md'
+  - 'outputs.md'
+  - 'other-work.md'

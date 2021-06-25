@@ -27,6 +27,8 @@ mkdocs==1.2.1
     # via
     #   -r requirements.in
     #   mkdocs-material
+mkdocs-blog-plugin==0.25
+    # via -r requirements.in
 mkdocs-material==7.1.9
     # via
     #   -r requirements.in
