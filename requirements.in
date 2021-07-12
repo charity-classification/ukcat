@@ -1,3 +1,10 @@
+airtable-python-wrapper
 mkdocs
 mkdocs-material
 mkdocs-blog-plugin
+pandas
+python-dotenv
+python-slugify
+click
+black
+isort
