@@ -31,6 +31,7 @@ def fetch_tags(base_id, airtable_api_key, table_name, save_location):
         .loc[
             tags["Not used (describe why)"].isnull(),
             [
+                "Code",
                 "tag",
                 "Category",
                 "Subcategory",
@@ -41,7 +42,7 @@ def fetch_tags(base_id, airtable_api_key, table_name, save_location):
                 "Exclude regular expression",
             ],
         ]
-    )
+    ).set_index("Code")
     click.echo(f"Saving to CSV file `{save_location}`")
     tags.to_csv(save_location)
 
