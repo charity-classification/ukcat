@@ -1,7 +1,5 @@
 airtable-python-wrapper
-mkdocs
-mkdocs-material
-mkdocs-blog-plugin
+-r mkdocs-requirements.txt
 pandas
 python-dotenv
 python-slugify
