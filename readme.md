@@ -13,6 +13,10 @@ The project started in Autumn 2020 with the first draft release of data in Summe
 
 This directory contains the project documentation, which is turned into a website using [mkdocs](https://www.mkdocs.org/).
 
+You can run a local version of the docs using `mkdocs serve`.
+
+The website is generated using Github actions.
+
 ### `/fetchdata`
 
 This is a series of Python commands for fetching the data used in the project. The commands are as follows:

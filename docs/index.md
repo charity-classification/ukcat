@@ -7,7 +7,17 @@ The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/
 
 The project started in Autumn 2020 with the first draft release of data in Summer 2021.
 
-## Aims and objectives
+## The need for this project
+
+Use of data on registered charities is growing, but is constrained by the availability and quality of the data. Classifications of the service areas that charities operate in are a particular gap within the current available data. Data on these service areas are used by:
+
+- **Infrastructure bodies**, for example a local Council for Voluntary Service, to examine the characteristics of the charity sector in their local area
+- **Funders** to look at charities meeting particular areas of need or to help them with due diligence.
+- **Researchers** to analyse a discrete service area (for example looking at the impact of COVID-19 on hospices) or compare between service areas.
+- **Researchers** to provide a sampling frame for further survey or qualitative work
+- **Charity service providers** to look at the size of market for products and services aimed at charities.
+
+In England and Wales the main source of data on charities is the [Register of Charities](https://beta.charitycommission.gov.uk/) in England and Wales, maintained by the Charity Commission. It is one of the most comprehensive and detailed sources of data on Voluntary Sector Organisations (VSOs) anywhere in the world. Similar registers exist for charities registered in Scotland and Northern Ireland. They provide the main data source for many quantitative research studies on the voluntary sector and are excellent starting points for answering some of the above questions. The existing tools for classifying the register into service areas, however, are currently limited. 
 
 ## Method
 
@@ -18,7 +28,7 @@ The project aims to apply two sets of classification schemes to every registered
 
 To achieve this, a sample of registered charities was created and manually classified by the project team. This sample was then used as the base for both machine-learning models and rules-based classification to assign ICNP/TSO categories and UKCAT tags to each charity. In some cases, particularly for larger organisations, manual categories are applied to ensure the categories are correct.
 
-**[Read more about the method used...](/01-method/)**
+**[Read more about the method used...](method/introduction.md)**
 
 ## Results and outputs
 
