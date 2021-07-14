@@ -3,3 +3,4 @@ data/**
 !data/ukcat.csv
 !data/sample.csv
 !data/ccni_activities.csv
+!data/icnptso.csv

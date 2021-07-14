@@ -1,0 +1,128 @@
+﻿Section,Group,Sub-group,Title,Notes
+A,,,"Culture, communication and recreation activities",ICNPO Group 1
+A,A10,,Culture and arts,
+A,A10,A11,Performing and visual arts,"Includes theatres, galleries, music halls, dance studios, agencies promoting arts, etc."
+A,A10,A12,"Museums, zoos, parks, historical sites and similar institutions","Excludes libraries, classified as A30, and natural reserves, classified as E10"
+A,A10,A19,Culture and arts not elsewhere classfied,
+A,A20,,Sports and recreation,
+A,A20,A21,Sports activities,"Includes amateur sports associations, agencies promoting sports, etc."
+A,A20,A22,Amusement and recreation services,"Includes recreational facilities, but excludes member-serving organizations and social clubs (G13)"
+A,A20,A29,Sports and recreation not elsewhere classfied,
+A,A30,,Information and communication services,"Includes broadcasting, publishing, libraries, media centres, etc."
+A,A90,,Culture and arts services not elsewhere classfied,
+B,,,Education services,"ICNPO Group 2 (except research, now classified as K10))"
+B,B10,,"Pre-primary, primary and secondary education",
+B,B10,B11,Pre-primary education,
+B,B10,B12,Primary education,Includes institutions providing basic academic courses for very young children (kindergartens and elementary schools)
+B,B10,B13,Secondary education,Includes institutions providing academic courses typically for adolescents who have completed primary education
+B,B10,B19,Primary and secondary education not elsewhere classfied,
+B,B20,,Higher education,Includes institutions providing advanced academic courses for students who have completed secondary education
+B,B20,B21,Colleges and universities,Includes institutions offering four or more years of academic courses leading to an academic degree 
+B,B20,B29,Higher education not elsewhere classfied,Includes community colleges and similar institutions not qualifying as B21
+B,B30,,Other education,
+B,B30,B31,"Technical, vocational and continuing education",
+B,B30,B32,Education support services,"Includes testing and academic guidance services, student exchange, etc."
+B,B90,,Education services not elsewhere classfied,
+C,,,Human health services,ICNPO Group 3
+C,C10,,Ambulatory health services,
+C,C10,C11,General ambulatory health-care services,Includes institutions providing general health-care services 
+C,C10,C12,Specialized outpatient care centres,"Includes family planning, mental health or substance abuse treatment, rehabilitation, etc."
+C,C10,C13,Emergency medical response,"Includes ambulance services, Red Cross, Doctors Without Borders, etc."
+C,C10,C14,Medical and diagnostic laboratories,"Includes testing labs, kidney dialysis centres, etc."
+C,C10,C19,Ambulatory health-care services not elsewhere classfied,
+C,C20,,Hospitals,
+C,C20,C21,General hospitals,
+C,C20,C22,"Specialty, psychiatric and substance abuse hospitals",
+C,C20,C29,Hospitals not elsewhere classfied,
+C,C30,,Nursing and residential care services,
+C,C30,C31,Residential nursing care facilities,"Includes convalescent homes, hospices, residential care and similar institutions providing continuous nursing care"
+C,C30,C32,Residential care for the elderly,Includes retirement and assisted living homes for the elderly and similar facilities
+C,C30,C39,Nursing and residential care services not elsewhere classfied,
+D,,,Social services,"ICNPO Group 4 (includes employment and training, formerly in ICNPO Group 6)"
+D,D10,,Individual and family services,
+D,D10,D11,Child and youth services,Excludes child day-care services (D20)
+D,D10,D12,Services for the elderly,
+D,D10,D13,Services for people with disabilities,
+D,D10,D14,Family services,
+D,D10,D19,Other individual and family services,"Includes self-help groups like Alcoholics Anonymous, ex-offender rehabilitation, crisis intervention, helplines, etc."
+D,D20,,Child day-care services,Excludes kindergartens and similar institutions for very young children classified as pre-primary education (B11)
+D,D30,,Emergency and relief services,
+D,D30,D31,Community food services,
+D,D30,D32,Temporary shelters,
+D,D30,D33,Emergency and relief services,"Includes institutions providing assistance in natural disasters, life events (such as burial societies), etc."
+D,D30,D34,Refugee assistance,
+D,D30,D39,Emergency and relief services not elsewhere classfied,
+D,D40,,Vocational rehabilitation services for people with barriers to employment,
+D,D40,D41,Job counselling or training activities,Excludes vocational and trade schools (B31)
+D,D40,D42,Sheltered workshops,Separate from activities in other groups (such as L20 and L30)
+D,D40,D49,Vocational rehabilitation services not elsewhere classfied,
+D,D90,,Social services not elsewhere classfied,
+E,,,Environmental protection and animal welfare activities,"ICNPO Group 5 (excludes organizations engaged in environmental and animal welfare advocacy, which should be classified in G12)"
+E,E10,,Natural resource management and protection,
+E,E10,E11,Land or water management activities,"Includes natural preserves, green spaces, wildlife sanctuaries, etc."
+E,E10,E12,Pollution abatement and control activities,
+E,E10,E13,Eco-tourism,
+E,E10,E14,Eco-farming and forestry,
+E,E10,E19,"Natural resource management, conservation and protection not else-where classfied",
+E,E20,,Animal health and welfare activities,
+E,E20,E21,Animal sanctuaries and shelters ,
+E,E20,E22,Veterinary services,
+E,E20,E29,Animal health and welfare activities not elsewhere classfied,
+E,E90,,Environmental protection and animal welfare activities not elsewhere classfied,
+F,,,"Community and economic development, and housing activities","ICNPO Group 6 (except vocational rehabilitation services, now D40)"
+F,F10,,Construction of housing and infrastructure,
+F,F10,F11,Construction of housing,
+F,F10,F12,Construction of infrastructure,"Roads, water and sewage and alternative energy infrastructure (solar, geothermal, etc.)"
+F,F10,F19,Construction of housing and infrastructure not elsewhere classfied,
+F,F20,,Community and economic development activities,Includes financing or management of community and economic development projects
+F,F30,,Housing management and maintenance,"Homeowner, tenant, community and neighbourhood associations, management of public or coop-erative housing, etc."
+F,F40,,Utilities and waste management,"Includes providers of water, sewage and energy (gas, electricity or alternative energy sources)"
+F,F50,,Indigenous people self-governance,"Organizations established to manage and preserve indigenous culture, language, heritage, land and physical assets"
+F,F90,,Community and economic development and housing not elsewhere classfied,
+G,,,"Civic, advocacy, political and international activities","ICNPO Group 7 (plus international activities, formerly classified as ICNPO Group 9)"
+G,G10,,"Civic, advocacy and social participation activities ",Excludes political activities (G20)
+G,G10,G11,Social advocacy,"Includes advocacy for human and civil rights, public safety, literacy, science and similar public serv-ing activities"
+G,G10,G12,Environment conservation and animal welfare advocacy,
+G,G10,G13,Social clubs and similar member-serving activities,"Includes social/hobby/automobile/country clubs, consumer associations, fraternities and sororities, and similar member-serving activities; excludes housing management and maintenance (F30)"
+G,G10,G14,Social youth organizations,"Boy Scouts and Girl Scouts, etc."
+G,G10,G15,Social organizations for the elderly,
+G,G10,G16,Social organizations for the disabled,
+G,G10,G19,"Civic, advocacy and social participation activities not elsewhere classfied",
+G,G20,,Political activities,
+G,G20,G21,Political parties,
+G,G20,G22,"Political action, lobbying and similar activities",
+G,G20,G29,Political activities not elsewhere classfied,
+G,G30,,International activities,"Formerly Group 9, includes institutions primarily engaged in promoting international exchange, aid and collaboration; excludes direct providers of services, such as education, health, social assistance, environmental protection or community development, which should be classified in sections B–F accordingly"
+G,G90,,"Civic, advocacy, political and international activities not elsewhere classfied",
+H,,,Philanthropic intermediaries and voluntarism promotion,ICNPO Group 8
+H,H10,,Grant-making foundations,
+H,H90,,Other philanthropic intermediaries and voluntarism promotion,"Includes operating foundations, fund-raising organizations and volunteer recruitment organizations"
+I,,,Religious congregations and associations,ICNPO Group 10
+I,I10,,Religious congregations,
+I,I90,,Other religious associations,"Includes institutions primarily engaged in promoting religious faith; excludes faith-based direct providers of services, such as education, health or social assistance, which should be classified in sections B–D accordingly"
+J,,,"Business, professional and labour organizations",ICNPO Group 11
+J,J10,,Business and employers associations,
+J,J20,,Professional associations,
+J,J30,,Labour unions,
+J,J90,,"Business, professional and labour organizations not elsewhere classfied",
+K,,,"Professional, scientific, accounting and administrative services",Newly added
+K,K10,,Scientific research and testing services,"Includes research in natural and social sciences and humanities, formerly subgroup 2400"
+K,K20,,Professional services,"Includes legal, mediation, accounting, architectural, engineering and similar services; excludes education support services (B32) and individual and family services (D10)"
+K,K20,K21,Legal and mediation services,
+K,K20,K22,Public relations and related services,
+K,K20,K23,"Accounting, bookkeeping and related services",
+K,K20,K29,Professional services not elsewhere classfied,
+K,K30,,Management and administrative services,"Units engaged in administering, overseeing and managing other establishments, except housing management and maintenance (F30) and natural resource management and protection (E10)"
+K,K90,,"Professional, scientific and administrative services not elsewhere classfied",
+L,,,Other activities,ICNPO Group 12 with added detail and household activities
+L,L10,,"Agriculture, forestry and fishing",Excluding eco-farming and forestry (E14)
+L,L20,,Manufacturing,
+L,L30,,"Accommodation, catering and food services",
+L,L40,,Trade activities,Includes retail and wholesale trade
+L,L50,,Transportation and storage activities,
+L,L60,,Financial and insurance services ,
+L,L70,,Real estate activities,
+L,L80,,Unpaid activities of households,Direct volunteer work 
+L,L80,L81,Unpaid goods-producing activities of households ,
+L,L80,L82,Unpaid service-producing activities of households,
+L,L90,,Activities not elsewhere classified,
