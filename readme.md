@@ -7,6 +7,36 @@ The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/
 
 The project started in Autumn 2020 with the first draft release of data in Summer 2021.
 
+## Using the python scripts
+
+The scripts included in the repository were created using Python 3.9. They are likely to work with other versions of Python too.
+
+### Installing dependencies
+
+To use the python scripts, you'll need to install the required packages. The best way to do this is with a virtual environment:
+
+```sh
+python -m venv env  # creates a virtual environment in the ./env directory
+# now activate the virtual environment
+env\Scripts\activate  # (on windows)
+source env/bin/activate   # (on unix/mac os)
+pip -r requirements.txt  # installs the requirements 
+```
+
+You can then run the python scripts as described above - remember to activate the virtual environment every time you open a new terminal.
+
+### Updating or adding additional dependencies
+
+Dependencies are managed using [pip-tools](https://github.com/jazzband/pip-tools). First install it with:
+
+```sh
+python -m pip install pip-tools wheel setuptools
+```
+
+Then add any additional dependencies to `requirements.in`. Run `pip-compile` to create an updated `requirements.txt` file, and then run `pip-sync` to install the new requirements.
+
+**!! Important - don't edit the `requirements.txt` file directly, it should only be edited with pip-compile**
+
 ## Repository contents
 
 ### `/docs`
@@ -16,6 +46,17 @@ This directory contains the project documentation, which is turned into a websit
 You can run a local version of the docs using `mkdocs serve`.
 
 The website is generated using Github actions.
+
+### `/notebooks`
+
+These notebooks contain code for processing the data, such as the machine learning model for ICNP/TSO classification.
+
+To run the notebooks from with the virtual environment, use the following code ([from veekaybee.github.io](https://veekaybee.github.io/2020/02/18/running-jupyter-in-venv/)), after install the dependencies above
+
+```sh
+ipython kernel install --user --name=ukcat
+jupyter notebook  # or `jupyter lab`
+```
 
 ### `/fetchdata`
 
@@ -51,33 +92,3 @@ python -m fetchdata fetch-tags
 python -m fetchdata fetch-sample
 python -m fetchdata fetch-sample --table-name="Top charities" --save-location="./data/top2000.csv"
 ```
-
-## Using the python scripts
-
-The scripts included in the repository were created using Python 3.9. They are likely to work with other versions of Python too.
-
-### Installing dependencies
-
-To use the python scripts, you'll need to install the required packages. The best way to do this is with a virtual environment:
-
-```sh
-python -m venv env  # creates a virtual environment in the ./env directory
-# now activate the virtual environment
-env\Scripts\activate  # (on windows)
-source env/bin/activate   # (on unix/mac os)
-pip -r requirements.txt  # installs the requirements 
-```
-
-You can then run the python scripts as described above - remember to activate the virtual environment every time you open a new terminal.
-
-### Updating or adding additional dependencies
-
-Dependencies are managed using [pip-tools](https://github.com/jazzband/pip-tools). First install it with:
-
-```sh
-python -m pip install pip-tools wheel setuptools
-```
-
-Then add any additional dependencies to `requirements.in`. Run `pip-compile` to create an updated `requirements.txt` file, and then run `pip-sync` to install the new requirements.
-
-**!! Important - don't edit the `requirements.txt` file directly, it should only be edited with pip-compile**
