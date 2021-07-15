@@ -4,3 +4,4 @@ data/**
 !data/sample.csv
 !data/ccni_activities.csv
 !data/icnptso.csv
+!data/top2000.csv

@@ -44,6 +44,14 @@ AIRTABLE_BASE_ID=appGOESHERE
 
 An example can be found in `.env-sample`.
 
+The commands to fetch the data are:
+
+```sh
+python -m fetchdata fetch-tags
+python -m fetchdata fetch-sample
+python -m fetchdata fetch-sample --table-name="Top charities" --save-location="./data/top2000.csv"
+```
+
 ## Using the python scripts
 
 The scripts included in the repository were created using Python 3.9. They are likely to work with other versions of Python too.
