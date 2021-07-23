@@ -8,6 +8,7 @@ load_dotenv()
 
 CCEW_CHARITY_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity.zip"
 CCEW_GD_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_governing_document.zip"
+CCEW_PARTA_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_annual_return_parta.zip"
 
 OSCR_ACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityRegDownload"
 OSCR_INACTIVE = (
@@ -34,10 +35,11 @@ FIELDS = [
     "income",
     "spending",
     "fye",
+    "grant_making_is_main_activity",
 ]
 
 
-def fetch_ccew(ccew_charity_file, ccew_gd_file):
+def fetch_ccew(ccew_charity_file, ccew_gd_file, ccew_parta_file):
 
     ccew_date_fields = [
         "date_of_registration",
@@ -95,6 +97,23 @@ def fetch_ccew(ccew_charity_file, ccew_gd_file):
     )["charitable_objects"].rename("objects")
     click.echo("Loaded CCEW charitable objects file")
 
+    # Get whether they are mainly a grantmaker
+    click.echo("Loading CCEW charitable objects file")
+    ccew_parta = pd.read_csv(
+        ccew_parta_file,
+        sep="\t",
+        escapechar="\\",
+    )
+
+    ccew.loc[:, "grant_making_is_main_activity"] = ccew.join(
+        ccew_parta[ccew_parta["latest_fin_period_submitted_ind"]].set_index(
+            "registered_charity_number"
+        )["grant_making_is_main_activity"],
+        on="reg_number",
+        how="left",
+    )["grant_making_is_main_activity"].fillna(False)
+    click.echo("Loaded CCEW charitable objects file")
+
     return ccew[FIELDS]
 
 
@@ -141,6 +160,7 @@ def fetch_oscr(oscr_active, oscr_inactive):
     oscr.loc[:, "activities"] = None
     oscr.loc[:, "last_updated"] = pd.to_datetime("today")
     oscr.loc[:, "org_id"] = oscr["reg_number"].apply(lambda x: f"GB-SC-{x}")
+    oscr.loc[:, "grant_making_is_main_activity"] = None
 
     return oscr[FIELDS]
 
@@ -191,6 +211,7 @@ def fetch_ccni(ccni_data, ccni_activities_csv):
     ccni.loc[:, "last_updated"] = pd.to_datetime("today")
     ccni.loc[:, "org_id"] = ccni["reg_number"].apply(lambda x: f"GB-NIC-{x}")
     ccni.loc[:, "reg_number"] = ccni["reg_number"].apply(lambda x: f"NI{x}")
+    ccni.loc[:, "grant_making_is_main_activity"] = None
 
     return ccni[FIELDS]
 
@@ -198,6 +219,7 @@ def fetch_ccni(ccni_data, ccni_activities_csv):
 @click.command()
 @click.option("--ccew-charity-file", default=CCEW_CHARITY_FILE)
 @click.option("--ccew-gd-file", default=CCEW_GD_FILE)
+@click.option("--ccew-parta-file", default=CCEW_PARTA_FILE)
 @click.option("--oscr-active", default=OSCR_ACTIVE)
 @click.option("--oscr-inactive", default=OSCR_INACTIVE)
 @click.option("--ccni-data", default=CCNI_DATA)
@@ -206,6 +228,7 @@ def fetch_ccni(ccni_data, ccni_activities_csv):
 def fetch_charities(
     ccew_charity_file,
     ccew_gd_file,
+    ccew_parta_file,
     oscr_active,
     oscr_inactive,
     ccni_data,
@@ -216,7 +239,7 @@ def fetch_charities(
 
     charities = pd.concat(
         [
-            fetch_ccew(ccew_charity_file, ccew_gd_file),
+            fetch_ccew(ccew_charity_file, ccew_gd_file, ccew_parta_file),
             fetch_oscr(oscr_active, oscr_inactive),
             fetch_ccni(ccni_data, ccni_activities_csv),
         ]
