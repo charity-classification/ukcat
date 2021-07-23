@@ -1,50 +1,12 @@
+import os
 import pickle
-import re
 
 import click
 import nltk
 import pandas as pd
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 
-from ukcat.settings import CHARITY_CSV, ICNPTSO_CSV, ICNPTSO_MODEL
-
-REPLACE_BY_SPACE_RE = re.compile("[/(){}\[\]\|@,;]")
-BAD_SYMBOLS_RE = re.compile("[^0-9a-z #+_]")
-STOPWORDS = set(
-    stopwords.words("english")
-    + [
-        "trust",
-        "fund",
-        "charitable",
-        "charity",
-    ]
-)
-
-lemma = WordNetLemmatizer()
-
-
-def clean_text(text):
-    """
-    text: a string
-
-    return: modified initial string
-    """
-    text = text.lower()  # lowercase text
-    text = REPLACE_BY_SPACE_RE.sub(
-        " ", text
-    )  # replace REPLACE_BY_SPACE_RE symbols by space in text
-    text = BAD_SYMBOLS_RE.sub(
-        "", text
-    )  # delete symbols which are in BAD_SYMBOLS_RE from text
-    text = " ".join(
-        lemma.lemmatize(word) for word in text.split() if word not in STOPWORDS
-    )  # delete stopwors from text
-    return text
-
-
-def create_machine_learning_model():
-    pass
+from ukcat.ml_icnptso import create_ml_model, get_text_corpus
+from ukcat.settings import CHARITY_CSV, ICNPTSO_CSV, ICNPTSO_MODEL, ML_DEFAULT_FIELDS
 
 
 @click.command()
@@ -52,7 +14,7 @@ def create_machine_learning_model():
 @click.option("--icnptso-model", default=ICNPTSO_MODEL)
 @click.option("--icnptso-csv", default=ICNPTSO_CSV)
 @click.option("--id-field", default="org_id")
-@click.option("--fields-to-use", "-f", multiple=True, default=["name", "activities"])
+@click.option("--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS)
 @click.option("--save-location", default=None)
 @click.option(
     "--sample",
@@ -84,15 +46,14 @@ def apply_icnptso(
         charities = charities.sample(sample)
 
     # create the corpus
-    nltk.download("stopwords")
-    corpus = (
-        charities[list(fields_to_use)].fillna("").apply(lambda x: " ".join(x), axis=1)
-    )
-    corpus = corpus.apply(clean_text).values
+    corpus = get_text_corpus(charities, fields=list(fields_to_use))
 
     # fetch the model
-    with open(icnptso_model, "rb") as model_file:
-        nb = pickle.load(model_file)
+    if os.path.exists(icnptso_model):
+        with open(icnptso_model, "rb") as model_file:
+            nb = pickle.load(model_file)
+    else:
+        nb = create_ml_model(save_location=icnptso_model)
 
     # apply the model
     y_pred = nb.predict(corpus)

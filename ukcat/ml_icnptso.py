@@ -1,27 +1,28 @@
 import pickle
 
 import click
-import pandas as pd
-from sklearn.model_selection import train_test_split
 import nltk
+import pandas as pd
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
-from sklearn.metrics import accuracy_score
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
 
 from ukcat.settings import (
     ADDITIONAL_STOPWORDS,
-    SAMPLE_FILE,
-    TOP2000_FILE,
-    REPLACE_BY_SPACE_RE,
     BAD_SYMBOLS_RE,
+    ICNPTSO_MODEL,
+    ML_CATEGORY_FIELD,
+    ML_DEFAULT_FIELDS,
     ML_RANDOM_STATE,
     ML_TEST_TRAIN_SIZE,
-    ICNPTSO_MODEL,
+    REPLACE_BY_SPACE_RE,
+    SAMPLE_FILE,
+    TOP2000_FILE,
 )
-
 
 lemma = WordNetLemmatizer()
 
@@ -47,35 +48,53 @@ def clean_text(text):
     return text
 
 
-def get_text_corpus(df, fields=["name", "activities"]):
+def get_text_corpus(df, fields=ML_DEFAULT_FIELDS):
+    nltk.download("stopwords")
+    nltk.download("wordnet")
     corpus = df[fields].fillna("").apply(lambda x: " ".join(x), axis=1)
     return corpus.apply(clean_text).values
 
 
 @click.command()
-@click.option("--save-location", default=ICNPTSO_MODEL)
-def create_ml_model(save_location):
-    nltk.download("stopwords")
-    nltk.download("wordnet")
+@click.option(
+    "--sample-files",
+    "-s",
+    multiple=True,
+    default=[SAMPLE_FILE, TOP2000_FILE],
+    help="CSV files used to construct the sample. The columns must contain the fields in `--fields` and the `--category-field`",
+)
+@click.option(
+    "--fields",
+    "-f",
+    multiple=True,
+    default=ML_DEFAULT_FIELDS,
+    help="Fields from which to create a text corpus. They will be combined with a space",
+)
+@click.option(
+    "--category-field",
+    default=ML_CATEGORY_FIELD,
+    help="The field containing the category we're building the model against",
+)
+@click.option(
+    "--save-location",
+    default=ICNPTSO_MODEL,
+    help="Where the model will be saved as a pickle file",
+)
+def create_ml_model(sample_files, fields, category_field, save_location):
 
     # create the sample dataframe
-    df = pd.concat(
-        [
-            pd.read_csv(SAMPLE_FILE),
-            pd.read_csv(TOP2000_FILE),
-        ]
-    ).reset_index()
+    df = pd.concat([pd.read_csv(f) for f in sample_files]).reset_index()
 
     # select the rows where ICNPTSO is not null
-    df = df[df["ICNPTSO"].notnull()]
+    df = df[df[category_field].notnull()]
 
     click.echo("Loaded sample dataset [{:,.0f} rows]".format(len(df)))
 
     # `y` is the ICNPTSO code attached to the charity.
-    y = df["ICNPTSO"].values
+    y = df[category_field].values
 
     # `X` is the list of cleaned values
-    X = get_text_corpus(df, ["name", "activities"])
+    X = get_text_corpus(df, list(fields))
 
     # Split the values into training and test sets
     X_train, X_test, y_train, y_test = train_test_split(
@@ -103,7 +122,7 @@ def create_ml_model(save_location):
     click.echo("Accuracy: {:.4f}".format(accuracy_score(y_pred, y_test)))
 
     click.echo("Saving model to [{}]".format(save_location))
-    with open(save_location, 'wb') as model_file:
+    with open(save_location, "wb") as model_file:
         pickle.dump(nb, model_file)
 
 

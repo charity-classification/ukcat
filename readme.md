@@ -95,6 +95,17 @@ python -m ukcat fetch sample
 python -m ukcat fetch sample --table-name="Top charities" --save-location="./data/top2000.csv"
 ```
 
+#### Create ICNPTSO machine learning model
+
+This script creates a Logistic Regression model for the ICNPTSO categories, using the data found in
+`sample.csv` and `top2000.csv`, based on the parameters created in `./notebooks/icnptso-machine-learning-test.ipynb`.
+
+```sh
+python -m ukcat train icnptso
+```
+
+By default this will save the model as a pickle file to `./data/icnptso_ml_model.pkl`.
+
 #### Apply UK-CAT categories
 
 This script uses the regular expressions from `./data/ukcat.csv` to apply tags to a list of charities.
@@ -111,6 +122,8 @@ You can choose to include the name of the charity and the tag name by adding the
 #### Apply ICNPTSO categories
 
 This script uses the machine learning model created in `./notebooks/icnptso-machine-learning-test.ipynb` to find the best ICNPTSO category for a list of charities.
+
+If the model doesn't already exist it will be created, using the files `sample.csv` and `top2000.csv`
 
 ```sh
 python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"

@@ -1,7 +1,6 @@
 import os
 import re
 
-
 # data directory
 DATA_DIR = "./data"
 
@@ -14,8 +13,8 @@ SAMPLE_FILE = os.path.join(DATA_DIR, "sample.csv")
 TOP2000_FILE = os.path.join(DATA_DIR, "top2000.csv")
 
 # regexes for use in machine learning models and text cleaning
-REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]\|@,;]')
-BAD_SYMBOLS_RE = re.compile('[^0-9a-z #+_]')
+REPLACE_BY_SPACE_RE = re.compile("[/(){}\[\]\|@,;]")
+BAD_SYMBOLS_RE = re.compile("[^0-9a-z #+_]")
 ADDITIONAL_STOPWORDS = [
     "trust",
     "fund",
@@ -24,8 +23,10 @@ ADDITIONAL_STOPWORDS = [
 ]
 
 # machine learning settings
-ML_RANDOM_STATE=42
-ML_TEST_TRAIN_SIZE=0.2
+ML_RANDOM_STATE = 42
+ML_TEST_TRAIN_SIZE = 0.2
+ML_DEFAULT_FIELDS = ["name", "activities"]
+ML_CATEGORY_FIELD = "ICNPTSO"
 
 # location of charity download files
 ######################################
