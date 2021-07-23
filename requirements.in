@@ -1,5 +1,6 @@
 airtable-python-wrapper
--r mkdocs-requirements.txt
+-r mkdocs-requirements.in
+-r notebook-requirements.in
 pandas
 python-dotenv
 python-slugify
@@ -7,5 +8,3 @@ click
 black
 isort
 tqdm
-nltk
-scikit-learn==0.24.1

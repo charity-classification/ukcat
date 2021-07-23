@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn==0.24.1
+nltk
+ipykernel
+jupyter
+jupyterlab

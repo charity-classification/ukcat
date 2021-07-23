@@ -93,18 +93,14 @@ def apply_icnptso(
     corpus = corpus.apply(clean_text).values
 
     # fetch the model
-    with open(icnptso_model ,'rb') as model_file:
+    with open(icnptso_model, "rb") as model_file:
         nb = pickle.load(model_file)
 
     # apply the model
     y_pred = nb.predict(corpus)
 
     # create the ouptut file
-    results = pd.Series(
-        index=charities.index,
-        data=y_pred,
-        name="icnptso_code"
-    )
+    results = pd.Series(index=charities.index, data=y_pred, name="icnptso_code")
 
     # convert data to dataframe
     results = (
@@ -118,10 +114,17 @@ def apply_icnptso(
     if add_names:
 
         icnptso_codes = pd.read_csv(icnptso_csv)
-        icnptso_codes.index = icnptso_codes["Sub-group"].fillna(icnptso_codes["Group"]).fillna(icnptso_codes["Section"]).rename()
+        icnptso_codes.index = (
+            icnptso_codes["Sub-group"]
+            .fillna(icnptso_codes["Group"])
+            .fillna(icnptso_codes["Section"])
+            .rename()
+        )
 
         results = results.join(charities["name"], on="org_id")
-        results = results.join(icnptso_codes["Title"].rename("icnptso_name"), on="icnptso_code")
+        results = results.join(
+            icnptso_codes["Title"].rename("icnptso_name"), on="icnptso_code"
+        )
 
     # save the results
     results.to_csv(save_location, index=False)
