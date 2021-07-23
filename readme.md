@@ -52,6 +52,15 @@ python -m fetchdata fetch-sample
 python -m fetchdata fetch-sample --table-name="Top charities" --save-location="./data/top2000.csv"
 ```
 
+### `/applydata`
+
+#### Apply UK-CAT categories
+
+```sh
+python -m applydata apply-ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
+python -m applydata apply-ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+```
+
 ## Using the python scripts
 
 The scripts included in the repository were created using Python 3.9. They are likely to work with other versions of Python too.

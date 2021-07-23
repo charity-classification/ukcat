@@ -6,3 +6,5 @@ python-slugify
 click
 black
 isort
+tqdm
+nltk

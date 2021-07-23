@@ -5,3 +5,5 @@ data/**
 !data/ccni_activities.csv
 !data/icnptso.csv
 !data/top2000.csv
+!data/charities_active-ukcat.csv
+!data/charities_inactive-ukcat.csv
