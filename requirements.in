@@ -8,3 +8,4 @@ black
 isort
 tqdm
 nltk
+scikit-learn==0.24.1

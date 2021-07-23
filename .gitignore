@@ -1,4 +1,5 @@
 data/**
+working/
 !data/.keep
 !data/ukcat.csv
 !data/sample.csv
@@ -7,3 +8,5 @@ data/**
 !data/top2000.csv
 !data/charities_active-ukcat.csv
 !data/charities_inactive-ukcat.csv
+!data/charities_active-icnptso.csv
+!data/charities_inactive-icnptso.csv
