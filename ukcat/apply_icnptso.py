@@ -4,15 +4,10 @@ import re
 import click
 import nltk
 import pandas as pd
-from dotenv import load_dotenv
 from nltk.corpus import stopwords
-from nltk.stem import LancasterStemmer, WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
 
-load_dotenv()
-
-CHARITY_CSV = "./data/charities_active.csv"
-ICNPTSO_CSV = "./data/icnptso.csv"
-ICNPTSO_MODEL = "./data/icnptso_ml_model.pkl"
+from ukcat.settings import CHARITY_CSV, ICNPTSO_CSV, ICNPTSO_MODEL
 
 REPLACE_BY_SPACE_RE = re.compile("[/(){}\[\]\|@,;]")
 BAD_SYMBOLS_RE = re.compile("[^0-9a-z #+_]")
@@ -26,7 +21,6 @@ STOPWORDS = set(
     ]
 )
 
-stemmer = LancasterStemmer()
 lemma = WordNetLemmatizer()
 
 
@@ -47,6 +41,10 @@ def clean_text(text):
         lemma.lemmatize(word) for word in text.split() if word not in STOPWORDS
     )  # delete stopwors from text
     return text
+
+
+def create_machine_learning_model():
+    pass
 
 
 @click.command()

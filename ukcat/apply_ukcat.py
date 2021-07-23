@@ -2,13 +2,9 @@ import os
 
 import click
 import pandas as pd
-from dotenv import load_dotenv
 from tqdm import tqdm
 
-load_dotenv()
-
-CHARITY_CSV = "./data/charities_active.csv"
-UKCAT_FILE = "./data/ukcat.csv"
+from ukcat.settings import CHARITY_CSV, UKCAT_FILE
 
 
 @click.command()

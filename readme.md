@@ -58,14 +58,16 @@ ipython kernel install --user --name=ukcat
 jupyter notebook  # or `jupyter lab`
 ```
 
-### `/fetchdata`
+### `/ukcat`
 
-This is a series of Python commands for fetching the data used in the project. The commands are as follows:
+This is a python module providing commands to fetch and apply the data from this project. 
+
+The commands are as follows:
 
 #### Fetch all charities
 
 ```sh
-python -m fetchdata fetch-charities
+python -m ukcat fetch charities
 ```
 
 This will create two CSV files containing data on charities. The files will be created in the `./data/` folder, and are `./data/charities_active.csv` and `./data/charities_inactive.csv`. 
@@ -88,19 +90,36 @@ An example can be found in `.env-sample`.
 The commands to fetch the data are:
 
 ```sh
-python -m fetchdata fetch-tags
-python -m fetchdata fetch-sample
-python -m fetchdata fetch-sample --table-name="Top charities" --save-location="./data/top2000.csv"
+python -m ukcat fetch tags
+python -m ukcat fetch sample
+python -m ukcat fetch sample --table-name="Top charities" --save-location="./data/top2000.csv"
 ```
-
-### `/applydata`
 
 #### Apply UK-CAT categories
 
+This script uses the regular expressions from `./data/ukcat.csv` to apply tags to a list of charities.
+
 ```sh
-python -m applydata apply-ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
-python -m applydata apply-ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+python -m ukcat apply ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
+python -m ukcat apply ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
 ```
+
+This will create the `charities_active-ukcat.csv` and `charities_inactive-ukcat.csv` files that are included in the `./data/` folder. Each file gives a number of rows for each charity showing the UK-CAT tags that have been applied based on the regular expression keywords.
+
+You can choose to include the name of the charity and the tag name by adding the `--add-names` option. You can also choose to add "parent" codes into the same data, by using the `--include-groups` option.
+
+#### Apply ICNPTSO categories
+
+This script uses the machine learning model created in `./notebooks/icnptso-machine-learning-test.ipynb` to find the best ICNPTSO category for a list of charities.
+
+```sh
+python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
+python -m ukcat apply icnptso --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+```
+
+This will create the `charities_active-icnptso.csv` and `charities_inactive-icnptso.csv` files that are included in the `./data/` folder. Each file gives a row per charity with the best estimated ICNPTSO category, along with the model's estimated probability of the correctness of that category.
+
+You can choose to include the name of the charity and the tag name by adding the `--add-names` option.
 
 ## Using the python scripts
 

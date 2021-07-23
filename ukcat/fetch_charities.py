@@ -2,21 +2,17 @@ import os
 
 import click
 import pandas as pd
-from dotenv import load_dotenv
 
-load_dotenv()
-
-CCEW_CHARITY_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity.zip"
-CCEW_GD_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_governing_document.zip"
-CCEW_PARTA_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_annual_return_parta.zip"
-
-OSCR_ACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityRegDownload"
-OSCR_INACTIVE = (
-    "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityFormerRegDownload"
+from ukcat.settings import (
+    CCEW_CHARITY_FILE,
+    CCEW_GD_FILE,
+    CCEW_PARTA_FILE,
+    CCNI_ACTIVITIES_CSV,
+    CCNI_DATA,
+    DATA_DIR,
+    OSCR_ACTIVE,
+    OSCR_INACTIVE,
 )
-
-CCNI_DATA = "https://www.charitycommissionni.org.uk/umbraco/api/charityApi/ExportSearchResultsToCsv/?include=Linked&include=Removed"
-CCNI_ACTIVITIES_CSV = "./data/ccni_activities.csv"
 
 FIELDS = [
     "org_id",
@@ -224,7 +220,7 @@ def fetch_ccni(ccni_data, ccni_activities_csv):
 @click.option("--oscr-inactive", default=OSCR_INACTIVE)
 @click.option("--ccni-data", default=CCNI_DATA)
 @click.option("--ccni-activities-csv", default=CCNI_ACTIVITIES_CSV)
-@click.option("--save-location", default="./data/")
+@click.option("--save-location", default=DATA_DIR)
 def fetch_charities(
     ccew_charity_file,
     ccew_gd_file,
