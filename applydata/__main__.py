@@ -1,8 +1,8 @@
 import click
 from dotenv import load_dotenv
 
-from .apply_ukcat import apply_ukcat
 from .apply_icnptso import apply_icnptso
+from .apply_ukcat import apply_ukcat
 
 load_dotenv()
 

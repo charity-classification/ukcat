@@ -1,10 +1,10 @@
-import re
 import pickle
+import re
 
 import click
+import nltk
 import pandas as pd
 from dotenv import load_dotenv
-import nltk
 from nltk.corpus import stopwords
 from nltk.stem import LancasterStemmer, WordNetLemmatizer
 
