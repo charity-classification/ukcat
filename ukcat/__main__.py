@@ -32,7 +32,7 @@ def apply():
 
 
 apply.add_command(apply_ukcat, name="ukcat")
-apply.add_command(apply_icnptso, name="icpntso")
+apply.add_command(apply_icnptso, name="icnptso")
 
 
 @cli.group("train")
@@ -41,9 +41,6 @@ def train():
 
 
 train.add_command(create_ml_model, name="icnptso")
-
-
-# cli = click.CommandCollection(sources=[fetch, apply])
 
 if __name__ == "__main__":
     cli()
