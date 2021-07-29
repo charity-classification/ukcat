@@ -76,18 +76,23 @@ def apply_icnptso(
         nb = create_ml_model(save_location=icnptso_model)
 
     # apply the model
-    y_pred = nb.predict(corpus)
+    y_pred_proba = nb.predict_proba(corpus)
+    y_pred_proba = pd.DataFrame([dict(zip(nb.classes_, row)) for row in y_pred_proba])
 
-    # create the ouptut file
-    results = pd.Series(index=charities.index, data=y_pred, name="icnptso_code")
+    # create the output dataframe
+    results = pd.DataFrame.from_dict(
+        {
+            "icnptso_code": y_pred_proba.idxmax(axis=1),
+            "icnptso_code_probability": y_pred_proba.max(axis=1).round(3),
+            "org_id": charities.index,
+        }
+    )
+    results.loc[:, "icnptso_code_source"] = "ml_model"
 
     # convert data to dataframe
-    results = (
-        results.to_frame()
-        .reset_index()
-        .sort_values(["org_id", "icnptso_code"])
-        .drop_duplicates()
-    )
+    results = results.sort_values(["org_id", "icnptso_code"]).drop_duplicates()[
+        ["org_id", "icnptso_code", "icnptso_code_probability", "icnptso_code_source"]
+    ]
 
     # open the manual files and find the codes to apply
     if manual_files:
@@ -101,6 +106,12 @@ def apply_icnptso(
         results.loc[:, "icnptso_code"] = results.join(
             manual_data, on="org_id", how="left"
         )["manual_icnptso_code"].fillna(results["icnptso_code"])
+        results.loc[
+            results["org_id"].isin(manual_data.index), "icnptso_code_source"
+        ] = "manual"
+        results.loc[
+            results["org_id"].isin(manual_data.index), "icnptso_code_probability"
+        ] = pd.NA
 
     # add in name and code names
     if add_names:
