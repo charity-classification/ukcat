@@ -48,9 +48,14 @@ def clean_text(text):
     return text
 
 
-def get_text_corpus(df, fields=ML_DEFAULT_FIELDS):
+def get_text_corpus(df, fields=ML_DEFAULT_FIELDS, fill_activities=True):
     nltk.download("stopwords")
     nltk.download("wordnet")
+
+    # if available then fill the activities field with objects if it's not available
+    if fill_activities and ("objects" in df.columns) and ("activities" in fields):
+        df.loc[:, "activities"] = df["activities"].fillna(df["objects"].fillna(""))
+
     corpus = df[fields].fillna("").apply(lambda x: " ".join(x), axis=1)
     return corpus.apply(clean_text).values
 
