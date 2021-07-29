@@ -6,7 +6,19 @@ import nltk
 import pandas as pd
 
 from ukcat.ml_icnptso import create_ml_model, get_text_corpus
-from ukcat.settings import CHARITY_CSV, ICNPTSO_CSV, ICNPTSO_MODEL, ML_DEFAULT_FIELDS
+from ukcat.settings import (
+    CHARITY_CSV,
+    ICNPTSO_CSV,
+    ICNPTSO_MODEL,
+    ML_DEFAULT_FIELDS,
+    SAMPLE_FILE,
+    TOP2000_FILE,
+)
+
+MANUAL_FILES = [
+    SAMPLE_FILE,
+    TOP2000_FILE,
+]
 
 
 @click.command()
@@ -27,6 +39,13 @@ from ukcat.settings import CHARITY_CSV, ICNPTSO_CSV, ICNPTSO_MODEL, ML_DEFAULT_F
     default=False,
     help="Add the charity and category names to the data",
 )
+@click.option(
+    "--manual-files",
+    "-m",
+    multiple=True,
+    default=MANUAL_FILES,
+    help="Overwrite the values for the charities in the sample with the manually found ICNPTSO from these files",
+)
 def apply_icnptso(
     charity_csv,
     icnptso_model,
@@ -36,6 +55,7 @@ def apply_icnptso(
     save_location,
     sample,
     add_names,
+    manual_files,
 ):
     if not save_location:
         save_location = charity_csv.replace(".csv", "-icnptso.csv")
@@ -68,6 +88,19 @@ def apply_icnptso(
         .sort_values(["org_id", "icnptso_code"])
         .drop_duplicates()
     )
+
+    # open the manual files and find the codes to apply
+    if manual_files:
+        manual_data = (
+            pd.concat([pd.read_csv(f) for f in manual_files])
+            .groupby("org_id")
+            .first()["ICNPTSO"]
+            .rename("manual_icnptso_code")
+        )
+        manual_data = manual_data[manual_data.notnull()]
+        results.loc[:, "icnptso_code"] = results.join(
+            manual_data, on="org_id", how="left"
+        )["manual_icnptso_code"].fillna(results["icnptso_code"])
 
     # add in name and code names
     if add_names:
