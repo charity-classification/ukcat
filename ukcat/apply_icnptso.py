@@ -66,7 +66,7 @@ def apply_icnptso(
         charities = charities.sample(sample)
 
     # create the corpus
-    corpus = get_text_corpus(charities, fields=list(fields_to_use))
+    corpus = get_text_corpus(charities, fields=list(fields_to_use), do_cleaning=False)
 
     # fetch the model
     if os.path.exists(icnptso_model):

@@ -4,6 +4,7 @@ import click
 import pandas as pd
 from tqdm import tqdm
 
+from ukcat.ml_icnptso import get_text_corpus
 from ukcat.settings import CHARITY_CSV, UKCAT_FILE
 
 
@@ -48,8 +49,9 @@ def apply_ukcat(
         charities = charities.sample(sample)
 
     # create the corpus
-    corpus = (
-        charities[list(fields_to_use)].fillna("").apply(lambda x: " ".join(x), axis=1)
+    corpus = pd.Series(
+        index=charities.index,
+        data=get_text_corpus(charities, fields=list(fields_to_use), do_cleaning=False),
     )
 
     # fetch the classification file
