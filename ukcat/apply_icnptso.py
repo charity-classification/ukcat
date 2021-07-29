@@ -1,8 +1,8 @@
 import os
 import pickle
+from typing import Optional, Sequence
 
 import click
-import nltk
 import pandas as pd
 
 from ukcat.ml_icnptso import create_ml_model, get_text_corpus
@@ -22,12 +22,30 @@ MANUAL_FILES = [
 
 
 @click.command()
-@click.option("--charity-csv", default=CHARITY_CSV)
-@click.option("--icnptso-model", default=ICNPTSO_MODEL)
-@click.option("--icnptso-csv", default=ICNPTSO_CSV)
-@click.option("--id-field", default="org_id")
-@click.option("--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS)
-@click.option("--save-location", default=None)
+@click.option(
+    "--charity-csv",
+    default=CHARITY_CSV,
+    type=click.Path(exists=True, file_okay=True, dir_okay=False),
+)
+@click.option(
+    "--icnptso-model",
+    default=ICNPTSO_MODEL,
+    type=click.Path(exists=True, file_okay=True, dir_okay=False),
+)
+@click.option(
+    "--icnptso-csv",
+    default=ICNPTSO_CSV,
+    type=click.Path(exists=True, file_okay=True, dir_okay=False),
+)
+@click.option("--id-field", default="org_id", type=str)
+@click.option(
+    "--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS, type=str
+)
+@click.option(
+    "--save-location",
+    default=None,
+    type=click.Path(exists=False, file_okay=True, dir_okay=False, writable=True),
+)
 @click.option(
     "--sample",
     default=0,
@@ -44,19 +62,20 @@ MANUAL_FILES = [
     "-m",
     multiple=True,
     default=MANUAL_FILES,
+    type=str,
     help="Overwrite the values for the charities in the sample with the manually found ICNPTSO from these files",
 )
 def apply_icnptso(
-    charity_csv,
-    icnptso_model,
-    icnptso_csv,
-    id_field,
-    fields_to_use,
-    save_location,
-    sample,
-    add_names,
-    manual_files,
-):
+    charity_csv: str,
+    icnptso_model: str,
+    icnptso_csv: str,
+    id_field: str,
+    fields_to_use: Sequence[str],
+    save_location: Optional[str],
+    sample: int,
+    add_names: bool,
+    manual_files: Sequence[str],
+) -> pd.DataFrame:
     if not save_location:
         save_location = charity_csv.replace(".csv", "-icnptso.csv")
 
@@ -130,4 +149,7 @@ def apply_icnptso(
         )
 
     # save the results
-    results.to_csv(save_location, index=False)
+    if save_location:
+        results.to_csv(save_location, index=False)
+
+    return results

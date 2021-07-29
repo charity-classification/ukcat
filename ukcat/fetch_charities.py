@@ -35,7 +35,9 @@ FIELDS = [
 ]
 
 
-def fetch_ccew(ccew_charity_file, ccew_gd_file, ccew_parta_file):
+def fetch_ccew(
+    ccew_charity_file: str, ccew_gd_file: str, ccew_parta_file: str
+) -> pd.DataFrame:
 
     ccew_date_fields = [
         "date_of_registration",
@@ -113,7 +115,7 @@ def fetch_ccew(ccew_charity_file, ccew_gd_file, ccew_parta_file):
     return ccew[FIELDS]
 
 
-def fetch_oscr(oscr_active, oscr_inactive):
+def fetch_oscr(oscr_active: str, oscr_inactive: str) -> pd.DataFrame:
     click.echo("Loading OSCR data files")
     oscr = pd.concat(
         [
@@ -161,7 +163,7 @@ def fetch_oscr(oscr_active, oscr_inactive):
     return oscr[FIELDS]
 
 
-def fetch_ccni(ccni_data, ccni_activities_csv):
+def fetch_ccni(ccni_data: str, ccni_activities_csv: str) -> pd.DataFrame:
     click.echo("Loading CCNI data file")
     ccni = pd.read_csv(
         ccni_data,
@@ -213,24 +215,28 @@ def fetch_ccni(ccni_data, ccni_activities_csv):
 
 
 @click.command()
-@click.option("--ccew-charity-file", default=CCEW_CHARITY_FILE)
-@click.option("--ccew-gd-file", default=CCEW_GD_FILE)
-@click.option("--ccew-parta-file", default=CCEW_PARTA_FILE)
-@click.option("--oscr-active", default=OSCR_ACTIVE)
-@click.option("--oscr-inactive", default=OSCR_INACTIVE)
-@click.option("--ccni-data", default=CCNI_DATA)
+@click.option("--ccew-charity-file", default=CCEW_CHARITY_FILE, type=str)
+@click.option("--ccew-gd-file", default=CCEW_GD_FILE, type=str)
+@click.option("--ccew-parta-file", default=CCEW_PARTA_FILE, type=str)
+@click.option("--oscr-active", default=OSCR_ACTIVE, type=str)
+@click.option("--oscr-inactive", default=OSCR_INACTIVE, type=str)
+@click.option("--ccni-data", default=CCNI_DATA, type=str)
 @click.option("--ccni-activities-csv", default=CCNI_ACTIVITIES_CSV)
-@click.option("--save-location", default=DATA_DIR)
+@click.option(
+    "--save-location",
+    default=DATA_DIR,
+    type=click.Path(exists=True, file_okay=False, dir_okay=True),
+)
 def fetch_charities(
-    ccew_charity_file,
-    ccew_gd_file,
-    ccew_parta_file,
-    oscr_active,
-    oscr_inactive,
-    ccni_data,
-    ccni_activities_csv,
-    save_location,
-):
+    ccew_charity_file: str,
+    ccew_gd_file: str,
+    ccew_parta_file: str,
+    oscr_active: str,
+    oscr_inactive: str,
+    ccni_data: str,
+    ccni_activities_csv: str,
+    save_location: str,
+) -> pd.DataFrame:
     """Fetch data on charities"""
 
     charities = pd.concat(
@@ -249,19 +255,23 @@ def fetch_charities(
     for f in ["activities", "objects"]:
         charities.loc[:, f] = charities[f].fillna("").str.replace("\n", " ")
 
-    # save active charities
-    click.echo("Saving charities_active.csv")
-    charities.loc[charities["active"], FIELDS].to_csv(
-        os.path.join(save_location, "charities_active.csv"), **csv_config
-    )
-    click.echo("Saved charities_active.csv")
+    if save_location:
 
-    # save inactive charities
-    click.echo("Saving charities_inactive.csv")
-    charities.loc[~charities["active"], FIELDS].to_csv(
-        os.path.join(save_location, "charities_inactive.csv"), **csv_config
-    )
-    click.echo("Saved charities_inactive.csv")
+        # save active charities
+        click.echo("Saving charities_active.csv")
+        charities.loc[charities["active"], FIELDS].to_csv(
+            os.path.join(save_location, "charities_active.csv"), **csv_config
+        )
+        click.echo("Saved charities_active.csv")
+
+        # save inactive charities
+        click.echo("Saving charities_inactive.csv")
+        charities.loc[~charities["active"], FIELDS].to_csv(
+            os.path.join(save_location, "charities_inactive.csv"), **csv_config
+        )
+        click.echo("Saved charities_inactive.csv")
+
+    return charities
 
 
 if __name__ == "__main__":

@@ -1,20 +1,25 @@
 import click
+import pandas as pd
 from airtable import Airtable
-from dotenv import load_dotenv
 
-from .utils import airtable_to_dataframe, regnumber_to_orgid
-
-load_dotenv()
+from ukcat.settings import SAMPLE_FILE
+from ukcat.utils import airtable_to_dataframe, regnumber_to_orgid
 
 
 @click.command()
-@click.option("--base-id", envvar="AIRTABLE_BASE_ID")
-@click.option("--airtable-api-key", envvar="AIRTABLE_API_KEY")
+@click.option("--base-id", type=str, envvar="AIRTABLE_BASE_ID")
+@click.option("--airtable-api-key", type=str, envvar="AIRTABLE_API_KEY")
 @click.option(
-    "--table-name", default="Sample data", envvar="AIRTABLE_SAMPLE_TABLE_NAME"
+    "--table-name", default="Sample data", type=str, envvar="AIRTABLE_SAMPLE_TABLE_NAME"
 )
-@click.option("--save-location", default="./data/sample.csv")
-def fetch_sample(base_id, airtable_api_key, table_name, save_location):
+@click.option(
+    "--save-location",
+    default=SAMPLE_FILE,
+    type=click.Path(exists=False, file_okay=True, dir_okay=False),
+)
+def fetch_sample(
+    base_id: str, airtable_api_key: str, table_name: str, save_location: str
+) -> pd.DataFrame:
     """Fetch the completed sample from Airtable"""
 
     airtable = Airtable(
@@ -56,7 +61,12 @@ def fetch_sample(base_id, airtable_api_key, table_name, save_location):
         "ICNPTSO",
     ]
     click.echo(f"Saving to CSV file `{save_location}`")
-    sample[columns_to_include].sort_values("org_id").to_csv(save_location, index=False)
+    sample = sample[columns_to_include].sort_values("org_id")
+
+    if save_location:
+        sample.to_csv(save_location, index=False)
+
+    return sample
 
 
 if __name__ == "__main__":

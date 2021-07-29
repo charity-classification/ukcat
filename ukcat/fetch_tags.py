@@ -1,20 +1,28 @@
 import click
+import pandas as pd
 from airtable import Airtable
-from dotenv import load_dotenv
 
-from .utils import airtable_to_dataframe
-
-load_dotenv()
+from ukcat.settings import UKCAT_FILE
+from ukcat.utils import airtable_to_dataframe
 
 
 @click.command()
-@click.option("--base-id", envvar="AIRTABLE_BASE_ID")
-@click.option("--airtable-api-key", envvar="AIRTABLE_API_KEY")
+@click.option("--base-id", type=str, envvar="AIRTABLE_BASE_ID")
+@click.option("--airtable-api-key", type=str, envvar="AIRTABLE_API_KEY")
 @click.option(
-    "--table-name", default="Tags - working", envvar="AIRTABLE_TAGS_TABLE_NAME"
+    "--table-name",
+    type=str,
+    default="Tags - working",
+    envvar="AIRTABLE_TAGS_TABLE_NAME",
 )
-@click.option("--save-location", default="./data/ukcat.csv")
-def fetch_tags(base_id, airtable_api_key, table_name, save_location):
+@click.option(
+    "--save-location",
+    type=click.Path(exists=False, file_okay=True, dir_okay=False, writable=True),
+    default=UKCAT_FILE,
+)
+def fetch_tags(
+    base_id: str, airtable_api_key: str, table_name: str, save_location: str
+) -> pd.DataFrame:
     """Fetch the list of tags from Airtable"""
 
     airtable = Airtable(
@@ -45,6 +53,8 @@ def fetch_tags(base_id, airtable_api_key, table_name, save_location):
     ).set_index("Code")
     click.echo(f"Saving to CSV file `{save_location}`")
     tags.to_csv(save_location)
+
+    return tags
 
 
 if __name__ == "__main__":

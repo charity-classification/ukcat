@@ -1,7 +1,9 @@
 import pickle
+from typing import Optional, Sequence
 
 import click
 import nltk
+import numpy as np
 import pandas as pd
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -29,7 +31,7 @@ lemma = WordNetLemmatizer()
 STOPWORDS = set(stopwords.words("english") + ADDITIONAL_STOPWORDS)
 
 
-def clean_text(text):
+def clean_text(text: str) -> str:
     """
     text: a string
 
@@ -49,8 +51,11 @@ def clean_text(text):
 
 
 def get_text_corpus(
-    df, fields=ML_DEFAULT_FIELDS, fill_activities=True, do_cleaning=True
-):
+    df: pd.DataFrame,
+    fields: Sequence[str] = ML_DEFAULT_FIELDS,
+    fill_activities: bool = True,
+    do_cleaning: bool = True,
+) -> np.ndarray:
     nltk.download("stopwords")
     nltk.download("wordnet")
 
@@ -89,7 +94,12 @@ def get_text_corpus(
     default=ICNPTSO_MODEL,
     help="Where the model will be saved as a pickle file",
 )
-def create_ml_model(sample_files, fields, category_field, save_location):
+def create_ml_model(
+    sample_files: Sequence[str],
+    fields: Sequence[str],
+    category_field: str,
+    save_location: Optional[str],
+) -> Pipeline:
 
     # create the sample dataframe
     df = pd.concat([pd.read_csv(f) for f in sample_files]).reset_index()
@@ -130,9 +140,12 @@ def create_ml_model(sample_files, fields, category_field, save_location):
 
     click.echo("Accuracy: {:.4f}".format(accuracy_score(y_pred, y_test)))
 
-    click.echo("Saving model to [{}]".format(save_location))
-    with open(save_location, "wb") as model_file:
-        pickle.dump(nb, model_file)
+    if save_location:
+        click.echo("Saving model to [{}]".format(save_location))
+        with open(save_location, "wb") as model_file:
+            pickle.dump(nb, model_file)
+
+    return nb
 
 
 if __name__ == "__main__":

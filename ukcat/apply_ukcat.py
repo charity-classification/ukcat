@@ -1,4 +1,4 @@
-import os
+from typing import Optional, Sequence
 
 import click
 import pandas as pd
@@ -9,11 +9,25 @@ from ukcat.settings import CHARITY_CSV, UKCAT_FILE
 
 
 @click.command()
-@click.option("--charity-csv", default=CHARITY_CSV)
-@click.option("--ukcat-csv", default=UKCAT_FILE)
-@click.option("--id-field", default="org_id")
-@click.option("--fields-to-use", "-f", multiple=True, default=["name", "activities"])
-@click.option("--save-location", default=None)
+@click.option(
+    "--charity-csv",
+    default=CHARITY_CSV,
+    type=click.Path(exists=True, file_okay=True, dir_okay=False),
+)
+@click.option(
+    "--ukcat-csv",
+    default=UKCAT_FILE,
+    type=click.Path(exists=True, file_okay=True, dir_okay=False),
+)
+@click.option("--id-field", default="org_id", type=str)
+@click.option(
+    "--fields-to-use", "-f", multiple=True, default=["name", "activities"], type=str
+)
+@click.option(
+    "--save-location",
+    default=None,
+    type=click.Path(exists=False, file_okay=True, dir_okay=False, writable=True),
+)
 @click.option(
     "--sample",
     default=0,
@@ -31,15 +45,15 @@ from ukcat.settings import CHARITY_CSV, UKCAT_FILE
     help="Add codes for the intermediate groups to the results",
 )
 def apply_ukcat(
-    charity_csv,
-    ukcat_csv,
-    id_field,
-    fields_to_use,
-    save_location,
-    sample,
-    add_names,
-    include_groups,
-):
+    charity_csv: str,
+    ukcat_csv: str,
+    id_field: str,
+    fields_to_use: Sequence[str],
+    save_location: Optional[str],
+    sample: int,
+    add_names: bool,
+    include_groups: bool,
+) -> pd.DataFrame:
     if not save_location:
         save_location = charity_csv.replace(".csv", "-ukcat.csv")
 
@@ -58,7 +72,7 @@ def apply_ukcat(
     ukcat = pd.read_csv(ukcat_csv, index_col="Code")
 
     # for each classification category go through and apply the regular expression
-    results = []
+    results_list = []
     for index, row in tqdm(ukcat.iterrows(), total=len(ukcat)):
         if (
             not isinstance(row["Regular expression"], str)
@@ -76,7 +90,7 @@ def apply_ukcat(
                 row["Exclude regular expression"], case=False, regex=True
             )
 
-        results.append(
+        results_list.append(
             pd.Series(
                 data=index,
                 index=charities[criteria].index,
@@ -84,7 +98,7 @@ def apply_ukcat(
             )
         )
 
-    results = pd.concat(results)
+    results = pd.concat(results_list)
 
     # add 2-digit versions of the codes & mid-level codes
     if include_groups:
@@ -110,4 +124,7 @@ def apply_ukcat(
         results = results.join(ukcat["tag"].rename("ukcat_name"), on="ukcat_code")
 
     # save the results
-    results.to_csv(save_location, index=False)
+    if save_location:
+        results.to_csv(save_location, index=False)
+
+    return results
