@@ -13,7 +13,7 @@ The process for producing the finished classification schemes involved five dist
 
 2. We then [**designed the UK-CAT classification scheme**](designing-taxonomy.md). This was done in an iterative way, using the manually sampled charities from step 1. The researchers added tags as they went through each charity in turn, with frequent iterations to combine charities and refine the classification, as necessary.
 
-3. Next, all charities in the sample were [**manually classified**](manual-classification.md) by a team of researchers, usign the UK-CAT and ICNP/TSO classification schemes. There was some checking between different researchers to ensure inter-coder reliabilty.
+3. Next, all charities in the sample were [**manually classified**](manual-classification.md) by a team of researchers, using the UK-CAT and ICNP/TSO classification schemes. There was some checking between different researchers to ensure inter-coder reliability.
 
 4. A [**rules-based classification**](rules-based-classification.md) was developed that could apply the UK-CAT tags to every charity in the UK. The rules consist of regular expressions that can be checked against the names and activities of charities. The manually classified set of charities could be used to test the accuracy of these rules.
 

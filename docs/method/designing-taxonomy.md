@@ -1,6 +1,6 @@
 # Designing the UK-CAT Taxonomy
 
-The UK Charity Activty Tags (UK-CAT) taxonomy system, referred to hear as the "tags", was iteratively developed based on the manually classified sample of charities.
+The UK Charity Activity Tags (UK-CAT) taxonomy system, referred to here as the "tags", was iteratively developed based on the manually classified sample of charities.
 
 This list is considerably longer than the ICNPTSO, at over 250 tags, and the tags have been developed specifically to help capture the variation seen within UK charities, rather than for international comparative purposes. The tags sit within a hierarchy of X top-level categories, such as health, education or social welfare. In some cases, there are also mid-level subcategories to help structure the system further. A full list of the UK-CAT can be found in Appendix X. 
 

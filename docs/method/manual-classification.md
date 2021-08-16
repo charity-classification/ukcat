@@ -2,7 +2,7 @@
 
 One of the first tasks the research team conducted was to manually classify a sample of charities, assigning the organisations a single ICNPTSO category and as many ‘tags’ as were applicable. 
 
-
+The classification exercise took place over several weeks, with each researcher allocated a random batch of organisations which they worked through. Frequent meetings between researchers took place in order to compare notes, discuss any tricky or ambiguous cases, and agree on shared rules for dealing with them.
 
 ## Inter-coder reliability
 
