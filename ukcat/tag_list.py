@@ -10,24 +10,24 @@ More detail about how the system was designed can be found on [the main page](/)
 The system is organised into {:,.0f} categories, with {:,.0f} subcategories and {:,.0f} tags in
 total. It is designed to accomodate charities having more than tag applied.
 """.format(
-    len(tags[tags["Level"]==1]),
-    len(tags[tags["Level"]==2]),
-    len(tags[tags["Level"]>=2]),
+    len(tags[tags["Level"] == 1]),
+    len(tags[tags["Level"] == 2]),
+    len(tags[tags["Level"] >= 2]),
 )
 print(intro)
 
 for index, row in tags.iterrows():
     if row["Level"] == 1:
         print()
-        print("## {} [`{}`]".format(
-            row["tag"], index
-        ))
+        print("## {} [`{}`]".format(row["tag"], index))
         print()
         print("Code | Tag | Subcategory")
         print("-----|-----|-----")
     else:
-        print("`{}` | {} | {}".format(
-            index,
-            row["tag"],
-            row["Subcategory"] if isinstance(row["Subcategory"], str) else "",
-        ))
+        print(
+            "`{}` | {} | {}".format(
+                index,
+                row["tag"],
+                row["Subcategory"] if isinstance(row["Subcategory"], str) else "",
+            )
+        )
