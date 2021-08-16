@@ -36,5 +36,8 @@ nav:
     - 'method/manual-classification.md'
     - 'method/machine-learning.md'
     - 'method/rules-based-classification.md'
-  - 'outputs.md'
+  - 'Data':
+    - 'Outputs': 'data/outputs.md'
+    - 'UK-CAT': 'data/tag_list.md'
   - 'other-work.md'
+  - 'contact.md'
