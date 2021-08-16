@@ -32,7 +32,7 @@ To achieve this, a sample of registered charities was created and manually class
 
 ## Results and outputs
 
-Outputs from the project are available to download on the [Data](data/outputs.md) page.
+**[Outputs from the project are available to download](data/outputs.md)**
 
 ## Feedback and next steps
 
