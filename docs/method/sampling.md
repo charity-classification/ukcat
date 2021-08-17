@@ -19,8 +19,8 @@ Keyword searches were performed for a small number of groups of easily identifie
 
 The remaining 174,692 charities were then split into two income bands, based on the latest available income of each charity. The threshold used was £100,000. 39,826 (23%) of the remaining charities were above this threshold and 134,866 (77%) below it. 
 
-Between the different members of the research team 4,203 charities were ultimately classified using the UK-CAT and the ICNPTSO. This included 1,328 charities with an income of £100,000 or over and 2,875 charities with a lower income. 
+Between the different members of the research team 4,203 charities were ultimately classified using the UK-CAT and the ICNP/TSO. This included 1,328 charities with an income of £100,000 or over and 2,875 charities with a lower income. 
 
 Larger charities were, therefore, proportionately over-represented in the manual classification. This is partly due to their financial weight, to try and improve eventual estimations of financial totals for each service area. Secondly, some types of charities are disproportionately found amongst larger charities (for example medical research charities). In contrast, many smaller charities fall into a relatively small number of categories, such as places of worship, grant makers and community associations. Without oversampling larger charities, therefore, some classification types would be likely to be underrepresented or missed out entirely from the manually classified sample. 
 
-In addition to the over-representation of larger charities within the random sample, a separate sample of the largest 2,000 charities, as measured by their latest total incoming resources was constructed. All of these charities were classified into ICNPTSO categories, but UK-CAT tags were not applied to these organisations. 
+In addition to the over-representation of larger charities within the random sample, a separate sample of the largest 2,000 charities, as measured by their latest total incoming resources was constructed. All of these charities were classified into ICNP/TSO categories, but UK-CAT tags were not applied to these organisations. 

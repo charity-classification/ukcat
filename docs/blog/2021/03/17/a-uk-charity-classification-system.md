@@ -12,11 +12,11 @@ _[Original from VSSN website](https://www.vssn.org.uk/2021/03/17/a-uk-charity-cl
 
 ## Our aim
 
-In our [previous blog](../../../01/11/classifying-the-charity-register/), we introduced our project to refresh the classification of the national charity registers into [ICNPTSO](https://unstats.un.org/unsd/classifications/Family/Detail/2008) (activity area) categories, using keyword searching, and where possible applying machine learning techniques. To our knowledge, this was last attempted at scale over a decade ago. 
+In our [previous blog](../../../01/11/classifying-the-charity-register/), we introduced our project to refresh the classification of the national charity registers into [ICNP/TSO](https://unstats.un.org/unsd/classifications/Family/Detail/2008) (activity area) categories, using keyword searching, and where possible applying machine learning techniques. To our knowledge, this was last attempted at scale over a decade ago. 
 
-We also, however, acknowledged some of the challenges UK researchers face when using the ICNPTSO categories. These categories are broad groupings, originally designed to help enable international comparisons of non-profit organisations, particularly as part of national accounting processes. There are large gaps in a UK context, with notable omissions such as food banks, drug addiction services, or domestic violence refuges.
+We also, however, acknowledged some of the challenges UK researchers face when using the ICNP/TSO categories. These categories are broad groupings, originally designed to help enable international comparisons of non-profit organisations, particularly as part of national accounting processes. There are large gaps in a UK context, with notable omissions such as food banks, drug addiction services, or domestic violence refuges.
 
-As part of our project, therefore, we wanted to develop and publish a new, additional classification system, alongside the ICNPTSO. We refer to these classifications informally as ‘tags’ and have aimed to make them more UK specific, more fine grained, and to allow charities to be associated with several tags at once.
+As part of our project, therefore, we wanted to develop and publish a new, additional classification system, alongside the ICNP/TSO. We refer to these classifications informally as ‘tags’ and have aimed to make them more UK specific, more fine grained, and to allow charities to be associated with several tags at once.
 
 ## Our method
 

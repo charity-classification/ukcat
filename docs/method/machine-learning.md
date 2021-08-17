@@ -1,8 +1,8 @@
 # Machine Learning
 
-To classify charities into ICNPTSO categories, the keyword/regular expression process used for UK-CAT would not work. This is because the keywords could indicate multiple ICNPTSO categories for a given charity, and we need to choose just one for each charity.
+To classify charities into ICNP/TSO categories, the keyword/regular expression process used for UK-CAT would not work. This is because the keywords could indicate multiple ICNP/TSO categories for a given charity, and we need to choose just one for each charity.
 
-Instead, a machine learning approach was preferred. In this approach a set of training data (the names and activities description for our sample set of charities) is fed into a machine learning model along with the assigned ICNPTSO categories. You can then provide the model with a name and activities description for an unknown charity and it will predict the category that best applies (we can hold back part of the training dataset in order to test the accuracy of the model). This problem is generally known as text classification.
+Instead, a machine learning approach was preferred. In this approach a set of training data (the names and activities description for our sample set of charities) is fed into a machine learning model along with the assigned ICNP/TSO categories. You can then provide the model with a name and activities description for an unknown charity and it will predict the category that best applies (we can hold back part of the training dataset in order to test the accuracy of the model). This problem is generally known as text classification.
 
 The approach to this task involved using various models provided by the [scikit-learn python package](https://scikit-learn.org/stable/). We selected eight different models that were suggested as potentially appropriate for performing text classification through machine learning. The nature of scikit-learn means it is possible to easily produce a set of pipelines that put the same data through each of the models and compare the results.
 
@@ -38,7 +38,7 @@ The results was a near tie between Linear Support Vector Classification, Logisti
 
 Accuracy of 56% does mean that the model gets an incorrect result 11 times out of 20. However, this result is more impressive when compared to the fact that there are over 76 different categories for the model to choose from. A model that simply randomly assigned a category to each charity would have an accuracy of around 1%.
 
-And while the final model had an accuracy of 56% for the lowest-level of ICNPTSO classification, it was correct for the "group" of the ICNPTSO category 70% of the time. This means that, for example, a charity may have been correctly identified as in the "Education" group (group B) but the exact sub-category may not have been right.
+And while the final model had an accuracy of 56% for the lowest-level of ICNP/TSO classification, it was correct for the "group" of the ICNP/TSO category 70% of the time. This means that, for example, a charity may have been correctly identified as in the "Education" group (group B) but the exact sub-category may not have been right.
 
 The probability scores given for the best match found by the model do give some insight into its confidence, although they are not especially helpful. 60% of the test results were given a confidence of 0.99 or higher. Out of those 72% were correct and 28% were incorrect - a higher accuracy than the model overall. The accuracy for matches with scores between 0.75-0.99 was around 35%, and for lower than 0.75 was around 25%. This does show that the confidence scores do reflect the accuracy of the results, but even for low confidence scores they are correct around one third of the time.
 
@@ -46,9 +46,9 @@ The probability scores given for the best match found by the model do give some 
 
 To further check the results of the machine learning model, a random sample of 300 charities was taken from the full results. This consisted of a weighted sample, based on taking 20 charities across 5 income bands, in each of the 3 regulatory jurisdictions. The sample included some manually classified results - these were ignored in the results shown below, with 236 of the results from the machine learning model. Each result was then checked and put into one of three categories:
 
-- "Correct" - the ICNPTSO category assigned by the model was correct
-- "Plausible" - the ICNPTSO category assigned was plausible, but a human looking at the charity might have chosen a different one
-- "Incorrect" - the ICNPTSO category assigned did not look correct
+- "Correct" - the ICNP/TSO category assigned by the model was correct
+- "Plausible" - the ICNP/TSO category assigned was plausible, but a human looking at the charity might have chosen a different one
+- "Incorrect" - the ICNP/TSO category assigned did not look correct
 
 The exercise produced a better result than found in the formal machine learning test - 85% of the matches overall were "correct", with a further 5% "plausible", leaving 11% that could be considered "incorrect". The results varied by regulator and by income band. CCEW had the lowest "correct" score, with 79%, followed by oscr (82% correct) and CCNI (91%). 
 
@@ -58,19 +58,19 @@ These results are encouraging, and suggest that the results are better than the 
 
 ## Refinements to models
 
-There are ways that could improve the performance of the models for producing the correct ICNPTSO results. Two of these methods have been tried (and offer no significant improvement over the base model), while the others could be tried in future research.
+There are ways that could improve the performance of the models for producing the correct ICNP/TSO results. Two of these methods have been tried (and offer no significant improvement over the base model), while the others could be tried in future research.
 
 ### Refinement 1: combine with tag classification
 
-This refinement involves using the keywords developed for the UK-CAT classification. As each UK-CAT tag has one or more "related" ICNPTSO categories, the method for this refinement was to first run the UK-CAT keywords against the charity text data (the name and activities). The unique set of related ICNPTSO categories found through these keywords could then be used to narrow down the set of allowed ICNPTSO categories from the machine learning model. The best result from the related ICNPTSO categories would be selected, using the probability from the machine learning model.
+This refinement involves using the keywords developed for the UK-CAT classification. As each UK-CAT tag has one or more "related" ICNP/TSO categories, the method for this refinement was to first run the UK-CAT keywords against the charity text data (the name and activities). The unique set of related ICNP/TSO categories found through these keywords could then be used to narrow down the set of allowed ICNP/TSO categories from the machine learning model. The best result from the related ICNP/TSO categories would be selected, using the probability from the machine learning model.
 
-This method produced an accuracy of 52%, slightly less than the base model. In around 14% of cases only one related ICNPTSO category was found which was chosen by default. And in a small number of cases (<5%) no related categories were found. There was no difference in the accuracy of this technique across the number of different tags found - it performed worse than the base model no matter how many related tags were found.
+This method produced an accuracy of 52%, slightly less than the base model. In around 14% of cases only one related ICNP/TSO category was found which was chosen by default. And in a small number of cases (<5%) no related categories were found. There was no difference in the accuracy of this technique across the number of different tags found - it performed worse than the base model no matter how many related tags were found.
 
 The results of this refinement can be found in the `icnptso-ml-tag-test.ipynb` notebook.
 
 ### Refinement 2: classify by group first
 
-A second potential refinement was to split the classification problem into two stages. The first stage would classify charities into ICNPTSO groups (e.g. Education), with the second stage then deciding on the subcategory within the group. This would involve one model to predict the group classification, then a series of models for the subcategories, one for each group. 
+A second potential refinement was to split the classification problem into two stages. The first stage would classify charities into ICNP/TSO groups (e.g. Education), with the second stage then deciding on the subcategory within the group. This would involve one model to predict the group classification, then a series of models for the subcategories, one for each group. 
 
 Applying this refinement did not produce any improvement in the accuracy generated. The accuracy of the group classification model was 69%, around the same as the accuracy at a group level for the classification as a whole. And once the individual models were run the overall accuracy of the process was 53%, slightly less than the base model.
 

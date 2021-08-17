@@ -7,7 +7,7 @@ Data outputs from the project can be found in the [github repository](https://gi
 - ICNP/TSO: [`icnptso.csv`](https://github.com/drkane/ukcat/blob/main/data/icnptso.csv)
 - UK-CAT: [`ukcat.csv`](https://github.com/drkane/ukcat/blob/main/data/ukcat.csv)
 
-You can also see a list of the [UK-CAT categories](data/tag_list.md) as an HTML page.
+You can also see a list of the [UK-CAT categories](tag_list.md) as an HTML page.
 
 ## Manually classified charities
 

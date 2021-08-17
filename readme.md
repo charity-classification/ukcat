@@ -95,9 +95,9 @@ python -m ukcat fetch sample
 python -m ukcat fetch sample --table-name="Top charities" --save-location="./data/top2000.csv"
 ```
 
-#### Create ICNPTSO machine learning model
+#### Create ICNP/TSO machine learning model
 
-This script creates a Logistic Regression model for the ICNPTSO categories, using the data found in
+This script creates a Logistic Regression model for the ICNP/TSO categories, using the data found in
 `sample.csv` and `top2000.csv`, based on the parameters created in `./notebooks/icnptso-machine-learning-test.ipynb`.
 
 ```sh
@@ -119,9 +119,9 @@ This will create the `charities_active-ukcat.csv` and `charities_inactive-ukcat.
 
 You can choose to include the name of the charity and the tag name by adding the `--add-names` option. You can also choose to add "parent" codes into the same data, by using the `--include-groups` option.
 
-#### Apply ICNPTSO categories
+#### Apply ICNP/TSO categories
 
-This script uses the machine learning model created in `./notebooks/icnptso-machine-learning-test.ipynb` to find the best ICNPTSO category for a list of charities.
+This script uses the machine learning model created in `./notebooks/icnptso-machine-learning-test.ipynb` to find the best ICNP/TSO category for a list of charities.
 
 If the model doesn't already exist it will be created, using the files `sample.csv` and `top2000.csv`
 
@@ -130,7 +130,7 @@ python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "na
 python -m ukcat apply icnptso --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
 ```
 
-This will create the `charities_active-icnptso.csv` and `charities_inactive-icnptso.csv` files that are included in the `./data/` folder. Each file gives a row per charity with the best estimated ICNPTSO category, along with the model's estimated probability of the correctness of that category.
+This will create the `charities_active-icnptso.csv` and `charities_inactive-icnptso.csv` files that are included in the `./data/` folder. Each file gives a row per charity with the best estimated ICNP/TSO category, along with the model's estimated probability of the correctness of that category.
 
 You can choose to include the name of the charity and the tag name by adding the `--add-names` option.
 
