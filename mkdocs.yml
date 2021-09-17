@@ -1,5 +1,5 @@
 site_name: UK Charity Classification
-site_url: https://dkane.net/ukcat/
+site_url: https://charityclassification.org.uk/
 theme:
   name: material
   icon:
@@ -38,6 +38,7 @@ nav:
     - 'method/rules-based-classification.md'
   - 'Data':
     - 'Outputs': 'data/outputs.md'
+    - 'Data downloads': 'data/data-downloads.md'
     - 'UK-CAT': 'data/tag_list.md'
   - 'other-work.md'
   - 'contact.md'

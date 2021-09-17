@@ -7,6 +7,9 @@ The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/
 
 The project started in Autumn 2020 with the first draft release of data in Autumn 2021.
 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7028720"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 ## The need for this project
 
 Use of data on registered charities is growing, but is constrained by the availability and quality of the data. Classifications of the service areas that charities operate in are a particular gap within the current available data. Data on these service areas are used by:

@@ -1,29 +1,34 @@
-# Data
+# Results and outputs
 
-Data outputs from the project can be found in the [github repository](https://github.com/drkane/ukcat/tree/main/data). The following resources are available:
+- [Project report](charity-classification-report.pdf), from September 2021
+- [Presentation given at 2021 Voluntary Sector and Volunteering Research Conference](charity-classification-presentation.pdf), Aston University, September 2021
+- [Classification schema used in the project](outputs.md#classification-schema)
+- [Charities that were manually classified](outputs.md#manually-classified-charities)
+- [Tags automatically applied to all categories](outputs.md#categories-for-all-charities)
+- [A list of UK-CAT tags](tag_list.md)
 
-## Classification schema
+You can also view [code and data](https://github.com/drkane/ukcat/) from the project on its Github repository. 
 
-- ICNP/TSO: [`icnptso.csv`](https://github.com/drkane/ukcat/blob/main/data/icnptso.csv)
-- UK-CAT: [`ukcat.csv`](https://github.com/drkane/ukcat/blob/main/data/ukcat.csv)
+## Figures
 
-You can also see a list of the [UK-CAT categories](tag_list.md) as an HTML page.
+### Charities in each UK-CAT tag
 
-## Manually classified charities
+Based on the rules-based classification. Each charity can appear in more than one tag.
 
-These files show the charities that were [manually classified](../method/manual-classification.md) as part of this project. 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7028720"></div>
 
-- [`sample.csv`](https://github.com/drkane/ukcat/blob/main/data/sample.csv)
-- [`top2000.csv`](https://github.com/drkane/ukcat/blob/main/data/top2000.csv)
+### Charities in each ICNP/TSO category
 
-## Categories for all charities
+Based on machine learning model. Each charity is assigned to one category only.
 
-These files show the results of running automatic classification for UK-CAT and ICNP/TSO against
-the latest lists of active and inactive charities in the UK.
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7028877"></div>
 
-The UK-CAT classification used a system of [rules-based classification](../method/rules-based-classification.md) as described in the methodology. The ICNP/TSO classification uses a [machine-learning model](../method/machine-learning.md) that is overwritten by any manual classifications found in the sample.
+### Charities per tag
 
-- [`charities_active-ukcat.csv`](https://github.com/drkane/ukcat/blob/main/data/charities_active-ukcat.csv)
-- [`charities_inactive-ukcat.csv`](https://github.com/drkane/ukcat/blob/main/data/charities_inactive-icnptso.csv)
-- [`charities_active-icnptso.csv`](https://github.com/drkane/ukcat/blob/main/data/charities_active-icnptso.csv)
-- [`charities_inactive-icnptso.csv`](https://github.com/drkane/ukcat/blob/main/data/charities_inactive-icnptso.csv)
+<div class="flourish-embed flourish-chart" data-src="visualisation/7289092"></div>
+
+### Number of tags per charity
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7288933"></div>
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
