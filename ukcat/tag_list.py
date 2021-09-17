@@ -8,7 +8,7 @@ UK-CAT is a classification system designed to categorise the activites of charit
 More detail about how the system was designed can be found on [the main page](/).
 
 The system is organised into {:,.0f} categories, with {:,.0f} subcategories and {:,.0f} tags in
-total. It is designed to accomodate charities having more than tag applied.
+total. It is designed to accommodate charities having more than tag applied.
 """.format(
     len(tags[tags["Level"] == 1]),
     len(tags[tags["Level"] == 2]),

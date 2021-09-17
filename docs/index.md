@@ -5,7 +5,7 @@ every UK registered charity using two classification taxonomies.
 
 The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/policy-and-research), Dr Christopher Damm at the [Centre for Regional Economic and Social Research (Sheffield Hallam University)](https://www4.shu.ac.uk/research/cresr/staff/christopher-damm) and [David Kane](https://dkane.net/), an independent freelance researcher. The project was funded by Esmée Fairbairn Foundation.
 
-The project started in Autumn 2020 with the first draft release of data in Summer 2021.
+The project started in Autumn 2020 with the first draft release of data in Autumn 2021.
 
 ## The need for this project
 
@@ -32,7 +32,15 @@ To achieve this, a sample of registered charities was created and manually class
 
 ## Results and outputs
 
-**[Outputs from the project are available to download](data/outputs.md)**
+- [Project report](data/charity-classification-report.pdf), from September 2021
+- [Presentation given at 2021 Voluntary Sector and Volunteering Research Conference](data/charity-classification-presentation.pdf), Aston University, September 2021
+- [Classification schema used in the project](data/outputs.md#classification-schema)
+- [Charities that were manually classified](data/outputs.md#manually-classified-charities)
+- [Tags automatically applied to all categories](data/outputs.md#categories-for-all-charities)
+
+You can also view [code and data](https://github.com/drkane/ukcat/) from the project on its Github repository. 
+
+**[More outputs from the project are available to download](data/outputs.md)**
 
 ## Feedback and next steps
 

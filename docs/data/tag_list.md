@@ -4,7 +4,7 @@ UK-CAT is a classification system designed to categorise the activites of charit
 More detail about how the system was designed can be found on [the main page](/).
 
 The system is organised into 24 categories, with 17 subcategories and 230 tags in
-total. It is designed to accomodate charities having more than tag applied.
+total. It is designed to accommodate charities having more than tag applied.
 
 
 ## Animals [`AN`]
