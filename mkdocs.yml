@@ -19,7 +19,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-repo_url: https://github.com/drkane/ukcat
+repo_url: https://github.com/charity-classification/ukcat
 plugins:
   - blog
 markdown_extensions:

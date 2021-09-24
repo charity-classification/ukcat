@@ -7,7 +7,7 @@
 - [Tags automatically applied to all categories](outputs.md#categories-for-all-charities)
 - [A list of UK-CAT tags](tag_list.md)
 
-You can also view [code and data](https://github.com/drkane/ukcat/) from the project on its Github repository. 
+You can also view [code and data](https://github.com/charity-classification/ukcat/) from the project on its Github repository. 
 
 ## Figures
 

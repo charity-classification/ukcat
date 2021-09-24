@@ -41,7 +41,7 @@ To achieve this, a sample of registered charities was created and manually class
 - [Charities that were manually classified](data/outputs.md#manually-classified-charities)
 - [Tags automatically applied to all categories](data/outputs.md#categories-for-all-charities)
 
-You can also view [code and data](https://github.com/drkane/ukcat/) from the project on its Github repository. 
+You can also view [code and data](https://github.com/charity-classification/ukcat/) from the project on its Github repository. 
 
 **[More outputs from the project are available to download](data/outputs.md)**
 
