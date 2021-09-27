@@ -45,6 +45,11 @@ You can also view [code and data](https://github.com/charity-classification/ukca
 
 **[More outputs from the project are available to download](data/outputs.md)**
 
+The classification and the results are licensed under a
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 ## Feedback and next steps
 
 Given the nature of this work we do not consider the project complete. Our aim is for a system that is used and owned by the voluntary sector as a whole, which requires input from a wide range of people.

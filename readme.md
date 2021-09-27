@@ -1,11 +1,16 @@
 # Classifying UK Charities
 
-This repository is the home of the *UK Charity Activity Tags*, a project to classify
+This repository is the home of the *[UK Charity Activity Tags](https://www.charityclassification.org.uk/)*, a project to classify
 every UK registered charity using two classification taxonomies.
 
 The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/policy-and-research), Dr Christopher Damm at the [Centre for Regional Economic and Social Research (Sheffield Hallam University)](https://www4.shu.ac.uk/research/cresr/staff/christopher-damm) and [David Kane](https://dkane.net/), an independent freelance researcher. The project was funded by Esmée Fairbairn Foundation.
 
 The project started in Autumn 2020 with the first draft release of data in Summer 2021.
+
+The classification and the results are licensed under a
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ## Using the python scripts
 
