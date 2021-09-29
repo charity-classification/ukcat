@@ -48,19 +48,19 @@ Then add any additional dependencies to `requirements.in`. Run `pip-compile` to 
 
 Data outputs from the project. The following resources are available:
 
-## Classification schema
+#### Classification schema
 
 - ICNP/TSO: [`icnptso.csv`](data/icnptso.csv)
 - UK-CAT: [`ukcat.csv`](data/ukcat.csv)
 
-## Manually classified charities
+#### Manually classified charities
 
 These files show the charities that were manually classified as part of this project. 
 
 - [`sample.csv`](data/sample.csv)
 - [`top2000.csv`](data/top2000.csv)
 
-## Categories for all charities
+#### Categories for all charities
 
 These files show the results of running automatic classification for UK-CAT and ICNP/TSO against
 the latest lists of active and inactive charities in the UK.
