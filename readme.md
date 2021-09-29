@@ -44,6 +44,35 @@ Then add any additional dependencies to `requirements.in`. Run `pip-compile` to 
 
 ## Repository contents
 
+### `/data/`
+
+Data outputs from the project. The following resources are available:
+
+## Classification schema
+
+- ICNP/TSO: [`icnptso.csv`](data/icnptso.csv)
+- UK-CAT: [`ukcat.csv`](data/ukcat.csv)
+
+## Manually classified charities
+
+These files show the charities that were manually classified as part of this project. 
+
+- [`sample.csv`](data/sample.csv)
+- [`top2000.csv`](data/top2000.csv)
+
+## Categories for all charities
+
+These files show the results of running automatic classification for UK-CAT and ICNP/TSO against
+the latest lists of active and inactive charities in the UK.
+
+The UK-CAT classification used a system of rules-based classification as described in the methodology. The ICNP/TSO classification uses a machine-learning model that is overwritten by any manual classifications found in the sample.
+
+- [`charities_active-ukcat.csv`](data/charities_active-ukcat.csv)
+- [`charities_inactive-ukcat.csv`](data/charities_inactive-icnptso.csv)
+- [`charities_active-icnptso.csv`](data/charities_active-icnptso.csv)
+- [`charities_inactive-icnptso.csv`](data/charities_inactive-icnptso.csv)
+
+
 ### `/docs`
 
 This directory contains the project documentation, which is turned into a website using [mkdocs](https://www.mkdocs.org/).
