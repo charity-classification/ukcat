@@ -37,9 +37,9 @@ To achieve this, a sample of registered charities was created and manually class
 
 - [Project report](data/charity-classification-report.pdf), from September 2021
 - [Presentation given at 2021 Voluntary Sector and Volunteering Research Conference](data/charity-classification-presentation.pdf), Aston University, September 2021
-- [Classification schema used in the project](data/outputs.md#classification-schema)
-- [Charities that were manually classified](data/outputs.md#manually-classified-charities)
-- [Tags automatically applied to all categories](data/outputs.md#categories-for-all-charities)
+- [Classification schema used in the project](data/data-downloads.md#classification-schema)
+- [Charities that were manually classified](data/data-downloads.md#manually-classified-charities)
+- [Tags automatically applied to all categories](data/data-downloads.md#categories-for-all-charities)
 
 You can also view [code and data](https://github.com/charity-classification/ukcat/) from the project on its Github repository. 
 

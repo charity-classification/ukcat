@@ -2,9 +2,9 @@
 
 - [Project report](charity-classification-report.pdf), from September 2021
 - [Presentation given at 2021 Voluntary Sector and Volunteering Research Conference](charity-classification-presentation.pdf), Aston University, September 2021
-- [Classification schema used in the project](outputs.md#classification-schema)
-- [Charities that were manually classified](outputs.md#manually-classified-charities)
-- [Tags automatically applied to all categories](outputs.md#categories-for-all-charities)
+- [Classification schema used in the project](data-downloads.md#classification-schema)
+- [Charities that were manually classified](data-downloads.md#manually-classified-charities)
+- [Tags automatically applied to all categories](data-downloads.md#categories-for-all-charities)
 - [A list of UK-CAT tags](tag_list.md)
 
 You can also view [code and data](https://github.com/charity-classification/ukcat/) from the project on its Github repository. 
