@@ -83,7 +83,7 @@ CC103,Playground,Childcare,,3,Use recreational facilities tag and children?,A12;
 CC104,Playgroup,Childcare,,3,Preschool/nursery is a formal childcare setting. A play group is likely to be less frequent and parents stay in attendance,D20,\b(play[- ]?(group|school)s?|mums (and|&) tots)\b,
 CJ,Crime and Justice,Crime and Justice,,1,,D19,\b(crime|criminal)\b,
 CJ101,Offender support and rehabilitation,Crime and Justice,,3,,D19;D40,\b(prison|offender|parole),
-CJ102,Prevention and safety,Crime and Justice,,3,,D19;G11,\b(crime (prevention|reduction)+|public safety|(prevention|reduction)+ of crime)\b,
+CJ102,Prevention and safety,Crime and Justice,,3,,D19;G11,\b(crime (prevention|reduction)|public safety|(prevention|reduction) of crime)\b,
 CJ103,Road safety,Crime and Justice,,3,,G11,\b(road safety|traffic|advanced motor(cycl)?ists?|safe driving)\b,
 CJ104,Trafficking and modern slavery,Crime and Justice,,3,,D33;D19,\b(traffic?k?ing|modern slavery|forced labou?r|bonded labou?r|child labou?r)\b,
 CJ105,Victim support,Crime and Justice,,3,,D19,\b(affected by crime|victims? support|victims? of crime)\b,
