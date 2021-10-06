@@ -10,3 +10,4 @@ working/
 !data/charities_inactive-ukcat.csv
 !data/charities_active-icnptso.csv
 !data/charities_inactive-icnptso.csv
+!data/icnptso_ml_model.pkl

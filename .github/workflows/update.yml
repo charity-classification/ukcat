@@ -44,9 +44,6 @@ jobs:
     - name: Fetch latest charity data
       run: |
         python -m ukcat fetch charities
-    - name: Train ICNPTSO model
-      run: |
-        python -m ukcat train icnptso
     - name: Apply ICNPTSO model
       run: |
         python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
