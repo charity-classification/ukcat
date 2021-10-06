@@ -6,7 +6,7 @@ date: 2021-10-05
 ---
 
 # Launching UK-CAT
-
+ 
 **Christopher Damm** and **David Kane**
 
 Today we're launching a new classification of charities in the UK, which aims to help researchers, umbrella bodies and others make sense of the diverse group of organisations that form the voluntary sector. The voluntary sector is defined by shared characteristics - legal form, volunteerism, non-profit distributing - but the sector covers such a wide range of organisations that to understand it you often need to look more closely at various subdivisions. This new classification system - which we're calling UK Charity Activity Tags (UK-CAT) - adds "tags" to organisations to help understand the work they do, and identify groups of organisations. You can find tags for food banks, for example, or for charities working on rural issues. In all, we've created over 250 tags and defined rules for attaching them to charities.
