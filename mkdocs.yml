@@ -2,6 +2,7 @@ site_name: UK Charity Classification
 site_url: https://charityclassification.org.uk/
 theme:
   name: material
+  custom_dir: theme
   icon:
     logo: material/label
   features:
@@ -24,12 +25,15 @@ plugins:
   - blog:
       format: "%d/%m/%Y - "
       text-align: "left"
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
 markdown_extensions:
   - tables
 nav:
   - 'index.md'
   - 'Blog':
-    - 'blog/2021/10/05/launching-ukcat.md'
+    - 'blog/2021/10/06/launching-ukcat.md'
     - 'blog/2021/03/17/a-uk-charity-classification-system.md'
     - 'blog/2021/01/11/classifying-the-charity-register.md'
   - 'Method':
