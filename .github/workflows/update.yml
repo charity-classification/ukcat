@@ -1,0 +1,41 @@
+name: Update data
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout main
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Fetch latest charity data
+      run: |
+        python -m ukcat fetch charities
+    - name: Apply UK-CAT categories
+      run: |
+        python -m ukcat apply ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
+        python -m ukcat apply ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+    - name: Train ICNPTSO model
+      run: |
+        python -m ukcat train icnptso
+    - name: Apply ICNPTSO model
+      run: |
+        python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
+        python -m ukcat apply icnptso --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update by GitHub Action" -a)
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
