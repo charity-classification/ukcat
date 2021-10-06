@@ -73,6 +73,7 @@ gitpython==3.1.24
     # via
     #   -r requirements.txt
     #   mkdocs-git-revision-date-localized-plugin
+    #   mkdocs-rss-plugin
 idna==2.10
     # via
     #   -r requirements.txt
@@ -188,6 +189,7 @@ mkdocs==1.2.2
     #   -r requirements.txt
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
+    #   mkdocs-rss-plugin
 mkdocs-blog-plugin==0.25
     # via -r requirements.txt
 mkdocs-git-revision-date-localized-plugin==0.10.0
@@ -200,6 +202,8 @@ mkdocs-material-extensions==1.0.1
     # via
     #   -r requirements.txt
     #   mkdocs-material
+mkdocs-rss-plugin==0.19.1
+    # via -r requirements.txt
 mypy==0.910
     # via -r requirements.txt
 mypy-extensions==0.4.3

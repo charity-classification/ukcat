@@ -28,6 +28,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       enable_creation_date: true
+  - rss
 markdown_extensions:
   - tables
   - toc:

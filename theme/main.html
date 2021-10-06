@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+    <link rel="alternate" type="application/rss+xml" title="RSS feed of created content" href="{{ config.site_url }}feed_rss_created.xml">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="{{ config.site_url }}feed_rss_updated.xml">
+{% endblock %}
+
 {% block content %}
     {% if page.edit_url %}
         <a href="{{ page.edit_url }}" title="{{ lang.t('edit.link.title') }}" class="md-content__button md-icon">
