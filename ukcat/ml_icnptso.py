@@ -28,7 +28,7 @@ from ukcat.settings import (
 
 lemma = WordNetLemmatizer()
 
-nltk.download('stopwords')
+nltk.download("stopwords")
 STOPWORDS = set(stopwords.words("english") + ADDITIONAL_STOPWORDS)
 
 
