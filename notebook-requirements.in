@@ -1,4 +1,4 @@
--r requirements.in
+-r requirements.txt
 ipykernel
 jupyter
 jupyterlab

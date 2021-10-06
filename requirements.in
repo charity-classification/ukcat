@@ -1,5 +1,5 @@
 airtable-python-wrapper
--r mkdocs-requirements.in
+-r mkdocs-requirements.txt
 pandas
 numpy
 scikit-learn==0.24.1
