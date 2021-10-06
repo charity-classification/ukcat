@@ -1,7 +1,9 @@
 airtable-python-wrapper
 -r mkdocs-requirements.in
--r notebook-requirements.in
 pandas
+numpy
+scikit-learn==0.24.1
+nltk
 python-dotenv
 python-slugify
 click

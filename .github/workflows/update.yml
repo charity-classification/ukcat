@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Deploy docs
+    name: Update UK-CAT and ICNPTSO categories
     runs-on: ubuntu-latest
     steps:
     - name: Checkout main
