@@ -9,8 +9,20 @@
     {% if not "\x3ch1" in page.content %}
         <h1>{{ page.title | d(config.site_name, true)}}</h1>
     {% endif %}
+    {% if page.meta.date or page.meta.authors %}
+    <p><small>
     {% if page.meta.date %}
-    {{ page.meta.date }}
+    <time datetime="{{ page.meta.date }}">{{ page.meta.date.strftime('%d %B %Y') }}</time>
+    {% endif %}
+    {% if page.meta.date and page.meta.authors %} | {% endif %}
+    {% if page.meta.authors %}
+    By 
+    {% for author in page.meta.authors %}
+    {% if loop.length > 1 and loop.last%} and {% elif loop.length > 1 and not loop.first %}, {% endif %}
+    <strong>{{ author }}</strong>
+    {% endfor %}
+    {% endif %}
+    </p></small>
     {% endif %}
     {{ page.content }}
     {% if page and page.meta %}

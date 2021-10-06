@@ -1,6 +1,10 @@
-# Classifying the charity register
+---
+authors:
+    - Christopher Damm
+date: 2021-01-11
+---
 
-**Christopher Damm**
+# Classifying the charity register
 
 _[Original from VSSN website](https://www.vssn.org.uk/2021/01/11/classifying-the-charity-register/)_
 

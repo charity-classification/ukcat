@@ -6,8 +6,6 @@ date: 2021-03-17
 
 # A UK Charity Classification System
 
-**Christopher Damm**
-
 _[Original from VSSN website](https://www.vssn.org.uk/2021/03/17/a-uk-charity-classification-system/)_
 
 ## Our aim
