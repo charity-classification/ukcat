@@ -87,6 +87,7 @@ def fetch_ccew(
         ccew_gd_file,
         sep="\t",
         escapechar="\\",
+        quoting=csv.QUOTE_NONE,
     )
     ccew.loc[:, "objects"] = ccew.join(
         ccew_gd[ccew_gd["linked_charity_number"] == 0].set_index(
@@ -103,6 +104,7 @@ def fetch_ccew(
         ccew_parta_file,
         sep="\t",
         escapechar="\\",
+        quoting=csv.QUOTE_NONE,
     )
 
     ccew.loc[:, "grant_making_is_main_activity"] = ccew.join(
