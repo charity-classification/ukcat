@@ -1,3 +1,4 @@
+import csv
 import os
 
 import click
@@ -51,6 +52,7 @@ def fetch_ccew(
         ccew_charity_file,
         sep="\t",
         escapechar="\\",
+        quoting=csv.QUOTE_NONE,
         parse_dates=ccew_date_fields,
     )
     click.echo("Loaded CCEW data file")
