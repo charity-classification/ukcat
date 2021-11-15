@@ -1,0 +1,19 @@
+# UK Charity Activity Tags (UK-CAT) classification system
+
+UK-CAT is a classification system designed to categorise the activites of charities in the UK.
+More detail about how the system was designed can be found on [the main page](/).
+
+The system is organised into {{ "{:,.0f}".format(n_categories) }} categories, with 
+{{ "{:,.0f}".format(n_subcategories) }} subcategories and {{ "{:,.0f}".format(n_tags) }} tags in
+total. It is designed to accommodate charities having more than one tag applied.
+
+{% for index, row in tags.iterrows() -%}
+{% if row['Level'] == 1 %}
+## {{ row.tag }} [`{{index}}`]
+
+Code | Tag | Subcategory
+-----|-----|-----
+{%- else -%}
+[{{ index }}](/data/ukcat/{{index}}) | {{ row.tag }} | {{ row['subcategory'] }}
+{%- endif %}
+{% endfor %}

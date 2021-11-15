@@ -28,6 +28,18 @@ ML_TEST_TRAIN_SIZE = 0.2
 ML_DEFAULT_FIELDS = ["name", "activities"]
 ML_CATEGORY_FIELD = "ICNPTSO"
 
+# bands for summary display
+INCOME_BINS = [-1, 10000, 100000, 250000, 500000, 1000000, 10000000, float("inf")]
+INCOME_BIN_LABELS = [
+    "Under £10k",
+    "£10k - £100k",
+    "£100k - £250k",
+    "£250k - £500k",
+    "£500k - £1m",
+    "£1m - £10m",
+    "Over £10m",
+]
+
 # location of charity download files
 ######################################
 

@@ -1,0 +1,54 @@
+# {{ details.tag }} `{{ category }}`
+
+{{ details.tag }} is a tag in the [UK-CAT classification](/data/tag_list/) of charities in the 
+UK. It is part of the [{{ details.Category }}](/data/ukcat/{{ category[0:2] }}) category{%- if details.Subcategory -%} 
+and the {{ details['Subcategory']}} subcategory{%- endif -%}.
+
+{{ "{:,.0f}".format(by_source[-1].category) }} charities have been tagged with this tag.
+This represents {{ "{:.2%}".format(by_source[-1].percentage) }} of all charities.
+
+## Keywords to find charities
+
+UK-CAT categories are applied to charities based on a set of keywords, in the form of a [regular expression](https://en.wikipedia.org/wiki/Regular_expression).
+
+The regular expression used to find charities in this tag is:
+
+`{{ details['Regular expression'] }}`
+
+{% if details['Exclude regular expression'] %}
+Charities matching this regular expression will be excluded from the tag:
+
+`{{ details['Exclude regular expression'] }}`
+{% endif %}
+
+## Distribution by size of charity
+
+Income band | Charities with tag | Percent of all charities
+------------|-------------------:|-------------------------:
+{% for row in by_income -%}
+{{ row.index }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
+{% endfor %}
+
+## Distribution by charity regulator
+
+Regulator | Charities with tag | Percent of all charities
+------------|-------------------:|-------------------------:
+{% for row in by_source -%}
+{{ row.index }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
+{% endfor %}
+
+## Ten largest charities (by income)
+
+Name | Latest income
+-----|--------:
+{% for charity in top_charities -%}
+<strong>{{ charity.name }}</strong> [Charity number: [{{ charity.reg_number }}](https://findthatcharity.uk/orgid/{{charity.org_id}})]<br>{{ charity.activities if charity.activities else charity.objects }} | {% if charity.income %}{{ "£{:,.0f}".format(charity.income) }}{% endif %}
+{% endfor %}
+
+## Ten random charities
+
+Name | Latest income
+-----|--------:
+{% for charity in random_charities -%}
+<strong>{{ charity.name }}</strong> [Charity number: [{{ charity.reg_number }}](https://findthatcharity.uk/orgid/{{charity.org_id}})]<br>{{ charity.activities if charity.activities else charity.objects }} | {% if charity.income %}{{ "£{:,.0f}".format(charity.income) }}{% endif %}
+{% endfor %}

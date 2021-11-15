@@ -6,6 +6,7 @@ from ukcat.apply_ukcat import apply_ukcat
 from ukcat.fetch_charities import fetch_charities
 from ukcat.fetch_sample import fetch_sample
 from ukcat.fetch_tags import fetch_tags
+from ukcat.make_docs import make_ukcat_docs
 from ukcat.ml_icnptso import create_ml_model
 
 load_dotenv()
@@ -41,6 +42,14 @@ def train():
 
 
 train.add_command(create_ml_model, name="icnptso")
+
+
+@cli.group("docs")
+def docs():
+    pass
+
+
+docs.add_command(make_ukcat_docs, name="ukcat")
 
 if __name__ == "__main__":
     cli()
