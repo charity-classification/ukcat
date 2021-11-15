@@ -59,15 +59,15 @@ def make_ukcat_docs(charity_csv, ukcat_csv, id_field, template, save_location):
     )
 
     tag_list_template = env.get_template("tag_list.md.j2")
-    with open(
-        "./docs/data/tag_list.md", "w", encoding="utf-8"
-    ) as f:
-        f.write(tag_list_template.render(
-            n_categories=len(ukcat[ukcat["Level"] == 1]),
-            n_subcategories=len(ukcat[ukcat["Level"] == 2]),
-            n_tags=len(ukcat[ukcat["Level"] >= 2]),
-            tags=ukcat,
-        ))
+    with open("./docs/data/tag_list.md", "w", encoding="utf-8") as f:
+        f.write(
+            tag_list_template.render(
+                n_categories=len(ukcat[ukcat["Level"] == 1]),
+                n_subcategories=len(ukcat[ukcat["Level"] == 2]),
+                n_tags=len(ukcat[ukcat["Level"] >= 2]),
+                tags=ukcat,
+            )
+        )
 
     template = env.get_template(template)
 
