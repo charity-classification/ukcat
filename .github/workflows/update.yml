@@ -22,6 +22,9 @@ jobs:
       run: |
         python -m ukcat apply ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
         python -m ukcat apply ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+    - name: Update UKCAT docs
+      run: |
+        python -m ukcat docs ukcat
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
