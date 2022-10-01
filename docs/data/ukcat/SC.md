@@ -3,7 +3,7 @@
 Social care is a tag in the [UK-CAT classification](/data/tag_list/) of charities in the 
 UK. It is part of the [Social care](/data/ukcat/SC) category.
 
-3,650 charities have been tagged with this tag.
+3,645 charities have been tagged with this tag.
 This represents 1.81% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 985 | 1.17%
-£10k - £100k | 997 | 1.55%
-£100k - £250k | 485 | 2.59%
-£250k - £500k | 263 | 2.99%
-£500k - £1m | 212 | 3.82%
-£1m - £10m | 437 | 5.70%
-Over £10m | 115 | 6.63%
-Total | 3,494 | 1.83%
+Under £10k | 989 | 1.18%
+£10k - £100k | 989 | 1.55%
+£100k - £250k | 485 | 2.58%
+£250k - £500k | 253 | 2.84%
+£500k - £1m | 224 | 3.99%
+£1m - £10m | 435 | 5.65%
+Over £10m | 114 | 6.48%
+Total | 3,489 | 1.83%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 3,075 | 1.82%
-oscr | 336 | 1.32%
-ccni | 239 | 3.47%
-Total | 3,650 | 1.81%
+ccew | 3,072 | 1.82%
+oscr | 335 | 1.32%
+ccni | 238 | 3.41%
+Total | 3,645 | 1.81%
 
 
 ## Ten largest charities (by income)
@@ -45,28 +45,28 @@ Total | 3,650 | 1.81%
 Name | Latest income
 -----|--------:
 <strong>BARNARDO'S</strong> [Charity number: [216250](https://findthatcharity.uk/orgid/GB-CHC-216250)]<br>Barnardo?s helped improve the lives of more than 240,000 vulnerable children, young people and their families. We help children including those who have been sexually exploited, young people leaving care, children with a parent in prison and provide early intervention for families struggling to cope. We find adoptive homes and foster placements for children in care and campaign to change policy. | £280,464,000
-<strong>THE ORDERS OF ST JOHN CARE TRUST</strong> [Charity number: [1048355](https://findthatcharity.uk/orgid/GB-CHC-1048355)]<br>To provide care to older people through care homes specialising in residential, dementia and nursing care, together with intermediate and day care.Care in the community is also provided in hospitals, at home and through the provision of extra care housing. | £142,611,344
+<strong>THE ORDERS OF ST JOHN CARE TRUST</strong> [Charity number: [1048355](https://findthatcharity.uk/orgid/GB-CHC-1048355)]<br>To provide care to older people through care homes specialising in residential, dementia and nursing care, together with intermediate and day care.Care in the community is also provided in hospitals, at home and through the provision of extra care housing. | £142,814,877
 <strong>TURNING POINT</strong> [Charity number: [234887](https://findthatcharity.uk/orgid/GB-CHC-234887)]<br>Turning Point provides health and social care services for people with a learning disability and also people at risk of, or with a mental health diagnosis, mental health issues, drug or alcohol use, misuse or dependency or other addictive behaviours. | £132,812,000
 <strong>ALZHEIMER'S SOCIETY</strong> [Charity number: [296645](https://findthatcharity.uk/orgid/GB-CHC-296645)]<br>Alzheimer's Society staff and volunteers provide services to people affected by dementia, including day care and home care, support and befriending services across England, Wales, Guernsey, Isle of Man and Northern Ireland. We provide information and training, and every year we invest in research. We campaign for the rights of people with dementia and those who care for them. | £111,115,000
 <strong>SUE RYDER</strong> [Charity number: [1052076](https://findthatcharity.uk/orgid/GB-CHC-1052076)]<br>Provide specialist palliative care in our hospices and in patients' homes.Provide specialist long term neurological care in our residental care homes.Provide health and social support via community services. | £107,331,000
 <strong>THE NATIONAL AUTISTIC SOCIETY</strong> [Charity number: [269425](https://findthatcharity.uk/orgid/GB-CHC-269425)]<br>Campaigning and lobbying.Raising Awareness.Day and residential schools with outreach.Registered adult care homes, plus supported living.A diagnosis and assessment centre, and diagnostic training.Resource Centres.Family support.Social groups.Early intervention and post diagnosis support.Helpline.Education Rights and Welfare Rights services.Supported Employment.Information. | £95,457,000
 <strong>Radius Housing Association Limited</strong> [Charity number: [NI102575](https://findthatcharity.uk/orgid/GB-NIC-102575)]<br>Radius Housing Association provides housing, care and support to over 33,000 homes throughout Northern Ireland. Radius was established in 2017 following the merger of Helm and Fold housing associations and draws on over 80 years of combined experience to make a positive impact on housing and communities into the future. Radius is now one of the leading housing associations in Northern Ireland. Radius has also developed a range of services that allow us to offer our clients the right level of support in their own home or in our accommodation:- # Housing for Older People with Dementia and the Frail Elderly # Supported Housing # Day Care visits # Personal Pendant Alarms # Telemonitoring service (monitoring patient’s vital signs in their home) # Assistance for people with a disability to make home adaptations Radius's services are delivered in partnership with the Northern Ireland Housing Executive, the Department for Communities and the Health and Social Care Trusts. | £89,767,895
 <strong>MACINTYRE CARE</strong> [Charity number: [250840](https://findthatcharity.uk/orgid/GB-CHC-250840)]<br>MacIntyre provides services for adults and children with learning disabilities. These services include schools, colleges, adult learning centres, registered care homes, supported living and other individual support. | £67,199,000
-<strong>PARTNERSHIP SUPPORT GROUP</strong> [Charity number: [1175080](https://findthatcharity.uk/orgid/GB-CHC-1175080)]<br>The provision of social care, welfare, support, health, education, employment and housing support, particularly for people who have learning difficulties, mental health problems, are on the autistic spectrum, have physical illness, other health needs, are elderly or infirm or have support needs because of their youth, lack of education, poverty, the misuse of drugs, alcohol or other substances. | £65,040,000
 <strong>Choice Support</strong> [Charity number: [1156486](https://findthatcharity.uk/orgid/GB-CHC-1156486)]<br>Provision of support for those in need by reason of youth, age, ill-health (including those persons suffering from alcohol, drug and other substance misuse) disability, financial or other hardship by the provision of welfare and support (financial or otherwise), health and social care, employment, housing and enterprise support. | £65,040,000
+<strong>PARTNERSHIP SUPPORT GROUP</strong> [Charity number: [1175080](https://findthatcharity.uk/orgid/GB-CHC-1175080)]<br>The provision of social care, welfare, support, health, education, employment and housing support, particularly for people who have learning difficulties, mental health problems, are on the autistic spectrum, have physical illness, other health needs, are elderly or infirm or have support needs because of their youth, lack of education, poverty, the misuse of drugs, alcohol or other substances. | £65,040,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>PULMONARY HYPERTENSION ASSOCIATION UK</strong> [Charity number: [1120756](https://findthatcharity.uk/orgid/GB-CHC-1120756)]<br>To advance the education & awareness of the general public and medical professionals of the condition known as Pulmonary Hypertension. The relief of need of sufferers of PH, their families & carers through the provision of financial assistance towards, but not exclusively, respite care, travel grants & equipment grants at the discretion of the executive committee, as and when resources allow. | £477,072
-<strong>THE ANGLO-PORTUGUESE SOCIETY</strong> [Charity number: [313589](https://findthatcharity.uk/orgid/GB-CHC-313589)]<br>To foster the historical and cultural links between Portugal and the United Kingdom through talks, lectures, visits, dinners and other social functions in honour of the Treaty of Windsor 1386 between Portugal and England, the world's oldest treaty of alliance. In addition the Society provides financial assistance to childrens' homes and charities in Portugal on a charitable basis. | £31,107
-<strong>School Aid Romania</strong> [Charity number: [NI100954](https://findthatcharity.uk/orgid/GB-NIC-100954)]<br>SAR aims to advance the education of Year 13 students from different religious and cultural backgrounds in Northern Ireland and Romania. We provide an opportunity for such students to fund raise together and plan a range of activities that they will undertake in Romania. The students spend a week in the city of Brasov where they work with a range of different people who suffer from deprivation. The students work in hospitals, orphanages, clinics and a range of schools. They deliver food programmes for very poor families in a number of deprived villages. They work with the homeless and with “street children”. The students undertake all of the shopping for aid and its subsequent distribution. The aim of the programme is to bring together students from different religious backgrounds by relieving poverty and sickness among children in Romania. | £120,082
-<strong>LILIAN FAITHFULL CARE</strong> [Charity number: [1122183](https://findthatcharity.uk/orgid/GB-CHC-1122183)]<br>To provide a safe, friendly and supportive environment for older people at our affordable housing, assisted living, residential homes, nursing homes and community facilities across the County of Gloucestershire.  Specialising in end of life care and living well with dementia. | £12,056,631
-<strong>HOPE NOW LIMITED</strong> [Charity number: [1072038](https://findthatcharity.uk/orgid/GB-CHC-1072038)]<br>The charities current activities is the advancement of the Evangelical Christian Faith in the UK and all other parts of the world. This encompasses Prison ministry, pre-independence homes, orphanages, bible schools, medical care, camping and conference facilities, student sponsorship and education. Currently the main area of operation is in the Ukraine. | £316,748
-<strong>Life Now Ltd</strong> [Charity number: [1140264](https://findthatcharity.uk/orgid/GB-CHC-1140264)]<br>Develop provision of care and palliative respite care for people aged between 18-40 who have end-of-life or life-threatening conditions in the North West of England and North Wales, in particular but not exclusiely by the provision of a hospice and support for these people. It also aims to advance education in life-threatening or life-ending conditions for the public benefit | £56,213
-<strong>ANVIL TRUST</strong> [Charity number: [1018797](https://findthatcharity.uk/orgid/GB-CHC-1018797)]<br>Anvil Trust seeks to provide Christian residential care in the local community for the learning disabled adult. Anvil trust exists for all those with learning disabilities who need us, and not just for people from Christian families. | £506
-<strong>CARERS TOGETHER IN HAMPSHIRE</strong> [Charity number: [1051879](https://findthatcharity.uk/orgid/GB-CHC-1051879)]<br>Carers Together provides support with/for carers of any age.  It includes: information, advice, support, advocacy, benefits advice, personal support planning, carers respite/take-a-break service, training/awareness for carers & professionals. It organises community information drop-ins, carers support groups & network events, free telephone emotional support, computer support & mobile information | £256,782
-<strong>CARING CONNECTIONS LIMITED</strong> [Charity number: [1013152](https://findthatcharity.uk/orgid/GB-CHC-1013152)]<br>Caring Connections is a registered charity which specialises in providing a range of projects and services aiming to improve the health and wellbeing of vulnerable groups across the Liverpool city region. The organisation is registered with CQC to deliver targeted home care services to adults with care needs within the local community. | £887,280
-<strong>BLOOMIN' DEMENTIA</strong> [Charity number: [1174849](https://findthatcharity.uk/orgid/GB-CHC-1174849)]<br>Specialist knowledge of dementia care in the communityFinancial support and benefits accrualPop in centre for advice and supportA choice of local social activitiesReferral to specialist "person centred" dementia care in the communityFamily support and respite timeA full assessment of the person's needs and a choice of care | £94,000
+<strong>Spud Bears Ministry</strong> [Charity number: [NI100798](https://findthatcharity.uk/orgid/GB-NIC-100798)]<br>we collect pre loved teddies and soft toys from church groups and supporters and ship these to orphanage's in Uganda and Tanzania, we also send at least one talking bear as well, programmed in the requested language | £86,704
+<strong>BYWAYS TRUST</strong> [Charity number: [1109825](https://findthatcharity.uk/orgid/GB-CHC-1109825)]<br>Social care - residential complex for people with learning disabilities. | 
+<strong>AGE CONCERN FLACKWELL HEATH AND LOUDWATER</strong> [Charity number: [1000080](https://findthatcharity.uk/orgid/GB-CHC-1000080)]<br>A Day Centre for the elderly providing stimulating activity, freshly cooked lunches, bathing, shopping, and the companionship of peers. | £63,839
+<strong>Mid Deeside Day Centre</strong> [Charity number: [SC023180](https://findthatcharity.uk/orgid/GB-SC-SC023180)]<br>The aim of the group is to promote the welfare of older people. | £1,363
+<strong>CRACKERJACKS CHILDREN'S TRUST</strong> [Charity number: [1146586](https://findthatcharity.uk/orgid/GB-CHC-1146586)]<br>Crackerjacks provide specialist equipment and respite breaks to disabled children throughout the United Kingdom. | £222,550
+<strong>ALDERHOLT CONGREGATIONAL CHURCH</strong> [Charity number: [1142377](https://findthatcharity.uk/orgid/GB-CHC-1142377)]<br>Sunday - services AM & PM , with break out kids groups & crecheWednesday - Bible study groupsThursday - Tiddlywinks - A parent and toddlers group Friday - Amicus - A division of The Boy's Brigade for young people.Monthly "clubs" - Carers Cafe (support group for carers) / Craft clubWeddings, Funerals & maintenance of Graveyard | £118,106
+<strong>GUILD CARE</strong> [Charity number: [1044658](https://findthatcharity.uk/orgid/GB-CHC-1044658)]<br>Our aim is to deliver innovative and life-changing care services for older people and those living with dementia and to support children and young people affected by life limiting illnesses and disabilities .  We also support their unpaid carers with respite services to enable them to enjoy a richer family and community life. We have a culture of continuous improvement for our customers. | £16,210,035
+<strong>IN-DEEP COMMUNITY TASK FORCE</strong> [Charity number: [1098270](https://findthatcharity.uk/orgid/GB-CHC-1098270)]<br>A 3 course meal for isolated older people in Victoria. A massage service and a manicure and pedicure service in Westminster and Lambeth. A jacket potato lunch for older people providing a good hot meal in Westminster and Lambeth. A yearly Christmas Hamper Scheme and Over 50's choir. A music therapy service for children with special needs and carers group to support carers. | £44,393
+<strong>EYNSHAM DAY CENTRE</strong> [Charity number: [1182282](https://findthatcharity.uk/orgid/GB-CHC-1182282)]<br>We provide a weekly service (Mondays) for the elderly of our community. Members enjoy meeting with each other and participating in a variety of activities (see website eynshamdaycentre.com). The organisation relies on its large team of volunteers with the Co-Ordinator and cook being the only personel remunerated for their services. A two course meal is provided each day. | £5,904
+<strong>LITINTA</strong> [Charity number: [1050768](https://findthatcharity.uk/orgid/GB-CHC-1050768)]<br>care service for the elderly, disable, families with children, language support, befriending and help with respite breaks. | £1,578

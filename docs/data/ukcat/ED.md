@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](/data/tag_list/) of charities in the 
 UK. It is part of the [Education](/data/ukcat/ED) category.
 
-82,915 charities have been tagged with this tag.
-This represents 41.19% of all charities.
+82,896 charities have been tagged with this tag.
+This represents 41.15% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 33,995 | 40.46%
-£10k - £100k | 24,474 | 38.10%
-£100k - £250k | 8,075 | 43.20%
-£250k - £500k | 4,018 | 45.63%
-£1m - £10m | 3,853 | 50.27%
-£500k - £1m | 2,525 | 45.45%
-Over £10m | 923 | 53.20%
-Total | 77,863 | 40.83%
+Under £10k | 33,872 | 40.32%
+£10k - £100k | 24,483 | 38.27%
+£100k - £250k | 8,077 | 42.95%
+£250k - £500k | 4,074 | 45.78%
+£1m - £10m | 3,874 | 50.29%
+£500k - £1m | 2,532 | 45.15%
+Over £10m | 933 | 53.07%
+Total | 77,845 | 40.81%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,339 | 39.85%
-oscr | 12,589 | 49.50%
-ccni | 2,987 | 43.40%
-Total | 82,915 | 41.19%
+ccew | 67,328 | 39.84%
+oscr | 12,590 | 49.50%
+ccni | 2,978 | 42.67%
+Total | 82,896 | 41.15%
 
 
 ## Ten largest charities (by income)
@@ -46,7 +46,7 @@ Name | Latest income
 -----|--------:
 <strong>University Of Edinburgh</strong> [Charity number: [SC005336](https://findthatcharity.uk/orgid/GB-SC-SC005336)]<br>The advancement of education. Any other purpose that may reasonably be regarded as analogous to any of the other preceding purposes. | £1,296,853,000
 <strong>THE BRITISH COUNCIL</strong> [Charity number: [209131](https://findthatcharity.uk/orgid/GB-CHC-209131)]<br>The British Council creates friendly knowledge and understanding between the people of the UK and other countries. We do this by making a positive contribution to the UK and the countries we work with. We reach millions of people across the world, working with over 100 countries in the fields of arts and culture, English language, education and civil society. | £924,965,472
-<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries; (b)         develop a wider knowledge of the English language; and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £924,965,000
+<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £924,965,000
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £857,941,000
 <strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £604,593,000
 <strong>The Open University</strong> [Charity number: [SC038302](https://findthatcharity.uk/orgid/GB-SC-SC038302)]<br>The objects of the University shall be the advancement and dissemination of learning and knowledge by teaching and research by a diversity of means such as broadcasting and technological devices appropriate to higher education, by correspondence tuition, residential courses and seminars and in other relevant ways, and shall be to provide education of University and professional standards for its students and to promote the educational well-being of the community generally. | £561,500,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>DEVON AND CORNWALL FURNITURE REUSE PROJECT LIMITED</strong> [Charity number: [1146877](https://findthatcharity.uk/orgid/GB-CHC-1146877)]<br>The reduction of poverty support for individuals who face disadvantage hardship, unemployment social exclusion and disabilities.Via the collection of unwanted furniture and white goods that are reconditioned and given back to members of the community either free of charge or a affordable low prices.Education linked to the environment. volunteering opportunities to the unemployed.Reduce reoffending | £224,472
-<strong>THE HIRAM TRUST</strong> [Charity number: [1044084](https://findthatcharity.uk/orgid/GB-CHC-1044084)]<br>To advance the education of the public by providing or assisting in the provision of an experiential and practical skills orientated education in association with schools and institutions operating in whole or part in accordance with the principles of Rudolf Steiner. | £102,250
-<strong>Community House Limited</strong> [Charity number: [SC035942](https://findthatcharity.uk/orgid/GB-SC-SC035942)]<br>(i) To promote for the benefit of the inhabitants of Mar Policies and the wider Alloa and Clackmannanshire areas the provision of facilities for recreation or other leisure time occupation of individuals who have need of such facilities by reason of their youth, age, infirmity or disablement, financial hardship or social and economic circumstances or for the public at large in the interests of social welfare and with the object of improving the condition of life of the said inhabitants.  In furtherance of the above objects but not further or otherwise the Company shall have the following powers:-  (ii) (a) To facilitate and provide facilities and services for the physical, social, emotional, educational and spiritual development and welfare of young people.  (b) To provide and encourage the provision of recreational and leisure opportunities and activities, educational facilities, musical, dramatic and artistic activities and facilities of all kinds.  (c) To encourage the development of positive attitudes and self esteem, healthy relationships and new and existing skills and abilities in young people and the sharing of experiences and intergenerational exchanges between senior citizens and young people.  (d) To acquire, hold and operate a community centre to be known as Community House and community facilities connected therewith and to provide a safe and accepting environment for those using the centre and its facilities. | £118,930
-<strong>ORPHANS INTERNATIONAL</strong> [Charity number: [1146781](https://findthatcharity.uk/orgid/GB-CHC-1146781)]<br>In Romania the charity provides orphanages & poor communities with: funds, food, clothes, medication, helps fund building homes & bought an apartment to house girls from an orphanage on a program to help them become independent. In the Democratic Republic of Congo the charity has been working on an Education programme to assist children ranging from 5-19 years in different areas of the country. | £17,540
-<strong>Area Code Foundation</strong> [Charity number: [SC050829](https://findthatcharity.uk/orgid/GB-SC-SC050829)]<br>For the public benefit to advance the education of children, particularly but not exclusively, by the provision of schools, relevant educational goods, equipment and materials for schools and for the children attending the schools anywhere in the world. | 
-<strong>WEAVERING PRE-SCHOOL</strong> [Charity number: [1017421](https://findthatcharity.uk/orgid/GB-CHC-1017421)]<br>Fundraising is orgnised by the committee and all fundraising money is spent on the children by way of additional equipment, funding trips, parties, extras such as birthday/easter/Christmas gifts | £120,896
-<strong>WEASENHAM PRE-SCHOOL</strong> [Charity number: [1077470](https://findthatcharity.uk/orgid/GB-CHC-1077470)]<br>Pre school setting. | £33,312
-<strong>EQUIPAFRICA CHARTIABLE TRUST</strong> [Charity number: [1157689](https://findthatcharity.uk/orgid/GB-CHC-1157689)]<br>EQUIPAFRICA IMPROVES HEALTHCARE STANDARDS ACROSS AFRICA BY PROVIDING NON-COMMUNICABLE DISEASE GUIDELINES AND TRAINING TO PRIMARY HEALTHCARE CENTRES. IN THIS WAY WE EMPOWER HEALTHCARE STAFF TO SAVE LIVES AND GENERATIONS. | 
-<strong>SHADES OF LIFE</strong> [Charity number: [1176513](https://findthatcharity.uk/orgid/GB-CHC-1176513)]<br>TO FURTHER OR BENEFIT THE RESIDENTS OF BARKING AND DAGENHAM BOROUGH AND THE NEIGHBOURHOOD, WITHOUTDISTINCTION OF SEX, SEXUAL ORIENTATION, RACE OR OF POLITICAL, RELIGIOUS OR OTHER OPINIONS BY ASSOCIATING TOGETHER BY:1. THE RELIEF OF UNEMPLOYMENT FOR THE BENEFIT OF THE PUBLIC IN SUCH WAYS AS MAY BE THOUGHT FIT, INCLUDING ASSISTANCE TO FIND EMPLOYMENT | 
-<strong>HELE VILLAGE COMMUNITY ASSOCIATION</strong> [Charity number: [299840](https://findthatcharity.uk/orgid/GB-CHC-299840)]<br>TO PROMOTE THE BENEFIT OF THE INHABITANTS OF HELE WITHOUT DISTINCTION OF SEX, POLITICS, RELIGION OR OTHER OPINIONS BY ASSOCIATING THE LOCAL AUTHORITIES, VOLUNTARY ORG'S AND INHABITANTS IN A COMMON EFFORT TO ADVANCE EDUCATION AND PROVIDE SUSTAINABLE SERVICES IN THE INTEREST OF SOCIAL WELFARE, RECREATION AND LEISURE-TIME OCCUPATION THUS IMPROVING THE CONDITIONS OF LIFE FOR THE SAID INHABITANTS. . | £305,732
+<strong>WORLDWIDE HOUSE OF HOPE</strong> [Charity number: [1079240](https://findthatcharity.uk/orgid/GB-CHC-1079240)]<br>The activities of the organisation include: translation and interpretation; provision of information, advice and advocacy on health, education, training, employment, housing and welfare benefits. WHH also sign-posts and refers its service-users to specialist providers, as well as accompanying these service-users so as to translate, interpret,  advocate and support them. . | 
+<strong>THE SOCIETY FOR ADVANCING THE CHRISTIAN FAITH</strong> [Charity number: [257889](https://findthatcharity.uk/orgid/GB-CHC-257889)]<br>The society was founded in 1691 and recieved its Royal Charter in 1794. The society contributes towards training and religious instruction for clergy and laity of Anglican dioceses in the West Indies and the Indian Ocean. | £48,433
+<strong>PENTRICH & SOUTH WINGFIELD REVOLUTION GROUP</strong> [Charity number: [1166940](https://findthatcharity.uk/orgid/GB-CHC-1166940)]<br>To educate and promote the Pentrich Rising of 1817.   To commemorate the bi-centenary in 2017.   To continue promoting the cause with exhibitions, talks, books and paintings.   To produce educational materials for schools. | £1,681
+<strong>WEBALE (SCIO)</strong> [Charity number: [SC044292](https://findthatcharity.uk/orgid/GB-SC-SC044292)]<br>4.1 to advance educational opportunities and 4.2 to advance and promote a healthy lifestyle and 4.3 to promote health and well being within young people and  4.4 to relieve poverty, hardship, suffering and disadvantages within the area of benefit and anywhere else in the world which may require help.  | £11,125
+<strong>CYGNETS PRE-SCHOOL</strong> [Charity number: [1055599](https://findthatcharity.uk/orgid/GB-CHC-1055599)]<br>Providing care & early ylears education | £110,799
+<strong>QUARRY BANK COMMUNITY ASSOCIATION</strong> [Charity number: [521324](https://findthatcharity.uk/orgid/GB-CHC-521324)]<br>The charity,both directly and in partnership, delivers education and training to people living in the socially deprived wards of Skelmersdale. It also provides information and guidance. The charity provides open space for use by local communities and it provides low cost office accommodation for social enterprises and other local voluntary groups | £48,232
+<strong>MY ISRAEL</strong> [Charity number: [1121960](https://findthatcharity.uk/orgid/GB-CHC-1121960)]<br>Myisrael was founded in 2008 to support under-the-radar causes in Israel. Our causes cover mental health, special needs, poverty, homelessness, loneliness and education. You can choose where your money goes, knowing that 100% of your donation goes directly to the cause because our operating costs are covered by donors who give specifically for that reason. | £575,404
+<strong>HENVILLE EDUCATIONAL FOUNDATION</strong> [Charity number: [307220](https://findthatcharity.uk/orgid/GB-CHC-307220)]<br>TO ASSIST YOUNG PERSONS UNDER THE AGE OF 25 YEARS WITH EDUCATIONAL NEEDS IN THE LOCALITY OF HAMBLE | £2,319
+<strong>EAST LONDON BUDDHIST CULTURAL CENTRE</strong> [Charity number: [1083830](https://findthatcharity.uk/orgid/GB-CHC-1083830)]<br>Srilanka community cultural activities, social activities, Sunday school for kids, dharma education for all,Bangladeshi cultural activities and social activities, meditation programs for all. | £24,767
+<strong>HOPE FOR HELP FOUNDATION</strong> [Charity number: [1132308](https://findthatcharity.uk/orgid/GB-CHC-1132308)]<br>hope free school projectrelief for flood victims of pakistan food package | £2,000
