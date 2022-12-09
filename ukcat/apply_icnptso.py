@@ -38,6 +38,7 @@ MANUAL_FILES = [
     type=click.Path(exists=True, file_okay=True, dir_okay=False),
 )
 @click.option("--id-field", default="org_id", type=str)
+@click.option("--name-field", default="name", type=str)
 @click.option(
     "--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS, type=str
 )
@@ -70,6 +71,7 @@ def apply_icnptso(
     icnptso_model: str,
     icnptso_csv: str,
     id_field: str,
+    name_field: str,
     fields_to_use: Sequence[str],
     save_location: Optional[str],
     sample: int,
@@ -103,14 +105,14 @@ def apply_icnptso(
         {
             "icnptso_code": y_pred_proba.idxmax(axis=1),
             "icnptso_code_probability": y_pred_proba.max(axis=1).round(3),
-            "org_id": charities.index,
+            id_field: charities.index,
         }
     )
     results.loc[:, "icnptso_code_source"] = "ml_model"
 
     # convert data to dataframe
-    results = results.sort_values(["org_id", "icnptso_code"]).drop_duplicates()[
-        ["org_id", "icnptso_code", "icnptso_code_probability", "icnptso_code_source"]
+    results = results.sort_values([id_field, "icnptso_code"]).drop_duplicates()[
+        [id_field, "icnptso_code", "icnptso_code_probability", "icnptso_code_source"]
     ]
 
     # open the manual files and find the codes to apply
@@ -123,13 +125,13 @@ def apply_icnptso(
         )
         manual_data = manual_data[manual_data.notnull()]
         results.loc[:, "icnptso_code"] = results.join(
-            manual_data, on="org_id", how="left"
+            manual_data, on=id_field, how="left"
         )["manual_icnptso_code"].fillna(results["icnptso_code"])
         results.loc[
-            results["org_id"].isin(manual_data.index), "icnptso_code_source"
+            results[id_field].isin(manual_data.index), "icnptso_code_source"
         ] = "manual"
         results.loc[
-            results["org_id"].isin(manual_data.index), "icnptso_code_probability"
+            results[id_field].isin(manual_data.index), "icnptso_code_probability"
         ] = pd.NA
 
     # add in name and code names
@@ -143,10 +145,12 @@ def apply_icnptso(
             .rename()
         )
 
-        results = results.join(charities["name"], on="org_id")
+        results = results.join(charities[name_field], on=id_field)
         results = results.join(
             icnptso_codes["Title"].rename("icnptso_name"), on="icnptso_code"
         )
+
+    results = results.drop_duplicates()
 
     # save the results
     if save_location:

@@ -20,6 +20,7 @@ from ukcat.settings import CHARITY_CSV, UKCAT_FILE
     type=click.Path(exists=True, file_okay=True, dir_okay=False),
 )
 @click.option("--id-field", default="org_id", type=str)
+@click.option("--name-field", default="name", type=str)
 @click.option(
     "--fields-to-use", "-f", multiple=True, default=["name", "activities"], type=str
 )
@@ -48,6 +49,7 @@ def apply_ukcat(
     charity_csv: str,
     ukcat_csv: str,
     id_field: str,
+    name_field: str,
     fields_to_use: Sequence[str],
     save_location: Optional[str],
     sample: int,
@@ -114,14 +116,16 @@ def apply_ukcat(
     results = (
         results.to_frame()
         .reset_index()
-        .sort_values(["org_id", "ukcat_code"])
+        .sort_values([id_field, "ukcat_code"])
         .drop_duplicates()
     )
 
     # add in name and code names
     if add_names:
-        results = results.join(charities["name"], on="org_id")
+        results = results.join(charities[name_field], on=id_field)
         results = results.join(ukcat["tag"].rename("ukcat_name"), on="ukcat_code")
+
+    results = results.drop_duplicates()
 
     # save the results
     if save_location:
