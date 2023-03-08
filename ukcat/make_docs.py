@@ -65,7 +65,7 @@ def make_ukcat_docs(charity_csv, ukcat_csv, id_field, template, save_location):
                 n_categories=len(ukcat[ukcat["Level"] == 1]),
                 n_subcategories=len(ukcat[ukcat["Level"] == 2]),
                 n_tags=len(ukcat[ukcat["Level"] >= 2]),
-                tags=ukcat,
+                tags=ukcat.sort_index(),
             )
         )
 

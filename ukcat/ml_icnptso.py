@@ -101,7 +101,6 @@ def create_ml_model(
     category_field: str,
     save_location: Optional[str],
 ) -> Pipeline:
-
     # create the sample dataframe
     df = pd.concat([pd.read_csv(f) for f in sample_files]).reset_index()
 

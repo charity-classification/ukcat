@@ -39,7 +39,6 @@ FIELDS = [
 def fetch_ccew(
     ccew_charity_file: str, ccew_gd_file: str, ccew_parta_file: str
 ) -> pd.DataFrame:
-
     ccew_date_fields = [
         "date_of_registration",
         "date_of_removal",
@@ -260,7 +259,6 @@ def fetch_charities(
         charities.loc[:, f] = charities[f].fillna("").str.replace("\n", " ")
 
     if save_location:
-
         # save active charities
         click.echo("Saving charities_active.csv")
         charities.loc[charities["active"], FIELDS].to_csv(

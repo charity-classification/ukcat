@@ -136,7 +136,6 @@ def apply_icnptso(
 
     # add in name and code names
     if add_names:
-
         icnptso_codes = pd.read_csv(icnptso_csv)
         icnptso_codes.index = (
             icnptso_codes["Sub-group"]
