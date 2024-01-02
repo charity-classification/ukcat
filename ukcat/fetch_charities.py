@@ -1,8 +1,10 @@
 import csv
+import io
 import os
 
 import click
 import pandas as pd
+import requests
 
 from ukcat.settings import (
     CCEW_CHARITY_FILE,
@@ -168,8 +170,9 @@ def fetch_oscr(oscr_active: str, oscr_inactive: str) -> pd.DataFrame:
 
 def fetch_ccni(ccni_data: str, ccni_activities_csv: str) -> pd.DataFrame:
     click.echo("Loading CCNI data file")
+    ccni_data_response = requests.get(ccni_data, verify=False)
     ccni = pd.read_csv(
-        ccni_data,
+        io.BytesIO(ccni_data_response.content),
         encoding="cp858",
         dayfirst=True,
         parse_dates=[
@@ -208,7 +211,9 @@ def fetch_ccni(ccni_data: str, ccni_activities_csv: str) -> pd.DataFrame:
     ccni.loc[:, "source"] = "ccni"
     ccni.loc[:, "active"] = ccni["Status"] != "Removed"
     ccni.loc[:, "date_removed"] = None
-    ccni.loc[:, "postcode"] = ccni["Public address"].apply(lambda x: x.split(", ")[-1])
+    ccni.loc[:, "postcode"] = (
+        ccni["Public address"].fillna("").apply(lambda x: x.split(", ")[-1])
+    )
     ccni.loc[:, "last_updated"] = pd.to_datetime("today")
     ccni.loc[:, "org_id"] = ccni["reg_number"].apply(lambda x: f"GB-NIC-{x}")
     ccni.loc[:, "reg_number"] = ccni["reg_number"].apply(lambda x: f"NI{x}")
