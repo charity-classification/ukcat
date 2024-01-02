@@ -11,7 +11,7 @@ You can also see a list of the [UK-CAT categories](tag_list.md) as an HTML page.
 
 ## Manually classified charities
 
-These files show the charities that were [manually classified](../method/manual-classification.md) as part of this project. 
+These files show the charities that were [manually classified](../method/manual-classification.md) as part of this project.
 
 - [`sample.csv`](https://github.com/charity-classification/ukcat/blob/main/data/sample.csv)
 - [`top2000.csv`](https://github.com/charity-classification/ukcat/blob/main/data/top2000.csv)
@@ -24,6 +24,6 @@ the latest lists of active and inactive charities in the UK.
 The UK-CAT classification used a system of [rules-based classification](../method/rules-based-classification.md) as described in the methodology. The ICNP/TSO classification uses a [machine-learning model](../method/machine-learning.md) that is overwritten by any manual classifications found in the sample.
 
 - [`charities_active-ukcat.csv`](https://github.com/charity-classification/ukcat/blob/main/data/charities_active-ukcat.csv)
-- [`charities_inactive-ukcat.csv`](https://github.com/charity-classification/ukcat/blob/main/data/charities_inactive-icnptso.csv)
+- [`charities_inactive-ukcat.csv`](https://github.com/charity-classification/ukcat/blob/main/data/charities_inactive-ukcat.csv)
 - [`charities_active-icnptso.csv`](https://github.com/charity-classification/ukcat/blob/main/data/charities_active-icnptso.csv)
 - [`charities_inactive-icnptso.csv`](https://github.com/charity-classification/ukcat/blob/main/data/charities_inactive-icnptso.csv)
