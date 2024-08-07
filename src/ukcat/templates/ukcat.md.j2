@@ -26,7 +26,7 @@ Charities matching this regular expression will be excluded from the tag:
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 {% for row in by_income -%}
-{{ row.index }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
+{{ row.income_band }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
 {% endfor %}
 
 ## Distribution by charity regulator
@@ -34,7 +34,7 @@ Income band | Charities with tag | Percent of all charities
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 {% for row in by_source -%}
-{{ row.index }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
+{{ row.source }} | {{ "{:,.0f}".format(row.category) }} | {{ "{:.2%}".format(row.percentage) }}
 {% endfor %}
 
 ## Ten largest charities (by income)
