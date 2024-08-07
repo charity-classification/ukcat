@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "ukcat"
 dynamic = ["version"]
 description = 'This repository is the home of the UK Charity Activity Tags, a project to classify every UK registered charity using two classification taxonomies.'
-readme = "README.md"
+readme = "readme.md"
 requires-python = ">=3.8"
 license = "MIT"
 keywords = []
@@ -106,6 +106,3 @@ tests = ["tests", "*/ukcat/tests"]
 
 [tool.coverage.report]
 exclude_lines = ["no cov", "if __name__ == .__main__.:", "if TYPE_CHECKING:"]
-
-[tool.hatch.metadata]
-allow-direct-references = true
