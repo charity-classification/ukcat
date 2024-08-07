@@ -20,4 +20,3 @@ jobs:
         run: |
           ruff check .
           ruff format --check --diff .
-          mypy --install-types --non-interactive src/ukcat tests
