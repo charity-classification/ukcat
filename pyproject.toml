@@ -68,6 +68,7 @@ cov-report = ["- coverage combine", "coverage report"]
 cov = ["test-cov", "cov-report"]
 
 [tool.hatch.envs.docs]
+detached = true
 features = ["docs"]
 
 [tool.hatch.envs.docs.scripts]
