@@ -21,6 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -e .[docs]
+          pip freeze > mkdocs-requirements.txt
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
@@ -28,6 +29,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # CUSTOM_DOMAIN: optionaldomain.com
           CONFIG_FILE: ./mkdocs.yml
-          # REQUIREMENTS: ./mkdocs-requirements.txt
+          REQUIREMENTS: ./mkdocs-requirements.txt
           # EXTRA_PACKAGES: build-base
           # GITHUB_DOMAIN: github.myenterprise.com
