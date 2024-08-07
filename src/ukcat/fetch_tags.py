@@ -20,9 +20,7 @@ from ukcat.utils import airtable_to_dataframe
     type=click.Path(exists=False, file_okay=True, dir_okay=False, writable=True),
     default=UKCAT_FILE,
 )
-def fetch_tags(
-    base_id: str, airtable_api_key: str, table_name: str, save_location: str
-) -> pd.DataFrame:
+def fetch_tags(base_id: str, airtable_api_key: str, table_name: str, save_location: str) -> pd.DataFrame:
     """Fetch the list of tags from Airtable"""
 
     airtable = Airtable(

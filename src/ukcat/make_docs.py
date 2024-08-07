@@ -3,7 +3,7 @@ import os
 import click
 import numpy as np
 import pandas as pd
-from jinja2 import Environment, FileSystemLoader, PackageLoader, select_autoescape
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 from tqdm import tqdm
 
 from ukcat import settings
@@ -17,9 +17,7 @@ def distribution(df, field, category_charities):
         }
     )
     distribution_df.loc["Total", :] = distribution_df.sum()
-    distribution_df.loc[:, "percentage"] = distribution_df["category"].divide(
-        distribution_df["all"]
-    )
+    distribution_df.loc[:, "percentage"] = distribution_df["category"].divide(distribution_df["all"])
     return distribution_df
 
 
@@ -54,7 +52,7 @@ def make_ukcat_docs(charity_csv, ukcat_csv, id_field, template, save_location):
 
     env = Environment(
         # loader=PackageLoader("ukcat"),
-        loader=FileSystemLoader("ukcat/templates"),
+        loader=FileSystemLoader("src/ukcat/templates"),
         autoescape=select_autoescape(),
     )
 
@@ -101,16 +99,10 @@ def make_ukcat_docs(charity_csv, ukcat_csv, id_field, template, save_location):
         result = template.render(
             category=category,
             details=ukcat.loc[category, :].replace({np.nan: None}).to_dict(),
-            by_income=distribution(charities, "income_band", category_charities)
-            .reset_index()
-            .to_dict("records"),
-            by_source=distribution(charities, "source", category_charities)
-            .reset_index()
-            .to_dict("records"),
+            by_income=distribution(charities, "income_band", category_charities).reset_index().to_dict("records"),
+            by_source=distribution(charities, "source", category_charities).reset_index().to_dict("records"),
             top_charities=top_charities,
             random_charities=random_charities,
         )
-        with open(
-            os.path.join(save_location, category + ".md"), "w", encoding="utf-8"
-        ) as f:
+        with open(os.path.join(save_location, category + ".md"), "w", encoding="utf-8") as f:
             f.write(result)

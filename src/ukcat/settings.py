@@ -45,14 +45,16 @@ INCOME_BIN_LABELS = [
 
 # Charity Commission for England and Wales
 CCEW_CHARITY_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity.zip"
-CCEW_GD_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_governing_document.zip"
-CCEW_PARTA_FILE = "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_annual_return_parta.zip"
+CCEW_GD_FILE = (
+    "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_governing_document.zip"
+)
+CCEW_PARTA_FILE = (
+    "https://ccewuksprdoneregsadata1.blob.core.windows.net/data/txt/publicextract.charity_annual_return_parta.zip"
+)
 
 # Office of Scottish Charity Regulator
 OSCR_ACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityRegDownload"
-OSCR_INACTIVE = (
-    "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityFormerRegDownload"
-)
+OSCR_INACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityFormerRegDownload"
 
 # Charity Commission for Northern Ireland
 CCNI_DATA = "https://www.charitycommissionni.org.uk/umbraco/api/charityApi/ExportSearchResultsToCsv/?include=Linked&include=Removed"

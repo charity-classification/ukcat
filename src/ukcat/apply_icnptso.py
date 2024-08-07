@@ -39,9 +39,7 @@ MANUAL_FILES = [
 )
 @click.option("--id-field", default="org_id", type=str)
 @click.option("--name-field", default="name", type=str)
-@click.option(
-    "--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS, type=str
-)
+@click.option("--fields-to-use", "-f", multiple=True, default=ML_DEFAULT_FIELDS, type=str)
 @click.option(
     "--save-location",
     default=None,
@@ -124,30 +122,21 @@ def apply_icnptso(
             .rename("manual_icnptso_code")
         )
         manual_data = manual_data[manual_data.notnull()]
-        results.loc[:, "icnptso_code"] = results.join(
-            manual_data, on=id_field, how="left"
-        )["manual_icnptso_code"].fillna(results["icnptso_code"])
-        results.loc[
-            results[id_field].isin(manual_data.index), "icnptso_code_source"
-        ] = "manual"
-        results.loc[
-            results[id_field].isin(manual_data.index), "icnptso_code_probability"
-        ] = pd.NA
+        results.loc[:, "icnptso_code"] = results.join(manual_data, on=id_field, how="left")[
+            "manual_icnptso_code"
+        ].fillna(results["icnptso_code"])
+        results.loc[results[id_field].isin(manual_data.index), "icnptso_code_source"] = "manual"
+        results.loc[results[id_field].isin(manual_data.index), "icnptso_code_probability"] = pd.NA
 
     # add in name and code names
     if add_names:
         icnptso_codes = pd.read_csv(icnptso_csv)
         icnptso_codes.index = (
-            icnptso_codes["Sub-group"]
-            .fillna(icnptso_codes["Group"])
-            .fillna(icnptso_codes["Section"])
-            .rename()
+            icnptso_codes["Sub-group"].fillna(icnptso_codes["Group"]).fillna(icnptso_codes["Section"]).rename()
         )
 
         results = results.join(charities[name_field], on=id_field)
-        results = results.join(
-            icnptso_codes["Title"].rename("icnptso_name"), on="icnptso_code"
-        )
+        results = results.join(icnptso_codes["Title"].rename("icnptso_name"), on="icnptso_code")
 
     results = results.drop_duplicates()
 

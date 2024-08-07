@@ -38,9 +38,7 @@ FIELDS = [
 ]
 
 
-def fetch_ccew(
-    ccew_charity_file: str, ccew_gd_file: str, ccew_parta_file: str
-) -> pd.DataFrame:
+def fetch_ccew(ccew_charity_file: str, ccew_gd_file: str, ccew_parta_file: str) -> pd.DataFrame:
     ccew_date_fields = [
         "date_of_registration",
         "date_of_removal",
@@ -91,9 +89,7 @@ def fetch_ccew(
         quoting=csv.QUOTE_NONE,
     )
     ccew.loc[:, "objects"] = ccew.join(
-        ccew_gd[ccew_gd["linked_charity_number"] == 0].set_index(
-            "registered_charity_number"
-        )["charitable_objects"],
+        ccew_gd[ccew_gd["linked_charity_number"] == 0].set_index("registered_charity_number")["charitable_objects"],
         on="reg_number",
         how="left",
     )["charitable_objects"].rename("objects")
@@ -109,9 +105,9 @@ def fetch_ccew(
     )
 
     ccew.loc[:, "grant_making_is_main_activity"] = ccew.join(
-        ccew_parta[ccew_parta["latest_fin_period_submitted_ind"]].set_index(
-            "registered_charity_number"
-        )["grant_making_is_main_activity"],
+        ccew_parta[ccew_parta["latest_fin_period_submitted_ind"]].set_index("registered_charity_number")[
+            "grant_making_is_main_activity"
+        ],
         on="reg_number",
         how="left",
     )["grant_making_is_main_activity"].fillna(False)
@@ -211,9 +207,7 @@ def fetch_ccni(ccni_data: str, ccni_activities_csv: str) -> pd.DataFrame:
     ccni.loc[:, "source"] = "ccni"
     ccni.loc[:, "active"] = ccni["Status"] != "Removed"
     ccni.loc[:, "date_removed"] = None
-    ccni.loc[:, "postcode"] = (
-        ccni["Public address"].fillna("").apply(lambda x: x.split(", ")[-1])
-    )
+    ccni.loc[:, "postcode"] = ccni["Public address"].fillna("").apply(lambda x: x.split(", ")[-1])
     ccni.loc[:, "last_updated"] = pd.to_datetime("today")
     ccni.loc[:, "org_id"] = ccni["reg_number"].apply(lambda x: f"GB-NIC-{x}")
     ccni.loc[:, "reg_number"] = ccni["reg_number"].apply(lambda x: f"NI{x}")

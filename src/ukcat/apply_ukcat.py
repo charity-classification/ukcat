@@ -21,9 +21,7 @@ from ukcat.settings import CHARITY_CSV, UKCAT_FILE
 )
 @click.option("--id-field", default="org_id", type=str)
 @click.option("--name-field", default="name", type=str)
-@click.option(
-    "--fields-to-use", "-f", multiple=True, default=["name", "activities"], type=str
-)
+@click.option("--fields-to-use", "-f", multiple=True, default=["name", "activities"], type=str)
 @click.option(
     "--save-location",
     default=None,
@@ -76,21 +74,11 @@ def apply_ukcat(
     # for each classification category go through and apply the regular expression
     results_list = []
     for index, row in tqdm(ukcat.iterrows(), total=len(ukcat)):
-        if (
-            not isinstance(row["Regular expression"], str)
-            or row["Regular expression"] == r"\b()\b"
-        ):
+        if not isinstance(row["Regular expression"], str) or row["Regular expression"] == r"\b()\b":
             continue
-        criteria = corpus.str.contains(
-            row["Regular expression"], case=False, regex=True
-        )
-        if (
-            isinstance(row["Exclude regular expression"], str)
-            and row["Exclude regular expression"] != r"\b()\b"
-        ):
-            criteria = criteria & ~corpus.str.contains(
-                row["Exclude regular expression"], case=False, regex=True
-            )
+        criteria = corpus.str.contains(row["Regular expression"], case=False, regex=True)
+        if isinstance(row["Exclude regular expression"], str) and row["Exclude regular expression"] != r"\b()\b":
+            criteria = criteria & ~corpus.str.contains(row["Exclude regular expression"], case=False, regex=True)
 
         results_list.append(
             pd.Series(
@@ -113,12 +101,7 @@ def apply_ukcat(
         )
 
     # convert data to dataframe
-    results = (
-        results.to_frame()
-        .reset_index()
-        .sort_values([id_field, "ukcat_code"])
-        .drop_duplicates()
-    )
+    results = results.to_frame().reset_index().sort_values([id_field, "ukcat_code"]).drop_duplicates()
 
     # add in name and code names
     if add_names:

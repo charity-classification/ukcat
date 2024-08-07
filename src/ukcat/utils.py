@@ -13,9 +13,7 @@ def airtable_to_dataframe(airtable: Airtable, join_fields: Sequence[str] = []):
     )
     df.index = df.index.rename("ID")
     for f in join_fields:
-        df.loc[:, f] = df[f].apply(
-            lambda x: ";".join(x) if isinstance(x, list) else None
-        )
+        df.loc[:, f] = df[f].apply(lambda x: ";".join(x) if isinstance(x, list) else None)
     return df
 
 

@@ -1,7 +1,7 @@
 # {{ details.tag }} `{{ category }}`
 
-{{ details.tag }} is a tag in the [UK-CAT classification](/data/tag_list/) of charities in the 
-UK. It is part of the [{{ details.Category }}](/data/ukcat/{{ category[0:2] }}) category{%- if details.Subcategory -%} 
+{{ details.tag }} is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
+UK. It is part of the [{{ details.Category }}]({{ category[0:2] }}.md) category{%- if details.Subcategory -%} 
 and the {{ details['Subcategory']}} subcategory{%- endif -%}.
 
 {{ "{:,.0f}".format(by_source[-1].category) }} charities have been tagged with this tag.

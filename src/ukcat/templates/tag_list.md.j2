@@ -14,6 +14,6 @@ total. It is designed to accommodate charities having more than one tag applied.
 Code | Tag | Subcategory
 -----|-----|-----
 {%- else -%}
-[{{ index }}](/data/ukcat/{{index}}) | {{ row.tag }} | {{ row['subcategory'] }}
+[{{ index }}](ukcat/{{index}}.md) | {{ row.tag }} | {{ row['subcategory'] }}
 {%- endif %}
 {% endfor %}

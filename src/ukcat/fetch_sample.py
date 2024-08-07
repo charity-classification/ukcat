@@ -9,17 +9,13 @@ from ukcat.utils import airtable_to_dataframe, regnumber_to_orgid
 @click.command()
 @click.option("--base-id", type=str, envvar="AIRTABLE_BASE_ID")
 @click.option("--airtable-api-key", type=str, envvar="AIRTABLE_API_KEY")
-@click.option(
-    "--table-name", default="Sample data", type=str, envvar="AIRTABLE_SAMPLE_TABLE_NAME"
-)
+@click.option("--table-name", default="Sample data", type=str, envvar="AIRTABLE_SAMPLE_TABLE_NAME")
 @click.option(
     "--save-location",
     default=SAMPLE_FILE,
     type=click.Path(exists=False, file_okay=True, dir_okay=False),
 )
-def fetch_sample(
-    base_id: str, airtable_api_key: str, table_name: str, save_location: str
-) -> pd.DataFrame:
+def fetch_sample(base_id: str, airtable_api_key: str, table_name: str, save_location: str) -> pd.DataFrame:
     """Fetch the completed sample from Airtable"""
 
     airtable = Airtable(
