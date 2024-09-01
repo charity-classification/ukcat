@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,301 charities have been tagged with this tag.
+1,299 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 487 | 0.65%
-£10k - £100k | 401 | 0.59%
-£100k - £250k | 144 | 0.69%
+Under £10k | 486 | 0.65%
+£10k - £100k | 399 | 0.58%
+£100k - £250k | 145 | 0.70%
 £250k - £500k | 64 | 0.65%
 £500k - £1m | 42 | 0.68%
 £1m - £10m | 72 | 0.85%
 Over £10m | 40 | 1.96%
-Total | 1,250 | 0.65%
+Total | 1,248 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,123 | 0.66%
-oscr | 130 | 0.52%
+ccew | 1,119 | 0.66%
+oscr | 132 | 0.53%
 ccni | 48 | 0.67%
-Total | 1,301 | 0.64%
+Total | 1,299 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -45,8 +45,8 @@ Total | 1,301 | 0.64%
 Name | Latest income
 -----|--------:
 <strong>CHURCH COMMISSIONERS FOR ENGLAND</strong> [Charity number: [1140097](https://findthatcharity.uk/orgid/GB-CHC-1140097)]<br>Promoting the mission and ministry of the Church of England especially by supporting poorer dioceses with ministry costs, providing funds to support mission activities, paying for bishops' ministry and some cathedral costs, administering the legal framework for pastoral reorganisation and closed church buildings, paying clergy pensions for service prior to 1998 and running the clergy payroll. | £148,459,318
-<strong>NURSING AND MIDWIFERY COUNCIL</strong> [Charity number: [1091434](https://findthatcharity.uk/orgid/GB-CHC-1091434)]<br>The NMC is the independent regulator for nurses and midwives in the UK. Our primary purpose is to protect patients and the public through effective and proportionate regulation of nurses and midwives. We set and promote standards of education and practice, maintain a register of those who meet these standards, and take action when a nurse's or midwife's fitness to practise is called into question. | £102,885,000
 <strong>Nursing And Midwifery Council</strong> [Charity number: [SC038362](https://findthatcharity.uk/orgid/GB-SC-SC038362)]<br>(2) The principal functions of the Council shall be to establish from time to time standards of education, training, conduct and performance for nurses and midwives and to ensure the maintenance of those standards. (4) The main objective of the Council in exercising its functions shall be to safeguard the health and well-being of persons using or needing the services of registrants. | £102,885,000
+<strong>NURSING AND MIDWIFERY COUNCIL</strong> [Charity number: [1091434](https://findthatcharity.uk/orgid/GB-CHC-1091434)]<br>The NMC is the independent regulator for nurses and midwives in the UK. Our primary purpose is to protect patients and the public through effective and proportionate regulation of nurses and midwives. We set and promote standards of education and practice, maintain a register of those who meet these standards, and take action when a nurse's or midwife's fitness to practise is called into question. | £102,885,000
 <strong>THE LONDON DIOCESAN FUND</strong> [Charity number: [241083](https://findthatcharity.uk/orgid/GB-CHC-241083)]<br>The principal activity of the London Diocesan Fund is to serve and support the parishes and people within the Diocese of London in their mission of proclaiming the gospel of Jesus Christ. It does this operationally through the payment and housing of parish clergy and chaplaincies and support to their ministry. | £49,900,000
 <strong>LIVERPOOL ROMAN CATHOLIC ARCHDIOCESAN TRUST</strong> [Charity number: [232709](https://findthatcharity.uk/orgid/GB-CHC-232709)]<br>To provide support to the clergy in training, ministry and retirementTo support pastoral work in parishes and local communitiesTo support and direct lifelong Christian education in parishes and schoolsTo preserve and invest in the property infrastructure of the Archdiocese and parishes, facilitating worship and enabling the charitable work of the Church to take place | £38,620,950
 <strong>THE ROYAL MARSDEN CANCER CHARITY</strong> [Charity number: [1095197](https://findthatcharity.uk/orgid/GB-CHC-1095197)]<br>The Charity's objects are to raise money solely to allow The Royal Marsden Foundation Trust to fund state-of-the-art equipment and groundbreaking research, create the best patient environments, and ensure its nurses, doctors and research teams can provide the very best care and develop life-saving treatments which are used here in the UK and around the world. | £34,374,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE MARY YOUNG FUND (ST ANN'S NOTTINGHAM)</strong> [Charity number: [247610](https://findthatcharity.uk/orgid/GB-CHC-247610)]<br>Income to be utilised for charitable purposes in connection with the Christmas Fund belonging to the Church, by the Vicar and Churchwardens. | 
-<strong>CONGREGATION OF THE PRIESTS OF THE ASSUMPTION (OTHERWISE KNOWN AS THE ASSUMPTION FATHERS)</strong> [Charity number: [233428](https://findthatcharity.uk/orgid/GB-CHC-233428)]<br>The charity is a Roman Catholic religious order of priests and brothers carrying on charitable work. | 
-<strong>THE BISHOP INGLE HOLIDAY TRUST</strong> [Charity number: [207523](https://findthatcharity.uk/orgid/GB-CHC-207523)]<br>To assist in the provision of holidays in the interests of social welfare for clergy, ordinands and lay workers of the Church of England and their families. | £21,562
+<strong>DAI REES FOUNDATION</strong> [Charity number: [1163215](https://findthatcharity.uk/orgid/GB-CHC-1163215)]<br>The Dai Rees Foundation (DRF) is a charitable organisation made up of UK based registered Paramedics. Our aim is to provide assistance to remote and rural locations across the globe by increasing health awareness, facilitating emergency medical training and donation of medical equipment. The DRF will also act as a trust and provide financial and logistical support to similar projects. | £110
+<strong>UPBEAT</strong> [Charity number: [1087415](https://findthatcharity.uk/orgid/GB-CHC-1087415)]<br>Upbeat is an independent charity set up by ex-cardiac patients. We provide support for people who have had heart attacks, or other heart related problems, and their carers.  A range of specialist exercise sessions are held weekly under the supervision of qualified cardiac instructors and a cardiac nurse. Social and educational events are also provided. | £49,008
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST. OSWALD, ASHBOURNE</strong> [Charity number: [1185390](https://findthatcharity.uk/orgid/GB-CHC-1185390)]<br>Maintaining the Parish Church of St Oswald in the ecclesiastical parish of Ashbourne in the Diocese of Derby. Providing regular religious services and keeping the church open for private prayer, also supporting the Vicar and other clergy in their ministry in Ashbourne and surrounding villages. | £125,462
+<strong>THE GERTRUDE ROGERS TRUST FUND</strong> [Charity number: [217600](https://findthatcharity.uk/orgid/GB-CHC-217600)]<br>Offers financial help to nurses who trained within the Leicester Hospitals and are members of the Leicestershire Nurses League | 
+<strong>REDEMPTORIS MATER HOUSE OF FORMATION</strong> [Charity number: [1047443](https://findthatcharity.uk/orgid/GB-CHC-1047443)]<br>The charity runs a House of Formation to train missionary priests for the Diocese of Westminster. It also supports pastoral activities carried out in the UK and abroad by the students in formation, by the staff and by the priests who have been ordained: evangelisation, catechesis, liturgical ministry, assistance to families, to elderly and housebound, hospital chaplaincy, etc. | £175,081
+<strong>BAYNE BENEFACTION</strong> [Charity number: [203262](https://findthatcharity.uk/orgid/GB-CHC-203262)]<br>1  To offer grants to Clergy in the Oxford Diocese for grants to enable them to undertake further accredited study and to support those in financial need.2.  To uphold and enhance the teaching of religious education in Church Schools in Oxford Diocese through the provision of resources, in-service training etc. and to support the work of the Oxford Diocesan staff within all Diocesan Schools. | £51,208
+<strong>St James The Great Scottish Episcopal Church: Cupar</strong> [Charity number: [SC019080](https://findthatcharity.uk/orgid/GB-SC-SC019080)]<br>Authority and Limitations of Constitution. Te church and congregation shall form part of of the scottish church, and the rector, assistant clergy, and all of the officials shall be subject to the canons of such church in force from time to time. | £49,054
 <strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST JOHN THE BAPTIST, LEAMINGTON PRIORS</strong> [Charity number: [1200508](https://findthatcharity.uk/orgid/GB-CHC-1200508)]<br>Responsibility of cooperating with the Vicar in promoting in the ecclesiastical parish the whole mission of the Church, pastoral, evangelistic, social and ecumenical. The primary object of the PCC is the promotion of the gospel of our Lord Jesus Christ according to the doctrines and practices of the Church of England. | 
-<strong>THE THOMPSON NURSES' BENEVOLENT FUND</strong> [Charity number: [206726](https://findthatcharity.uk/orgid/GB-CHC-206726)]<br>Income to be applied for the benefit of nurses engaged at the Guest Hospital and Eye Infirmary Dudley and in particular for the assistance of nurses in training.||Due to the change in status of the hospital over the years the main object of the Trust has been defeated and negotiations are continuing with the Charity Commission as to how the funds of the Charity may be applied. | £1,783
-<strong>HILLSTOWN MINERS' WELFARE TRUST</strong> [Charity number: [520546](https://findthatcharity.uk/orgid/GB-CHC-520546)]<br>Provision of recreational facilities for the benefit of the inhabitants of the area of benefit without distinction of political, religious or other opinions with the object of improving the conditions of life for the said inhabitants. | £112,028
-<strong>ST PAULS CLERGY HOUSE AND SCHOOLS TRUST</strong> [Charity number: [257642](https://findthatcharity.uk/orgid/GB-CHC-257642)]<br>The charity is a hall in the parish of Saint Paul, Brighton, which is available for lettings for community purposes, from the income arising from lettings, the charity is able to make grants, chiefly to Saint Paul's Church. | £4,238
-<strong>CASTLEFORD AND DISTRICT AID IN SICKNESS FUND</strong> [Charity number: [236483](https://findthatcharity.uk/orgid/GB-CHC-236483)]<br>charity Specifically to assist miners or ex miners who worked at Glasshoughton, Allerton Bywater, Fryston and Wheldale mines | £1,133
-<strong>JADE YOUTH & COMMUNITY LTD</strong> [Charity number: [1153785](https://findthatcharity.uk/orgid/GB-CHC-1153785)]<br>JADE Provides a range of services for young people and the wider community that support personal development, education and safeguard young people, helping them to develop the skills needed to grow and achieve. The area of Rother Valley South where JADE operates is a former mining community with a number of indicators of deprivation that affect young people and the wider community. | £375,827
-<strong>THE MEDWAY HINDU MANDIR CULTURAL AND COMMUNITY CENTRE OF KENT</strong> [Charity number: [802371](https://findthatcharity.uk/orgid/GB-CHC-802371)]<br>The aim of the Medway Hindu Mandir is to promote Santana Dharma (Hinduism).  To teach and remind values of Hindu religious & Indian culture, regardless of caste, creed, colour, sex, disability, nationality and be open for all to come together - all inter faiths welcome. Serving the local Medway community and nearby NHS staff and nurses with food and any other amenities feasible. | £8,786
+<strong>CALL4BACKUP</strong> [Charity number: [1162669](https://findthatcharity.uk/orgid/GB-CHC-1162669)]<br>A strictly confidential support network of serving, retired and ex police officers and staff who are available through multiple contact methods to provide advice and direction on all manner of circumstances affecting the day to day lives of employees of the police. Only we truly understand how the job we do affects our everyday lives. | £28,514
+<strong>THE SAMARITAN FUND IN CONNECTION WITH LEAGUE OF CHARING CROSS HOSPITAL NURSES</strong> [Charity number: [244246](https://findthatcharity.uk/orgid/GB-CHC-244246)]<br>The Samaritan Fund for the League of Charing Cross Hospital Nurses, was set up to provide assistance for any member. For those not trained at Charing Cross Hospital, membership of the League is available for those nurses who, following qualification elsewhere, have subsequently held a nursing position for a minimum of 1 year. | £1

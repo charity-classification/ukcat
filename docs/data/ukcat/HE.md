@@ -3,7 +3,7 @@
 Health is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Health](HE.md) category.
 
-29,503 charities have been tagged with this tag.
+29,511 charities have been tagged with this tag.
 This represents 14.57% of all charities.
 
 ## Keywords to find charities
@@ -20,13 +20,13 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,023 | 11.95%
-£10k - £100k | 8,683 | 12.74%
-£100k - £250k | 3,281 | 15.82%
-£250k - £500k | 1,954 | 19.85%
-£500k - £1m | 1,362 | 22.12%
-£1m - £10m | 2,147 | 25.24%
-Over £10m | 580 | 28.49%
+Under £10k | 9,001 | 11.96%
+£10k - £100k | 8,688 | 12.73%
+£100k - £250k | 3,281 | 15.76%
+£250k - £500k | 1,962 | 19.82%
+£500k - £1m | 1,364 | 22.15%
+£1m - £10m | 2,147 | 25.25%
+Over £10m | 587 | 28.69%
 Total | 27,030 | 14.16%
 
 
@@ -34,10 +34,10 @@ Total | 27,030 | 14.16%
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 21,880 | 12.84%
-oscr | 6,215 | 24.91%
-ccni | 1,408 | 19.54%
-Total | 29,503 | 14.57%
+ccew | 21,896 | 12.85%
+oscr | 6,213 | 24.95%
+ccni | 1,402 | 19.48%
+Total | 29,511 | 14.57%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>ALL NATIONS CHURCH BEDFORD</strong> [Charity number: [1128500](https://findthatcharity.uk/orgid/GB-CHC-1128500)]<br>Three meetings for worship every Sunday at two centres, and midweek group meetings for adults and separately for young people. Pastoral care and activities for parents and babies, children, youth, and senior age group. Weekly food parcel distribution. Christmas hampers through local agencies. Pregnancy crisis advice centre. Daily Pre-school. Support to homeless. Support to those in need overseas. | £610,679
-<strong>MY LIFE</strong> [Charity number: [1180933](https://findthatcharity.uk/orgid/GB-CHC-1180933)]<br>Supporting the mental health of children, young people and adults in education and the criminal justice system, with the aim of encouraging and educating those we collaborate with, to support and promote a less stigmatised outlook on mental health. We offer mental health training to young people in education and to people classified as NEET, including prison settings across England | £214,125
-<strong>TASS Community Sports (SCIO) </strong> [Charity number: [SC051027](https://findthatcharity.uk/orgid/GB-SC-SC051027)]<br>4 The organisation's purposes are: 4.1 The advancement of public participation in sport in the Ardrossan, Saltcoats, Stevenston and surrounding area. To provide opportunities for them regardless of their race, gender, disabilities or religious persuasion to train and play sport in an environment of equality and diversity. 4.2 The use of sport to provide a fun, educational leisure time activities for children and adults and so to help develop their physical and mental health and social skills. 4.3 To enhance the provision of coaching and mentoring in youth sport in Ardrossan, Saltcoats and Stevenston by providing opportunities for further education coaching courses. 4.4 To support the development of the abilities, confidence and self-esteem appropriate to age and stage for those participating in the club's activities | £189
-<strong>NURULQURAN</strong> [Charity number: [1181591](https://findthatcharity.uk/orgid/GB-CHC-1181591)]<br>Interactive Islamic Education, providing assistance with understanding the Quranic Texts, allowing the students to explore the views of the different schools of thoughts and give them a freedom of expression and an opportunity to apply the teachings from the Islamic texts.Providing assistance to the less fortunate socially excluded, elderly, terminally ill in the daily,social & domestic activity | £27,755
-<strong>TIME TO TALK MENTAL HEALTH UK</strong> [Charity number: [1180701](https://findthatcharity.uk/orgid/GB-CHC-1180701)]<br>Time to Talk Mental Health UK is a fully confidential social media based peer support group for those suffering with mental health issues. We are run for and by people with mental health conditions aged 18 or over and living in the UK. | £2,459
-<strong>KASS CHARITABLE TRUST</strong> [Charity number: [1006296](https://findthatcharity.uk/orgid/GB-CHC-1006296)]<br>PROVISION OF FINANCIAL ASSISTANCE WITHOUT REGARD TO ANY RELIGIOUS DENOMINATION TOTHOSE WHO ARE IN NEED OR SUFFERING HARDSHIP.PROVISION AND MAINTENANCE OF NURSING HOMES AND OTHER FACILITIES FOR THE NEEDY AGED OR INFIRM WHO ARE UNABLE TO SUPPORT THEMSELVESPROMOTION OF EDUCATIONPROMOTION OF RESEARCH INTO THE CAUSES AND ACURE FOR CANCER AND SIMILAR DISEASES | £22,813
-<strong>OPEN ARMS HOMES</strong> [Charity number: [1198379](https://findthatcharity.uk/orgid/GB-CHC-1198379)]<br>Residential homes for homeless, abused, or vulnerable women of all faiths, sexualities, and circumstances. We provide a safe environment, facilitate change through person-centred care, and empower them to make lifestyle changes on their recovery to independent living. On-site substance misuse rehabilitation is not provided, but residents can access professional treatment for ongoing health issues. | £6,930
-<strong>SOS BUS NORWICH</strong> [Charity number: [1208922](https://findthatcharity.uk/orgid/GB-CHC-1208922)]<br>THE OBJECT OF THE CIO IS:TO RELIEVE THE NEEDS OF PEOPLE IN NORWICH AND THE SURROUNDING AREAS BY THE PROVISION OF MOBILE PUBLIC CARE SERVICES TO HELP PEOPLE ON THE STREETS AND OTHER PUBLIC PLACES, GIVING GUIDANCE, SUPPORT AND SIGNPOSTING WHICH ASSIST IN PRESERVING PUBLIC ORDER, AVOID ANTI-SOCIAL BEHAVIOUR, RELIEVE SICKNESS AND PRESERVE HEALTH. | 
-<strong>St. Patrick's Bowling Club</strong> [Charity number: [NI103315](https://findthatcharity.uk/orgid/GB-NIC-103315)]<br>1. Improves the health of members as a result of mental skill and exertion in achieving differing levels of performance within the sport. 2. Equality of opportunity for progress within the sport is provided for all members through friendly matches, league matches and varying levels of competitions run within the Club, West Down Zone, Irish Indoor Bowling Association and various club competitions throughout the Province. 3. Club dinners at Christmas and end of season contribute to the social interaction of all members. 4. Inspire younger members of the public to take up indoor bowls. 5. Offering those with low income the opportunity to pay their membership fees over a three month period. 6. Provision of in-house coaching to improve the skills of all members. | £190
-<strong>MERCY MINISTRIES UK</strong> [Charity number: [1111377](https://findthatcharity.uk/orgid/GB-CHC-1111377)]<br>Provide relief and support to women and girls affected by poverty, pregnancy, sickness hardship and distress. Provide charitable relief including the provision of housing or other accommodation to women and girls in need of care because of their social, emotional and economic circumstances. Provide a support service to churches and those who are seeking help in overcoming life controlling issues | £1,295,950
+<strong>TAUNTON STREET PASTORS</strong> [Charity number: [1145754](https://findthatcharity.uk/orgid/GB-CHC-1145754)]<br>Advancing the Christian Faith, relieving sickness and financial hardship, education, health, citizenship, community development, crime prevention, human rights, conflict resolution and the promotion of religious and racial harmony in Taunton and other places as deemed appropriate by the Trustees. Listening, caring and providing practical help without prejudice. | £6,228
+<strong>THE LANTERN TRUST WEYMOUTH</strong> [Charity number: [1114979](https://findthatcharity.uk/orgid/GB-CHC-1114979)]<br>The Lantern is an independent charity, founded in 1983  which seeks to benefit vulnerable and marginised people in the Weymouth and Portland area through its resource centre and by working closely and professionally with other agencies. The Lantern offers a range of services including advocacy,housing, benefits advice, counselling, support groups, crisis response, frontline practical support. | £757,604
+<strong>WELL WINDSOR</strong> [Charity number: [1207021](https://findthatcharity.uk/orgid/GB-CHC-1207021)]<br>For the public benefit, the preservation and protection of good mental health for children and young people suffering from mental ill health within Windsor and the surrounding areas in particular, but not exclusively by the provision of grant funding for counselling, a mental health curriculum, a wellbeing networking hub and teacher and staff training. | 
+<strong>BLESSING FAMILY ASSOCIATION</strong> [Charity number: [1118767](https://findthatcharity.uk/orgid/GB-CHC-1118767)]<br>BFA deliver a six-month  Befriend project for refugee families from French-speaking communities within Croydon who are isolated, lonely, and stressed to empower them to participate in weekly meetings. They can build knowledge on health issues. We run various sessions of dance, art, music, drama and life skills for young people with the help of volunteers to support young people. | £24,294
+<strong>CHELMSFORD SPIRITUALIST SOCIETY LIMITED</strong> [Charity number: [1143666](https://findthatcharity.uk/orgid/GB-CHC-1143666)]<br>We hold events throughout the year in support of local charities, including Essex Air Ambulance, Muscular Dystrophy and Animal Rescue. We have also supported Farleigh?s Hospice, CHESS and Chelmsford Homeless Charity. It is our intention this year to support local and smaller charities. We have initiated a special charity fund from donations received via our Healing Group activities. | £15,795
+<strong>PENDLE CLUB</strong> [Charity number: [222933](https://findthatcharity.uk/orgid/GB-CHC-222933)]<br>Social activities for over 55 years e.g. dancing, dominoes, whist, bridge, Luncheon Club, Snooker. Also facilities for other local groups e.g. Probus, Girl Guides, Scouts, Age Concern, Camcorder Club, Talking Newspaper et al | £16,300
+<strong>IT GETS BETTER LOVE LIFE</strong> [Charity number: [1202978](https://findthatcharity.uk/orgid/GB-CHC-1202978)]<br>THE OBJECTS OF THE CIO ARE RESTRICTED SPECIFICALLY FOR THE PUBLIC BENEFIT TO THE RELIEF OF POVERTY, FINANCIAL HARDSHIP, ILL-HEALTH OR OTHER DISADVANTAGE AMONG PEOPLE WHO ARE HOMELESS OR AT RISK OF HOMELESSNESS THROUGH THE PROVISION OF SERVICES AND FACILITIES TO INDIVIDUALS IN NEED. | 
+<strong>Visually Impaired Edinburgh Velo (SCIO)</strong> [Charity number: [SC052480](https://findthatcharity.uk/orgid/GB-SC-SC052480)]<br>4 The organisation's purposes are: 4.1 the relief of those in need by reason of ill-health, disability, or other disadvantage, in particular those who are blind, partially sighted or have a dual sensory loss (the 'Community'). 4.2 the advancement of public participation in sport, in particular in respect of the participation by individuals within the Community with sport, particularly but not exclusively tandem cycling, and active travel.  4.3 the provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for and the well being of the persons for whom the facilities or activities are primarily intended, particularly but not exclusively through tandem cycling and related or associated activities. | 
+<strong>"LYNDALE" KNOWSLEY CANCER SUPPORT CENTRE LIMITED</strong> [Charity number: [519725](https://findthatcharity.uk/orgid/GB-CHC-519725)]<br>We are an independent & voluntary organisation and charity, providing caring & support in a homely & friendly environment to help and support people affected by cancer, their families & carers. | £26,172
+<strong>Home 2 Hospital</strong> [Charity number: [SC052901](https://findthatcharity.uk/orgid/GB-SC-SC052901)]<br>4The organisation's purposes are: 4.1The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage (including relief given by the provision of accommodation or care). and 4.2The advancement of health (including the prevention or relief of sickness, disease or human suffering.  In furtherance of the above purposes, the organisation shall:  (a)Provide cancer patients with a free transport service to hospital appointments relating to their diagnosis and treatment.  We will provide this service to people living in Larbert and Stenhousemuir and/or registered with a GP practice in Larbert or Stenhousemuir. (b)Recruit drivers, co-ordinators and fundraisers. (c)Provide guidance and training for all drivers. | 

@@ -3,7 +3,7 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-28,899 charities have been tagged with this tag.
+28,908 charities have been tagged with this tag.
 This represents 14.27% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,015 | 14.59%
-£10k - £100k | 8,684 | 12.74%
-£100k - £250k | 2,530 | 12.20%
-£250k - £500k | 1,474 | 14.97%
-£500k - £1m | 1,156 | 18.78%
-£1m - £10m | 1,644 | 19.32%
-Over £10m | 323 | 15.86%
-Total | 26,826 | 14.05%
+Under £10k | 11,001 | 14.62%
+£10k - £100k | 8,666 | 12.70%
+£100k - £250k | 2,560 | 12.30%
+£250k - £500k | 1,479 | 14.94%
+£500k - £1m | 1,160 | 18.83%
+£1m - £10m | 1,645 | 19.34%
+Over £10m | 323 | 15.79%
+Total | 26,834 | 14.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,277 | 14.83%
-oscr | 2,800 | 11.22%
-ccni | 822 | 11.41%
-Total | 28,899 | 14.27%
+ccew | 25,297 | 14.84%
+oscr | 2,791 | 11.21%
+ccni | 820 | 11.39%
+Total | 28,908 | 14.27%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>UNITED CHARITY OF PALLING BURGESS AND OTHERS</strong> [Charity number: [236440](https://findthatcharity.uk/orgid/GB-CHC-236440)]<br>To provide financial assistance for those in need resident within the boundaries of the Gloucester City Council administrative area. | £2,278
-<strong>REHAB ASSIST</strong> [Charity number: [1199431](https://findthatcharity.uk/orgid/GB-CHC-1199431)]<br>Our main service is to offer people who have been seriously ill general support and financial assistance towards their rehabilitation costs. | 
-<strong>THE HOMITY TRUST</strong> [Charity number: [1155479](https://findthatcharity.uk/orgid/GB-CHC-1155479)]<br>We provide grants to registered charitable and not for profit organisations where a small amount will make a big difference. Based in Brighton, it is our intention to prioritise local, smaller community causes within Sussex. | £20,890
-<strong>Vision Mechanics</strong> [Charity number: [SC023585](https://findthatcharity.uk/orgid/GB-SC-SC023585)]<br>To advance the education of the public in the arts and in particular the art of puppetry through performances and other related activities | £148,122
-<strong>THE OCCASIONAL SINGERS</strong> [Charity number: [1117614](https://findthatcharity.uk/orgid/GB-CHC-1117614)]<br>To enjoy, promote, develop and maintain public education in, and appreciation of, the arts and science of music in all its aspects by the presentation of public concerts and recitals; and for the general purposes of such charitable bodies or such other purposes as shall be exclusively charitable, as the membership may from time to time decide. | £2,494
-<strong>CROWBOROUGH FOR YOUNG PEOPLE LTD</strong> [Charity number: [1093802](https://findthatcharity.uk/orgid/GB-CHC-1093802)]<br>The charity's object and its principle activity is to relieve and prevent sufferig among young people between the ages of 13 and 25 in Crowborough. To this aim it provides a 'drop-in' shop in the town centre where young people can discuss their problems and recieve advice from trained staff. Problem areas covered include: sexual health, drug and alcohol abuse, behavioural problems, careers, social | £53,685
-<strong>OMID TRUST</strong> [Charity number: [1189194](https://findthatcharity.uk/orgid/GB-CHC-1189194)]<br>Promoting the education of people of limited means of Iranian origin, including by awarding to such persons scholarships, maintenance allowances, grants and/or bursaries tenable at university, college or institution of higher or further education in the United Kingdom | £12,482
-<strong>NASH STRICT BAPTIST CHARITY</strong> [Charity number: [1014707](https://findthatcharity.uk/orgid/GB-CHC-1014707)]<br>Upkeep and maintain Nash Strict Baptist Burial GroundUse any surplus monies for Grants to Strict Baptist Churches in Bedfordshire, Buckinghamshire and Northamptonshire | £1,125
-<strong>THE FLORENCE SHAW TRUST</strong> [Charity number: [291769](https://findthatcharity.uk/orgid/GB-CHC-291769)]<br>Provides small donations to charitable donations to UK registered charities. | £1,163
-<strong>SARAH WOODCOCK</strong> [Charity number: [238535](https://findthatcharity.uk/orgid/GB-CHC-238535)]<br>To provide financial assistance to local people either as individuals or appropriate groups. | £129
+<strong>LLANELLI & DISTRICT MODEL ENGINEERS</strong> [Charity number: [1146472](https://findthatcharity.uk/orgid/GB-CHC-1146472)]<br>The advancement of public education in the construction of models of engineering in particular through the provision of displays, demonstrations and facilities for the construction, maintenance and running of engineering models. | £27,905
+<strong>NORTHAMPTON ARTS COLLECTIVE LIMITED</strong> [Charity number: [1157238](https://findthatcharity.uk/orgid/GB-CHC-1157238)]<br>To promote art for the benefit of the public by the establishment and maintenance of an art Gallery and to advance the education of the public in the subject of art.The organisation provides a centre for creativity with a arts programme for the communities of Northampton and beyond  to participate in a range of activities/ experiences including exhibitions, performances, film, community events. | £192,171
+<strong>KIDLINGTON (E) TOWNSWOMEN'S GUILD</strong> [Charity number: [1083320](https://findthatcharity.uk/orgid/GB-CHC-1083320)]<br>We make items for sale at the Helen & Douglas House Shop. We raise money for a local charity each year. We donate Christmas parcels to the the N. Oxford Foodbank. We organised the Flower and Quilt Festival for Christian Aid, in the village's church.We go on outings to various places of interest. We take part in Federation Activities, and have won two previous Craft & Produce Shows. | £3,344
+<strong>PARENTS AND FRIENDS OF ST PAUL'S C E SCHOOL BRIGHTON</strong> [Charity number: [1119280](https://findthatcharity.uk/orgid/GB-CHC-1119280)]<br>Fundraising activities to provide grants to support education and play facilities within St Pauls CE School Brighton | £8,860
+<strong>Autism and Neurodiversity North Scotland</strong> [Charity number: [SC007421](https://findthatcharity.uk/orgid/GB-SC-SC007421)]<br>The company’s objects are: To support and promote the wellbeing of children and adults with an autistic spectrum condition (ASC) and their families and supporters within the geographical area of Grampian (comprising Aberdeen City, Aberdeenshire and Moray) and any other areas where we may from time to time be asked to provide our services, and in furtherance thereof the company shall seek: (a)         To maximise opportunities for children and young adults with an autistic spectrum condition (ASC) to build their social and communication skills through supported play, education and other activities. (b)         To offer tailored support and advice to people with an ASC, through individual and group services, training, advocacy and specialised support. (c)          To provide advice, training, advocacy, information and support to families and others involved with supporting people with an ASC. (d)         To make appropriate representation to relevant statutory bodies and other organisations on behalf of people with an ASC and their families and supporters. (e)         To provide advice, training and information to anyone with an interest in learning more about ASCs. (f)          To increase public awareness regarding the challenges and circumstances of people with an ASC and their families and supporters and to encourage their inclusion and appropriate support in the community.        (g)         To promote, conduct and engage in research into autism and ASCs, to collect and disseminate information relating to these and to exchange such information with other bodies having similar objects. (h)         To facilitate provision of other ASC-related services.  | £579,890
+<strong>THE ASCENSION SUNDAY SCHOOL CHARITY</strong> [Charity number: [509626](https://findthatcharity.uk/orgid/GB-CHC-509626)]<br>Makes grants to individuals | £475
+<strong>BARROW AND DISTRICT ASSOCIATION OF ENGINEERS</strong> [Charity number: [1198693](https://findthatcharity.uk/orgid/GB-CHC-1198693)]<br>TO ADVANCE EDUCATION FOR THE PUBLIC BENEFIT IN SOUTH WEST CUMBRIA IN SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS THROUGH THE PROVISION OF; A) PUBLIC LECTURES ; B) BURSARIES, SCHOLARSHIPS, PRIZES AND AWARDS TO STUDENTS IN PRIMARY, SECONDARY, AND HIGHER EDUCATIONAL SETTINGS; C) GRANTS TO ENABLE EDUCATIONAL ESTABLISHMENTS TO INVEST IN FACILITIES TO PROMOTE AN INTEREST IN STEM SUBJECTS. | £26,393
+<strong>THE TOWN CHARITY</strong> [Charity number: [209759](https://findthatcharity.uk/orgid/GB-CHC-209759)]<br>Makes cash grants in December to the poor of the village of Thompson.  Individuals, or others on their behalf, may apply for grants if they believe they are deserving of help. | £1,108
+<strong>CHARITY OF SARAH GUEST</strong> [Charity number: [253164](https://findthatcharity.uk/orgid/GB-CHC-253164)]<br>Relieving either generally or individually persons resident in the parish of St Denys, Walmgate, York, who are in conditions of need, hardship or distress, by making grants of money or providing or paying for items, services or facilities calculated to reduce the need, hardship or distress of such persons. | £2,014
+<strong>H B BICKET CHARITABLE TRUST</strong> [Charity number: [282674](https://findthatcharity.uk/orgid/GB-CHC-282674)]<br>Established to provide financial assistance to the local charities in Liverpool. | £12,486

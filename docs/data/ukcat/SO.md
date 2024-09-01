@@ -3,8 +3,8 @@
 Society is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Society](SO.md) category.
 
-7,557 charities have been tagged with this tag.
-This represents 3.73% of all charities.
+7,574 charities have been tagged with this tag.
+This represents 3.74% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 3,149 | 4.17%
+Under £10k | 3,141 | 4.18%
 £10k - £100k | 1,842 | 2.70%
-£100k - £250k | 754 | 3.63%
-£250k - £500k | 405 | 4.11%
-£1m - £10m | 328 | 3.86%
-£500k - £1m | 244 | 3.96%
-Over £10m | 84 | 4.13%
-Total | 6,806 | 3.56%
+£100k - £250k | 764 | 3.67%
+£250k - £500k | 404 | 4.08%
+£1m - £10m | 331 | 3.89%
+£500k - £1m | 240 | 3.90%
+Over £10m | 85 | 4.15%
+Total | 6,807 | 3.57%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,506 | 1.47%
-ccni | 259 | 3.59%
-oscr | 4,792 | 19.21%
-Total | 7,557 | 3.73%
+ccew | 2,521 | 1.48%
+ccni | 258 | 3.58%
+oscr | 4,795 | 19.25%
+Total | 7,574 | 3.74%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>ABERYSTWYTH MUSLIM SOCIETY</strong> [Charity number: [1133487](https://findthatcharity.uk/orgid/GB-CHC-1133487)]<br>The advancement of the Islamic religion in accordance with the teachings of the Holy Quran and Sunnah of the Prophet Muhammad (peace be upon him). | £870
-<strong>Cockenzie and Port Seton Community Gala</strong> [Charity number: [SC048123](https://findthatcharity.uk/orgid/GB-SC-SC048123)]<br>The organisation's purposes are: 4.1 The advancement of Citizenship or Community Development 4.2 The advancement of the arts, heritage and culture | £13,353
-<strong>Valley Park Community Centre</strong> [Charity number: [SC010700](https://findthatcharity.uk/orgid/GB-SC-SC010700)]<br>The Association is established for charitable purposes only (in this constitution referred to as 'the Objects'). ln particular the Objects shall be: 3.1 to advance education among the residents of the Area of Benefit (the 'beneficiaries') through the development and implementation of programmes of community education for the said beneficiaries. and 3.2 to provide or assist in the provision of facilities for recreation or other leisure time occupation, for the benefit of the said beneficiaries where such provision is i) in the benefit of social welfare ii) made with the objects of improving the conditions of life of people in the Area of Benefit 3.3 to advance citizenship and promote volunteering among the beneficiaries through the provision of opportunities for them to take an active part in the civic life of their communities. | £22,494
-<strong>GROWING REAL OPPORTUNITIES FOR WOMEN (GROW) CYMRU</strong> [Charity number: [1190097](https://findthatcharity.uk/orgid/GB-CHC-1190097)]<br>To advance the education of and relieve unemployment of women in WalesThe prevention and relief of poverty of womenPromoting equality and diversity by the elimination of discrimination on the grounds of age, sex or sexual orientation | £44,458
-<strong>2nd Stonehaven Brownies</strong> [Charity number: [SC040840](https://findthatcharity.uk/orgid/GB-SC-SC040840)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £6,265
-<strong>Air Training Corps No 49F Greenock Squadron Non Public Sports & Welfare Funds</strong> [Charity number: [SC024724](https://findthatcharity.uk/orgid/GB-SC-SC024724)]<br>The purpose of the Squadron Association (‘the Association’) is to fully support the squadron commander to further the objects of the Air Training Corps (‘the ATC’) as contained in the Schedule to the Royal Warrant as amended from time to time but in particular to support activities which foster the spirit of adventure amongst the squadron’s cadets and develop their qualities of leadership and good citizenship. | £6,545
-<strong>Scottish Hazards</strong> [Charity number: [SC044785](https://findthatcharity.uk/orgid/GB-SC-SC044785)]<br>The organisation is established for charitable purposes only, and in particular, the objects are: 1.The advancement of health and the saving of lives by preventing accidents, injury or illness from causing physical or mental harm to persons in need through the provision of specialist information, advice, training and in-depth support on occupational health and safety. Furthermore, we will facilitate the exchange of information and ideas amongst the organisation's network in order to foster and develop cooperation between government, trade unions, employers and others,with a view to achieving continuous improvement in the standard of occupational health and safety throughout Scotland. 2.The advancement of education by increasing knowledge and awareness of occupational health and safety issues, with a view to improving health and safety practice and developing effective worker involvement. 3.The advancement of environmental protection or improvement by improving knowledge and awareness of occupational environmental matters and encouraging and supporting workers and their representatives to develop greater awareness of and action to address the environmental impact of their workplaces. and 4.Promotion of equality and diversity by placing particular emphasis on reaching those without access to adequate occupational health and safety advice and support, with those known to be at most risk including those with protected characteristics within the meaning of the Equality Act 2010. | £27,669
-<strong>REPORT (UK)</strong> [Charity number: [1149080](https://findthatcharity.uk/orgid/GB-CHC-1149080)]<br>I) TO EDUCATE ABOUT AND ADVANCE CIVIC RESPONSIBILITY.II) SUCH CHARITABLE PURPOSES FOR THE PUBLIC BENEFIT AS ARE EXCLUSIVELY CHARITABLE ACCORDING TO THE LAWS OF ENGLAND AND WALES AS THE TRUSTEES MAY FROM TIME TO TIME DETERMINE. | 
-<strong>AL-HUDA ISLAMIC CENTER</strong> [Charity number: [1203492](https://findthatcharity.uk/orgid/GB-CHC-1203492)]<br>TO ADVANCE THE ISLAMIC FAITH FOR THE BENEFIT OF THE PUBLIC IN NORWICH AND SURROUNDING AREAS IN ACCORDANCE WITH THE STATEMENT OF FAITH BY PROVIDING FACILITIES FOR ISLAMIC WORSHIP AND PRAYER, RELIGIOUS AND SUPPLEMENTARY EDUCATION, RELIGIOUS HARMONY, ASSISTANCE AND GUIDANCE WITH REGARD TO BURIAL ARRANGEMENTS AND PASTORAL CARE IN THE LOCAL COMMUNITY. | 
-<strong>LANSBURY ESTATE MUSLIM ASSOCIATION</strong> [Charity number: [1154615](https://findthatcharity.uk/orgid/GB-CHC-1154615)]<br>TO ADVANCE THE ISLAMIC FAITH FOR THE PUBLIC BENEFIT IN SUCH WAYS AS THE TRUSTEES SHALL DEEM FIT. THE ADVANCEMENT OF EDUCATION AND TRAINING, INCLUDING RELIGIOUS EDUCATION. THE PROMOTION OF RACIAL HARMONY FOR THE PUBLIC BENEFIT BY: PROMOTING KNOWLEDGE AND MUTUAL UNDERSTANDING BETWEEN DIFFERENT RACIAL GROUPS; ADVANCING EDUCATION AND RAISING AWARENESS ABOUT DIFFERENT RACIAL GROUPS TO PROMOTE GOOD | £201,219
+<strong>Oban and Lorn Lions Charitable Trust</strong> [Charity number: [SC038186](https://findthatcharity.uk/orgid/GB-SC-SC038186)]<br>The trustees must apply the income of the Charity in furthering the charities purposes which are the advancement of citizenship and community development and the relief of those in need by reason of age ,ill health ,disability, financial hardship or other disadvantage by assisting local individuals and organisations in need. | 
+<strong>ROTARY CLUB OF WESTCLIFF-ON-SEA BENEVOLENT FUND</strong> [Charity number: [261151](https://findthatcharity.uk/orgid/GB-CHC-261151)]<br>Raising money and providing support to local, national and international causes. The development of acquaintance as an opportunity for service. The advancement of international understanding, goodwill and peace through a world of fellowship. | £6,307
+<strong>Incorporation Of Bonnetmakers & Dyers Of Glasgow</strong> [Charity number: [SC001872](https://findthatcharity.uk/orgid/GB-SC-SC001872)]<br>The prevention and relief of poverty. The advancement of education. The advancement of civic responsibility or community development. The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage. | £72,216
+<strong>KARAM YOG</strong> [Charity number: [1131017](https://findthatcharity.uk/orgid/GB-CHC-1131017)]<br>Community development - IAG, Education and Training;Teacher Training,Numeracy, Science,ESOL,LIfe in UK. Social, cultural & spiritual issues. Reduce alienation and improve life by knowledge,skills and appropriate attitude. Regular classes and Workshops on community cohesion,citizenship and immigration issues,food safety,health & well being,skills for life and After school club & Youth activities. | £26,851
+<strong>Junction 12</strong> [Charity number: [SC037865](https://findthatcharity.uk/orgid/GB-SC-SC037865)]<br>To advance citizenship and community development by supporting young people of senior primary and secondary school age, irrespective of their gender, sexuality, ethnicity, disability, political or religious persuasion, resident in areas of disadvantage and deprivation in and around the city of Glasgow, particularly those alienated from established statutory and voluntary organisations ('Young People'), so that they can participate more fully in school and community life.  To provide or to assist in the provision of recreational activities for Young People so as to assist the development of their physical, mental, emotional and spiritual capacities so that they may grow to full maturity as individuals and members of society.   Seeking at all times to fulfil these objects within a framework of Christian faith, in particular the following of Christ's teaching and his example of unconditional service and sacrificial love to others. | £218,638
+<strong>THE INTERNATIONAL CENTRE FOR PEACE IN THE MIDDLE EAST (BRITISH SECTION)</strong> [Charity number: [327660](https://findthatcharity.uk/orgid/GB-CHC-327660)]<br>International centre for peace in the Middle East promote information about the Middle East in the United Kingdom in order to create an informed public opinion on the subject. | 
+<strong>Regal Radio SCIO</strong> [Charity number: [SC046057](https://findthatcharity.uk/orgid/GB-SC-SC046057)]<br>The organisation's purposes are: To advance active citizenship, community development and social responsibility across West Lothian through the making, presenting and distribution of radio programmes. To advance local culture and heritage to create a positive image of West Lothian. To advance education by providing training and development opportunities for volunteers of all ages, especially marginalised young people, in order to develop their self-confidence, skills and education and to provide an outlet for local talent to flourish. ? To inform and educate the community through a diverse range of programming. | £4,508
+<strong>Concerned Residents of Upper Ardoyne (CRUA)</strong> [Charity number: [NI107990](https://findthatcharity.uk/orgid/GB-NIC-107990)]<br>CRUA offers residents in its "area of benefit" in Upper Ardoyne the opportunity to engage with our ongoing programs including our Challenging Conversations Good Relations program. We work with the community to promote the safety of all residents, and to address divisive Interface Issues, Anti-Social Behaviour and Peace Walls Removal, Re-imaging, Restructuring or Declassification. We provide access to community facilities and resources and endeavour to enhance quality of life, tackle social isolation, promote positive change and build community cohesion, and educate on environmental issues while promoting regeneration. By providing ongoing programmes of social and educational activities for various age groups, offering advice and support services for those in need, and delivering training or employability opportunities leading to positive change for local residents, we hope to ultimately build a stronger more peaceful community. | £38,624
+<strong>6th Carse Of Gowrie Brownie Guide Unit</strong> [Charity number: [SC034249](https://findthatcharity.uk/orgid/GB-SC-SC034249)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship. | £2,698
+<strong>3rd Kirkintilloch Brownie Pack</strong> [Charity number: [SC034763](https://findthatcharity.uk/orgid/GB-SC-SC034763)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship. | £3,160

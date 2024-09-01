@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-82,920 charities have been tagged with this tag.
-This represents 40.94% of all charities.
+82,896 charities have been tagged with this tag.
+This represents 40.93% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 28,946 | 38.35%
-£10k - £100k | 27,314 | 40.06%
-£100k - £250k | 8,758 | 42.22%
-£250k - £500k | 4,384 | 44.53%
-£1m - £10m | 4,174 | 49.06%
-£500k - £1m | 2,830 | 45.96%
-Over £10m | 1,122 | 55.11%
-Total | 77,528 | 40.60%
+Under £10k | 28,864 | 38.37%
+£10k - £100k | 27,277 | 39.98%
+£100k - £250k | 8,800 | 42.27%
+£250k - £500k | 4,399 | 44.44%
+£1m - £10m | 4,169 | 49.02%
+£500k - £1m | 2,831 | 45.97%
+Over £10m | 1,129 | 55.18%
+Total | 77,469 | 40.58%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,606 | 39.68%
-oscr | 12,414 | 49.76%
-ccni | 2,900 | 40.24%
-Total | 82,920 | 40.94%
+ccew | 67,636 | 39.69%
+oscr | 12,372 | 49.68%
+ccni | 2,888 | 40.13%
+Total | 82,896 | 40.93%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>ENFIELD TOWN SCHOOLS' PARTNERSHIP</strong> [Charity number: [1186244](https://findthatcharity.uk/orgid/GB-CHC-1186244)]<br>To advance the education of children and young people in Enfield, North London, through the provision of services, facilities and activities and to meet the social and emotional well-being needs of all the pupils within our care. | £76,698
-<strong>KNIGHTON HOUSE SCHOOL LIMITED</strong> [Charity number: [306316](https://findthatcharity.uk/orgid/GB-CHC-306316)]<br>Education of children from three to seven for boys and three to 13 years for girls. | £675,188
-<strong>PINE APPLE BOURNE STREET LIMITED</strong> [Charity number: [1206454](https://findthatcharity.uk/orgid/GB-CHC-1206454)]<br>The charity's activities are to advance Parish and community education in the Parish of St Mary, Bourne Street, SW1W 8JJ or in the neighbourhood of the Parish and to provide facilities in the interests of social welfare for recreation and leisure time occupation. | 
-<strong>CENTRAL GOSFORTH SCOUT GROUP</strong> [Charity number: [522414](https://findthatcharity.uk/orgid/GB-CHC-522414)]<br>They are the objectives of the Scout Association. The method of acheiving the Aim of the Association is by providing an enjoyable & attractive scheme of progressive training for the young people, based on the Scout Promise & Law & guided by adult leadership | £9,330
-<strong>CLOCKHOUSE COMMUNITY ASSOCIATION</strong> [Charity number: [1148357](https://findthatcharity.uk/orgid/GB-CHC-1148357)]<br>CCA manages Hillcrest Halls in which it offers activities for pre-school, children,young people and  over 50s.  It hire out the Halls to a nursery, an after school club and other groups running activities for the community.  It  brings together local residents to run a local information resource, and works with Sutton Council and other agencies for the benefit of residents of Clockhouse. | £47,668
-<strong>Rocking Horse Nursery SCIO</strong> [Charity number: [SC052195](https://findthatcharity.uk/orgid/GB-SC-SC052195)]<br>Purposes 4. The organisation's purposes are: 4.1.The advancement of education by administering the property of the SCIO or the improvement of amenities and for the provision of nursery facilities for the children of students and staff (both academic and non-academic) of the University of Aberdeen. If the SCIO facilities are not fully used then the children of students and staff of any other academic institution of further learning in the Aberdeen area may be accepted. 4.2. The advancement of education by encouraging provision of work place nursery facilities in the Aberdeen area. 4.3. The advancement of education by raising and applying funds to provide subsidies for student child care. 4.4. The advancement of education by raising and applying funds to effect improvements to the nursery facilities.  4.5. any other purpose which may be approved by the Trustees for the advancement of education. | 
-<strong>STOCKTON MEN'S SHED</strong> [Charity number: [1206311](https://findthatcharity.uk/orgid/GB-CHC-1206311)]<br>TO PROMOTE SOCIAL INCLUSION FOR THE PUBLIC BENEFIT BY PREVENTING PEOPLE PARTICULARLY BUT NOT EXCLUSIVELY MEN AGED 18 OR OVER WITHIN STOCKTON ON TEES AND THE SURROUNDING AREA, FROM BECOMING SOCIALLY EXCLUDED, RELIEVING THE NEEDS OF THOSE PEOPLE WHO ARE SOCIALLY EXCLUDED AND ASSISTING THEM TO INTEGRATE INTO SOCIETY THROUGH THE PROVISION OF FACILITIES IN WHICH THEY CAN MEET JOINTLY OR INDIVIDUALLY TO UNDERTAKE CREATIVE, PHYSICAL OR RECREATIONAL ACTIVITIES, LEARN OR PASS ON SKILLS AND KNOWLEDGE AND SUPPORT EACH OTHER SOCIALLY.FOR THE PURPOSE OF THIS CLAUSE 'SOCIALLY EXCLUDED' MEANS BEING EXCLUDED FROM SOCIETY, OR PARTS OF SOCIETY, AS A RESULT OF ONE OF MORE OF THE FOLLOWING FACTORS: UNEMPLOYMENT; FINANCIAL HARDSHIP; YOUTH OR OLD AGE; ILL HEALTH (PHYSICAL OR MENTAL). | 
-<strong>THE FRIENDS OF GREENVALE</strong> [Charity number: [1096981](https://findthatcharity.uk/orgid/GB-CHC-1096981)]<br>Parent Teachers Association to provide additional resources for the school through a range of fundraising activities and regular donations | £27,724
-<strong>MONTGOMERYSHIRE YOUTH THEATRE</strong> [Charity number: [516040](https://findthatcharity.uk/orgid/GB-CHC-516040)]<br>Provision of drama-based activities for young people living in a predominantly rural area of mid Wales.  The work is non-selective, and covers the age range 9 to 18+. | £20,284
-<strong>GO BARE</strong> [Charity number: [1187816](https://findthatcharity.uk/orgid/GB-CHC-1187816)]<br>For the public benefits to advance the education of children in developing work, in particular Northern Uganda, particularly but  not exclusively, by the provision of mentoring, providing school shoes, school uniform, school books and tuition fees.Carefully selected volunteers on grounds to donate schools shoes, uniform, books and support students, through training and mentoring. | 
+<strong>DIGSWELL ARTS TRUST</strong> [Charity number: [1150915](https://findthatcharity.uk/orgid/GB-CHC-1150915)]<br>The assistance of persons who intend to or have become artists or craftsmen and who are in need of financial assistance through the provision of low cost studios and support, the promotion of education and training in art and allied subjects and the promotion of the appreciation of art. | £32,756
+<strong>HAYAAT WOMEN TRUST</strong> [Charity number: [1155727](https://findthatcharity.uk/orgid/GB-CHC-1155727)]<br>We offer a range of different services to help disadvantaged families in the community out of poverty. In particular, Black and ethnic minority women in who find it difficult to access mainstream services in their areas.In collaboration with partner organisations we deliver educational and health awareness projects.We establihed a link with Somaliland, Africa and delivered number of projects. | £180,544
+<strong>THE SEDGEFIELD EDUCATIONAL FOUNDATION</strong> [Charity number: [527317](https://findthatcharity.uk/orgid/GB-CHC-527317)]<br>Funding suport for education and training | £3,250
+<strong>THE FRIENDS OF JACKHOUSE NATURE RESERVE</strong> [Charity number: [1198103](https://findthatcharity.uk/orgid/GB-CHC-1198103)]<br>Working with and in consultation with the owners Hyndburn BC, the Friends promote the protection of the physical and natural environment of Jackhouse, including carrying out volunteer sessions and educational walks. | £1,633
+<strong>Good Samaritan Charity Trust</strong> [Charity number: [SC042205](https://findthatcharity.uk/orgid/GB-SC-SC042205)]<br>The trust's object are:  (a) The prevention or relief of poverty. (b) The advancement of education.  (c) The advancement of health. (d) The savings of lives. (e) The relief of those in need by reason of age, ill - health, disability, financial hardship or other disadvantage. | 
+<strong>READING UNIVERSITY STUDENTS' UNION</strong> [Charity number: [1158523](https://findthatcharity.uk/orgid/GB-CHC-1158523)]<br>THE UNION'S OBJECTS ARE THE ADVANCEMENT OF EDUCATION OF STUDENTS AT THE UNIVERSITY OF READING. | £5,109,712
+<strong>THE FRIENDS OF ST MARY'S SCHOOL HORSHAM</strong> [Charity number: [1000327](https://findthatcharity.uk/orgid/GB-CHC-1000327)]<br>The charity supports the Governors of St Mary's Church of England (Aided) Primary School, Horsham, in the fulfilment of their responsibilities with respect to the repair, renewal and maintenance of the school buildings. | £2,780
+<strong>NUZZLETS</strong> [Charity number: [1118698](https://findthatcharity.uk/orgid/GB-CHC-1118698)]<br>NUZZLETS GIVES LOVING HOMES TO UNWANTED ANIMALS AND  ACCESS TO YOUNG PEOPLE FOR THERAPY AND EDUCATION.NUZZLETS SPECIALISES IN HELPING THE FAMILIES OF CHILDREN WITH DISABILITIES, SPECIAL NEEDS AND CHILDREN WHO HAVE LIFE THREATENING ILLNESSES. | £8,149
+<strong>THE PAROCHIAL CHURCH COUNCIL OF ECCLESIASTICAL PARISH OF CENTRAL TELFORD</strong> [Charity number: [1140301](https://findthatcharity.uk/orgid/GB-CHC-1140301)]<br>Provides Christian worship, spiritual guidance, works in local schools, care and nurture at times of significant life events, promotes the Christian marriage, works in deprived areas, offers projects and support in conjunction with local service, work with ex-offenders to prevent re-offending and works in any ways to bring an expression of God and Reflecting Jesus Everywhere in the town | £198,570
+<strong>FRIENDS OF THORNDON SCHOOL</strong> [Charity number: [1084826](https://findthatcharity.uk/orgid/GB-CHC-1084826)]<br>To raise funds for the benefit of the pupils of Thorndon CofE Primary School. | £7,387

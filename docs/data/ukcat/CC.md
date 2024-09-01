@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,411 charities have been tagged with this tag.
-This represents 4.65% of all charities.
+9,375 charities have been tagged with this tag.
+This represents 4.63% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,881 | 2.49%
-£10k - £100k | 3,799 | 5.57%
-£100k - £250k | 2,269 | 10.94%
-£250k - £500k | 578 | 5.87%
-£500k - £1m | 268 | 4.35%
-£1m - £10m | 203 | 2.39%
+Under £10k | 1,874 | 2.49%
+£10k - £100k | 3,772 | 5.53%
+£100k - £250k | 2,273 | 10.92%
+£250k - £500k | 580 | 5.86%
+£500k - £1m | 264 | 4.29%
+£1m - £10m | 205 | 2.41%
 Over £10m | 21 | 1.03%
-Total | 9,019 | 4.72%
+Total | 8,989 | 4.71%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 8,020 | 4.71%
-oscr | 763 | 3.06%
-ccni | 628 | 8.71%
-Total | 9,411 | 4.65%
+ccew | 8,006 | 4.70%
+oscr | 745 | 2.99%
+ccni | 624 | 8.67%
+Total | 9,375 | 4.63%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>PENNYBURN COMMUNITY PLAYGROUP</strong> [Charity number: [NI101368](https://findthatcharity.uk/orgid/GB-NIC-101368)]<br>The playgroup provides a wide, varied and positive curriculum, consisting of educational play activities, role play and social integration. | £43,559
-<strong>THE PARADE COMMUNITY PRE-SCHOOL</strong> [Charity number: [1200075](https://findthatcharity.uk/orgid/GB-CHC-1200075)]<br>The Parade Community Preschool provides The early years foundation stage ( EYFS ) sets standards for the learning, development and care of children from 2 years to 5 years old. The setting is an Ofsted-registered early years provider which follow the EYFS , for preschool children, until they join school reception classes. Through play, children develop language skills, emotions and creativity. | £323,745
-<strong>TODDINGTON CHILDCARE AND FOREST SCHOOL</strong> [Charity number: [1208573](https://findthatcharity.uk/orgid/GB-CHC-1208573)]<br>THE OBJECTS OF THE CIO ARE:TO ADVANCE THE EDUCATION OF CHILDREN BELOW COMPULSORY SCHOOL AGE THROUGH THE EARLY YEARS FOUNDATION STAGE SEVEN AREAS OF LEARNING AND DEVELOPMENT AND SUPPORTING SAFE AND SATISFYING GROUP PLAY FACILITIES. TO ADVANCE THE EDUCATION AND PROVIDE FOR THE RECREATION OF CHILDREN OF SCHOOL AGE BY MAKING THE FACILITIES AT TODDINGTON CHILDCARE AND FOREST SCHOOL AVAILABLE TO THEM DURING OUT OF SCHOOL HOURS AND SCHOOL HOLIDAYS.  | 
-<strong>BERRY HILL UNDER 5'S GROUP</strong> [Charity number: [1053461](https://findthatcharity.uk/orgid/GB-CHC-1053461)]<br>A voluntary managed registered charity providing pre-school education to pre-school children in a safe, secure and friendly environment. | £58,813
-<strong>THE SCHOOL FUND</strong> [Charity number: [1047358](https://findthatcharity.uk/orgid/GB-CHC-1047358)]<br>Nursery School fundraising | £4,525
-<strong>FRIENDS OF SAXLINGHAM SCHOOL ( FOSS )</strong> [Charity number: [1075214](https://findthatcharity.uk/orgid/GB-CHC-1075214)]<br>We raise money to support Saxlingham Primary school. Money earned goes towards playground equipment and school transport for trips for example. | £2,279
-<strong>LUNGI SIERRA LEONE</strong> [Charity number: [1150980](https://findthatcharity.uk/orgid/GB-CHC-1150980)]<br>We aim to advance education & training, relieve poverty, distress, & promote health within the Tintafor, Kamasondo, Benkeh district of Lungi, Sierra leone. 3 Schools- Primary 700, PreSchool  50, Building EJSS  Secondary 250; Free equipped Medical Centre & Motorbike Ambulance Service- Pregnancy, childbirth,Vaccinations,Malaria,Diagnostics;   Outreach for Students,Prosthetics,Covid 19 food support | £26,717
-<strong>WESTFIELD PLAYGROUP AND PARENT & TODDLER GROUP</strong> [Charity number: [1143763](https://findthatcharity.uk/orgid/GB-CHC-1143763)]<br>To advance the education of children below compulsory school age by*Providing safe and satisfying group play, in which parents have the right to take part*Encouraging other charitable activities through which parents may help the children *To operate as a non-profit making organisation for the benefit of the children of the local community and surrounding areas | £77,492
-<strong>ASHTON UNDER LYNE CHURCH OF THE NAZARENE</strong> [Charity number: [1162037](https://findthatcharity.uk/orgid/GB-CHC-1162037)]<br>Weekly programme of activities open to members of the public including:Two Sunday worship services, monthly free meal for those in need, winter overnight accommodation on Sundays for asylum seekersMonday ? Wednesday Bible Study groupsTuesday ? weekly drop in and games clubThursday ? Friday Coffee shopFriday children?s groups for pre-school with carers, and clubs for 5-16 yrs old | £75,246
-<strong>OLLIE'S TRUST</strong> [Charity number: [1147784](https://findthatcharity.uk/orgid/GB-CHC-1147784)]<br>To provide the necessary facilities for the nursery care, recreation and education of young children including primary aged children during out of school hours. | £127,000
+<strong>GREENFIELDS PLAYGROUP</strong> [Charity number: [1031784](https://findthatcharity.uk/orgid/GB-CHC-1031784)]<br>we are a playgroup we do all sorts of activities play dough puzzles out side play sand and water multiculture a varity of toys etc | £900
+<strong>SPARKWELL PARISH HALL AND PLAYGROUND TRUST</strong> [Charity number: [254588](https://findthatcharity.uk/orgid/GB-CHC-254588)]<br>Provision and maintenance of a community hall and playground for the benefit of the inhabitants of Sparkwell Parish, near Plymouth, Devon and voluntary organisations within the Parish | £51,134
+<strong>THE WENDOVER PRE-SCHOOL</strong> [Charity number: [1157324](https://findthatcharity.uk/orgid/GB-CHC-1157324)]<br>Provide pre-school education for 2-5 year olds in the local community. | £63,219
+<strong>CORTON PLAYING FIELD</strong> [Charity number: [304733](https://findthatcharity.uk/orgid/GB-CHC-304733)]<br>We provide a childrens play area, open space and football pitches | £31,281
+<strong>LITTLE ADMIRALS PRE-SCHOOL</strong> [Charity number: [1082960](https://findthatcharity.uk/orgid/GB-CHC-1082960)]<br>We provide a safe, secure and stimulating pre-school learning environment for children aged 2 to 5 years. | £192,519
+<strong>STRAMONGATE SCHOOL ASSOCIATION</strong> [Charity number: [518085](https://findthatcharity.uk/orgid/GB-CHC-518085)]<br>STRAMONGATE SCHOOL ASSOCIATION EXISTS TO ADVANCE THE EDUCATION OF THE PUPILS OF THE SCHOOL AND ITS NURSERY SCHOOL (IF ONE EXISTS EITHER AS PART OF THE SCHOOL OR ON THE SCHOOL SITE) BY PROVIDING AND ASSISTING IN THE PROVISION OF FACILITIES FOR EDUCATION AT THE SCHOOL (NOT NORMALLY PROVIDED BY THE LOCAL EDUCATION AUTHORITY) | £4,492
+<strong>Inverbrothock Playgroup</strong> [Charity number: [SC003678](https://findthatcharity.uk/orgid/GB-SC-SC003678)]<br>The aim of the group is to promote the aims of Scottish Preschool Play Association which are to advance the education of pre-school children with the emphasis on play experience, so that they may take a constructive place in the community and also to advance the education of their parents and other appropriate persons. In furtherance of the above aims the group shall seek: (a) to provide safe and satisfying group play in which parents take part when appropriate. (b) to encourage other charitable activities through which parents may help the children | £139,457
+<strong>THE FRIENDS OF TRUMPS GREEN COUNTY INFANT SCHOOL, VIRGINIA WATER</strong> [Charity number: [802785](https://findthatcharity.uk/orgid/GB-CHC-802785)]<br>To advance the education of pupils at Trumps Green Infant School | £15,101
+<strong>HAMPTON LUCY GRAMMAR SCHOOL FOUNDATION</strong> [Charity number: [1008544](https://findthatcharity.uk/orgid/GB-CHC-1008544)]<br>Awarding grants towards educational purposes to children & young persons who reside in Hampton Lucy, Charlecote, Alveston & Wasperton. Applications also considered from junior and infant schools in Hampton Lucy and Alveston and Barford Junior School where Wasperton residents attend.  Other local schools which residents of Hampton Lucy, Charlecote, Alveston & Wasperton attend are also supported. | £30,565
+<strong>Burntisland Out of School Service</strong> [Charity number: [SC043503](https://findthatcharity.uk/orgid/GB-SC-SC043503)]<br>4.1 Promote the care and education of children in need of care during out of school hours, holidays and in-service days and to promote the provision of facilities for the recreation and other leisure-time occupation of such children in the interests of social welfare with the object of improving their conditions of life. 4.2 Advance the education and training of persons providing such care and education and recreational facilities. | £98,374

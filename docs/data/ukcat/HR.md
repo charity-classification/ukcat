@@ -3,8 +3,8 @@
 Heritage is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Heritage](HR.md) category.
 
-12,993 charities have been tagged with this tag.
-This represents 6.41% of all charities.
+13,005 charities have been tagged with this tag.
+This represents 6.42% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 5,346 | 7.08%
-£10k - £100k | 4,155 | 6.09%
-£100k - £250k | 1,094 | 5.27%
-£250k - £500k | 599 | 6.08%
+Under £10k | 5,344 | 7.10%
+£10k - £100k | 4,156 | 6.09%
+£100k - £250k | 1,093 | 5.25%
+£250k - £500k | 611 | 6.17%
 £1m - £10m | 522 | 6.14%
-£500k - £1m | 379 | 6.16%
-Over £10m | 110 | 5.40%
-Total | 12,205 | 6.39%
+£500k - £1m | 377 | 6.12%
+Over £10m | 110 | 5.38%
+Total | 12,213 | 6.40%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 8,928 | 5.24%
-oscr | 3,587 | 14.38%
-ccni | 478 | 6.63%
-Total | 12,993 | 6.41%
+ccew | 8,933 | 5.24%
+oscr | 3,597 | 14.44%
+ccni | 475 | 6.60%
+Total | 13,005 | 6.42%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE GEORGIAN APOSTOLIC AUTOCEPHALOUS ORTHODOX CHURCH IN GREAT BRITAIN</strong> [Charity number: [1162145](https://findthatcharity.uk/orgid/GB-CHC-1162145)]<br>The Main activities are: the advance of the Christian faith among the Georgian speaking communities with the Greater London area for the benefit of the public through the holding of prayer meetings, lectures, public celebration of religious festivals, producing and/or distributing literature on Christian faith to enlighten others about the Christian religion | £43,188
-<strong>FRIENDS OF ST ANDREW'S CHURCH, SONNING</strong> [Charity number: [1101944](https://findthatcharity.uk/orgid/GB-CHC-1101944)]<br>The restoration, preservation, repair, maintenance, improvement, beautification or reconstruction of St. Andrew's Church, Sonning in such ways as the charity trustees in their absolute discretion may from time to time determine. | £11,819
-<strong>OKO WELFARE ASSOCIATION</strong> [Charity number: [1205626](https://findthatcharity.uk/orgid/GB-CHC-1205626)]<br>OKO Welfare Association is dedicated to alleviating poverty and advancing education on Igbo culture and heritage throughout England. Our mission is twofold: to provide essential support to those in need and to foster understanding and appreciation of the rich cultural traditions of the Igbo people. | 
-<strong>READING ROOM, BARKWAY</strong> [Charity number: [302329](https://findthatcharity.uk/orgid/GB-CHC-302329)]<br>Barkway Reading Room is a meeting place for Village organisations as required. The Reading Room now also operates as a small museum with displays about the history of Barkway. All residents in Barkway can use the Reading Room by arrangement with the Parish Clerk | £1,071
-<strong>British Friends of Normandy Trust</strong> [Charity number: [299724](https://findthatcharity.uk/orgid/GB-CHC-299724)]<br>To advance public education of the D-Day landings by Allied Forces in 1944 and the subsequent campaign to liberate Normandy, through the promotion of and contribution to the D-Day Memorial Garden and the Normandy Battle Museum in Caen, thereby also commemorating the landings, as well as the historical importance and sacrifices made. | £377
-<strong>Friends of New Aberdour Church Pilgrimage and Heritage Initiative</strong> [Charity number: [SC052752](https://findthatcharity.uk/orgid/GB-SC-SC052752)]<br>a) The advancement of religion.  b) The advancement of heritage.  c) The provision of recreational facilities, or the organisation of recreational activities with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. | 
-<strong>THE ZANDRA RHODES CHARITABLE FOUNDATION</strong> [Charity number: [1190145](https://findthatcharity.uk/orgid/GB-CHC-1190145)]<br>Raising funds in order to assist in the training and education of students within the fashion and textile industry.Collation and distribution of The Zandra Rhodes Collections to museums and colleges to facilitate the education of students. | £9,520
-<strong>LAUDERDALE HOUSE TRUST</strong> [Charity number: [1048154](https://findthatcharity.uk/orgid/GB-CHC-1048154)]<br>Leaseholder and landlord of Lauderdale House, a Grade II listed building | £1,624
-<strong>BERKHAMSTED LOCAL HISTORY AND MUSEUM SOCIETY</strong> [Charity number: [803417](https://findthatcharity.uk/orgid/GB-CHC-803417)]<br>The Society promotes interest in  local history of Berkhamsted and district, holds illustrated lectures and outings, publishes annual journal of historical research, three newsletters a year, holds regular historical exhibitions, arranges Heritage Open Days, encourages historical research and collects artefacts stored in accredited Museum. Gives two local history prizes annually to a Primary Schoo | £4,767
-<strong>THE OLTON PROJECT CIO</strong> [Charity number: [1183781](https://findthatcharity.uk/orgid/GB-CHC-1183781)]<br>The Olton Project delivers a wide variety of services to the public holding lessons that educate people about heritage, religion, languages and the future education of children within our community. TOP holds weekly coffee mornings, educational excursions and monthly movie nights among other events. TOP works closely with other charities to relieve poverty by holding events to raise money. | £295,565
+<strong>New Cumnock Development Trust</strong> [Charity number: [SC048761](https://findthatcharity.uk/orgid/GB-SC-SC048761)]<br>PURPOSES  4.2. The Company's main purpose is consistent with furthering the achievement of sustainable  development. The Company's purposes are:  4.2.1. to provide or advance the accessibility of recreational, facilities, and/or organising recreational activities, which will be available to members of the Community and public at large with the object of improving the conditions of life of the Community.  4.2.2. advancement of citizenship or Community development, including rural or urban regeneration and the promotion of civic responsibility and volunteering.  4.2.3. To advance the provisions for educational opportunities in the Community.  4.2.4. To advance environmental protection or improvement including preservation, sustainable development and conservation of the natural environment, the maintenance, improvement or provision of environmental amenities for the Community and/or the preservation of buildings or sites of architectural, historic or other importance to the Community.  4.2.5. to prevent or relieve poverty in the Community.  4.2.6. to advance health in the Community.   4.2.7. the advancement of the arts, heritage, culture or science in the Community.  4.2.8. the advancement of public participation in sport in the Community.  4.2.9. the advancement of human rights, conflict resolution or reconciliation in the Community.  4.2.10. the promotion of equality and diversity in the Community.  4.2.11. the relief of those in need in the Community by reason of age, ill-health, disability, financial hardship or other disadvantage. | £642,544
+<strong>PELTON FELL WAR MEMORIAL PARK BOWLING CLUB</strong> [Charity number: [1087476](https://findthatcharity.uk/orgid/GB-CHC-1087476)]<br>We are a Small Bowling Club providing bowling facilities to the local community | £10,255
+<strong>ST MATTHEW'S CHURCH BRIXTON PCC BUILDING MANAGEMENT CHARITY</strong> [Charity number: [1061039](https://findthatcharity.uk/orgid/GB-CHC-1061039)]<br>To preserve the historical, architectural and constructional heritage of the Church of St Matthew, Brixton, for public benefit. | £118,491
+<strong>THE BRIAN NOLAN ART TRUST</strong> [Charity number: [1199427](https://findthatcharity.uk/orgid/GB-CHC-1199427)]<br>Exhibiting the work of Brian Nolan in a wide range of galleries, museums and public collections, particularly, but not exclusively, in the Manchester and Peak District areas.Promoting participation in watercolour painting and an interest in the medium.Permitting images to be used as appropriate.Enabling access to digital images and original work for research and educational purposes. | £11,670
+<strong>PLAYING FIELD</strong> [Charity number: [304188](https://findthatcharity.uk/orgid/GB-CHC-304188)]<br>Maintenance and upkeep of Playing Field and Equipment in accordance with Conveyance | £1,770
+<strong>CROSSGATES SCHOOL PARENT TEACHERS ASSOCIATION</strong> [Charity number: [1106725](https://findthatcharity.uk/orgid/GB-CHC-1106725)]<br>Raising money to support extra curricular activities such as school trips - experiencing arts, cultural, historical and adventurous events which are not available within our rural community.Purchasing educational equipment which is not provide for by the local LEA such as computers, white boards, projectors and educational literature. | £2,974
+<strong>COWPER MEMORIAL MUSEUM</strong> [Charity number: [310521](https://findthatcharity.uk/orgid/GB-CHC-310521)]<br>The museum commemorates the poet William Cowper, who lived in the house from 1768 to 1786, and his friend the preacher, hymnwriter and slave trade abolitionist John Newton (author of 'Amazing Grace'). It holds an important collection of lace and items relating to the archaeology and history of Olney and its surrounding villages. The historic gardens include Cowper's original summer house/study. | £172,144
+<strong>COWBRIDGE HISTORY SOCIETY</strong> [Charity number: [1094061](https://findthatcharity.uk/orgid/GB-CHC-1094061)]<br>To advance the education of the general public by promoting the study of the history of Cowbridge and district by publication of books and material, a programme of lectures and preservation of documents | £1,998
+<strong>Simpson Grant Association, Dergina</strong> [Charity number: [NI102560](https://findthatcharity.uk/orgid/GB-NIC-102560)]<br>The association works with the Dergina community to provide a centre for various groups in the community. It also arranges events to bring the community together to socialise, support each other and learn about history, culture, crafts safety and similar needs. | £5,119
+<strong>THE ECCLESIASTICAL HISTORY SOCIETY</strong> [Charity number: [1053883](https://findthatcharity.uk/orgid/GB-CHC-1053883)]<br>To advance public education in Ecclesiastical History, mainly through conferences and publications. | £38,011

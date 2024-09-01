@@ -3,8 +3,8 @@
 Associations is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Associations](AS.md) category.
 
-46,576 charities have been tagged with this tag.
-This represents 23.00% of all charities.
+46,538 charities have been tagged with this tag.
+This represents 22.98% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 21,226 | 28.12%
-£10k - £100k | 18,046 | 26.47%
-£100k - £250k | 2,848 | 13.73%
-£250k - £500k | 1,101 | 11.18%
-£1m - £10m | 749 | 8.80%
-£500k - £1m | 611 | 9.92%
-Over £10m | 161 | 7.91%
-Total | 44,742 | 23.43%
+Under £10k | 21,149 | 28.11%
+£10k - £100k | 18,065 | 26.48%
+£100k - £250k | 2,861 | 13.74%
+£250k - £500k | 1,113 | 11.24%
+£1m - £10m | 745 | 8.76%
+£500k - £1m | 607 | 9.86%
+Over £10m | 163 | 7.97%
+Total | 44,703 | 23.42%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,221 | 22.43%
-oscr | 5,901 | 23.65%
-ccni | 2,454 | 34.05%
-Total | 46,576 | 23.00%
+ccew | 38,214 | 22.42%
+oscr | 5,874 | 23.59%
+ccni | 2,450 | 34.04%
+Total | 46,538 | 22.98%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>GUILDFORD WEST DISTRICT SCOUT COUNCIL</strong> [Charity number: [1023710](https://findthatcharity.uk/orgid/GB-CHC-1023710)]<br>Providing support for Beaver, Cub and Scout Groups in the Guildford West area. | £33,219
-<strong>ASSOCIATION FOR THE CONSERVATION OF SUNK ISLAND CHURCH</strong> [Charity number: [516490](https://findthatcharity.uk/orgid/GB-CHC-516490)]<br>We raise funds for the conservation of Sunk Island Church. It is no longer a practising church but an old building of interest and beauty. Built in 1877 in early English style it is now a heritage centre. | £2,127
-<strong>S.A.EI.A SYNDESMOS ATOMON ME EIDIKES ANANGES "SPECIAL NEEDS ASSOCIATION"</strong> [Charity number: [1104824](https://findthatcharity.uk/orgid/GB-CHC-1104824)]<br>general charitable purposes for persons with physical and sensory disabilities, learning difficulties of all ages and their families | £14,400
-<strong>SEFTON UNIT NO 48 OF THE SEA CADET CORPS</strong> [Charity number: [521143](https://findthatcharity.uk/orgid/GB-CHC-521143)]<br>A Community Youth Training and Educational Support Organisation primarily structured around, but not limited to, Maritime based activities including Sailing, Canoeing, Power Boating, Camping, Team Sports and other Maritime training associated with the Royal Navy & Royal Marines Services. | £42,014
-<strong>JAMIA MASJID HANFIA (BRADFORD) ASSOCIATION</strong> [Charity number: [503945](https://findthatcharity.uk/orgid/GB-CHC-503945)]<br>Provide islamic education to young children and old people.Provide feneral services | £157,818
-<strong>ESSENDON PLAYING FIELD ASSOCIATION</strong> [Charity number: [281967](https://findthatcharity.uk/orgid/GB-CHC-281967)]<br>From HM Land Registry December 1980 section 2 "The Trust Property" shall be held upon trust for a recreation ground for the benefit of the inhabitants of the Parish of Essendon in the County of Hertfordshire in such manner as the committee of management from time to time shall think fit. | £8,355
-<strong>3rd Antrim Scout Group (Scouting Ireland)</strong> [Charity number: [NI108362](https://findthatcharity.uk/orgid/GB-NIC-108362)]<br>None | 
-<strong>THE ROYAL AIR FORCE ASSOCIATION CWMBRAN BRANCH</strong> [Charity number: [504077](https://findthatcharity.uk/orgid/GB-CHC-504077)]<br>Local RAF Branch organisation providing support to the members and the ex RAF servicemen | £5,311
-<strong>CREWE AND NANTWICH GYMNASTICS AND COMMUNITY ACTIVITIES CENTRE</strong> [Charity number: [1199680](https://findthatcharity.uk/orgid/GB-CHC-1199680)]<br>We provide coaching  for gymnastics of all ages and adult fitness training on cardio and resistive equipment including free weights | £208,904
-<strong>Middleton Village Community Hall Assoc</strong> [Charity number: [SC009253](https://findthatcharity.uk/orgid/GB-SC-SC009253)]<br>The objects of the Association shall be to secure the establishment, maintenance and management of a Village Hall for the benefit of the residents in the said area, without discrimination on political, religious or other grounds, by providing facilities for education, social welfare and recreation, with the object of improving the quality of life for persons residing in the said area and particularly for those in special need of such facilities by reason of age, youth and other circumstances. | £51,747
+<strong>BARTON RECREATION GROUND IMPROVEMENT GROUP</strong> [Charity number: [1130968](https://findthatcharity.uk/orgid/GB-CHC-1130968)]<br>Raising funds to create a safe and attractive environment for users of Barton Recreation Ground, in order to encourage more people to take part in sport in the interest of social welfare.  This includes replacing out dated changing and club buildings, with a multi use sports and social pavilion, and improving the children's play area with interesting and challenging play equipment. | £3,483
+<strong>RADLETT DISTRICT GUIDES</strong> [Charity number: [302516](https://findthatcharity.uk/orgid/GB-CHC-302516)]<br>Girl Guiding: Rainbows, Brownies and Girl Guides | £7,865
+<strong>FRIENDS OF TACUGAMA LIMITED</strong> [Charity number: [1153204](https://findthatcharity.uk/orgid/GB-CHC-1153204)]<br>The principal activity of the company is fundraising for Tacugama Chimpanzee Sanctuary, Sierra Leone. | £167,548
+<strong>Friends Of Gordon Cottage Child Development Centre</strong> [Charity number: [SC024661](https://findthatcharity.uk/orgid/GB-SC-SC024661)]<br>The objectives of the 'Friends' shall be to promote the welfare of children with Additional Support Needs who are using or have used Gordon Cottage Child Development Centre and their parents/carers, in any manner which is now of hereafter deemed by the law to be charitable without prejudice the foregoing generality: 2.1 To assist the staff in the centre to further the achievements of the children attending the centre. 2.2 To assist the parents of the children who either currently attend, or formerly attended the centre. 2.3 To provide funds to purchase equipment for use within the centre, out-with the funding provided by the Statutory Authority. 2.4 To provide funds to enable children to go on outings that will benefit their development. 2.5 To be non-party in politics, non-sectarian in religion, and non-profit distributing. 2.6 To assist in the education of the public at large with the view of fully integrating the children into society in general. | £8,655
+<strong>FRIENDS OF SPURCROFT PTA</strong> [Charity number: [1097250](https://findthatcharity.uk/orgid/GB-CHC-1097250)]<br>Raise funds for benefit of the pupils of Spurcroft Primary School, Thatcham, Berkshire | £12,442
+<strong>FRIENDS OF MENGO HOSPITAL</strong> [Charity number: [289737](https://findthatcharity.uk/orgid/GB-CHC-289737)]<br>Friends of Mengo are partners with Mengo Hospital, Kampala, Uganda Republic. Through donations, advice, visits, gifts and prayer, our partnership aims to extend our involvement with all those who are treated, work, or are trained at the hospital. Funds are raised from generous donors, largely in the UK, and allocation is decided through close communication between the committee and Mengo SLT. | £83,537
+<strong>JOSEPH COOK MARK LODGE BENEVOLENT FUND</strong> [Charity number: [1001878](https://findthatcharity.uk/orgid/GB-CHC-1001878)]<br>Provide support and assistance to masonic and none masonic individuals or organisations | 
+<strong>SRI LANKAN KIDNEY FOUNDATION</strong> [Charity number: [1180650](https://findthatcharity.uk/orgid/GB-CHC-1180650)]<br>SLK foundation is a UK based charitable organization founded in 2016 and works together with the Samastha Lanka Kidney Patients Association in Sri Lanka to support CKD patients by providing Dialysis kits, Erythropoietin injections, food vouchers, transport costs and other basic needs. | £42,299
+<strong>DOVER DISTRICT LIONS CLUB CHARITABLE TRUST FUND</strong> [Charity number: [1054540](https://findthatcharity.uk/orgid/GB-CHC-1054540)]<br>Service club providing practical and financial support to the community | £10,402
+<strong>DUNCTON AND GRAFFHAM SCHOOLS PARENT TEACHER ASSOCIATION</strong> [Charity number: [1128619](https://findthatcharity.uk/orgid/GB-CHC-1128619)]<br>Events to raise funds to benefit the pupils of Graffham and Duncton Schools, including social events, christmas and summer fayres, sale of fund raising goods | £17,240
