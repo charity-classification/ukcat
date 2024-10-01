@@ -3,7 +3,7 @@
 Environment is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Environment](EN.md) category.
 
-3,619 charities have been tagged with this tag.
+3,634 charities have been tagged with this tag.
 This represents 1.79% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,188 | 1.58%
-£10k - £100k | 958 | 1.40%
-£100k - £250k | 356 | 1.71%
-£250k - £500k | 206 | 2.08%
-£500k - £1m | 173 | 2.81%
-£1m - £10m | 265 | 3.12%
-Over £10m | 51 | 2.49%
-Total | 3,197 | 1.67%
+Under £10k | 1,174 | 1.57%
+£10k - £100k | 978 | 1.43%
+£100k - £250k | 355 | 1.70%
+£250k - £500k | 218 | 2.18%
+£500k - £1m | 168 | 2.71%
+£1m - £10m | 261 | 3.06%
+Over £10m | 55 | 2.67%
+Total | 3,209 | 1.68%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,529 | 1.48%
-oscr | 1,003 | 4.03%
+ccew | 2,537 | 1.49%
+oscr | 1,010 | 4.06%
 ccni | 87 | 1.21%
-Total | 3,619 | 1.79%
+Total | 3,634 | 1.79%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>HALESWORTH MILLENNIUM GREEN TRUST</strong> [Charity number: [1079518](https://findthatcharity.uk/orgid/GB-CHC-1079518)]<br>To provide an open space to be used forever as an area for leisure and enjoyment, where people can enjoy nature and wildlife at first hand, while conserving the landscape, wildlife and heritage features of the site. | £9,840
-<strong>THE HULSE TOWERS HEDGEHOG REFUGE</strong> [Charity number: [1197174](https://findthatcharity.uk/orgid/GB-CHC-1197174)]<br>The Hulse Towers Hedgehog Refuge is comprised of a purpose-built hedgehog hospital where sick, injured or orphaned hedgehogs are treated and cared for until they are well enough to be released back into the wild (or, in the case of some permanently disabled hedgehogs, rehomed into a protected habitat). Outdoor hutches are used for acclimatisation prior to release. We work closely with local Vets. | 
-<strong>A Greener Hawick</strong> [Charity number: [SC043634](https://findthatcharity.uk/orgid/GB-SC-SC043634)]<br>4.1 To aid the community to take effective action to mitigate climate change by increasing awareness of its effects on the community and promote understanding of the consequences of inaction 4 .2 To advance health and wellbeing within our area of benefit and in particular promote local food production and healthy diet 4.3 The advancement of community development including the advancement of urban and rural regeneration  | 
-<strong>THE HORN OF AFRICA STREET CHILDREN LIMITED</strong> [Charity number: [1126775](https://findthatcharity.uk/orgid/GB-CHC-1126775)]<br>HOASC Ltd. has taken as its objectives the relief of poverty for the communities in the Horn of Africa. This region is in the Sahel region of East Africa, an area of the world that is particularly vulnerable to increased levels of desertification caused by climate change.HOASCLTD also supports ANHO an Ethiopian registerd charity. Visit its website as well to see their work(http://www.anhoe.org). | £43,320
-<strong>Recycling First</strong> [Charity number: [SC045286](https://findthatcharity.uk/orgid/GB-SC-SC045286)]<br>The organisation is established for the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage and the advancement of environmental protection or improvement, and in particular, the objects are: 4.1 To help meet the needs of low income households lacking basic furniture and effects. 4.2 To satisfy the wishes of people who wish to see their surpluses put to good use. 4.3 To reduce the volume of domestic waste by recycling usable goods. 4.4 To promote the advantages of recycling furniture, furnishings and appliances and to work with and support furniture recycling projects in other areas. | £92,106
-<strong>Tweed Togs SCIO </strong> [Charity number: [SC048410](https://findthatcharity.uk/orgid/GB-SC-SC048410)]<br>4 The organisation's purposes are to: 4.1 prevent or relieve poverty within the Scottish Borders. 4.2 relieve those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. 4.3 advance citizenship or community development. 4.4 support sustainable living by reducing clothing waste and encouraging reuse and recycling of clothes. | £23,457
-<strong>MOORSIDE WETLAND TRUST</strong> [Charity number: [1064732](https://findthatcharity.uk/orgid/GB-CHC-1064732)]<br>STEWARDSHIP OF THE LAND AND PROPERTY IN YATELEY | £50,593
-<strong>NATURAL BEEKEEPING TRUST</strong> [Charity number: [1140009](https://findthatcharity.uk/orgid/GB-CHC-1140009)]<br>THE NATURAL BEEKEEPING TRUST AIMS TO PROMOTE AWARENESS OF SUSTAINABLE BEEKEEPING WHICH IS DETERMINED BY OUR UNDERSTANDING OF  THE ESSENTIAL  NEEDS OF THE BEES. THE FOUNDERS OF THE TRUST BELIEVE THAT ENCOURAGING BEE GUARDIANSHIP AS WELL AS FOSTERING AN INTEREST IN ORGANIC/BIODYNAMIC AGRICULTURE AND GARDENING WILL MAKE A MAJOR CONTRIBUTION TO ENSURING THE LONG TERM HEALTH OF THE HONEYBEE. | £26,496
-<strong>THE BROADS SOCIETY</strong> [Charity number: [1078434](https://findthatcharity.uk/orgid/GB-CHC-1078434)]<br>Our members share a common purpose to help secure a sustainable future for the Norfolk and Suffolk Broads as a unique and protected landscape in which leisure, tourism and the local economy can thrive in harmony with the natural environment | £14,757
-<strong>THE MARLBOROUGH DOWNS NATURE ENHANCEMENT FARMING LIMITED</strong> [Charity number: [1147925](https://findthatcharity.uk/orgid/GB-CHC-1147925)]<br>Promotion of the improvement of the physical and natural environment of sustainable development for the benefit of the public by the preservation, conservation and protection of the environment through prudent use of resources. Education of the public in the conservation, protection and improvement of the environment. Promotion of sustainable means of achieving economic growth and regeneration. | £25,677
+<strong>Mull And Iona Community Trust</strong> [Charity number: [SC025995](https://findthatcharity.uk/orgid/GB-SC-SC025995)]<br>1	The Company has been formed to benefit the community of Mull, Iona and associated islands as defined by all the postcode units within the postcode districts PA62, PA63, PA64, PA65, PA66, PA67, PA68, PA69, PA70, PA71, PA72, PA73, PA74, PA75 and PA76 (“the Community”) with the following objects:   (1)	The advancement of community development (including the advancement of rural regeneration) within the Community. (2)	To manage community land and associated assets for the benefit of the Community and the public in general. (3)	To provide, or assist in providing, recreational facilities, and/or organising recreational activities, which will be available to members of the Community and public at large with the object of improving the conditions of life of the Community. (4)	To advance the education of the Community. (5)	To advance environmental protection or improvement including preservation, sustainable development and conservation of the natural environment, the maintenance, improvement or provision of environmental amenities for the Community and/or the preservation of buildings or sites of architectural, historic or other importance to the Community. (6)	The prevention and relief of poverty. (7)	The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. (8)	The provision of housing in the Community for those who are in conditions of need and/or the provision of land within the Community on which housing for those in conditions of need will be constructed, provided that this Purpose shall not extend to relieving any local authorities or other bodies of a statutory duty to provide housing. (9)	Any other purpose that may reasonably regarded as analogous to any of the preceding purposes. But only to the extent that the above purposes are consistent with furthering the achievement of sustainable development.  | £2,397,838
+<strong>GLOBAL ENVIRONMENT CENTRE - EUROPE</strong> [Charity number: [328454](https://findthatcharity.uk/orgid/GB-CHC-328454)]<br>Global Environment Centre - Europe is part of the overall Global Environment Centre network which supports actions to address environmental issues of global importance including climate change, biodiversity, water resources and sustainable development. | £2,650
+<strong>JULIES BICYCLE</strong> [Charity number: [1153441](https://findthatcharity.uk/orgid/GB-CHC-1153441)]<br>Research: a research programme to quantify the environmental impacts of the arts and culture and to identify areas of specific concern.  Capacity building: to provide an expert and comprehensive free set of resources covering all aspects of environmental sustainability. Thought leadership: our programme is designed to inspire arts leaders to take action on climate change and the environment. | £1,442,392
+<strong>EARTH'S GREEN GUARDIANS (EGG) TRUST</strong> [Charity number: [1194985](https://findthatcharity.uk/orgid/GB-CHC-1194985)]<br>Earth's Green Guardians serves the community by providing local schools with lessons on how to mindfully connect with nature for wellbeing, how and why it is imporatant to restore local habitat for biodiversity, how they can protect our planet with conservation and living lightly and how to preapre for jobs in the green economy. These lessons are taught at schools and local community centres. | 
+<strong>VIVA!</strong> [Charity number: [1037486](https://findthatcharity.uk/orgid/GB-CHC-1037486)]<br>Viva! is a vegan charity campaigning to save animals. We reveal how farmed animals are treated and have placed many major investigations in the media. Viva! also educates and campaigns on the impact of diet on wildlife, the planet and our health. We present talks, cookery demos and produce a lovely array of helpful materials. We run the Vegan Recipe Club, 7 and 30 Day Vegan and My Vegan Town. | £2,152,364
+<strong>HEART OF GISSING</strong> [Charity number: [1161599](https://findthatcharity.uk/orgid/GB-CHC-1161599)]<br>Heart of Gissing CIO has developed and runs a Community Centre for the benefit of the inhabitants of Gissing and surrounding villages and promotes education and creative arts for the physical and social wellbeing for all and promotes conservation of the environment.  It maintains the Old School and uses any surplus income to award educational bursaries for under 25's and wider community groups. | £29,216
+<strong>ORCHESTRA FOR THE EARTH</strong> [Charity number: [1180771](https://findthatcharity.uk/orgid/GB-CHC-1180771)]<br>Concerts and music events (often combined with other art forms) to raise awareness for the environment, collect donations for environmental charities, and inspire action again climate change. | £25,464
+<strong>Glenkens & District Trust</strong> [Charity number: [SC042489](https://findthatcharity.uk/orgid/GB-SC-SC042489)]<br>3.1 to advance citizenship and community development by distributing Wind Farm Community Benefit money and other grants, to local groups, organisations, or individuals according to criteria and need as defined from time to time, as well as commissioning and providing funding for, projects that will benefit local communities within the Community Council Areas,  3.2 the advancement of environmental protection or improvement, including the preservation of conservation of the natural environment or particular parts of it and the promotion of sustainable development. “Sustainable development” means development that meets the needs of the present without compromising the ability of future generations to meet their own needs, and  3.3 the prevention or relief of poverty including preventing those who are poor from becoming poorer, as well as preventing those who are at risk of being poor from becoming poor.   | £75
+<strong>ONE IMPOSSIBLE THING</strong> [Charity number: [1197867](https://findthatcharity.uk/orgid/GB-CHC-1197867)]<br>We provide free recycled sports shoes, which we collect through donations from the community, to enable participation in sports and activities. We promote the benefits of recycling and reusing sports shoes. We raise awareness of the beneficial effect that participation in sports and exercise has on both mental and physical health. We currently operate in Herts and Beds. | £19,038
+<strong>Dunbar's John Muir Association</strong> [Charity number: [SC022857](https://findthatcharity.uk/orgid/GB-SC-SC022857)]<br>The Association's Objects are: (i) To advance the education of the public concerning John Muir, as the Dunbar-born pioneer of world nature conservation, and his belief in the unique and  irreplaceable value of wild places and wild creatures (ii) To implement John Muir's philosophy practically by conserving, restoring and enhancing landscape and wildlife in East Lothian and Scotland. | £558

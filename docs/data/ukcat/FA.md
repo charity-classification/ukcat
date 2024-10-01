@@ -3,7 +3,7 @@
 Facilities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Facilities](FA.md) category.
 
-19,221 charities have been tagged with this tag.
+19,218 charities have been tagged with this tag.
 This represents 9.49% of all charities.
 
 ## Keywords to find charities
@@ -20,31 +20,31 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 8,059 | 10.71%
-£10k - £100k | 8,220 | 12.05%
-£100k - £250k | 1,172 | 5.63%
-£250k - £500k | 483 | 4.88%
-£500k - £1m | 242 | 3.93%
-£1m - £10m | 248 | 2.92%
-Over £10m | 23 | 1.12%
-Total | 18,447 | 9.66%
+Under £10k | 8,018 | 10.71%
+£10k - £100k | 8,245 | 12.05%
+£100k - £250k | 1,184 | 5.68%
+£250k - £500k | 490 | 4.91%
+£500k - £1m | 243 | 3.92%
+£1m - £10m | 250 | 2.93%
+Over £10m | 22 | 1.07%
+Total | 18,452 | 9.66%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 17,197 | 10.09%
-oscr | 1,632 | 6.55%
-ccni | 392 | 5.45%
-Total | 19,221 | 9.49%
+ccew | 17,195 | 10.08%
+oscr | 1,632 | 6.56%
+ccni | 391 | 5.44%
+Total | 19,218 | 9.49%
 
 
 ## Ten largest charities (by income)
 
 Name | Latest income
 -----|--------:
-<strong>ROYAL OPERA HOUSE COVENT GARDEN FOUNDATION</strong> [Charity number: [211775](https://findthatcharity.uk/orgid/GB-CHC-211775)]<br>Presentation of opera and ballet performances at the Royal Opera House Covent Garden and tours in the United Kingdom and overseas | £132,687,000
+<strong>ROYAL OPERA HOUSE COVENT GARDEN FOUNDATION</strong> [Charity number: [211775](https://findthatcharity.uk/orgid/GB-CHC-211775)]<br>Presentation of opera and ballet performances at the Royal Opera House Covent Garden and tours in the United Kingdom and overseas | £170,697,000
 <strong>THE ROYAL HORTICULTURAL SOCIETY</strong> [Charity number: [222879](https://findthatcharity.uk/orgid/GB-CHC-222879)]<br>The RHS was founded in 1804 to inspire passion and excellence in horticulture.  We want to enrich everyone's life through plants, and make the UK a greener and more beautiful place.  To achieve our aim we undertake scientific research; provide education, training and horticultural advice; support community horticulture projects; and share our renowned gardens and shows with the public. | £122,096,000
 <strong>THE FOOTBALL FOUNDATION</strong> [Charity number: [1079309](https://findthatcharity.uk/orgid/GB-CHC-1079309)]<br>The Charity's current and on-going activities are:to put in place a new generation of modern facilities in parks, local leagues and schools;to provide capital/revenue support to increase participation in grass roots football, andto strenghten the links between football and the community and to harness its potential as a force for good in society. | £106,323,000
 <strong>THE ROYAL PARKS [LIMITED]</strong> [Charity number: [1172042](https://findthatcharity.uk/orgid/GB-CHC-1172042)]<br>We look after eight of London's largest open spaces; Hyde, The Green, Richmond, Greenwich, St James's, Bushy and The Regent's Parks, and Kensington Gardens. We also manage other important open spaces in the capital including Grosvenor Square Garden, Brompton Cemetery, Victoria Tower Gardens, Canning Green and Poet's Corner. | £104,642,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE YSTRADGYNLAIS MINERS WELFARE AND COMMUNITY HALL TRUST LIMITED</strong> [Charity number: [1054054](https://findthatcharity.uk/orgid/GB-CHC-1054054)]<br>The Welfare aims to provide and support a wide range of arts, cultural, education and community focussed activities. Activities: which may not be provided otherwise; reflect the bilingual and cultural diversity of the community; are inclusive and encourage community participation. | £287,795
-<strong>BARTLETTS ALMSHOUSES</strong> [Charity number: [1046074](https://findthatcharity.uk/orgid/GB-CHC-1046074)]<br>To provide accommodation, and associated open space, for residents | £60,190
-<strong>GREAT SAMPFORD VILLAGE HALL</strong> [Charity number: [301319](https://findthatcharity.uk/orgid/GB-CHC-301319)]<br>Village Hall (run by committee) for use by community groups, and by residents of the village and the surrounding area for personal hire. | £6,987
-<strong>Luss Hall Trustees</strong> [Charity number: [SC015983](https://findthatcharity.uk/orgid/GB-SC-SC015983)]<br>The Trustees shall hold the Luss Village Hall and such other funds and assets as may from time to time be comprised in the Trust Property, in trust for the following purposes :- a. for the benefit of the people and community of Luss b. for the maintenance and support of the Village Hall | £21
-<strong>HEALD GREEN VILLAGE HALL COMMUNITY ASSOCIATION</strong> [Charity number: [1057143](https://findthatcharity.uk/orgid/GB-CHC-1057143)]<br>Provision of meeting venue for local groups, family social functions and local Council care events and to provide a venue for commercial groups. | £28,786
-<strong>BRIERCLIFFE COMMUNITY CENTRE ASSOCIATION</strong> [Charity number: [701364](https://findthatcharity.uk/orgid/GB-CHC-701364)]<br>Provision of community centre for hire for community events | £6,571
-<strong>SOMERLEYTON COMMUNITY ASSOCIATION</strong> [Charity number: [1104800](https://findthatcharity.uk/orgid/GB-CHC-1104800)]<br>Provides a village hall and a playing field, complete with multi-use games court and children's play area, for the use of residents of Somerleyton and the surrounding area. | £8,832
-<strong>COTHAM GARDENS PRIMARY SCHOOL PARENT TEACHER AND FRIENDS ASSOCIATION</strong> [Charity number: [1005349](https://findthatcharity.uk/orgid/GB-CHC-1005349)]<br>The charity exists to:-  develop more extended relationships between staff, parents and others associated with the school-  engage in activities which support the school and advance the education of the pupils-  provide and assist in the provision of facilities for education at the school which are not normally provided by the Local Education Authority | £31,599
-<strong>SIBFORD VILLAGE HALL CIO</strong> [Charity number: [1185296](https://findthatcharity.uk/orgid/GB-CHC-1185296)]<br>Provides the Sibford villages with a village hall for various activities | £22,283
-<strong>QUAINTON MEMORIAL HALL</strong> [Charity number: [300320](https://findthatcharity.uk/orgid/GB-CHC-300320)]<br>Provision and maintenance of a village hall for use by residents of Quainton and the surrounding area for recreational, educational, social and community purposes, with the object of maintaining and improving the conditions of their life. | £20,423
+<strong>THE MANAGEMENT COMMITTEE FOR THE OLD SCHOOL</strong> [Charity number: [223142](https://findthatcharity.uk/orgid/GB-CHC-223142)]<br>To provide Village Hall facilities for the village of Rougham in Norfolk | £1,310
+<strong>LITTLE OUSEBURN VILLAGE HALL CIO (FORMERLY LITTLE OUSEBURN VILLAGE HALL(523770))</strong> [Charity number: [1175756](https://findthatcharity.uk/orgid/GB-CHC-1175756)]<br>Provide a resource for community activity through the provision of space for meetings, social activities and events intended to benefit the local population. | £7,634
+<strong>DUNHOLME VILLAGE HALL</strong> [Charity number: [504738](https://findthatcharity.uk/orgid/GB-CHC-504738)]<br>The Dunholme Village Hall Committee voluntary non-profit making organisation whose aim is to provide facilities and accommodation for educational, recreational, sporting, social, welfare and general charitable activities for Dunholme and surrounding area within West Lindsey and Lincoln City. | £8,197
+<strong>BUILDING COMMUNITIES NOTTINGHAM</strong> [Charity number: [1171915](https://findthatcharity.uk/orgid/GB-CHC-1171915)]<br>1) TO ACT AS A RESOURCE FOR YOUNG PEOPLE UP TO THE AGE OF 30 LIVING IN NOTTINGHAM BY PROVIDING ADVICE AND ASSISTANCE AND ORGANISING PROGRAMMES OF PHYSICAL, EDUCATIONAL AND OTHER ACTIVITIES AS A MEANS OF:(A) ADVANCING IN LIFE AND HELPING YOUNG PEOPLE BY DEVELOPING THEIR SKILLS, CAPACITIES AND CAPABILITIES TO ENABLE THEM TO PARTICIPATE IN SOCIETY AS INDEPENDENT, MATURE AND RESPONSIBLE INDIVIDUALS;(B) ADVANCING EDUCATION;(C) RELIEVING UNEMPLOYMENT;(D) PROVIDING RECREATIONAL AND LEISURE TIME ACTIVITY IN THE INTERESTS OF SOCIAL WELFARE FOR PEOPLE LIVING IN THE AREA OF BENEFIT WHO HAVE NEED BY REASON OF THEIR YOUTH, AGE, INFIRMITY OR DISABILITY, POVERTY OR SOCIAL AND ECONOMIC CIRCUMSTANCES WITH A VIEW TO IMPROVING THE CONDITIONS OF LIFE OF SUCH PERSONS.2) TO FURTHER OR BENEFIT THE RESIDENTS OF NOTTINGHAM AND THE SURROUNDING AREA, WITHOUT DISTINCTION OF SEX, SEXUAL ORIENTATION, RACE OR OF POLITICAL, RELIGIOUS OR OTHER OPINIONS BY ASSOCIATING TOGETHER THE SAID RESIDENTS AND THE LOCAL AUTHORITIES, VOLUNTARY AND OTHER ORGANISATIONS IN A COMMON EFFORT TO ADVANCE EDUCATION AND TO PROVIDE FACILITIES IN THE INTERESTS OF SOCIAL WELFARE FOR RECREATION AND LEISURE TIME OCCUPATION WITH THE OBJECTIVE OF IMPROVING THE CONDITIONS OF LIFE FOR THE RESIDENTS.IN FURTHERANCE OF THESE OBJECTS BUT NOT OTHERWISE, THE TRUSTEES SHALL HAVE POWER:TO ESTABLISH OR SECURE THE ESTABLISHMENT OF A COMMUNITY CENTRE AND TO MAINTAIN OR MANAGE OR CO-OPERATE WITH ANY STATUTORY AUTHORITY IN THE MAINTENANCE AND MANAGEMENT OF SUCH A CENTRE FOR ACTIVITIES PROMOTED BY THE CHARITY IN FURTHERANCE OF THE ABOVE OBJECTS.3) THE RELIEF OF THOSE IN NEED, BY REASON OF AGE, ILL-HEALTH, DISABILITY, FINANCIAL HARDSHIP OR OTHER PHYSICAL AND/OR MENTAL DISADVANTAGE BY THE PROVISION OF A FREE GARDENING SERVICE.4) TO ADVANCE THE ISLAMIC FAITH FOR THE BENEFIT OF THE PUBLIC. | 
+<strong>MICKLEFIELD RECREATION GROUND</strong> [Charity number: [523780](https://findthatcharity.uk/orgid/GB-CHC-523780)]<br>Provide football pitch, training pitch and changing rooms/showers, multi-use skate park (bikes, skates and boards), play area for 8-15 year olds, rugby training goal and MUGA for 5-a-side football, netball, basketball and tennis. Provide an area of wooded copse with bat and bird boxes and wildlife area, wildflower meadow and a general open, grassed amenity area for informal recreation | £4,122
+<strong>THORNEY HILL COMMUNITY CENTRE ASSOCIATION LTD</strong> [Charity number: [1098133](https://findthatcharity.uk/orgid/GB-CHC-1098133)]<br>To provide a village hall and a range of activities for people living in Thorney Hill and surrounding areas | £4,106
+<strong>Without Walls</strong> [Charity number: [1119209](https://findthatcharity.uk/orgid/GB-CHC-1119209)]<br>The charity supports the aims of Without Walls Christian Fellowship, a church with a vision based on Zechariah Chapter 2 and verses 4-5..a city without walls. Proclamation of Christian gospel, teaching of Christian doctrine, pastoral care and relief of hardship in the community. There are church meetings each week. The church reaches the community through it's Singing Cafe and Tea party projects. | £129,128
+<strong>BARTON MILLS VILLAGE HALL</strong> [Charity number: [304859](https://findthatcharity.uk/orgid/GB-CHC-304859)]<br>The provision and maintenance of a Village Hall for the inhabitants of the Parish of Barton Mills and the neighbourhood, with the object of improving the conditions of life for the said inhabitants. | £11,317
+<strong>SOUTH HEIGHTON VILLAGE HALL</strong> [Charity number: [305309](https://findthatcharity.uk/orgid/GB-CHC-305309)]<br>Village Hall | £51,013
+<strong>THE MOSELEY SOCIETY</strong> [Charity number: [512211](https://findthatcharity.uk/orgid/GB-CHC-512211)]<br>As the registered amenity society for Moseley, we have a membership of local people. We monitor planning and licensing applications; have an active local history group; organise a programme of meetings and activities; publish information about the area; we have restored three listed buildings in the area and open them to the public free of charge and we have created an 18th century style garden. | £8,279

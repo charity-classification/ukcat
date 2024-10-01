@@ -3,8 +3,8 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-28,908 charities have been tagged with this tag.
-This represents 14.27% of all charities.
+28,918 charities have been tagged with this tag.
+This represents 14.28% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,001 | 14.62%
-£10k - £100k | 8,666 | 12.70%
-£100k - £250k | 2,560 | 12.30%
-£250k - £500k | 1,479 | 14.94%
-£500k - £1m | 1,160 | 18.83%
-£1m - £10m | 1,645 | 19.34%
-Over £10m | 323 | 15.79%
-Total | 26,834 | 14.06%
+Under £10k | 10,991 | 14.68%
+£10k - £100k | 8,689 | 12.70%
+£100k - £250k | 2,546 | 12.21%
+£250k - £500k | 1,494 | 14.97%
+£500k - £1m | 1,160 | 18.72%
+£1m - £10m | 1,648 | 19.32%
+Over £10m | 323 | 15.66%
+Total | 26,851 | 14.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,297 | 14.84%
-oscr | 2,791 | 11.21%
-ccni | 820 | 11.39%
-Total | 28,908 | 14.27%
+ccew | 25,306 | 14.84%
+oscr | 2,794 | 11.24%
+ccni | 818 | 11.38%
+Total | 28,918 | 14.28%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>LLANELLI & DISTRICT MODEL ENGINEERS</strong> [Charity number: [1146472](https://findthatcharity.uk/orgid/GB-CHC-1146472)]<br>The advancement of public education in the construction of models of engineering in particular through the provision of displays, demonstrations and facilities for the construction, maintenance and running of engineering models. | £27,905
-<strong>NORTHAMPTON ARTS COLLECTIVE LIMITED</strong> [Charity number: [1157238](https://findthatcharity.uk/orgid/GB-CHC-1157238)]<br>To promote art for the benefit of the public by the establishment and maintenance of an art Gallery and to advance the education of the public in the subject of art.The organisation provides a centre for creativity with a arts programme for the communities of Northampton and beyond  to participate in a range of activities/ experiences including exhibitions, performances, film, community events. | £192,171
-<strong>KIDLINGTON (E) TOWNSWOMEN'S GUILD</strong> [Charity number: [1083320](https://findthatcharity.uk/orgid/GB-CHC-1083320)]<br>We make items for sale at the Helen & Douglas House Shop. We raise money for a local charity each year. We donate Christmas parcels to the the N. Oxford Foodbank. We organised the Flower and Quilt Festival for Christian Aid, in the village's church.We go on outings to various places of interest. We take part in Federation Activities, and have won two previous Craft & Produce Shows. | £3,344
-<strong>PARENTS AND FRIENDS OF ST PAUL'S C E SCHOOL BRIGHTON</strong> [Charity number: [1119280](https://findthatcharity.uk/orgid/GB-CHC-1119280)]<br>Fundraising activities to provide grants to support education and play facilities within St Pauls CE School Brighton | £8,860
-<strong>Autism and Neurodiversity North Scotland</strong> [Charity number: [SC007421](https://findthatcharity.uk/orgid/GB-SC-SC007421)]<br>The company’s objects are: To support and promote the wellbeing of children and adults with an autistic spectrum condition (ASC) and their families and supporters within the geographical area of Grampian (comprising Aberdeen City, Aberdeenshire and Moray) and any other areas where we may from time to time be asked to provide our services, and in furtherance thereof the company shall seek: (a)         To maximise opportunities for children and young adults with an autistic spectrum condition (ASC) to build their social and communication skills through supported play, education and other activities. (b)         To offer tailored support and advice to people with an ASC, through individual and group services, training, advocacy and specialised support. (c)          To provide advice, training, advocacy, information and support to families and others involved with supporting people with an ASC. (d)         To make appropriate representation to relevant statutory bodies and other organisations on behalf of people with an ASC and their families and supporters. (e)         To provide advice, training and information to anyone with an interest in learning more about ASCs. (f)          To increase public awareness regarding the challenges and circumstances of people with an ASC and their families and supporters and to encourage their inclusion and appropriate support in the community.        (g)         To promote, conduct and engage in research into autism and ASCs, to collect and disseminate information relating to these and to exchange such information with other bodies having similar objects. (h)         To facilitate provision of other ASC-related services.  | £579,890
-<strong>THE ASCENSION SUNDAY SCHOOL CHARITY</strong> [Charity number: [509626](https://findthatcharity.uk/orgid/GB-CHC-509626)]<br>Makes grants to individuals | £475
-<strong>BARROW AND DISTRICT ASSOCIATION OF ENGINEERS</strong> [Charity number: [1198693](https://findthatcharity.uk/orgid/GB-CHC-1198693)]<br>TO ADVANCE EDUCATION FOR THE PUBLIC BENEFIT IN SOUTH WEST CUMBRIA IN SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS THROUGH THE PROVISION OF; A) PUBLIC LECTURES ; B) BURSARIES, SCHOLARSHIPS, PRIZES AND AWARDS TO STUDENTS IN PRIMARY, SECONDARY, AND HIGHER EDUCATIONAL SETTINGS; C) GRANTS TO ENABLE EDUCATIONAL ESTABLISHMENTS TO INVEST IN FACILITIES TO PROMOTE AN INTEREST IN STEM SUBJECTS. | £26,393
-<strong>THE TOWN CHARITY</strong> [Charity number: [209759](https://findthatcharity.uk/orgid/GB-CHC-209759)]<br>Makes cash grants in December to the poor of the village of Thompson.  Individuals, or others on their behalf, may apply for grants if they believe they are deserving of help. | £1,108
-<strong>CHARITY OF SARAH GUEST</strong> [Charity number: [253164](https://findthatcharity.uk/orgid/GB-CHC-253164)]<br>Relieving either generally or individually persons resident in the parish of St Denys, Walmgate, York, who are in conditions of need, hardship or distress, by making grants of money or providing or paying for items, services or facilities calculated to reduce the need, hardship or distress of such persons. | £2,014
-<strong>H B BICKET CHARITABLE TRUST</strong> [Charity number: [282674](https://findthatcharity.uk/orgid/GB-CHC-282674)]<br>Established to provide financial assistance to the local charities in Liverpool. | £12,486
+<strong>MATHEMATICAL SCIENCES UK</strong> [Charity number: [1192572](https://findthatcharity.uk/orgid/GB-CHC-1192572)]<br>The Charity supports the charitable work of Mathematical Sciences Research Institute (its sole member and a s501(c)(3) non-profit organisation) and other educational and research bodies in the field of mathematical sciences. The Charity directly funds educational projects to promote mathematics for the public benefit and grant funding to organisations to support projects that advance mathematics. | £10,083
+<strong>THE HOSPITALS TRUST OF THE HARTLEPOOLS</strong> [Charity number: [234100](https://findthatcharity.uk/orgid/GB-CHC-234100)]<br>Financial Support to hospitals, nursing homes etc in the Parliamentary Borough of Hartlepool | £12,921
+<strong>THE SYKES LODGE NO 1040 BENEVOLENT FUND</strong> [Charity number: [701874](https://findthatcharity.uk/orgid/GB-CHC-701874)]<br>RACE NIGHTS, SPONSORED EVENTS, GARDEN PARTIES, MEMBERS DONATIONS.SUPPORTING NATIONAL AND LOCAL CHARITIESS. GRANTS TO DESERVING LOCAL ORGANISATIONS AND INDIVIDUAL.  E.G. GUIDES, SCOUTS, PARTICIPANTS IN DISABLED GAMES. | £3,009
+<strong>The Project</strong> [Charity number: [1015436](https://findthatcharity.uk/orgid/GB-CHC-1015436)]<br>The Project is an Advice Quality Standard accredited information, advice and guidance provider.  We provide advice and casework relating to homelessness and income maximisation.  We are members of Advice UK, the Institute of Money Advisors, CPAG and are Financial Conduct Authority regulated. | £278,898
+<strong>URSULA TAYLOR CHARITY</strong> [Charity number: [307520](https://findthatcharity.uk/orgid/GB-CHC-307520)]<br>Awarding grants to pupils and students for cost of books, course fees, tools etc and other equipment required for their individual learning requirements. | £2,653
+<strong>JAFFE FAMILY RELIEF FUND</strong> [Charity number: [208560](https://findthatcharity.uk/orgid/GB-CHC-208560)]<br>1. Grants to descendents of Daniel Jaffe and/or their wives, widows and widowers (world wide) in need. 2. UK charities to distribute to individuals in poverty, in the UK. | £62,198
+<strong>Donaghadee Community Development Association</strong> [Charity number: [NI103332](https://findthatcharity.uk/orgid/GB-NIC-103332)]<br>Our activities are Organising Events - We organise and co-ordinate a two-week festival (attendances last year totalled 12,000); a Christmas event and also organise one off events such as a Senior Showcase (an exhibition and talks on activities and issues of interest to those aged 50+ eg health, leisure pursuits, education, housing, volunteering); a Cultural Awareness Day with events from Indian, Chinese, African communities. These events bring the community together and improve the town’s economy by attracting visitors and keeping businesses viable. Community Development – Supporting other community groups by advising on grant opportunities and also by raising skill levels. Groups can promote their activities through the Whats On and A-Z sections of our website (www.visitdonaghadee.com). Our annual events provide an opportunity for organisations to participate and attract new members. We also have a range of equipment (pa system, 7 gazebos, a mobile platform/stage) which we lend out. Promoting Donaghadee – through our website (www.visitdonaghadee.com) and also in projects such as the production and sale of hessian bags “Shop Local”. Traders can promote their services through the A-Z section of the website. Improving Our Town – organising the annual floral displays; working with the local Council on schemes such as the £1.7m from the Heritage Lottery Fund, £2.5m for public realm works; installation of free WIFI in the town centre and the preparation of a Town Masterplan. We have worked very closely with Council officials and government departments on these initiatives. We have also met with elected representatives and Ministers on issues such as car parking, roads and potential tourist development; | £68,468
+<strong>ST ANNE'S INSTITUTE</strong> [Charity number: [1063938](https://findthatcharity.uk/orgid/GB-CHC-1063938)]<br>Grant making body | £18,550
+<strong>DACORUM PLAY</strong> [Charity number: [302382](https://findthatcharity.uk/orgid/GB-CHC-302382)]<br>Makes grants to individualsMakes grants to organisationsProvides servicesProvides advocacy/advice/informationActs as umbrella or resource body | 
+<strong>ARMSTRONG SIDDELEY HERITAGE TRUST LTD</strong> [Charity number: [1153692](https://findthatcharity.uk/orgid/GB-CHC-1153692)]<br>Educate - advance the education of the public in the history of Armstrong Siddeley and its associated cos, manufacturing and products.Preserve - a comprehensive archive illustrating all aspects of J D Siddeley's achievements in the infant Motor & Aero industries & in A S, its assoc cos, their development, ideas, people, documents and artefacts of historical significance.  Establish this archive. | £18,756

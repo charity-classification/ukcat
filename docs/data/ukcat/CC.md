@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,375 charities have been tagged with this tag.
-This represents 4.63% of all charities.
+9,358 charities have been tagged with this tag.
+This represents 4.62% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,874 | 2.49%
-£10k - £100k | 3,772 | 5.53%
-£100k - £250k | 2,273 | 10.92%
-£250k - £500k | 580 | 5.86%
-£500k - £1m | 264 | 4.29%
-£1m - £10m | 205 | 2.41%
-Over £10m | 21 | 1.03%
-Total | 8,989 | 4.71%
+Under £10k | 1,866 | 2.49%
+£10k - £100k | 3,751 | 5.48%
+£100k - £250k | 2,272 | 10.90%
+£250k - £500k | 588 | 5.89%
+£500k - £1m | 266 | 4.29%
+£1m - £10m | 204 | 2.39%
+Over £10m | 21 | 1.02%
+Total | 8,968 | 4.70%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 8,006 | 4.70%
-oscr | 745 | 2.99%
-ccni | 624 | 8.67%
-Total | 9,375 | 4.63%
+ccew | 7,995 | 4.69%
+oscr | 739 | 2.97%
+ccni | 624 | 8.68%
+Total | 9,358 | 4.62%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>GREENFIELDS PLAYGROUP</strong> [Charity number: [1031784](https://findthatcharity.uk/orgid/GB-CHC-1031784)]<br>we are a playgroup we do all sorts of activities play dough puzzles out side play sand and water multiculture a varity of toys etc | £900
-<strong>SPARKWELL PARISH HALL AND PLAYGROUND TRUST</strong> [Charity number: [254588](https://findthatcharity.uk/orgid/GB-CHC-254588)]<br>Provision and maintenance of a community hall and playground for the benefit of the inhabitants of Sparkwell Parish, near Plymouth, Devon and voluntary organisations within the Parish | £51,134
-<strong>THE WENDOVER PRE-SCHOOL</strong> [Charity number: [1157324](https://findthatcharity.uk/orgid/GB-CHC-1157324)]<br>Provide pre-school education for 2-5 year olds in the local community. | £63,219
-<strong>CORTON PLAYING FIELD</strong> [Charity number: [304733](https://findthatcharity.uk/orgid/GB-CHC-304733)]<br>We provide a childrens play area, open space and football pitches | £31,281
-<strong>LITTLE ADMIRALS PRE-SCHOOL</strong> [Charity number: [1082960](https://findthatcharity.uk/orgid/GB-CHC-1082960)]<br>We provide a safe, secure and stimulating pre-school learning environment for children aged 2 to 5 years. | £192,519
-<strong>STRAMONGATE SCHOOL ASSOCIATION</strong> [Charity number: [518085](https://findthatcharity.uk/orgid/GB-CHC-518085)]<br>STRAMONGATE SCHOOL ASSOCIATION EXISTS TO ADVANCE THE EDUCATION OF THE PUPILS OF THE SCHOOL AND ITS NURSERY SCHOOL (IF ONE EXISTS EITHER AS PART OF THE SCHOOL OR ON THE SCHOOL SITE) BY PROVIDING AND ASSISTING IN THE PROVISION OF FACILITIES FOR EDUCATION AT THE SCHOOL (NOT NORMALLY PROVIDED BY THE LOCAL EDUCATION AUTHORITY) | £4,492
-<strong>Inverbrothock Playgroup</strong> [Charity number: [SC003678](https://findthatcharity.uk/orgid/GB-SC-SC003678)]<br>The aim of the group is to promote the aims of Scottish Preschool Play Association which are to advance the education of pre-school children with the emphasis on play experience, so that they may take a constructive place in the community and also to advance the education of their parents and other appropriate persons. In furtherance of the above aims the group shall seek: (a) to provide safe and satisfying group play in which parents take part when appropriate. (b) to encourage other charitable activities through which parents may help the children | £139,457
-<strong>THE FRIENDS OF TRUMPS GREEN COUNTY INFANT SCHOOL, VIRGINIA WATER</strong> [Charity number: [802785](https://findthatcharity.uk/orgid/GB-CHC-802785)]<br>To advance the education of pupils at Trumps Green Infant School | £15,101
-<strong>HAMPTON LUCY GRAMMAR SCHOOL FOUNDATION</strong> [Charity number: [1008544](https://findthatcharity.uk/orgid/GB-CHC-1008544)]<br>Awarding grants towards educational purposes to children & young persons who reside in Hampton Lucy, Charlecote, Alveston & Wasperton. Applications also considered from junior and infant schools in Hampton Lucy and Alveston and Barford Junior School where Wasperton residents attend.  Other local schools which residents of Hampton Lucy, Charlecote, Alveston & Wasperton attend are also supported. | £30,565
-<strong>Burntisland Out of School Service</strong> [Charity number: [SC043503](https://findthatcharity.uk/orgid/GB-SC-SC043503)]<br>4.1 Promote the care and education of children in need of care during out of school hours, holidays and in-service days and to promote the provision of facilities for the recreation and other leisure-time occupation of such children in the interests of social welfare with the object of improving their conditions of life. 4.2 Advance the education and training of persons providing such care and education and recreational facilities. | £98,374
+<strong>THE WALTER THEODORE COLES MEMORIAL TRUST</strong> [Charity number: [303203](https://findthatcharity.uk/orgid/GB-CHC-303203)]<br>Support for children out of school (and their parents), especially support for children who are school phobic, truanting, or who have been permanently excluded from school. Support consists of education advice, behaviour management, tuition and help with future educational placements. | £3,254
+<strong>BORA SHABAA REFUGEE COMMUNITY ORGANISATION</strong> [Charity number: [1135550](https://findthatcharity.uk/orgid/GB-CHC-1135550)]<br>Youth Club:  offers positive out of school activities for young people. practising cultural songs and dances.Art and Cultural activity: workshops for women to empower them to grow out of the restriction set by culture from back home. Offers  free translation support.Educational Visit: organise trips that allow families to visit various places of interest around Hull and learn about new culture | £72,388
+<strong>Damask Community Outreach</strong> [Charity number: [NI102073](https://findthatcharity.uk/orgid/GB-NIC-102073)]<br>Damask provide activities for our beneficiaries as follows:- Advice Services including Tax, Tax Credits, Disability Living Claims, Benefits Checks and Counselling. Toddlers and carers group providing fun, fellowship and prevention of isolation for many of those attending. Tea Dances providing fun, fellowship and prevention of isolation for over 55s After School Drop In including home work club. Engage Youth Club Anger Management Courses in the local Integrated College Befriending Service providing support and assistance for over 70s Collection and distribution of food and household items for those in need including referrals from other local charities. | £51,150
+<strong>CUCKOO MEADOW PRE-SCHOOL</strong> [Charity number: [1077815](https://findthatcharity.uk/orgid/GB-CHC-1077815)]<br>General Fundraising to assist with running costs of pre-school.Maintainence of bank account to reach the goal of 3 to 6 months running costs in the bank.Accessing other companies for assistance with buying new equipment for the children in our care. | £103,311
+<strong>NANNERCH UNDER FIVES</strong> [Charity number: [1183510](https://findthatcharity.uk/orgid/GB-CHC-1183510)]<br>Nannerch Under Fives Playgroup provides high quality sessional care that enhances the development, care and education of pre-school children in a safe and stimulating environment, where they learn through play in partnership with parents/carers. | £22,674
+<strong>BROWNBERRIE LANE CHILDCARE & EDUCATION LTD</strong> [Charity number: [1140348](https://findthatcharity.uk/orgid/GB-CHC-1140348)]<br>Preschool for children aged 2 to 5 years of age. | £281,135
+<strong>VIGO VILLAGE HALL MANAGEMENT COMMITTEE</strong> [Charity number: [265623](https://findthatcharity.uk/orgid/GB-CHC-265623)]<br>Our mission is to provide and maintain premises to encourage and facilitate a true community spirit. We operate our village hall, which is used by most of the community groups in the Village. These include a Pre-school, a club for older people, Girl Guides, Brownies, Rainbows, several Keep-Fit groups and Dance classes, Vigo Parish Council and the Anglican Church, as well as various other groups. | £38,987
+<strong>THE SWAN YOUTH PROJECT LIMITED</strong> [Charity number: [1039966](https://findthatcharity.uk/orgid/GB-CHC-1039966)]<br>The objective of the charity is to provide a safe, drug and alcohol free recreational facility for the young people of Berkhamsted and the surrounding area.  The charity runs the Swan Youth Centre, the facilities of which include a large room in which events can be held, pool table, audio equipment, TV, games console, and bar selling soft drinks and snacks.  Activities include after-school drop-in | £119,438
+<strong>THE AMBLESIDE NURSERIES EARLY EDUCATION TRUST</strong> [Charity number: [1187988](https://findthatcharity.uk/orgid/GB-CHC-1187988)]<br>The charity provides financial support to ensure that the school has appropriate resources to allow children to fully develop their potential. | £5,465
+<strong>FRIENDS OF WINDLESHAM VILLAGE INFANT SCHOOL.</strong> [Charity number: [1097189](https://findthatcharity.uk/orgid/GB-CHC-1097189)]<br>We are the Friends of Windlesham Village Infant School. It is our mission to make every child's potential a reality by engaging and empowering our families and community to support our school.We fundraise in order to enable to the school to purchase key learning resources, equipment, software, books, play and sports equipment and to help facilities enhancements. | £6,121

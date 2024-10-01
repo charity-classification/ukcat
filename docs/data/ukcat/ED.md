@@ -3,7 +3,7 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-82,896 charities have been tagged with this tag.
+82,907 charities have been tagged with this tag.
 This represents 40.93% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 28,864 | 38.37%
-£10k - £100k | 27,277 | 39.98%
-£100k - £250k | 8,800 | 42.27%
-£250k - £500k | 4,399 | 44.44%
-£1m - £10m | 4,169 | 49.02%
-£500k - £1m | 2,831 | 45.97%
-Over £10m | 1,129 | 55.18%
-Total | 77,469 | 40.58%
+Under £10k | 28,790 | 38.44%
+£10k - £100k | 27,337 | 39.96%
+£100k - £250k | 8,795 | 42.19%
+£250k - £500k | 4,426 | 44.34%
+£1m - £10m | 4,176 | 48.96%
+£500k - £1m | 2,851 | 46.01%
+Over £10m | 1,133 | 54.92%
+Total | 77,508 | 40.60%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,636 | 39.69%
-oscr | 12,372 | 49.68%
-ccni | 2,888 | 40.13%
-Total | 82,896 | 40.93%
+ccew | 67,679 | 39.69%
+oscr | 12,346 | 49.66%
+ccni | 2,882 | 40.09%
+Total | 82,907 | 40.93%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>DIGSWELL ARTS TRUST</strong> [Charity number: [1150915](https://findthatcharity.uk/orgid/GB-CHC-1150915)]<br>The assistance of persons who intend to or have become artists or craftsmen and who are in need of financial assistance through the provision of low cost studios and support, the promotion of education and training in art and allied subjects and the promotion of the appreciation of art. | £32,756
-<strong>HAYAAT WOMEN TRUST</strong> [Charity number: [1155727](https://findthatcharity.uk/orgid/GB-CHC-1155727)]<br>We offer a range of different services to help disadvantaged families in the community out of poverty. In particular, Black and ethnic minority women in who find it difficult to access mainstream services in their areas.In collaboration with partner organisations we deliver educational and health awareness projects.We establihed a link with Somaliland, Africa and delivered number of projects. | £180,544
-<strong>THE SEDGEFIELD EDUCATIONAL FOUNDATION</strong> [Charity number: [527317](https://findthatcharity.uk/orgid/GB-CHC-527317)]<br>Funding suport for education and training | £3,250
-<strong>THE FRIENDS OF JACKHOUSE NATURE RESERVE</strong> [Charity number: [1198103](https://findthatcharity.uk/orgid/GB-CHC-1198103)]<br>Working with and in consultation with the owners Hyndburn BC, the Friends promote the protection of the physical and natural environment of Jackhouse, including carrying out volunteer sessions and educational walks. | £1,633
-<strong>Good Samaritan Charity Trust</strong> [Charity number: [SC042205](https://findthatcharity.uk/orgid/GB-SC-SC042205)]<br>The trust's object are:  (a) The prevention or relief of poverty. (b) The advancement of education.  (c) The advancement of health. (d) The savings of lives. (e) The relief of those in need by reason of age, ill - health, disability, financial hardship or other disadvantage. | 
-<strong>READING UNIVERSITY STUDENTS' UNION</strong> [Charity number: [1158523](https://findthatcharity.uk/orgid/GB-CHC-1158523)]<br>THE UNION'S OBJECTS ARE THE ADVANCEMENT OF EDUCATION OF STUDENTS AT THE UNIVERSITY OF READING. | £5,109,712
-<strong>THE FRIENDS OF ST MARY'S SCHOOL HORSHAM</strong> [Charity number: [1000327](https://findthatcharity.uk/orgid/GB-CHC-1000327)]<br>The charity supports the Governors of St Mary's Church of England (Aided) Primary School, Horsham, in the fulfilment of their responsibilities with respect to the repair, renewal and maintenance of the school buildings. | £2,780
-<strong>NUZZLETS</strong> [Charity number: [1118698](https://findthatcharity.uk/orgid/GB-CHC-1118698)]<br>NUZZLETS GIVES LOVING HOMES TO UNWANTED ANIMALS AND  ACCESS TO YOUNG PEOPLE FOR THERAPY AND EDUCATION.NUZZLETS SPECIALISES IN HELPING THE FAMILIES OF CHILDREN WITH DISABILITIES, SPECIAL NEEDS AND CHILDREN WHO HAVE LIFE THREATENING ILLNESSES. | £8,149
-<strong>THE PAROCHIAL CHURCH COUNCIL OF ECCLESIASTICAL PARISH OF CENTRAL TELFORD</strong> [Charity number: [1140301](https://findthatcharity.uk/orgid/GB-CHC-1140301)]<br>Provides Christian worship, spiritual guidance, works in local schools, care and nurture at times of significant life events, promotes the Christian marriage, works in deprived areas, offers projects and support in conjunction with local service, work with ex-offenders to prevent re-offending and works in any ways to bring an expression of God and Reflecting Jesus Everywhere in the town | £198,570
-<strong>FRIENDS OF THORNDON SCHOOL</strong> [Charity number: [1084826](https://findthatcharity.uk/orgid/GB-CHC-1084826)]<br>To raise funds for the benefit of the pupils of Thorndon CofE Primary School. | £7,387
+<strong>HOB HILL PRIMARY SCHOOL PARENT TEACHER ASSOCIATION</strong> [Charity number: [1047481](https://findthatcharity.uk/orgid/GB-CHC-1047481)]<br>events and equipment for school children | £4,985
+<strong>THE ROSEDALE EDUCATIONAL TRUST</strong> [Charity number: [1153262](https://findthatcharity.uk/orgid/GB-CHC-1153262)]<br>To advance the education of children by providing grants towards school fees. | £62,750
+<strong>ELM NI: Suicide Prevention, Every Life Matters</strong> [Charity number: [NI105820](https://findthatcharity.uk/orgid/GB-NIC-105820)]<br>We have a 24hr helpline available for anyone with suicidal ideations or in despair, this helpline is monitored by pips larne volunteers during normal working hours and by lifeline outside of these hours, we are also contactable via social media which is closely monitored at all times by pips larne volunteers. We provide immediate crisis response based on the risk of suicide and all calls are responded to generally within 24hrs at which point we will provide counselling services, alternative/relaxation therapies and support services. Depending on each individuals needs we may incorporate other professional bodies including GP, Crisis Response, Emergency Services and the community mental health team. We also have links to other valuable resources who can provide more specialist services such as Extern, Start 360, Zest, Action for Children, Network Personnel, The Hope Centre, Lighthouse, Naoimh Louise Foundation and many others. We also provide transport for vulnerable clients. No costs are incurred to our clients Pips Larne also provides bereavement support to those who have lost a loved one to suicide and we provide a range of services about self harm including support, information, training and consultancy to people who self harm, their friends and families. Pips Larne regularly run family support group meetings and intend to set up a permanent support group on completion of the renovation of our current premises. We promote and encourage positive mental health through our affiliation with Athletics clubs, football clubs, youth clubs, churches, horticulture, music, art and our local fire service. Pips larne provide training free to the public and/or any groups who approach us. We regularly host suicide and self-harm awareness events. We also avail of every opportunity at fundraisers for example to raise the general publics awareness of suicide, self-harm and the services available through Pips Larne in an attempt to remove the stigma surrounding mental health. | £5,817
+<strong>MOONDANCE FOUNDATION</strong> [Charity number: [1139224](https://findthatcharity.uk/orgid/GB-CHC-1139224)]<br>The Moondance Foundation allocates funds to organisations for general charitable purposes.   We focus donations in the following key areas, with a bias toward Wales, care for illness/crippling diseases, children, education, elderly, environmental and poverty.   | £86,009,982
+<strong>GILGAL PENTECOSTAL CHURCH</strong> [Charity number: [1141435](https://findthatcharity.uk/orgid/GB-CHC-1141435)]<br>The main objectives are to promote Christian faith and to do charitable works such as financial aids and social counselling to the people in need.Activities of the Church include conducting regular worship, providing religious education and training and giving financial support to people in need.The Church is run by volunteers who are not entitled to remuneration except the Pastoral allowance. | £36,851
+<strong>WHITEHEATH JUNIOR SCHOOL PRIVATE FUND</strong> [Charity number: [1056077](https://findthatcharity.uk/orgid/GB-CHC-1056077)]<br>Monies collected and paid for school trips, uniform. Monies raised and donated to charity. | £2,809
+<strong>THE WHEEL TRAINING COMPANY</strong> [Charity number: [1179263](https://findthatcharity.uk/orgid/GB-CHC-1179263)]<br>We are an independent actor training and production company, based in Plymouth. The Wheel works as a production company producing high quality, professional touring theatre work whilst hosting a range of continuous training opportunities for beginners through to professional development for experienced performers. | £27,481
+<strong>NEUADD Y PENTRE</strong> [Charity number: [254572](https://findthatcharity.uk/orgid/GB-CHC-254572)]<br>Village hall used by the local community for various activities (Tai Chi, line dancing, spirutlist meetings, social events such as parties, wedding receptions, puppy training classes, music rehearsals) and hired out to local businesses. | £1,668
+<strong>PEPE (PEOPLE EMPOWERED, PRESERVED EARTH)</strong> [Charity number: [1146570](https://findthatcharity.uk/orgid/GB-CHC-1146570)]<br>PEPE supports two projects in the Eastern Cape of South Africa and in the UK a school with a humanistic based approach to education and learning. | 
+<strong>Young Scot Enterprise</strong> [Charity number: [SC029757](https://findthatcharity.uk/orgid/GB-SC-SC029757)]<br>The Company (hereinafter called 'Young Scot') is established for charitable purposes only and, subject to that qualification, the objects for which Young Scot is established are:- to advance the education of young people. to advance the health and wellbeing of young people. to advance the engagement of young people in citizenship and community development. to promote the arts, heritage, culture and public participation in sport to and for the benefit of young people and to promote equality and diversity to and for young people. | £2,700,292

@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-44,745 charities have been tagged with this tag.
-This represents 22.09% of all charities.
+44,783 charities have been tagged with this tag.
+This represents 22.11% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,074 | 16.05%
-£10k - £100k | 16,483 | 24.16%
-£100k - £250k | 7,192 | 34.55%
-£250k - £500k | 2,812 | 28.41%
-£500k - £1m | 1,357 | 22.03%
-£1m - £10m | 1,361 | 16.00%
-Over £10m | 298 | 14.57%
-Total | 41,577 | 21.78%
+Under £10k | 12,001 | 16.02%
+£10k - £100k | 16,515 | 24.14%
+£100k - £250k | 7,219 | 34.63%
+£250k - £500k | 2,828 | 28.33%
+£500k - £1m | 1,389 | 22.42%
+£1m - £10m | 1,366 | 16.02%
+Over £10m | 302 | 14.64%
+Total | 41,620 | 21.80%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 36,684 | 21.53%
-oscr | 6,039 | 24.25%
-ccni | 2,022 | 28.10%
-Total | 44,745 | 22.09%
+ccew | 36,735 | 21.55%
+oscr | 6,028 | 24.25%
+ccni | 2,020 | 28.10%
+Total | 44,783 | 22.11%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>St Margarets Scottish Episcopal Church Rosyth</strong> [Charity number: [SC028426](https://findthatcharity.uk/orgid/GB-SC-SC028426)]<br>the advancement of religion | £20,681
-<strong>THE P27 TRUST</strong> [Charity number: [1182660](https://findthatcharity.uk/orgid/GB-CHC-1182660)]<br>Grant making body supporting primarily Christian organisations in their work, to further the Christian gospel and/or to offer compassionate relief to people & communities in charitable need including those requiring physical, mental & spiritual support both in the UK & abroad.Enquiries about the application process should be submitted by email. | £2,700,091
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF HOLY TRINITY, COVENTRY</strong> [Charity number: [1126698](https://findthatcharity.uk/orgid/GB-CHC-1126698)]<br>Regular public worship open to all.The provision of sacred space for personal prayer and contemplation.Pastoral work, including visiting the sick and the bereaved.Teaching of Christianity through sermons, courses and small groups.Taking of religious assemblies in schools.Supporting other charities in the UK and overseas. | £228,966
-<strong>Priesthill United Reformed Church</strong> [Charity number: [SC025351](https://findthatcharity.uk/orgid/GB-SC-SC025351)]<br>The advancement of religion. | £20,120
-<strong>SHROPSHIRE ISLAMIC FOUNDATION</strong> [Charity number: [1194272](https://findthatcharity.uk/orgid/GB-CHC-1194272)]<br>Daily prayers,  Islamic education, place for spiritual and religious guidance , community activities | 
-<strong>THE PAROCHIAL CHURCH COUNCIL OF ST AUGUSTINES OF CANTERBURY AND BEXHILL  ON SEA</strong> [Charity number: [1204497](https://findthatcharity.uk/orgid/GB-CHC-1204497)]<br>PROMOTING IN THE ECCLESIASTICAL PARISH THE WHOLE MISSION OF THE CHURCH. | 
-<strong>THE PONTIFICAL BEDA COLLEGE, ROME TRUST FUND</strong> [Charity number: [245125](https://findthatcharity.uk/orgid/GB-CHC-245125)]<br>The support of a College established to train students for the Roman Catholic priesthood, concentrating on late vocations - those who as mature students wish to become priests. This education helps to promote religious practice in both the United Kingdom and overseas, with the ordination and subsequent ministries of priest in various Dioceses of all whom complete their course at the College. | £184,698
-<strong>SHEKINAH SHUR MINISTRIES</strong> [Charity number: [1150532](https://findthatcharity.uk/orgid/GB-CHC-1150532)]<br>To advance the christian faith in accordance with the Statement of Beliefs as set out in schedule attached to the Memorandum and Article.To help relieve sickness through prayer, and help relieve financial hardship and promote and preserve good health by the provision of short term interest free loans, meals or services of any kind including through the provision of counselling and support. | £73,695
-<strong>MIRACLE CENTRE ASSEMBLIES OF GOD (UK)</strong> [Charity number: [1109266](https://findthatcharity.uk/orgid/GB-CHC-1109266)]<br>Promote Christianity, provide place of worship for members of the community. Provide pre &post-marital counselling, parenting and family life, job and carrier guidance to all manner ofpersons. Give grants and financial aid to single parents, children from needy homes and those studying.Establish a childcare and after school club to serve working parents, organize youth sporting activities. | £269,304
-<strong>THE METHODIST CHURCH NOTTINGHAM & DERBY DISTRICT</strong> [Charity number: [1134172](https://findthatcharity.uk/orgid/GB-CHC-1134172)]<br>Management structure promoting the work of Circuits and implement Conference decisions. Synods which authorise the District's work. Pastoral support for ministers and deacons. Promote mission through evangelism and ecumenical links. Guidance and promotion of best safeguarding practice for children and vulnerable adults. Resourcing ministerial training. Grants to circuits for mission projects. | £610,396
+<strong>THE WALTON ON THE NAZE YMCA RED TRIANGLE CLUB</strong> [Charity number: [1068668](https://findthatcharity.uk/orgid/GB-CHC-1068668)]<br>The objects of the Club are, in accordance with the Christian ethos and principles of The YMCA, to provide and assist in the provision of facilities for the recreation and leisure time occupation of the public and in particular of the inhabitants of Walton on the Naze and the surrounding area in the interests of social welfare and with the object of improving their conditions of life. | £17,263
+<strong>SHREE RAM MANDIR (WALSALL)</strong> [Charity number: [514652](https://findthatcharity.uk/orgid/GB-CHC-514652)]<br>Celebrate all Hindu festivals, Run classes promoting Hindu culture and arts e.g Classical dance, Bollywood dancing, rangoli competitions.  Run classes teaching English & Gujarati Invite experts to give advice on health and benefits. Run over 60's club, Women's Forum, & Youth club, to raise awareness of Hinduism among youngsters from 6 years and over & parents. | £55,203
+<strong>THE SURTI MUSLIM KHALIFA SOCIETY</strong> [Charity number: [509502](https://findthatcharity.uk/orgid/GB-CHC-509502)]<br>EDUCA\TION TRAININGRELIGIUOS ACTIVITIESSPORTS/RECREATIONECONOMIC COMMUNITY DEVELOPMENTCHILDREN YOUNG PEOPLEELDERLY OLD PEOPLETHE GENERAL PUBLIC MANKIND | £100,740
+<strong>CHARITIES IN CONNECTION WITH PROVIDENCE STRICT BAPTIST CHAPEL</strong> [Charity number: [240487](https://findthatcharity.uk/orgid/GB-CHC-240487)]<br>Grants to poor & needy, according to C & C scheme.See below. | £656
+<strong>Ballymoney Baptist Church</strong> [Charity number: [NI108092](https://findthatcharity.uk/orgid/GB-NIC-108092)]<br>None | £99,846
+<strong>THE LIVERPOOL CHURCH OF ENGLAND SCRIPTURE READERS' SOCIETY (INCORPORATED)</strong> [Charity number: [234028](https://findthatcharity.uk/orgid/GB-CHC-234028)]<br>The provision of grants to Church of England parishes in the City of Liverpool, to assist with the costs of employing lay workers by those parishes | £26,306
+<strong>Church Of God - United Kingdom</strong> [Charity number: [SC039469](https://findthatcharity.uk/orgid/GB-SC-SC039469)]<br>The advancement of religion by preaching throughout the world the Gospel of Jesus Christ and the Kingdom of God and to advance such other charitable purposes as the trustees shall determine. | £1,661,626
+<strong>Dungiven Roman Catholic Parish Missionary Outreach Charitable Trust</strong> [Charity number: [NI100519](https://findthatcharity.uk/orgid/GB-NIC-100519)]<br>The Trust will consider which Catholic Charities that work in the Continents of Africa, Asia and South America and to local charities operating and situated within Northern Ireland, whose purposes are to support education projects, initiatives to promote health or life expectancy; to alleviate distress caused by famine, and/or conflict or natural disasters, may best benefit from receiving monetary support and will then provide such support from the income of the Trust Fund. The initial Trust Fund is £2.5 million being placed on trust by Dungiven Roman Catholic Parish. The capital of the Trust will be returned to the Settlor at the end of the Trust Period. | £80,206
+<strong>Carryduff Congregation of the Presbyterian Church in Ireland</strong> [Charity number: [NI105292](https://findthatcharity.uk/orgid/GB-NIC-105292)]<br>Hold services of worship and other religious activities. These, and all that follows, are open to anyone of appropriate age and/or gender to access, without regard to whether they are members of our congregation. Through prayer, support our members, our own Church, other Christian Churches, the community and leaders in society and government. Organise meetings and events that promote our charitable purpose. Participate in the life of the local community. Participate in and support what the Presbyterian Church in Ireland and the supervising Presbytery does. Support other secular and Christian organisations and charities through volunteering, financial gifts and prayer. | £165,893
+<strong>ARK RESOURCES</strong> [Charity number: [1057347](https://findthatcharity.uk/orgid/GB-CHC-1057347)]<br>To give finance or help to people according to their need and to teach others to have a giving nature. To arrange holidays for those who otherwise, for varied reasons, could not take such times of refreshment; especially children. To hold conferences to teach a better way to live. To train people in biblical economics, prayer, healing, faith and worship. To further the Christian way of life. | £72,268

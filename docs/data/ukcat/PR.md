@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,299 charities have been tagged with this tag.
+1,296 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 486 | 0.65%
-£10k - £100k | 399 | 0.58%
+Under £10k | 482 | 0.64%
+£10k - £100k | 398 | 0.58%
 £100k - £250k | 145 | 0.70%
-£250k - £500k | 64 | 0.65%
+£250k - £500k | 67 | 0.67%
 £500k - £1m | 42 | 0.68%
-£1m - £10m | 72 | 0.85%
-Over £10m | 40 | 1.96%
-Total | 1,248 | 0.65%
+£1m - £10m | 71 | 0.83%
+Over £10m | 41 | 1.99%
+Total | 1,246 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,119 | 0.66%
-oscr | 132 | 0.53%
-ccni | 48 | 0.67%
-Total | 1,299 | 0.64%
+ccew | 1,118 | 0.66%
+oscr | 131 | 0.53%
+ccni | 47 | 0.65%
+Total | 1,296 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>DAI REES FOUNDATION</strong> [Charity number: [1163215](https://findthatcharity.uk/orgid/GB-CHC-1163215)]<br>The Dai Rees Foundation (DRF) is a charitable organisation made up of UK based registered Paramedics. Our aim is to provide assistance to remote and rural locations across the globe by increasing health awareness, facilitating emergency medical training and donation of medical equipment. The DRF will also act as a trust and provide financial and logistical support to similar projects. | £110
-<strong>UPBEAT</strong> [Charity number: [1087415](https://findthatcharity.uk/orgid/GB-CHC-1087415)]<br>Upbeat is an independent charity set up by ex-cardiac patients. We provide support for people who have had heart attacks, or other heart related problems, and their carers.  A range of specialist exercise sessions are held weekly under the supervision of qualified cardiac instructors and a cardiac nurse. Social and educational events are also provided. | £49,008
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST. OSWALD, ASHBOURNE</strong> [Charity number: [1185390](https://findthatcharity.uk/orgid/GB-CHC-1185390)]<br>Maintaining the Parish Church of St Oswald in the ecclesiastical parish of Ashbourne in the Diocese of Derby. Providing regular religious services and keeping the church open for private prayer, also supporting the Vicar and other clergy in their ministry in Ashbourne and surrounding villages. | £125,462
-<strong>THE GERTRUDE ROGERS TRUST FUND</strong> [Charity number: [217600](https://findthatcharity.uk/orgid/GB-CHC-217600)]<br>Offers financial help to nurses who trained within the Leicester Hospitals and are members of the Leicestershire Nurses League | 
-<strong>REDEMPTORIS MATER HOUSE OF FORMATION</strong> [Charity number: [1047443](https://findthatcharity.uk/orgid/GB-CHC-1047443)]<br>The charity runs a House of Formation to train missionary priests for the Diocese of Westminster. It also supports pastoral activities carried out in the UK and abroad by the students in formation, by the staff and by the priests who have been ordained: evangelisation, catechesis, liturgical ministry, assistance to families, to elderly and housebound, hospital chaplaincy, etc. | £175,081
-<strong>BAYNE BENEFACTION</strong> [Charity number: [203262](https://findthatcharity.uk/orgid/GB-CHC-203262)]<br>1  To offer grants to Clergy in the Oxford Diocese for grants to enable them to undertake further accredited study and to support those in financial need.2.  To uphold and enhance the teaching of religious education in Church Schools in Oxford Diocese through the provision of resources, in-service training etc. and to support the work of the Oxford Diocesan staff within all Diocesan Schools. | £51,208
+<strong>BISHOPS CHARITY FUND (LINCOLN)</strong> [Charity number: [1022582](https://findthatcharity.uk/orgid/GB-CHC-1022582)]<br>Provide financial and pastoral assistance to clergy, ministers and their families, serving in the Lincoln Diocese. | £6,823
+<strong>JOHN EDDLESTON VICARAGE MONEYS</strong> [Charity number: [223528](https://findthatcharity.uk/orgid/GB-CHC-223528)]<br>PROVIDES SUPPORT AND FUNDING FOR THE VICAR OF BILLINGE. | £2,043
+<strong>FRIENDS OF WYNDHAM HOUSE SURGERY</strong> [Charity number: [1048253](https://findthatcharity.uk/orgid/GB-CHC-1048253)]<br>We aim to relieve and preserve health amongst persons around Silverton, Devon by supporting Wyndham House Surgery and other activities.  These include grants towards a nurse visiting elderly patients in their homes, a prescription delivery service, a car service to take patients to and from the surgery and local hospitals, Balance Classes, over 65 keep fit, pre diabetes sessions and others. | £31,002
+<strong>CHATTERLEY WHITFIELD FRIENDS</strong> [Charity number: [1183093](https://findthatcharity.uk/orgid/GB-CHC-1183093)]<br>The object of the CIO is to advance the education of the public in the history of mining at the former Chatterley Whitfield colliery by the demonstration of mining methods and the exhibition of machinery and ancillary matters connected with mining transportation social conditions and industrial archaeology and in such other ways as the trustees consider appropriate. | £44,656
+<strong>POLICE CHAPLAINCY UK</strong> [Charity number: [1190186](https://findthatcharity.uk/orgid/GB-CHC-1190186)]<br>The provision of Chaplaincy to Police Officers, Police Staff and their families to assist maintain and promote their holistic wellbeing. This in turn contributes to an efficient workforce better able and equipped to serve the public.Also providing a network of advice relating to moral, ethical & religious matters and building and facilitating links with communities and the Police. | 
+<strong>THE CHARITY OF SIR JULIUS WERNHER (KNOWN AS ST SAVIOUR'S CHURCH - NURSE RESIDENCE TRUST)</strong> [Charity number: [231829](https://findthatcharity.uk/orgid/GB-CHC-231829)]<br>To help the sick/poor in the Parish of St Saviour's, Luton | £591
 <strong>St James The Great Scottish Episcopal Church: Cupar</strong> [Charity number: [SC019080](https://findthatcharity.uk/orgid/GB-SC-SC019080)]<br>Authority and Limitations of Constitution. Te church and congregation shall form part of of the scottish church, and the rector, assistant clergy, and all of the officials shall be subject to the canons of such church in force from time to time. | £49,054
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST JOHN THE BAPTIST, LEAMINGTON PRIORS</strong> [Charity number: [1200508](https://findthatcharity.uk/orgid/GB-CHC-1200508)]<br>Responsibility of cooperating with the Vicar in promoting in the ecclesiastical parish the whole mission of the Church, pastoral, evangelistic, social and ecumenical. The primary object of the PCC is the promotion of the gospel of our Lord Jesus Christ according to the doctrines and practices of the Church of England. | 
-<strong>CALL4BACKUP</strong> [Charity number: [1162669](https://findthatcharity.uk/orgid/GB-CHC-1162669)]<br>A strictly confidential support network of serving, retired and ex police officers and staff who are available through multiple contact methods to provide advice and direction on all manner of circumstances affecting the day to day lives of employees of the police. Only we truly understand how the job we do affects our everyday lives. | £28,514
-<strong>THE SAMARITAN FUND IN CONNECTION WITH LEAGUE OF CHARING CROSS HOSPITAL NURSES</strong> [Charity number: [244246](https://findthatcharity.uk/orgid/GB-CHC-244246)]<br>The Samaritan Fund for the League of Charing Cross Hospital Nurses, was set up to provide assistance for any member. For those not trained at Charing Cross Hospital, membership of the League is available for those nurses who, following qualification elsewhere, have subsequently held a nursing position for a minimum of 1 year. | £1
+<strong>SADIE BRISTOW FOUNDATION</strong> [Charity number: [1182525](https://findthatcharity.uk/orgid/GB-CHC-1182525)]<br>We aim to provide an athletic tennis sports module in primary schools. To raise awareness of Anaphalxis and allergies, fund nurses in training to become specialists in this area. | £12,927
+<strong>SWALLOWNEST HAMLET MINERS' WELFARE INSTITUTE AND RECREATION GROUND</strong> [Charity number: [523473](https://findthatcharity.uk/orgid/GB-CHC-523473)]<br>Provide and maintain an Institute and Recreation Ground with facilities for recreation and leisure time activities for the benefit of the people of former mining community of Swallownest and surrounding area. | £49,504
+<strong>Edith Cavell Fund for Nurses</strong> [Charity number: [SC041453](https://findthatcharity.uk/orgid/GB-SC-SC041453)]<br>4. Objects of the charity  (2) The objects of the charity are: (a) the relief of beneficiaries who are in need, hardship or distress. (b) the advancement of the education of beneficiaries who are in need. hardship or distress. and (c) the promotion of the science and art of nursing.  (3) The council must apply at least 95% of the charity's income for object 2(a).  (4) In furtherance of object 2(c), the council may award one or more annual scholarships, which may be used for travel. Any scholarship awarded is to be known as The Edith Cavell Scholarship. | £1,028,676
