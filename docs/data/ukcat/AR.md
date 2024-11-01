@@ -3,8 +3,8 @@
 Arts is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Arts](AR.md) category.
 
-29,136 charities have been tagged with this tag.
-This represents 14.38% of all charities.
+29,171 charities have been tagged with this tag.
+This represents 14.39% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,158 | 13.56%
-£10k - £100k | 10,877 | 15.90%
-£100k - £250k | 2,648 | 12.70%
-£250k - £500k | 1,429 | 14.32%
-£500k - £1m | 823 | 13.28%
-£1m - £10m | 1,105 | 12.96%
-Over £10m | 223 | 10.81%
-Total | 27,263 | 14.28%
+Under £10k | 10,074 | 13.53%
+£10k - £100k | 10,959 | 15.94%
+£100k - £250k | 2,641 | 12.57%
+£250k - £500k | 1,437 | 14.24%
+£500k - £1m | 849 | 13.47%
+£1m - £10m | 1,105 | 12.89%
+Over £10m | 225 | 10.85%
+Total | 27,290 | 14.27%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 23,245 | 13.63%
-oscr | 4,480 | 18.02%
-ccni | 1,411 | 19.63%
-Total | 29,136 | 14.38%
+ccew | 23,277 | 13.64%
+oscr | 4,483 | 18.08%
+ccni | 1,411 | 19.59%
+Total | 29,171 | 14.39%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>BLACK KNIGHTS DRUM AND BUGLE CORPS</strong> [Charity number: [1036112](https://findthatcharity.uk/orgid/GB-CHC-1036112)]<br>Teaching & Performing Music | £3,267
-<strong>ROYAL ACADEMY OF DANCE</strong> [Charity number: [312826](https://findthatcharity.uk/orgid/GB-CHC-312826)]<br>The Royal Academy of Dance is a registration organisation for dance teachers, a Higher Education provider for aspiring dance teachers, an Awarding Organisation leading to proficiency in dance at a high level; and  the owner of Benesh Movement Notation; and through these provides dance training, dance teacher education, and dance assessment services to students and teachers. : | £22,004,000
-<strong>NEWBIGGIN BY THE SEA WOMEN'S INSTITUTE</strong> [Charity number: [227965](https://findthatcharity.uk/orgid/GB-CHC-227965)]<br>To enable women who are interested in issues associated with rural life including arts, crafts and sciences to improve and develope conditions of rural life, to advance their education and citizenship in public questions both national and international, in music, drama and other cultural subjects. | £4,299
-<strong>BEDFORD PHYSICAL EDUCATION OLD STUDENTS' ASSOCIATION</strong> [Charity number: [290930](https://findthatcharity.uk/orgid/GB-CHC-290930)]<br>BPEOSA funds support:-1. The International Physical Literacy Association2. The Bedford Physical Education Archive3. Projects to promote lifelong participation in physical activity. | £17,216
-<strong>THE MILVERTON CONCERT SOCIETY</strong> [Charity number: [1107070](https://findthatcharity.uk/orgid/GB-CHC-1107070)]<br>Organise classical concerts in Milverton village church given by professional musicians of national and international standing. Arrange for the musicians to give workshops in the village primary school on the afternoon of the concerts. | £13,230
-<strong>TELFORD CULTURAL AND LEISURE CENTRE</strong> [Charity number: [1053967](https://findthatcharity.uk/orgid/GB-CHC-1053967)]<br>1) To provide facilities in the interest of social welfare for improving the conditions of life of those who have need of such facilities by reason of their youth, age, infirmity or disablement, poverty or social/economic circumstances. 2) To promote & further education in the history & culture of Sikh arts. | £42,688
-<strong>PENSNETT AND DISTRICT COMMUNITY ASSOCIATION</strong> [Charity number: [522618](https://findthatcharity.uk/orgid/GB-CHC-522618)]<br>We have a range of activities available such as rainbows, brownies, St. John Ambulance, Gardening Club, afternoon plus (social group for the young at heart), Boogie Bounce, Keep Fit, Zumba, tap dance,  Stay and Play, Coffee Shop and we also hire out our premises for parties or social events. | £25,095
-<strong>FELIXSTOWE CARNIVAL ASSOCIATION</strong> [Charity number: [286226](https://findthatcharity.uk/orgid/GB-CHC-286226)]<br>LOCAL VOLUNTEERS THAT ORGANISE AND PUT TOGETHER FELIXSTOWE CARNIVAL WEEKEND, WITH HELP FROM DONATIONS FROM LOCAL BUSINESSES. ANY PROFITS MADE AT THE END OF OUR FINANCIAL YEAR ARE THEN DISTRIBUTED TO OTHER LOCAL CHARITIES. | £38,931
-<strong>HEALING EVERY NATION</strong> [Charity number: [1131740](https://findthatcharity.uk/orgid/GB-CHC-1131740)]<br>To advance the Christian religion for the benefit of the public at large through the holding of services, prayer meetings, lectures (public celebration of religious festivals) producing and or distributing literature on Christian religion to enlighten others about Christianity.The | £4,355
-<strong>LANCASTER FESTIVAL OF BRITAIN ENDOWMENTS</strong> [Charity number: [526735](https://findthatcharity.uk/orgid/GB-CHC-526735)]<br>Further Education College | £35
+<strong>CONSERVATOIRES UK</strong> [Charity number: [1108731](https://findthatcharity.uk/orgid/GB-CHC-1108731)]<br>to advance and assist in the advancement of higher or further education in the United Kingdom in the fields of music and performing arts (in so far as such advancement and assistance shall be of an exclusively charitable nature). | £91,497
+<strong>ROMSEY CHAMBER MUSIC FESTIVAL TRUST</strong> [Charity number: [1182043](https://findthatcharity.uk/orgid/GB-CHC-1182043)]<br>The festival organises public concerts which are designed to educate the wider public, the elderly, children, and music students in high quality chamber music. The festival also runs workshops in schools, designed to introduce and further educate school children in chamber music and provide access to performances to those who would not normally attend a concert. | £32,792
+<strong>Solway Pipers</strong> [Charity number: [SC052416](https://findthatcharity.uk/orgid/GB-SC-SC052416)]<br>The organisation?s purposes are: a)The advancement of education b)The advancement of the arts, heritage, culture and the sciences | 
+<strong>The Mill on the Fleet</strong> [Charity number: [SC019830](https://findthatcharity.uk/orgid/GB-SC-SC019830)]<br>The organisation’s purposes are: The development of the arts and heritage through the management and development of The Mill on the Fleet Centre.   | £76,677
+<strong>THE SHABBATON CHOIR</strong> [Charity number: [1058256](https://findthatcharity.uk/orgid/GB-CHC-1058256)]<br>Choir raises funds to advance Judaism and in particular Jewish Prayer, though participation in synagogue service; singing at public performances, in television/radio broadcasts, recordings and through other media; and for the purpose of healing through singing. | £10,111
+<strong>GRAFTON REGIS VILLAGE HALL</strong> [Charity number: [286213](https://findthatcharity.uk/orgid/GB-CHC-286213)]<br>Provision and maintenance of a building in support of general charitable purposes including education/training, arts/culture, sport/recreation, environment/conservation/heritage: promotion of these activities within the parish. | £12,631
+<strong>NORTH WALES INTERNATIONAL MUSIC FESTIVAL LIMITED/GWYL GERDD GOGLEDD CYMRU CYFYNGEDIG</strong> [Charity number: [509023](https://findthatcharity.uk/orgid/GB-CHC-509023)]<br>To promote and provide educational music workshops, seminars and lectures throughout the North Wales region and to promote the arts in North Wales through a series of concerts and other activities | £139,278
+<strong>EUROPEAN SOCIETY OF OPHTHALMIC PLASTIC AND RECONSTRUCTIVE SURGERY (ESOPRS)</strong> [Charity number: [291040](https://findthatcharity.uk/orgid/GB-CHC-291040)]<br>To advance the science and art of ophthalmic plastic and reconstructive surgery and to improve the practice and teaching of this subject in Europe and to raise sufficient funds to make fellowship grants. | £39,262
+<strong>FRIENDS OF CHESTNUT GROVE</strong> [Charity number: [1150342](https://findthatcharity.uk/orgid/GB-CHC-1150342)]<br>1. Refreshments for all the Open Evenings and Parents Evening2. Refreshments and raffles at all school Concerts and end of term Productions3. Support the school when they organise specific events 4. Comedy Fund-raising event to raise money for the an African School the School supports and to send a group of 6th Formers on a house building project to Cambodia5. Donation of 4 outdoor benches | £11,275
+<strong>SRI VENKATESWARA BALAJI TEMPLE</strong> [Charity number: [1182465](https://findthatcharity.uk/orgid/GB-CHC-1182465)]<br>At SVBT, we perform the following:1. conduct spiritual programs, ceremonies and rituals2. Promote yoga & meditation3. Teach classical & traditional Indian vocal, music & dance4. Promote vegetarianism & Eco Living5. Advance education in Hindu culture, traditions & history | £23,206

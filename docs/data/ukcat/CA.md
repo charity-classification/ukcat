@@ -3,8 +3,8 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-28,918 charities have been tagged with this tag.
-This represents 14.28% of all charities.
+28,954 charities have been tagged with this tag.
+This represents 14.29% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,991 | 14.68%
-£10k - £100k | 8,689 | 12.70%
-£100k - £250k | 2,546 | 12.21%
-£250k - £500k | 1,494 | 14.97%
-£500k - £1m | 1,160 | 18.72%
-£1m - £10m | 1,648 | 19.32%
-Over £10m | 323 | 15.66%
-Total | 26,851 | 14.06%
+Under £10k | 10,932 | 14.69%
+£10k - £100k | 8,758 | 12.74%
+£100k - £250k | 2,568 | 12.22%
+£250k - £500k | 1,504 | 14.90%
+£500k - £1m | 1,150 | 18.25%
+£1m - £10m | 1,663 | 19.40%
+Over £10m | 324 | 15.62%
+Total | 26,899 | 14.07%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,306 | 14.84%
-oscr | 2,794 | 11.24%
-ccni | 818 | 11.38%
-Total | 28,918 | 14.28%
+ccew | 25,353 | 14.86%
+oscr | 2,783 | 11.22%
+ccni | 818 | 11.36%
+Total | 28,954 | 14.29%
 
 
 ## Ten largest charities (by income)
@@ -46,8 +46,8 @@ Name | Latest income
 -----|--------:
 <strong>LLOYD'S REGISTER FOUNDATION</strong> [Charity number: [1145988](https://findthatcharity.uk/orgid/GB-CHC-1145988)]<br>Lloyd's Register Foundation promotes safety and education. Most of the consolidated income is attributable to the Lloyd's Register Group, a trading group that distributes profit to the Foundation. It is received dividends and not the consolidated trading income that is available to the Foundation. The trading group is a 'Social Investment' that also furthers the Foundation's charitable aims. | £560,401,000
 <strong>WELLCOME TRUST</strong> [Charity number: [210183](https://findthatcharity.uk/orgid/GB-CHC-210183)]<br>Wellcome exists to improve health by helping great ideas to thrive.We support researchers, we take on big health challenges, we campaign for better science, and we help everyone get involved with science and health research. We are a politically and financially independent foundation. | £541,832,807
-<strong>INTERNATIONAL FINANCE FACILITY FOR IMMUNISATION COMPANY</strong> [Charity number: [1115413](https://findthatcharity.uk/orgid/GB-CHC-1115413)]<br>IFFIm's primary purpose is to function as a financing vehicle in order to support the GAVI Alliance in accelerating the provision of charitable funds for vaccination and health systems strengthening projects in developing countries. IFFIm is funded by grants pledged by U.K. and international governments. IFFIm is unable to accept donations from members of the public. | £443,006,634
 <strong>OXFAM</strong> [Charity number: [202918](https://findthatcharity.uk/orgid/GB-CHC-202918)]<br>Oxfam's objects are to prevent and relieve poverty and protect the vulnerable anywhere in the world.  Oxfam furthers its objects through interlinked activities of humanitarian relief, development work and advocacy and campaigning.  Oxfam is an affiliate member of Oxfam International.  Details of Oxfam's mission and ways of working can be found at www.oxfam.org.uk | £400,600,000
+<strong>THE ROYAL SOCIETY OF LONDON FOR IMPROVING NATURAL KNOWLEDGE (COMMONLY KNOWN AS THE ROYAL SOCIETY)</strong> [Charity number: [207043](https://findthatcharity.uk/orgid/GB-CHC-207043)]<br>The Royal Society has three roles: A learned society; The UK's Academy of Science; And as a funding agency. We- Promote science and its benefits- Recognise excellence in science- Support outstanding science- Provide scientific advice for policy- Foster international and global cooperation- Provide education and public engagement | £396,290,000
 <strong>THE ORMISTON TRUST</strong> [Charity number: [1164358](https://findthatcharity.uk/orgid/GB-CHC-1164358)]<br>Ormiston Trust supports children and their families by way of grants to Ormiston organisations and the sponsorship of Multi Academy Trusts. Four core values underpin our work: Nurture; Empower; Innovate; and Impact. | £338,887,000
 <strong>University Of Dundee</strong> [Charity number: [SC015096](https://findthatcharity.uk/orgid/GB-SC-SC015096)]<br>To provide instruction in such branches of learning as the (A) University may think fit, whether for members of the University or for others, and to make provision for research and for the advancement and dissemination of knowledge in such a manner as the University may determine. (B) To prescribe in the Ordinances of the University the conditions under which any person may be admitted as a student of the University or to any particular course of study provided by the University. (C) To grant, under conditions laid down in the Statutes or Ordinances, a degree, diploma, certificate or other academic award to any person who shall have pursued a course of study approved by the University and shall have passed the examinations or other tests prescribed by the University. The advancement of education. | £332,717,000
 <strong>BARNARDO'S</strong> [Charity number: [216250](https://findthatcharity.uk/orgid/GB-CHC-216250)]<br>Barnardo?s helped improve the lives of more than 240,000 vulnerable children, young people and their families. We help children including those who have been sexually exploited, young people leaving care, children with a parent in prison and provide early intervention for families struggling to cope. We find adoptive homes and foster placements for children in care and campaign to change policy. | £315,250,409
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>MATHEMATICAL SCIENCES UK</strong> [Charity number: [1192572](https://findthatcharity.uk/orgid/GB-CHC-1192572)]<br>The Charity supports the charitable work of Mathematical Sciences Research Institute (its sole member and a s501(c)(3) non-profit organisation) and other educational and research bodies in the field of mathematical sciences. The Charity directly funds educational projects to promote mathematics for the public benefit and grant funding to organisations to support projects that advance mathematics. | £10,083
-<strong>THE HOSPITALS TRUST OF THE HARTLEPOOLS</strong> [Charity number: [234100](https://findthatcharity.uk/orgid/GB-CHC-234100)]<br>Financial Support to hospitals, nursing homes etc in the Parliamentary Borough of Hartlepool | £12,921
-<strong>THE SYKES LODGE NO 1040 BENEVOLENT FUND</strong> [Charity number: [701874](https://findthatcharity.uk/orgid/GB-CHC-701874)]<br>RACE NIGHTS, SPONSORED EVENTS, GARDEN PARTIES, MEMBERS DONATIONS.SUPPORTING NATIONAL AND LOCAL CHARITIESS. GRANTS TO DESERVING LOCAL ORGANISATIONS AND INDIVIDUAL.  E.G. GUIDES, SCOUTS, PARTICIPANTS IN DISABLED GAMES. | £3,009
-<strong>The Project</strong> [Charity number: [1015436](https://findthatcharity.uk/orgid/GB-CHC-1015436)]<br>The Project is an Advice Quality Standard accredited information, advice and guidance provider.  We provide advice and casework relating to homelessness and income maximisation.  We are members of Advice UK, the Institute of Money Advisors, CPAG and are Financial Conduct Authority regulated. | £278,898
-<strong>URSULA TAYLOR CHARITY</strong> [Charity number: [307520](https://findthatcharity.uk/orgid/GB-CHC-307520)]<br>Awarding grants to pupils and students for cost of books, course fees, tools etc and other equipment required for their individual learning requirements. | £2,653
-<strong>JAFFE FAMILY RELIEF FUND</strong> [Charity number: [208560](https://findthatcharity.uk/orgid/GB-CHC-208560)]<br>1. Grants to descendents of Daniel Jaffe and/or their wives, widows and widowers (world wide) in need. 2. UK charities to distribute to individuals in poverty, in the UK. | £62,198
-<strong>Donaghadee Community Development Association</strong> [Charity number: [NI103332](https://findthatcharity.uk/orgid/GB-NIC-103332)]<br>Our activities are Organising Events - We organise and co-ordinate a two-week festival (attendances last year totalled 12,000); a Christmas event and also organise one off events such as a Senior Showcase (an exhibition and talks on activities and issues of interest to those aged 50+ eg health, leisure pursuits, education, housing, volunteering); a Cultural Awareness Day with events from Indian, Chinese, African communities. These events bring the community together and improve the town’s economy by attracting visitors and keeping businesses viable. Community Development – Supporting other community groups by advising on grant opportunities and also by raising skill levels. Groups can promote their activities through the Whats On and A-Z sections of our website (www.visitdonaghadee.com). Our annual events provide an opportunity for organisations to participate and attract new members. We also have a range of equipment (pa system, 7 gazebos, a mobile platform/stage) which we lend out. Promoting Donaghadee – through our website (www.visitdonaghadee.com) and also in projects such as the production and sale of hessian bags “Shop Local”. Traders can promote their services through the A-Z section of the website. Improving Our Town – organising the annual floral displays; working with the local Council on schemes such as the £1.7m from the Heritage Lottery Fund, £2.5m for public realm works; installation of free WIFI in the town centre and the preparation of a Town Masterplan. We have worked very closely with Council officials and government departments on these initiatives. We have also met with elected representatives and Ministers on issues such as car parking, roads and potential tourist development; | £68,468
-<strong>ST ANNE'S INSTITUTE</strong> [Charity number: [1063938](https://findthatcharity.uk/orgid/GB-CHC-1063938)]<br>Grant making body | £18,550
-<strong>DACORUM PLAY</strong> [Charity number: [302382](https://findthatcharity.uk/orgid/GB-CHC-302382)]<br>Makes grants to individualsMakes grants to organisationsProvides servicesProvides advocacy/advice/informationActs as umbrella or resource body | 
-<strong>ARMSTRONG SIDDELEY HERITAGE TRUST LTD</strong> [Charity number: [1153692](https://findthatcharity.uk/orgid/GB-CHC-1153692)]<br>Educate - advance the education of the public in the history of Armstrong Siddeley and its associated cos, manufacturing and products.Preserve - a comprehensive archive illustrating all aspects of J D Siddeley's achievements in the infant Motor & Aero industries & in A S, its assoc cos, their development, ideas, people, documents and artefacts of historical significance.  Establish this archive. | £18,756
+<strong>Biological Recording In Scotland Brisc</strong> [Charity number: [SC024418](https://findthatcharity.uk/orgid/GB-SC-SC024418)]<br>The objects of the organisation are to advance the education of the public about biological diversity  and to promote for the benefit of the public the conservation of the environment and in  furtherance thereof but not otherwise.  a) To promote the effective gathering and use of biological data and other related  information as a means to develop an understanding of Scotland's biodiversity and contribute to the conservation of the natural heritage of Scotland. b) To stimulate biological recording in Scotland through promotion of a network of area based local records centres and recording groups. c) To represent the interests of those records centres, recording groups and individual recorders to other organisations. d) To promote co-ordination/co-operation between and training of individuals and organisations with an interest in biological recording. e) To promote the adoption of good practice and minimum standards of biological recording and the accreditation of records centres. | £920
+<strong>Holly Trust</strong> [Charity number: [1066677](https://findthatcharity.uk/orgid/GB-CHC-1066677)]<br>The promotion for public benefit by financial support in association with Good Hope Hospital research into causes therapies treatments and detection of bowel cancer | £20,924
+<strong>EAST ANGLIAN RUSSIAN AND INTERNATIONAL CULTURAL SOCIETY</strong> [Charity number: [1121269](https://findthatcharity.uk/orgid/GB-CHC-1121269)]<br>To advance the education and training of Russian speaking communities in need thereof so as to advance them in life and assist them to adapt within a new community.To advance the education of the public in the language, culture and history of Russia and other countries.. | £1,528
+<strong>1ST COPTHORNE SCOUT GROUP</strong> [Charity number: [291680](https://findthatcharity.uk/orgid/GB-CHC-291680)]<br>Provides the organisation and financial support to Scouters, in order that they may provide Scouting activities for the youth of Copthorne Village and surrounding area. | £68,506
+<strong>CHARITY OF JANE PATRICIA ECCLES</strong> [Charity number: [516953](https://findthatcharity.uk/orgid/GB-CHC-516953)]<br>Makes grants to individual elderly ladies living in Sandwell | £1,346
+<strong>A J H ASHBY WILL TRUST</strong> [Charity number: [803291](https://findthatcharity.uk/orgid/GB-CHC-803291)]<br>The charity awards grants to charitable institutions. The trust manager reviews applications for grants when received and grants are awarded at the trustee's discretion. | £31,252
+<strong>THE ROYAL SCHOOL OF CHURCH MUSIC</strong> [Charity number: [312828](https://findthatcharity.uk/orgid/GB-CHC-312828)]<br>We aim to encourage and inspire the best use of music, above all in Christian worship, formation and outreach. We do this by both direct and indirect education and training. Through our staff, volunteers and partnerships, we provide short courses, extended learning programmes, publications and resources, advice and advocacy. We work with people of all ages, abilities and levels of resource. | £1,348,982
+<strong>NEWFIELDS MASONIC COMMUNITY CHARITY</strong> [Charity number: [1150457](https://findthatcharity.uk/orgid/GB-CHC-1150457)]<br>The advancement of education for the public benefit. The relief of financial hardship,sickness and treatment and care of those in need or ill health including but not limited to Freemasons and their families or dependants either generally or individually by making grants of money. The preservation and conservation of historic or ancient buildings for the public benefit. | £5,582
+<strong>River Valley Development Association Ltd</strong> [Charity number: [NI100527](https://findthatcharity.uk/orgid/GB-NIC-100527)]<br>RVDA Ltd created three Star NITB registered Self Catering Units within the buildings in the Historic Site so providing an Annual Income which is entirely reinvested into the maintenance and refurbishing of the Listed Buildings and their Curtilage/Environment. The Board of Trustees consists of members of the local community who are volunteers giving freely of their time and expertise, otherwise the site would have become heaps of stones. The Company was set up in 1995 and has virtually the same Board that built the Grants Pyramid to carry out the original refurbishment. | £126,120
+<strong>KARAM ELAHI MEMORIAL TRUST</strong> [Charity number: [1129300](https://findthatcharity.uk/orgid/GB-CHC-1129300)]<br>The charity provides support,in the form of training,advocacy,cultural awareness,language services and guidance to those in need in South Yorkshire and remote areas of Pakistan. | £2,817

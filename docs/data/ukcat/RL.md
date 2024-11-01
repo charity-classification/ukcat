@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-44,783 charities have been tagged with this tag.
-This represents 22.11% of all charities.
+44,836 charities have been tagged with this tag.
+This represents 22.12% of all charities.
 
 ## Keywords to find charities
 
@@ -20,31 +20,30 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,001 | 16.02%
-£10k - £100k | 16,515 | 24.14%
-£100k - £250k | 7,219 | 34.63%
-£250k - £500k | 2,828 | 28.33%
-£500k - £1m | 1,389 | 22.42%
-£1m - £10m | 1,366 | 16.02%
-Over £10m | 302 | 14.64%
-Total | 41,620 | 21.80%
+Under £10k | 11,932 | 16.03%
+£10k - £100k | 16,515 | 24.02%
+£100k - £250k | 7,313 | 34.81%
+£250k - £500k | 2,886 | 28.60%
+£500k - £1m | 1,441 | 22.87%
+£1m - £10m | 1,364 | 15.92%
+Over £10m | 307 | 14.80%
+Total | 41,758 | 21.84%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 36,735 | 21.55%
-oscr | 6,028 | 24.25%
-ccni | 2,020 | 28.10%
-Total | 44,783 | 22.11%
+ccew | 36,813 | 21.57%
+oscr | 5,999 | 24.19%
+ccni | 2,024 | 28.11%
+Total | 44,836 | 22.12%
 
 
 ## Ten largest charities (by income)
 
 Name | Latest income
 -----|--------:
-<strong>BENEFACT TRUST LIMITED</strong> [Charity number: [263960](https://findthatcharity.uk/orgid/GB-CHC-263960)]<br>The objects of ATL are to promote the Christian Religion, to contribute to the funds of any charitable institutions, associations, funds or objects and to carry out any charitable purpose. | £465,841,000
 <strong>The Shaw Trust Limited</strong> [Charity number: [SC039856](https://findthatcharity.uk/orgid/GB-SC-SC039856)]<br>The objects of the company are: (a) To relieve any person who is in need because of any disability or because of any other disadvantage resulting from unemployment, youth, age, financial hardship, ill-health or because they are offenders, ex-offenders or are at risk of offending. (b) The promotion of the health, equality and independence of disabled people. and (c) The prevention and relief of poverty. in particular by providing education, training, rehabilitation, support, employment opportunities and personal development opportunities. The company will be non-party in politics and non-sectarian in religion. | £302,005,000
 <strong>Salvation Army</strong> [Charity number: [SC009359](https://findthatcharity.uk/orgid/GB-SC-SC009359)]<br>The objects of the Army shall be the advancement of the Christian religion, as promulgated in the religious doctrines set out in Schedule 1 to this Act which are professed, believed and taught by the Army and, pursuant thereto,  the advancement of education,  the relief of poverty. and other charitable objects beneficial to society or the community of mankind as a whole.  | £280,413,000
 <strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £280,413,000
@@ -53,20 +52,21 @@ Name | Latest income
 <strong>Islamic Relief Worldwide</strong> [Charity number: [SC042020](https://findthatcharity.uk/orgid/GB-SC-SC042020)]<br>‘1.1 The Objects of the Charity are, as a practical manifestation and application of the humanitarian values inspired and guided by the Islamic faith, to promote for the public benefit: 1.1.1 the alleviation of human suffering for those who are the victims of war or natural disaster, trouble, inequalities, injustices or catastrophe and the prevention or relief of poverty or financial hardship by: a. providing humanitarian assistance and other means of saving lives. b. raising awareness and advocating for those in need. c. advancing conflict resolution and reconciliation. d. promoting religious and human harmony.  1.1.2 To promote sustainable development that meets the needs of the present without compromising the ability of future generations to meet their own needs for the benefit of the public by:-  a.	the preservation, conservation and the protection of the environment and the prudent use of natural resources.  b.	the relief of poverty and the improvement of the conditions of life in socially and economically disadvantaged communities.  c.	the promotion of sustainable means of achieving economic growth and regeneration.  1.1.3	to advance and promote education by providing and assisting in the provision of facilities for education, in each case for the public benefit anywhere in the world.  1.1.4	to advance health by the provision of financial or other assistance, including medicines, hospitals and other means, in each case for the public benefit anywhere in the world. and  1.1.5	the advancement of such other charitable purposes as may from time to time be determined and agreed by the Trustees.’  | £270,419,000
 <strong>CANTERBURY CHRIST CHURCH UNIVERSITY</strong> [Charity number: [1098136](https://findthatcharity.uk/orgid/GB-CHC-1098136)]<br>UNIVERSITY OF HIGHER EDUCATION INSTITUTION, INCLUDING RESEARCH. | £263,827,065
 <strong>Salvation Army Social Work Trust</strong> [Charity number: [SC037691](https://findthatcharity.uk/orgid/GB-SC-SC037691)]<br>' in promoting the charitable work of the Salvation Army in such one or more of the following ways as the General for the time being of the Salvation Army shall think fit namely : (1) relief of poverty sickness suffering distress incapacity or old age. (2) advancement of education. (3) training in Christian and moral principles. and (4) assistance of those in need of protection' | £252,746,000
-<strong>THE ARCHBISHOPS' COUNCIL</strong> [Charity number: [1074857](https://findthatcharity.uk/orgid/GB-CHC-1074857)]<br>Enabling, supporting, sustaining & advancing of the Church's:-worship, spiritual & numerical growth-engagement with social justice & environmental issues-work in education, lifelong learning & discipleship-selection, training and resourcing of people for public ministry & lay vocations-inherited fabric of buildings, to maintain & develop these for worship & community service. | £153,231,155
+<strong>CHURCH COMMISSIONERS FOR ENGLAND</strong> [Charity number: [1140097](https://findthatcharity.uk/orgid/GB-CHC-1140097)]<br>Promoting the mission and ministry of the Church of England especially by supporting poorer dioceses with ministry costs, providing funds to support mission activities, paying for bishops' ministry and some cathedral costs, administering the legal framework for pastoral reorganisation and closed church buildings, paying clergy pensions for service prior to 1998 and running the clergy payroll. | £192,121,024
+<strong>THE ARCHBISHOPS' COUNCIL</strong> [Charity number: [1074857](https://findthatcharity.uk/orgid/GB-CHC-1074857)]<br>Enabling, supporting, sustaining & advancing of the Church's:-worship, spiritual & numerical growth-engagement with social justice & environmental issues-work in education, lifelong learning & discipleship-selection, training and resourcing of people for public ministry & lay vocations-inherited fabric of buildings, to maintain & develop these for worship & community service. | £186,036,537
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>THE WALTON ON THE NAZE YMCA RED TRIANGLE CLUB</strong> [Charity number: [1068668](https://findthatcharity.uk/orgid/GB-CHC-1068668)]<br>The objects of the Club are, in accordance with the Christian ethos and principles of The YMCA, to provide and assist in the provision of facilities for the recreation and leisure time occupation of the public and in particular of the inhabitants of Walton on the Naze and the surrounding area in the interests of social welfare and with the object of improving their conditions of life. | £17,263
-<strong>SHREE RAM MANDIR (WALSALL)</strong> [Charity number: [514652](https://findthatcharity.uk/orgid/GB-CHC-514652)]<br>Celebrate all Hindu festivals, Run classes promoting Hindu culture and arts e.g Classical dance, Bollywood dancing, rangoli competitions.  Run classes teaching English & Gujarati Invite experts to give advice on health and benefits. Run over 60's club, Women's Forum, & Youth club, to raise awareness of Hinduism among youngsters from 6 years and over & parents. | £55,203
-<strong>THE SURTI MUSLIM KHALIFA SOCIETY</strong> [Charity number: [509502](https://findthatcharity.uk/orgid/GB-CHC-509502)]<br>EDUCA\TION TRAININGRELIGIUOS ACTIVITIESSPORTS/RECREATIONECONOMIC COMMUNITY DEVELOPMENTCHILDREN YOUNG PEOPLEELDERLY OLD PEOPLETHE GENERAL PUBLIC MANKIND | £100,740
-<strong>CHARITIES IN CONNECTION WITH PROVIDENCE STRICT BAPTIST CHAPEL</strong> [Charity number: [240487](https://findthatcharity.uk/orgid/GB-CHC-240487)]<br>Grants to poor & needy, according to C & C scheme.See below. | £656
-<strong>Ballymoney Baptist Church</strong> [Charity number: [NI108092](https://findthatcharity.uk/orgid/GB-NIC-108092)]<br>None | £99,846
-<strong>THE LIVERPOOL CHURCH OF ENGLAND SCRIPTURE READERS' SOCIETY (INCORPORATED)</strong> [Charity number: [234028](https://findthatcharity.uk/orgid/GB-CHC-234028)]<br>The provision of grants to Church of England parishes in the City of Liverpool, to assist with the costs of employing lay workers by those parishes | £26,306
-<strong>Church Of God - United Kingdom</strong> [Charity number: [SC039469](https://findthatcharity.uk/orgid/GB-SC-SC039469)]<br>The advancement of religion by preaching throughout the world the Gospel of Jesus Christ and the Kingdom of God and to advance such other charitable purposes as the trustees shall determine. | £1,661,626
-<strong>Dungiven Roman Catholic Parish Missionary Outreach Charitable Trust</strong> [Charity number: [NI100519](https://findthatcharity.uk/orgid/GB-NIC-100519)]<br>The Trust will consider which Catholic Charities that work in the Continents of Africa, Asia and South America and to local charities operating and situated within Northern Ireland, whose purposes are to support education projects, initiatives to promote health or life expectancy; to alleviate distress caused by famine, and/or conflict or natural disasters, may best benefit from receiving monetary support and will then provide such support from the income of the Trust Fund. The initial Trust Fund is £2.5 million being placed on trust by Dungiven Roman Catholic Parish. The capital of the Trust will be returned to the Settlor at the end of the Trust Period. | £80,206
-<strong>Carryduff Congregation of the Presbyterian Church in Ireland</strong> [Charity number: [NI105292](https://findthatcharity.uk/orgid/GB-NIC-105292)]<br>Hold services of worship and other religious activities. These, and all that follows, are open to anyone of appropriate age and/or gender to access, without regard to whether they are members of our congregation. Through prayer, support our members, our own Church, other Christian Churches, the community and leaders in society and government. Organise meetings and events that promote our charitable purpose. Participate in the life of the local community. Participate in and support what the Presbyterian Church in Ireland and the supervising Presbytery does. Support other secular and Christian organisations and charities through volunteering, financial gifts and prayer. | £165,893
-<strong>ARK RESOURCES</strong> [Charity number: [1057347](https://findthatcharity.uk/orgid/GB-CHC-1057347)]<br>To give finance or help to people according to their need and to teach others to have a giving nature. To arrange holidays for those who otherwise, for varied reasons, could not take such times of refreshment; especially children. To hold conferences to teach a better way to live. To train people in biblical economics, prayer, healing, faith and worship. To further the Christian way of life. | £72,268
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF BOLDRE</strong> [Charity number: [1200694](https://findthatcharity.uk/orgid/GB-CHC-1200694)]<br>Promoting in the ecclesiastical parish the whole mission of the Church | £133,712
+<strong>LASPEN TRUST</strong> [Charity number: [276043](https://findthatcharity.uk/orgid/GB-CHC-276043)]<br>Educational, health, religious and community initiatives are supported, particularly in those local to North Wales. National charities operating in North Wales are also supported. | £12,359
+<strong>MUSLIM STUDENT CHARITY</strong> [Charity number: [1191989](https://findthatcharity.uk/orgid/GB-CHC-1191989)]<br>The charity's objectives are unique, as indeed MSC is in this field of student welfare; MSC seeks to acquire long term "Waqf" investments aimed at generating sustainable income to financially support the core activities of Muslim Students in the UK. The charity is aiming to purchase and make available high-quality accommodation for Muslim Students. | £64,322
+<strong>MESSIAH COMMUNITY CHURCH</strong> [Charity number: [1131308](https://findthatcharity.uk/orgid/GB-CHC-1131308)]<br>To worship and serve God  fulfilling  the Great Commission of Jesus Christ as set forth in Matthew 28:19-20. To minister to the needs of the members and others as the church is able to do so.  To provide schools  and  colleges  for the secular and spiritual education of mankind. To provide a place of refuge for abandon children and further shelters and accommodation for those in need. | £29,125
+<strong>THE DAN-Y-COED COMMUNITY ASSOCIATION</strong> [Charity number: [505875](https://findthatcharity.uk/orgid/GB-CHC-505875)]<br>To promote the benefits of the inhabitants of Dan y Coed and the neighbourhood without distinction of sex,religion, or other opinions by associating with local authorities,voluntary organisations and inhabitants in a common effort to advance education and to promote facilities in the interest of social welfare for recreation and leisure time occupations. | £7,230
+<strong>AL - RAZA ISLAMIC EDUCATIONAL AND WELFARE TRUST</strong> [Charity number: [1140217](https://findthatcharity.uk/orgid/GB-CHC-1140217)]<br>Providing Islamic education to all faiths, providing education about Islamic. Sunni Hanfi Brallvi sect which is the main Muslim sect, 95% of Muslims are Sunni Hanfi Brallvi's. This teaching ofu the Snni's are to follow the last messenger of ALLAH, MUHAMMAD PBHU following the teachings of islam as the prophit told to his companions the Sahaba. Spreading the message of love peace and harmony. | £13,475
+<strong>THE GROCERS' CHARITY</strong> [Charity number: [255230](https://findthatcharity.uk/orgid/GB-CHC-255230)]<br>The Grocers' Charity is the charitable arm of the Grocers' Company, a City of London Livery Company.  The Charity is a grant-awarding body to UK registered charities working in designated areas of need that encompasses education, the Church, the relief of poverty, support for the arts, heritage, young people, medicine, environment and those with disabilities. | £1,349,295
+<strong>Wholeness Through Christ Trust</strong> [Charity number: [SC037891](https://findthatcharity.uk/orgid/GB-SC-SC037891)]<br>the advancement of religion | £48,058
+<strong>TOWN LANDS</strong> [Charity number: [210691](https://findthatcharity.uk/orgid/GB-CHC-210691)]<br>Helps with Education, matters relating to the Village Church and the Elderly | £456
+<strong>BRISTOL SCHOOLS CONNECTION</strong> [Charity number: [1162067](https://findthatcharity.uk/orgid/GB-CHC-1162067)]<br>Providing support for spiritual development and pastoral care to students, school staff and families thus impacting positively upon the school communityEnabling safe and imaginative spiritual development and learning opportunities for all ages within school and informal church contextsWorking with churches and schools to connect the life of the two communities to their mutual benefit | £30,086

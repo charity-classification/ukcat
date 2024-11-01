@@ -3,8 +3,8 @@
 Beneficiary group is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Beneficiary group](BE.md) category.
 
-77,516 charities have been tagged with this tag.
-This represents 38.27% of all charities.
+77,544 charities have been tagged with this tag.
+This represents 38.26% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,323 | 36.48%
-£10k - £100k | 25,947 | 37.93%
-£100k - £250k | 8,676 | 41.62%
-£250k - £500k | 4,016 | 40.24%
-£1m - £10m | 3,527 | 41.35%
-£500k - £1m | 2,391 | 38.59%
-Over £10m | 840 | 40.72%
-Total | 72,720 | 38.09%
+Under £10k | 27,148 | 36.47%
+£10k - £100k | 26,026 | 37.85%
+£100k - £250k | 8,732 | 41.56%
+£250k - £500k | 4,062 | 40.25%
+£1m - £10m | 3,534 | 41.24%
+£500k - £1m | 2,432 | 38.59%
+Over £10m | 850 | 40.98%
+Total | 72,784 | 38.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 63,635 | 37.32%
-oscr | 10,196 | 41.01%
-ccni | 3,685 | 51.27%
-Total | 77,516 | 38.27%
+ccew | 63,697 | 37.32%
+oscr | 10,161 | 40.97%
+ccni | 3,686 | 51.19%
+Total | 77,544 | 38.26%
 
 
 ## Ten largest charities (by income)
@@ -49,10 +49,10 @@ Name | Latest income
 <strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £381,300,000
 <strong>THE ORMISTON TRUST</strong> [Charity number: [1164358](https://findthatcharity.uk/orgid/GB-CHC-1164358)]<br>Ormiston Trust supports children and their families by way of grants to Ormiston organisations and the sponsorship of Multi Academy Trusts. Four core values underpin our work: Nurture; Empower; Innovate; and Impact. | £338,887,000
 <strong>Royal Commonwealth Society for the Blind</strong> [Charity number: [SC038110](https://findthatcharity.uk/orgid/GB-SC-SC038110)]<br>'	To take or promote measures for the prevention and cure of blindness in the countries and territories specified under article 4 of this our charter and for the education, rehabilitation, training and employment of the blind in those countries and territories and '	To foster collaboration among organisations concerned with blindness and its prevention and to promote and where appropriate, to participate in national, regional and international activities likely to prevent blindness and benefit the blind in any part of the world. | £338,159,000
+<strong>ROYAL COMMONWEALTH SOCIETY FOR THE BLIND</strong> [Charity number: [207544](https://findthatcharity.uk/orgid/GB-CHC-207544)]<br>Seventy five per cent of blindness in the world is either avoidable or treatable. Sightsavers works with partners in developing countries to eliminate avoidable blindness and promote equality of opportunity for disabled people. Our work alleviates poverty among poor and marginalised communities and thus helps to realise the internationally accepted Millenium Development Goals. | £337,945,000
 <strong>Barnardo's</strong> [Charity number: [SC037605](https://findthatcharity.uk/orgid/GB-SC-SC037605)]<br>The Objects of the Charity are for the public benefit: To promote the care, safety and upbringing of children and young people by:- supporting and assisting those in need, their families and carers. promoting their health. and advancing their education. The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. | £315,252,000
 <strong>BARNARDO'S</strong> [Charity number: [216250](https://findthatcharity.uk/orgid/GB-CHC-216250)]<br>Barnardo?s helped improve the lives of more than 240,000 vulnerable children, young people and their families. We help children including those who have been sexually exploited, young people leaving care, children with a parent in prison and provide early intervention for families struggling to cope. We find adoptive homes and foster placements for children in care and campaign to change policy. | £315,250,409
 <strong>THE GIRLS' DAY SCHOOL TRUST</strong> [Charity number: [306983](https://findthatcharity.uk/orgid/GB-CHC-306983)]<br>To remain at the forefront of education, extend excellence and innovation in dynamic educationalsettings and maintain our leadership in the education of young people, principally women. | £314,386,000
-<strong>ROYAL COMMONWEALTH SOCIETY FOR THE BLIND</strong> [Charity number: [207544](https://findthatcharity.uk/orgid/GB-CHC-207544)]<br>Seventy five per cent of blindness in the world is either avoidable or treatable. Sightsavers works with partners in developing countries to eliminate avoidable blindness and promote equality of opportunity for disabled people. Our work alleviates poverty among poor and marginalised communities and thus helps to realise the internationally accepted Millenium Development Goals. | £313,352,000
 <strong>THE SHAW TRUST LIMITED</strong> [Charity number: [287785](https://findthatcharity.uk/orgid/GB-CHC-287785)]<br>Shaw Trust provides services to people who are disabled or otherwise disadvantaged, principally to help them find employment or to develop work and independence skills. | £302,005,000
 
 
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>St Nicholas Pre School Playgroup</strong> [Charity number: [SC012553](https://findthatcharity.uk/orgid/GB-SC-SC012553)]<br>The aims of the playgroup are to foster the education and training of children of preschool age with the object of fitting them for and helping them toward their entry into school and wider community and in furtherance thereof:- To provide safe and satisfying group play in which parents may take part when appropriate.  To encourage other activities through which parents may help their children and the foregoing aims and objects may be achieved . | £23,177
-<strong>ST. JOHN'S PRE-SCHOOL</strong> [Charity number: [1079930](https://findthatcharity.uk/orgid/GB-CHC-1079930)]<br>The setting provides childcare for families and adhere's to the early years framework. The setting provides training for staff to keep standards high and maintain quality. The setting provides activities to promote children's all round development as well as parental involvement. | £242,973
-<strong>WIRKSWORTH CARE CENTRE PROJECT LTD</strong> [Charity number: [1102294](https://findthatcharity.uk/orgid/GB-CHC-1102294)]<br>1.Currently raising funds to keep the respite care flats in the Wirksworth Care Centre for the Elderly in operation.2.To provide equipment for the use of the residents of the care centre.3.To raise funds for the benefit and well being of the care centre residents. | £6,128
-<strong>UNITED KINGDOM ACQUIRED BRAIN INJURY FORUM</strong> [Charity number: [1128284](https://findthatcharity.uk/orgid/GB-CHC-1128284)]<br>to promote understanding of all aspects of acquired brain inuryto educate, inform and provide networking opportunities for professionals, service providers, planners and policy makers in all areas of acquired brain injuryto raise the profile of acquired brain injury and campaign for better services in the UK | £147,180
-<strong>FRIARS HILL RIDING FOR THE DISABLED ASSOCIATION</strong> [Charity number: [1074094](https://findthatcharity.uk/orgid/GB-CHC-1074094)]<br>PROVIDING RIDING FACILITIES FOR DISABLED PEOPLE | £79
-<strong>THE CHILDREN'S VILLAGE</strong> [Charity number: [1181011](https://findthatcharity.uk/orgid/GB-CHC-1181011)]<br>We aim to provide respite holidays for families who have children with life threatening or life limiting illness | £94,171
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST LUKE WITH ST BARTHOLOMEW, READING</strong> [Charity number: [1158694](https://findthatcharity.uk/orgid/GB-CHC-1158694)]<br>Regular public worship open to all.The provision of sacred space for personal prayer and contemplation.Pastoral work, including visiting the sick and bereaved.Promoting the whole mission of the Church through provision of activities for senior citizens and parents and toddlers. | £125,110
-<strong>25th/28th Derry Limavady Scout Group Scouting Ireland</strong> [Charity number: [NI106046](https://findthatcharity.uk/orgid/GB-NIC-106046)]<br>To achieve this Scouting Ireland supports an extensive variety of services to its Groups. Scouting Ireland supports the delivery of a wide range of programme opportunities that help the development of individual potential, encouraging community involvement and providing opportunities for young people to be listened to and have their say. Scouting Ireland achieves its aim through a system of progressive self-education, known as the Scout Method, the principal elements of which are: a. Voluntary membership of a group which, guided by adults, is increasingly self-governing in its successive age groups. b. Commitment to a code of living as expressed in the Promise & Law, the meaning of which is expanded as the member grows towards maturity. c. The provision of a wide range of attractive, constructive and challenging activities, including opportunities for adventure and exploration both indoors and outdoors. d. The provision of opportunities for leadership and responsibility. e. Learning by doing. f. Encouragement of activity in small groups. g. An award scheme, which encourages participation in its full range of activities and provides recognition of individual and group achievements. h. Symbolic Framework. | £8,976
-<strong>THE RAINE FAMILY CHARITABLE TRUST</strong> [Charity number: [1040607](https://findthatcharity.uk/orgid/GB-CHC-1040607)]<br>GENERAL CHARITABLE PURPOSES | £147,633
-<strong>REDEMPTION WORLDWIDE CHURCH</strong> [Charity number: [1114256](https://findthatcharity.uk/orgid/GB-CHC-1114256)]<br>Redemption Worldwide Church is a christian organisation which is looking after the all community by preaching the word of God and helping people to integrate the British society  specially those from French speaking countries. It organizes after school classes to keep children busy and avoid them to stay on street involving in crime and drugs or alcohol. | £8,123
+<strong>WELSH SPORTS ASSOCIATION FOR PEOPLE WITH LEARNING DISABILITY</strong> [Charity number: [1003141](https://findthatcharity.uk/orgid/GB-CHC-1003141)]<br>ADAPTED SPORT FOR PEOPLE WITH A LEARNING DISABILIYT | 
+<strong>CALEB INITIATIVE</strong> [Charity number: [1004417](https://findthatcharity.uk/orgid/GB-CHC-1004417)]<br>In addition to help fund individuals and organisations who are showing God's love in action to very needy people in the UK and worldwide, the charity is providing care, support and education to orphans and at risk children in the Kaliro District and in a poor suburb of Entebbe, in Uganda. The total income is given out without making any deductions for administrative or other costs. | £31,903
+<strong>LYNN ATHLETIC CLUB LIMITED</strong> [Charity number: [1102668](https://findthatcharity.uk/orgid/GB-CHC-1102668)]<br>Provides sports and recreational facilities to the youth of the area; providing mobility services; supporting the Bud Flanagan Leukaemia Fund. | £7,599
+<strong>BLACKBURN AND DISTRICT OUTDOOR PURSUITS CENTRE</strong> [Charity number: [521024](https://findthatcharity.uk/orgid/GB-CHC-521024)]<br>Provision of unsupervised accommodation for young people who are participating in outdoor activities in the Snowdonia National Park | £25,428
+<strong>THE M M NATIONAL GULF VETERANS AND FAMILIES BENEVOLENT ASSOCIATION</strong> [Charity number: [1074867](https://findthatcharity.uk/orgid/GB-CHC-1074867)]<br>OUR SERVICES EXTEND TO THE WHOLE UNITED KINGDOM.  WE PROVIDE WELFARE ADVICE ON BENEFITS AND WAR PENSION CLAIMS, FREEPHONE MEMBERS HELPLINE, REPRESENTATION AT APPEALS, INFORMATION AND FACT SHEETS ON GULF VETERANS RELATED TOPICSCOUNSELLING REFERRAL SERVICE SPECIFIC TO MILITARY PTSD FOR VETERANSWEBSITE INC MEMBERS ONLY AREA | £81,708
+<strong>HELOA</strong> [Charity number: [SC050285](https://findthatcharity.uk/orgid/GB-SC-SC050285)]<br>The object of the CIO is for the public benefit to advance the education of people within the United Kingdom in such ways as the charity trustees think fit, including (without limiting the generality of the foregoing) by:  * promoting entry to higher education. * supporting higher education providers in the provision of information and advice services to students (both current and potential) and their families. * providing training and knowledge sharing opportunities for higher education providers. | £287,160
+<strong>INCLUSION INTERNATIONAL</strong> [Charity number: [1106715](https://findthatcharity.uk/orgid/GB-CHC-1106715)]<br>Member Support .Knowledge Sharing, promote the exchange of experiences, resources and practices.Research & Monitoring -  in each of the CRPD priority areas.Partnership Building ? develop a thriving and diverse network of families, researchers, civil society organizations, governments and international institutions on disability and inclusion.Policy Development and Engagement | £814,992
+<strong>NORRIS BANK SCHOOL PARENTS ASSOCIATON</strong> [Charity number: [1105738](https://findthatcharity.uk/orgid/GB-CHC-1105738)]<br>Fundraising for the school.  We provided new equipment for the Junior and infant Playgrounds, Provide regular termly payments for classroom resources and school trips. In addition, the PA fund a Year 6 leavers event for the children and pay for the whole school to go to the cinema at Christmas. | £17,668
+<strong>EDUCATIONAL AND CULTURAL CENTRE, SWINDON CIO</strong> [Charity number: [1183960](https://findthatcharity.uk/orgid/GB-CHC-1183960)]<br>Educational and Cultural Centre Swindon CIO runs Polish Saturday School, Music School and Gift Shop in Swindon. The Polish School is our main activity and provides Polish language and heritage education for children at primary and secondary school age and also prepares for national qualifications at GCSE and A level in the Polish language. | £98,350
+<strong>North Belfast Senior Citizens Forum</strong> [Charity number: [NI103639](https://findthatcharity.uk/orgid/GB-NIC-103639)]<br>North Belfast Senior Citizens Forum (NBSCF) is a organisation seeking to improve the lives of older people in North Belfast. We run an outreach benefits advice service targeting older people and their carers in their own homes. We will also run outreach advice clinics in community and other centres. We also represent the interests of older people in North Belfast to a range of voluntary and statutory providers. We survey our members regularly and follow up their concerns with bodies such as the Belfast healthe and Social Care Trust and the NI Housing Executive. We run a range of healthy ageing acivities to improve the health and wellbeing of older people in North Belfast. We run computer/IT classes for older people in North Belfast. We hope to address the increasing digital divide through this means. | £55,694
