@@ -3,8 +3,8 @@
 Arts is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Arts](AR.md) category.
 
-29,171 charities have been tagged with this tag.
-This represents 14.39% of all charities.
+29,169 charities have been tagged with this tag.
+This represents 14.40% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,074 | 13.53%
-£10k - £100k | 10,959 | 15.94%
-£100k - £250k | 2,641 | 12.57%
-£250k - £500k | 1,437 | 14.24%
-£500k - £1m | 849 | 13.47%
-£1m - £10m | 1,105 | 12.89%
-Over £10m | 225 | 10.85%
-Total | 27,290 | 14.27%
+Under £10k | 9,998 | 13.50%
+£10k - £100k | 11,004 | 15.99%
+£100k - £250k | 2,660 | 12.63%
+£250k - £500k | 1,436 | 14.20%
+£500k - £1m | 861 | 13.60%
+£1m - £10m | 1,102 | 12.82%
+Over £10m | 226 | 10.85%
+Total | 27,287 | 14.28%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 23,277 | 13.64%
-oscr | 4,483 | 18.08%
-ccni | 1,411 | 19.59%
-Total | 29,171 | 14.39%
+ccew | 23,271 | 13.63%
+oscr | 4,489 | 18.15%
+ccni | 1,409 | 19.58%
+Total | 29,169 | 14.40%
 
 
 ## Ten largest charities (by income)
@@ -51,22 +51,22 @@ Name | Latest income
 <strong>University Of Strathclyde</strong> [Charity number: [SC015263](https://findthatcharity.uk/orgid/GB-SC-SC015263)]<br>The advancement of education. The advancement of arts, heritage, culture, or science. | £486,051,000
 <strong>University Of St Andrews</strong> [Charity number: [SC013532](https://findthatcharity.uk/orgid/GB-SC-SC013532)]<br>The advancement of education.  The advancement of arts, heritage, culture or science | £318,601,655
 <strong>University Of Aberdeen</strong> [Charity number: [SC013683](https://findthatcharity.uk/orgid/GB-SC-SC013683)]<br>The advancement of education.  The advancement of health.  The advance ment of civic responsibility and community development.  The advancement of arts, heritage, culture or science | £272,779,000
+<strong>Culture and Sport Glasgow</strong> [Charity number: [SC037844](https://findthatcharity.uk/orgid/GB-SC-SC037844)]<br>4.1 	To advance the arts, heritage, culture and science. 4.2 	To advance education. 4.3 	To advance public participation in sport which involves physical skill and exertion. 4.4 	To advance health. 4.5 	To promote civic responsibility, volunteering, the voluntary sector and/or the effectiveness or efficiency of charities. 4.6 	To provide recreational facilities, and organise recreational activities, where such facilities/activities are available to members of the public at large with the object of improving their conditions of life. 4.7 	To relieve those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. 4.8 	To advance citizenship and community development (including urban regeneration) by harnessing the cultural and leisure assets of Glasgow, the contribution made by activities in furtherance of paragraphs 4.1 to 4.7, and a range of other measures, to increase vibrancy and promote positive perceptions of Glasgow as a place to work, live, study play, visit and invest - in a common effort with other public, private and third sector partners to address issues of social, economic and physical deprivation across the City of Glasgow, including health inequalities, social exclusion and unemployment. 4.9 	To advance such similar charitable purposes as the directors may consider appropriate from time to time.  through the provision of services (including those entrusted to it by Glasgow City Council) which contribute to advancing well-being (primarily the wellbeing of residents of Glasgow) including (i) the operation, management and development of museums, art galleries and other facilities which provide public access to collections of works of art, antiquities and objects of scientific interest. (ii) the development and delivery of arts and cultural activities and events, artistic programmes, scientific/research programmes and educational projects. (iii) the operation, management and development of libraries and the provision of library and archive services. (iv) the operation, management and development of indoor and outdoor sports facilities (including arrangements to facilitate access to such facilities by those on lower incomes or having special needs and to encourage wider participation in healthy exercise).(maximum text reached, further full information can be obtained directly from the Charity)  | £174,925,000
 <strong>ROYAL OPERA HOUSE COVENT GARDEN FOUNDATION</strong> [Charity number: [211775](https://findthatcharity.uk/orgid/GB-CHC-211775)]<br>Presentation of opera and ballet performances at the Royal Opera House Covent Garden and tours in the United Kingdom and overseas | £170,697,000
 <strong>The City and Guilds of London Institute</strong> [Charity number: [SC039576](https://findthatcharity.uk/orgid/GB-SC-SC039576)]<br>There shall from henceforth for ever be a Corporation aggregate by the name and style of 'The City and Guilds of London Institute' and such Corporation is hereby instituted exclusively for the purposes of all such branches of Science and the Fine Arts and for the advancement dissemination propagation promotion culture and application of all such branches of Science and the Fine Arts as benefit or are of use to or may benefit or be of use to productive and technical industries especially and to commerce and industry generally or any branch thereof and for the utilization of such means as will promote the several exclusive purposes aforesaid. | £159,000,000
-<strong>Culture and Sport Glasgow</strong> [Charity number: [SC037844](https://findthatcharity.uk/orgid/GB-SC-SC037844)]<br>4.1 	To advance the arts, heritage, culture and science. 4.2 	To advance education. 4.3 	To advance public participation in sport which involves physical skill and exertion. 4.4 	To advance health. 4.5 	To promote civic responsibility, volunteering, the voluntary sector and/or the effectiveness or efficiency of charities. 4.6 	To provide recreational facilities, and organise recreational activities, where such facilities/activities are available to members of the public at large with the object of improving their conditions of life. 4.7 	To relieve those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. 4.8 	To advance citizenship and community development (including urban regeneration) by harnessing the cultural and leisure assets of Glasgow, the contribution made by activities in furtherance of paragraphs 4.1 to 4.7, and a range of other measures, to increase vibrancy and promote positive perceptions of Glasgow as a place to work, live, study play, visit and invest - in a common effort with other public, private and third sector partners to address issues of social, economic and physical deprivation across the City of Glasgow, including health inequalities, social exclusion and unemployment. 4.9 	To advance such similar charitable purposes as the directors may consider appropriate from time to time.  through the provision of services (including those entrusted to it by Glasgow City Council) which contribute to advancing well-being (primarily the wellbeing of residents of Glasgow) including (i) the operation, management and development of museums, art galleries and other facilities which provide public access to collections of works of art, antiquities and objects of scientific interest. (ii) the development and delivery of arts and cultural activities and events, artistic programmes, scientific/research programmes and educational projects. (iii) the operation, management and development of libraries and the provision of library and archive services. (iv) the operation, management and development of indoor and outdoor sports facilities (including arrangements to facilitate access to such facilities by those on lower incomes or having special needs and to encourage wider participation in healthy exercise).(maximum text reached, further full information can be obtained directly from the Charity)  | £146,242,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>CONSERVATOIRES UK</strong> [Charity number: [1108731](https://findthatcharity.uk/orgid/GB-CHC-1108731)]<br>to advance and assist in the advancement of higher or further education in the United Kingdom in the fields of music and performing arts (in so far as such advancement and assistance shall be of an exclusively charitable nature). | £91,497
-<strong>ROMSEY CHAMBER MUSIC FESTIVAL TRUST</strong> [Charity number: [1182043](https://findthatcharity.uk/orgid/GB-CHC-1182043)]<br>The festival organises public concerts which are designed to educate the wider public, the elderly, children, and music students in high quality chamber music. The festival also runs workshops in schools, designed to introduce and further educate school children in chamber music and provide access to performances to those who would not normally attend a concert. | £32,792
-<strong>Solway Pipers</strong> [Charity number: [SC052416](https://findthatcharity.uk/orgid/GB-SC-SC052416)]<br>The organisation?s purposes are: a)The advancement of education b)The advancement of the arts, heritage, culture and the sciences | 
-<strong>The Mill on the Fleet</strong> [Charity number: [SC019830](https://findthatcharity.uk/orgid/GB-SC-SC019830)]<br>The organisation’s purposes are: The development of the arts and heritage through the management and development of The Mill on the Fleet Centre.   | £76,677
-<strong>THE SHABBATON CHOIR</strong> [Charity number: [1058256](https://findthatcharity.uk/orgid/GB-CHC-1058256)]<br>Choir raises funds to advance Judaism and in particular Jewish Prayer, though participation in synagogue service; singing at public performances, in television/radio broadcasts, recordings and through other media; and for the purpose of healing through singing. | £10,111
-<strong>GRAFTON REGIS VILLAGE HALL</strong> [Charity number: [286213](https://findthatcharity.uk/orgid/GB-CHC-286213)]<br>Provision and maintenance of a building in support of general charitable purposes including education/training, arts/culture, sport/recreation, environment/conservation/heritage: promotion of these activities within the parish. | £12,631
-<strong>NORTH WALES INTERNATIONAL MUSIC FESTIVAL LIMITED/GWYL GERDD GOGLEDD CYMRU CYFYNGEDIG</strong> [Charity number: [509023](https://findthatcharity.uk/orgid/GB-CHC-509023)]<br>To promote and provide educational music workshops, seminars and lectures throughout the North Wales region and to promote the arts in North Wales through a series of concerts and other activities | £139,278
-<strong>EUROPEAN SOCIETY OF OPHTHALMIC PLASTIC AND RECONSTRUCTIVE SURGERY (ESOPRS)</strong> [Charity number: [291040](https://findthatcharity.uk/orgid/GB-CHC-291040)]<br>To advance the science and art of ophthalmic plastic and reconstructive surgery and to improve the practice and teaching of this subject in Europe and to raise sufficient funds to make fellowship grants. | £39,262
-<strong>FRIENDS OF CHESTNUT GROVE</strong> [Charity number: [1150342](https://findthatcharity.uk/orgid/GB-CHC-1150342)]<br>1. Refreshments for all the Open Evenings and Parents Evening2. Refreshments and raffles at all school Concerts and end of term Productions3. Support the school when they organise specific events 4. Comedy Fund-raising event to raise money for the an African School the School supports and to send a group of 6th Formers on a house building project to Cambodia5. Donation of 4 outdoor benches | £11,275
-<strong>SRI VENKATESWARA BALAJI TEMPLE</strong> [Charity number: [1182465](https://findthatcharity.uk/orgid/GB-CHC-1182465)]<br>At SVBT, we perform the following:1. conduct spiritual programs, ceremonies and rituals2. Promote yoga & meditation3. Teach classical & traditional Indian vocal, music & dance4. Promote vegetarianism & Eco Living5. Advance education in Hindu culture, traditions & history | £23,206
+<strong>WORTWELL COMMUNITY CENTRE</strong> [Charity number: [1025885](https://findthatcharity.uk/orgid/GB-CHC-1025885)]<br>Wortwell Community Centre is a building for the use of the local inhabitants for recreation and leisure time occupations.  Currently activities include : Dance Classes, Bowls, Charity Events, Quiz nights, private hirings, Village Fete, carpet bowls, badminton, art classes, french classes, keep fit, football, yoga, theatre productions and much more | £44,788
+<strong>MARKFIELD COMMUNITY LIBRARY</strong> [Charity number: [1162059](https://findthatcharity.uk/orgid/GB-CHC-1162059)]<br>The advancement of education for the public benefit in Markfield by the provision of a volunteer run public lending library. | £14,507
+<strong>FOXLOWE ARTS CENTRE LTD</strong> [Charity number: [1144382](https://findthatcharity.uk/orgid/GB-CHC-1144382)]<br>Advances awareness, interest and understanding of the arts through talks, exhibitions, drama, poetry, film, sculpture etc along with an arts cafe focussed on Fairtrade and local products. | £266,240
+<strong>THE INTERNATIONAL SHAKESPEARE ASSOCIATION</strong> [Charity number: [1160312](https://findthatcharity.uk/orgid/GB-CHC-1160312)]<br>To advance the education of the public by furthering the study of Shakespeare's life and work by such means as the trustees determine including by:- Organising, holding and promoting participation in the World Shakespeare Congress and disseminating the learning of that event; and- Offering advice and assistance in the establishment of national or regional Shakespeare associations. | £207
+<strong>CYFEILLION YSGOL FELINHELI</strong> [Charity number: [1186024](https://findthatcharity.uk/orgid/GB-CHC-1186024)]<br>We work with school staff and governors, parents and pupils and help strengthen community links with the school by arranging an array of events and activities, for example; school discos, summer and winter fayre, arrange volunteer activities like gardening and reading, film evenings, provide volunteer help and fund raise at school events like concerts. | £5,868
+<strong>SAWSTON ARTS APPEAL</strong> [Charity number: [1098372](https://findthatcharity.uk/orgid/GB-CHC-1098372)]<br>To provide facilities and resources for the encouragement of the Arts. To provide bursaries to assist students in the study of the Arts. | £2,232
+<strong>HERTFORD DRAMATIC AND OPERATIC SOCIETY</strong> [Charity number: [271065](https://findthatcharity.uk/orgid/GB-CHC-271065)]<br>Produce amateur plays, musicals, pantomimes etc. for public performance.Run workshops for junior members dealing with theatrical and related subjects.Advise local council of artistic needs of local area.Support other charities with donations. | £49,654
+<strong>THE CHRISTOPHER RICHARD JAMES TROMANS FOUNDATION</strong> [Charity number: [1192489](https://findthatcharity.uk/orgid/GB-CHC-1192489)]<br>To raise funds to send restricted donations via specialist centres such as The Childrens Liver Disease Foundation (CLDF), to individuals/families nominated by them. To help meet a specific and identified need - such as a visit to the cinema, or other need clearly defined by CLDF (or similar specialist centre) that will help & emotionally support the nominated individual or their immediate family. | £3,271
+<strong>ALLIANCE FOR INCLUSIVE EDUCATION</strong> [Charity number: [1124424](https://findthatcharity.uk/orgid/GB-CHC-1124424)]<br>Termly magazine called "Inclusion Now", Quarterly Campaigns & Policy Briefings, "Inclusion Champions Project | £87,455
+<strong>THE EGYPT EXPLORATION SOCIETY</strong> [Charity number: [212384](https://findthatcharity.uk/orgid/GB-CHC-212384)]<br>Advances the education of the public with reference to Ancient and Medieval Egypt and countries in the same region, and promotes art, culture and heritage by raising knowledge, awareness and understanding of the language, history, arts, culture, religion and all other matters relating to Ancient and Medieval Egypt and countries in the same region. | £509,930

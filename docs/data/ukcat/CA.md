@@ -3,7 +3,7 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-28,954 charities have been tagged with this tag.
+28,945 charities have been tagged with this tag.
 This represents 14.29% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,932 | 14.69%
-£10k - £100k | 8,758 | 12.74%
-£100k - £250k | 2,568 | 12.22%
-£250k - £500k | 1,504 | 14.90%
-£500k - £1m | 1,150 | 18.25%
-£1m - £10m | 1,663 | 19.40%
-Over £10m | 324 | 15.62%
-Total | 26,899 | 14.07%
+Under £10k | 10,890 | 14.70%
+£10k - £100k | 8,798 | 12.79%
+£100k - £250k | 2,570 | 12.20%
+£250k - £500k | 1,496 | 14.79%
+£500k - £1m | 1,146 | 18.10%
+£1m - £10m | 1,671 | 19.44%
+Over £10m | 328 | 15.75%
+Total | 26,899 | 14.08%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,353 | 14.86%
-oscr | 2,783 | 11.22%
-ccni | 818 | 11.36%
-Total | 28,954 | 14.29%
+ccew | 25,347 | 14.85%
+oscr | 2,783 | 11.25%
+ccni | 815 | 11.33%
+Total | 28,945 | 14.29%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Biological Recording In Scotland Brisc</strong> [Charity number: [SC024418](https://findthatcharity.uk/orgid/GB-SC-SC024418)]<br>The objects of the organisation are to advance the education of the public about biological diversity  and to promote for the benefit of the public the conservation of the environment and in  furtherance thereof but not otherwise.  a) To promote the effective gathering and use of biological data and other related  information as a means to develop an understanding of Scotland's biodiversity and contribute to the conservation of the natural heritage of Scotland. b) To stimulate biological recording in Scotland through promotion of a network of area based local records centres and recording groups. c) To represent the interests of those records centres, recording groups and individual recorders to other organisations. d) To promote co-ordination/co-operation between and training of individuals and organisations with an interest in biological recording. e) To promote the adoption of good practice and minimum standards of biological recording and the accreditation of records centres. | £920
-<strong>Holly Trust</strong> [Charity number: [1066677](https://findthatcharity.uk/orgid/GB-CHC-1066677)]<br>The promotion for public benefit by financial support in association with Good Hope Hospital research into causes therapies treatments and detection of bowel cancer | £20,924
-<strong>EAST ANGLIAN RUSSIAN AND INTERNATIONAL CULTURAL SOCIETY</strong> [Charity number: [1121269](https://findthatcharity.uk/orgid/GB-CHC-1121269)]<br>To advance the education and training of Russian speaking communities in need thereof so as to advance them in life and assist them to adapt within a new community.To advance the education of the public in the language, culture and history of Russia and other countries.. | £1,528
-<strong>1ST COPTHORNE SCOUT GROUP</strong> [Charity number: [291680](https://findthatcharity.uk/orgid/GB-CHC-291680)]<br>Provides the organisation and financial support to Scouters, in order that they may provide Scouting activities for the youth of Copthorne Village and surrounding area. | £68,506
-<strong>CHARITY OF JANE PATRICIA ECCLES</strong> [Charity number: [516953](https://findthatcharity.uk/orgid/GB-CHC-516953)]<br>Makes grants to individual elderly ladies living in Sandwell | £1,346
-<strong>A J H ASHBY WILL TRUST</strong> [Charity number: [803291](https://findthatcharity.uk/orgid/GB-CHC-803291)]<br>The charity awards grants to charitable institutions. The trust manager reviews applications for grants when received and grants are awarded at the trustee's discretion. | £31,252
-<strong>THE ROYAL SCHOOL OF CHURCH MUSIC</strong> [Charity number: [312828](https://findthatcharity.uk/orgid/GB-CHC-312828)]<br>We aim to encourage and inspire the best use of music, above all in Christian worship, formation and outreach. We do this by both direct and indirect education and training. Through our staff, volunteers and partnerships, we provide short courses, extended learning programmes, publications and resources, advice and advocacy. We work with people of all ages, abilities and levels of resource. | £1,348,982
-<strong>NEWFIELDS MASONIC COMMUNITY CHARITY</strong> [Charity number: [1150457](https://findthatcharity.uk/orgid/GB-CHC-1150457)]<br>The advancement of education for the public benefit. The relief of financial hardship,sickness and treatment and care of those in need or ill health including but not limited to Freemasons and their families or dependants either generally or individually by making grants of money. The preservation and conservation of historic or ancient buildings for the public benefit. | £5,582
-<strong>River Valley Development Association Ltd</strong> [Charity number: [NI100527](https://findthatcharity.uk/orgid/GB-NIC-100527)]<br>RVDA Ltd created three Star NITB registered Self Catering Units within the buildings in the Historic Site so providing an Annual Income which is entirely reinvested into the maintenance and refurbishing of the Listed Buildings and their Curtilage/Environment. The Board of Trustees consists of members of the local community who are volunteers giving freely of their time and expertise, otherwise the site would have become heaps of stones. The Company was set up in 1995 and has virtually the same Board that built the Grants Pyramid to carry out the original refurbishment. | £126,120
-<strong>KARAM ELAHI MEMORIAL TRUST</strong> [Charity number: [1129300](https://findthatcharity.uk/orgid/GB-CHC-1129300)]<br>The charity provides support,in the form of training,advocacy,cultural awareness,language services and guidance to those in need in South Yorkshire and remote areas of Pakistan. | £2,817
+<strong>WALWYN'S EDUCATIONAL FOUNDATION</strong> [Charity number: [527152](https://findthatcharity.uk/orgid/GB-CHC-527152)]<br>Annual award of small grants to young persons living in the parishes of Colwall and Little Malvern, who are pursuing approved courses in tertiary education. | £4,317
+<strong>MAYPRIDE LIMITED</strong> [Charity number: [289394](https://findthatcharity.uk/orgid/GB-CHC-289394)]<br>Makes grants to organisations | £46,835
+<strong>WILLIAM HENRY BOULTON'S BEQUEST</strong> [Charity number: [239781](https://findthatcharity.uk/orgid/GB-CHC-239781)]<br>Small grants, which comply with the terms of the bequest. Such grants are limited to Redditch residents. | £5
+<strong>The Whyte Trust</strong> [Charity number: [SC008803](https://findthatcharity.uk/orgid/GB-SC-SC008803)]<br>(a) The provision for the Health Centre in Kinross or any Cottage Hospital in Kinross or any future hospital, surgery or otherwise providing medical care for the general population of the County of Kinross of facilities or equipment that will be of benefit to such Health Centre, Cottage Hospital or otherwise or the patients or users thereof.  (b) Paying, or contributing towards paying, the salary of a medical or nursing appointment proposed by the said Health Centre or its successors for the promotion of general healthcare within the County of Kinross, and which appointment would not otherwise be funded by the Perth &Kinross Healthcare NHS Trust or its successors.  (c) The provision of medical care or facilities or equipment or the provision of financial grants for the benefit of the elderly or infirm at Kinross Day Centre.  (d) Financial Support for organisations in the County of Kinross whose purpose is to transport residents of the County of Kinross to and from hospital, the residents to be assisted to be mainly, though not exclusively, the elderly of the County of Kinross.  (e) Financial support for the elderly of the County of Kinross (a) for medical equipment, equipment generally, motorised vehicles or facilities that will increase the mobility or independence of the elderly or (b) that will contribute towards alterations required in the home that will allow the elderly to remain in their home and to maintain their independence. | £3,105
+<strong>BRITISH FRIENDS OF ADI ISRAEL</strong> [Charity number: [1197826](https://findthatcharity.uk/orgid/GB-CHC-1197826)]<br>Provides grants to organisations which help disabled children. | 
+<strong>ANNE FISHERS CHARITY</strong> [Charity number: [213511](https://findthatcharity.uk/orgid/GB-CHC-213511)]<br>The Anne Fisher Charity gives modest grants (average -£30) to students who are studying at university to purchase books relevant to their course/degree. It also makes small donations to the needy and elderly who are over 75 years of age. All applicants must be residents of Thurlby or Northorpe, Lincolnshire. | £446
+<strong>CHEETHAM HILL ADVICE CENTRE</strong> [Charity number: [1136328](https://findthatcharity.uk/orgid/GB-CHC-1136328)]<br>We provide a culturally and linguistically appropriate legal advice service for the residents of Manchester, particularly in the wards of Cheetham and Crumpsall. We provide quality assured advice in the social welfare legal categories of welfare benefits, debt, housing, and immigration (level one). We support residents to access other local services and run a volunteer development programme. | £375,217
+<strong>THE HABERDASHERS' FOUNDATION</strong> [Charity number: [275067](https://findthatcharity.uk/orgid/GB-CHC-275067)]<br>Grants for charitable purposes at the discretion of the trustee, the current focus being on education and the current aim being to support a small number of educational projects in England and Wales. | £1,151,011
+<strong>B&Q Foundation</strong> [Charity number: [SC051154](https://findthatcharity.uk/orgid/GB-SC-SC051154)]<br>The objects of the charity are, for the public benefit, to relieve those in need across the UK and the Republic of Ireland because of financial hardship, ill-health, disability or other disadvantage, in particular (but without limitation) by making grants to registered charities who are providing, maintaining, repairing and improving housing and community spaces, and providing housing advice and support. | £2,180,560
+<strong>ROYAL VARIETY CHARITY</strong> [Charity number: [206451](https://findthatcharity.uk/orgid/GB-CHC-206451)]<br>Relief of poverty of entertainers, and people associated with the entertainment profession,their surviving partners, spouses and dependants including:to pay pensions or to award grants and loans to alleviate hardship;to contribute partly or pay all funeral expenses;to operate and maintain a nursing and care home and to contribute partly or pay the fees associated with being a resident in the Home. | £3,042,084

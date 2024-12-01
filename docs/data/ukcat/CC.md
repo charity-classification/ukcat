@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,348 charities have been tagged with this tag.
-This represents 4.61% of all charities.
+9,303 charities have been tagged with this tag.
+This represents 4.59% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,839 | 2.47%
-£10k - £100k | 3,750 | 5.45%
-£100k - £250k | 2,275 | 10.83%
-£250k - £500k | 595 | 5.90%
-£500k - £1m | 273 | 4.33%
-£1m - £10m | 203 | 2.37%
+Under £10k | 1,814 | 2.45%
+£10k - £100k | 3,716 | 5.40%
+£100k - £250k | 2,282 | 10.83%
+£250k - £500k | 601 | 5.94%
+£500k - £1m | 273 | 4.31%
+£1m - £10m | 203 | 2.36%
 Over £10m | 21 | 1.01%
-Total | 8,956 | 4.68%
+Total | 8,910 | 4.66%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,993 | 4.68%
-oscr | 731 | 2.95%
-ccni | 624 | 8.67%
-Total | 9,348 | 4.61%
+ccew | 7,956 | 4.66%
+oscr | 722 | 2.92%
+ccni | 625 | 8.69%
+Total | 9,303 | 4.59%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>CONSORTIUM FOR CHILDREN AND FAMILIES</strong> [Charity number: [1153608](https://findthatcharity.uk/orgid/GB-CHC-1153608)]<br>Supports and represents community nurseries in Sheffield.Works in partnership to develop opportunities to meet the needs of children and families in deprived area's of Sheffield. | 
-<strong>KINGS CHURCH UCKFIELD</strong> [Charity number: [1124576](https://findthatcharity.uk/orgid/GB-CHC-1124576)]<br>Weekly meetings for worship and Bible teaching; midweek home-groups; baby and toddler groups; children's and youth work; lunch club for the poor; Easter, summer and Christmas evangelism and community activities; Alpha course; Journeys course; parenting course; marriage course; club for the elderly; volunteers serve and funds are given to churches in South Africa, Tajikistan, Albania and Bolivia. | £154,844
-<strong>CYLCH MEITHRIN RHYD Y LLAN</strong> [Charity number: [1053653](https://findthatcharity.uk/orgid/GB-CHC-1053653)]<br>30 hours a week to children between the ages of 2 1/2 - 4 in a nursery environment. | £62,829
-<strong>Colchester Toy Library</strong> [Charity number: [1001733](https://findthatcharity.uk/orgid/GB-CHC-1001733)]<br>The toy library promotes the welfare and education of children through play. We provide a lending service of toys and play equipment  to all children particularly those with additional needs A soft play area for families to bring their children to play  We are open 3 days a week,and hold stay and play session during our opening times | £11,134
-<strong>Omagh Area Downs Syndrome Support Group</strong> [Charity number: [NI102163](https://findthatcharity.uk/orgid/GB-NIC-102163)]<br>1. Arrange monthly meetings for parents and carers 2. Arrange outings for members and their families e.g. summer barbeque, play area/ sensory garden trip. 3. Arrange activities e.g. dance / gymnastics 4. Arrange information sessions for parents/ carers or facilitate attendance at relevant sessions | £2,242
-<strong>MOTHERS UNION (DIOCESE OF DERBY BRANCH)</strong> [Charity number: [242671](https://findthatcharity.uk/orgid/GB-CHC-242671)]<br>Holidays & outings for families under stress. Provide clothing for prem babies in Derbyshire hospitals & toiletries for emergency admissions.  Provide Helpful Books for children in Primary Schools.  Support for women's refuges & help with project for young girls caught up in prostitution. We help run parenting groups and Mother & Toddler groups.  Provide Moses Baskets for Derby Refugee Centre. | £33,730
-<strong>Belleek Preschool Playgroup</strong> [Charity number: [NI107969](https://findthatcharity.uk/orgid/GB-NIC-107969)]<br>None | £52,808
-<strong>THE EMSCOTE AND ALL SAINTS PARENT TEACHER ASSOCIATION</strong> [Charity number: [1105107](https://findthatcharity.uk/orgid/GB-CHC-1105107)]<br>To raise funds through events and social functions for the benefit of the pupils of Emscote Infant School and All Saints Junior School. This may include provision of new equipment to further education, contributions to school trips and improvements to the school environment. | £19,792
-<strong>ST ANTHONY'S PRE-SCHOOL PLAYGROUP</strong> [Charity number: [1037328](https://findthatcharity.uk/orgid/GB-CHC-1037328)]<br>Early Years Education | £36,302
-<strong>Hollybank Pre-School</strong> [Charity number: [NI107437](https://findthatcharity.uk/orgid/GB-NIC-107437)]<br>a) To advance the education of the children/beneficiaries attending, the Pre-School follows the NI Pre-School Curriculum in the learning provision delivered to the children attending. B) Supporting the vision of The EarlyYears organisation, all the staff team have completed the necessary qualifications as determined by the Education Authority and Health & Social Trust. Training is on-going to ensure changes in legislation are implemented. Inspections are carried out on the provision by HST and The Education Authority to ensure a high quality service is delivered and maintained. ( Development Plans Attached) C) To pursue areas of funding that can be obtained to enhance the provision provided. | £93,773
+<strong>Gylemuir After School Club</strong> [Charity number: [SC020097](https://findthatcharity.uk/orgid/GB-SC-SC020097)]<br>The aims and objetcs of the after school club shall be.  a) To promote the care and education of children in need of care during out of school hours and to promote the provision of facilities for the recreation and other leisure time occupation of such children in the interests of social welfare with the object of improving their conditions of ife.  b) To advance the education and training of persons providing such care and recreational facilities. | £81,403
+<strong>CUBBINGTON METHODIST PARENT AND TODDLER GROUP</strong> [Charity number: [1036540](https://findthatcharity.uk/orgid/GB-CHC-1036540)]<br>Parent and Toddler Group run by parents within the community | 
+<strong>ST KEVERNE RECREATION GROUND</strong> [Charity number: [1001158](https://findthatcharity.uk/orgid/GB-CHC-1001158)]<br>THE CHARITY OPERATES WITHIN THE VILLAGE OF ST.KEVERNE ON THE LIZARD PENINSULAWE ARE SMALL CHAIRTY RUN BY VOLUNTEERS, WE AIM TO RAISE MONEY IN ORDER TO MAINTAIN AND IMPROVE THE CHILDRENS PLAY AREA, PAVILLIONS, TENNIS COURTS AND RECREATION FIELD IN THE HOPE OF PROVIDING A SAFE, FUN ENVIROMENT FOR THE COMMUNITY. | £7,013
+<strong>ARNOLD ROAD EVANGELICAL CHURCH</strong> [Charity number: [1190512](https://findthatcharity.uk/orgid/GB-CHC-1190512)]<br>The charity holds worship services each Sunday at 11am and 6.30 pm, with Sunday school and creche for children. Childrens clubs are held each week in term time for different age groups, a toddler and carer group, games evening, coffee morning.Details are on the websiteThere is a midweek Bible study and prayer meeting on Wednesday at 7.30 | £166,733
+<strong>LITTLE ACORNS PRE-SCHOOL</strong> [Charity number: [1031114](https://findthatcharity.uk/orgid/GB-CHC-1031114)]<br>We hold regular and annual activities. We have an Easter Fayre, Summer Fun Day, Photograph morning and christmas hampers. This are all fundraising activies and are supported well by our parents and local community | £225,690
+<strong>Cala Direct Management Services</strong> [Charity number: [SC034546](https://findthatcharity.uk/orgid/GB-SC-SC034546)]<br>To promote, maintain, improve and advance education and social developments of children, the parents, carers and families of such children and other appropriate persons with emphasis on play experience. To encourage study of the needs and problems of families and children To stimulate and educate the public interest in this and other related educational and social fields To encourage the formation, maintenance and development of playgroups, parent and toddler groups, under 5 groups, full day care and education schemes and (v) to encourage appropriate parental involvement within these aforementioned groups including the services of home-visiting support and self help groups. | £851,549
+<strong>RHOSTYLLEN PLAYGROUP AND TODDLERS</strong> [Charity number: [1034837](https://findthatcharity.uk/orgid/GB-CHC-1034837)]<br>Rhostyllen Playgroup is a community run playgroup based in the village of Rhostyllen near Wrexham. The Playgroup provides a warm and stimulating environment in which children can learn and develop essential social and basic academic skills.The Playgroup takes children from 2 years 6 months up to school starting age. | £17,206
+<strong>BUCKINGHAM PRE-SCHOOL PLAYGROUP</strong> [Charity number: [1021859](https://findthatcharity.uk/orgid/GB-CHC-1021859)]<br>To provide a safe secure environment for pre-school children to develop and play. | £3,388
+<strong>FONTHILL GIFFORD RECREATION HUT</strong> [Charity number: [1207196](https://findthatcharity.uk/orgid/GB-CHC-1207196)]<br>THE OBJECTS OF THE CIO ARE1. THE PROVISION AND MAINTENANCE OF A VILLAGE HALL FOR THE USE OF THE INHABITANTS OF THE VILLAGE OF FONTHILL GIFFORD IN WILTSHIRE AND ASSOCIATED OUTLYING AREAS WITHOUT DISTINCTION OF POLITICAL, RELIGIOUS OR OTHER OPINIONS, INCLUDING USE FOR:(A) MEETINGS, LECTURES AND CLASSES, AND(B) OTHER FORMS OF RECREATION AND LEISURE-TIME OCCUPATION, WITH THE OBJECT OF IMPROVING THE CONDITIONS OF LIFE FOR THE INHABITANTS.2. THE PROVISION OF A RECREATION FIELD AND CHILDREN’S PLAY AREA ADJOINING THE VILLAGE HALL IN FONTHILL GIFFORD WILTSHIRE FOR RECREATION OR OTHER LEISURE TIME OCCUPATION OF INDIVIDUALS WHO HAVE NEED OF SUCH FACILITIES BY REASON OF THEIR YOUTH, AGE, INFIRMITY OR DISABLEMENT, FINANCIAL HARDSHIP OR SOCIAL AND ECONOMIC CIRCUMSTANCES OR FOR THE PUBLIC AT LARGE IN THE INTERESTS OF SOCIAL WELFARE AND WITH THE OBJECT OF IMPROVING THE CONDITION OF LIFE OF THE SAID INHABITANTS;NOTHING IN THIS CONSTITUTION SHALL AUTHORISE AN APPLICATION OF THE PROPERTY OF THE CIO FOR THE PURPOSES WHICH ARE NOT CHARITABLE IN ACCORDANCE WITH [SECTION 7 OF THE CHARITIES AND TRUSTEE INVESTMENT (SCOTLAND) ACT 2005] AND[SECTION 2 OF THE CHARITIES ACT (NORTHERN IRELAND) 2008]. | 
+<strong>THE PAROCHIAL CHURCH OF THE ECCLESIASTICAL PARISH OF ST PAULS, NORTHUMBERLAND HEATH</strong> [Charity number: [1127583](https://findthatcharity.uk/orgid/GB-CHC-1127583)]<br>Regular public worship Providing sacred space for personal prayer & contemplation Pastoral work,in visiting the sick & the bereaved Teaching Christianity through sermons,courses & small groups Taking religious assemblies in schools Promoting the mission of the Church by providing activities for senior citizens, pre-school children & other special need groups Supporting other charities & indivi | £179,842

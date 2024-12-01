@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-82,963 charities have been tagged with this tag.
-This represents 40.94% of all charities.
+82,925 charities have been tagged with this tag.
+This represents 40.93% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 28,648 | 38.49%
-£10k - £100k | 27,469 | 39.95%
-£100k - £250k | 8,804 | 41.91%
-£250k - £500k | 4,456 | 44.16%
-£1m - £10m | 4,192 | 48.91%
-£500k - £1m | 2,888 | 45.83%
-Over £10m | 1,139 | 54.92%
-Total | 77,596 | 40.57%
+Under £10k | 28,512 | 38.49%
+£10k - £100k | 27,490 | 39.96%
+£100k - £250k | 8,826 | 41.90%
+£250k - £500k | 4,455 | 44.04%
+£1m - £10m | 4,212 | 48.99%
+£500k - £1m | 2,893 | 45.68%
+Over £10m | 1,142 | 54.85%
+Total | 77,530 | 40.58%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,755 | 39.70%
-oscr | 12,323 | 49.69%
-ccni | 2,885 | 40.06%
-Total | 82,963 | 40.94%
+ccew | 67,760 | 39.70%
+oscr | 12,287 | 49.68%
+ccni | 2,878 | 40.00%
+Total | 82,925 | 40.93%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FRIENDS OF HEMBLINGTON SCHOOL</strong> [Charity number: [1035031](https://findthatcharity.uk/orgid/GB-CHC-1035031)]<br>HOLDING FUND RAISING EVENTS FOR CHILDRENS FURTHER EDUCATION AND DEVELOPMENT AT HEMBLINGTON COUNTY PRIMARY SCHOOL | £15,207
-<strong>WIDECOMBE-IN-THE-MOOR CHURCH HOUSE AND LANDS CHARITY</strong> [Charity number: [241096](https://findthatcharity.uk/orgid/GB-CHC-241096)]<br>the charity has four cottages that are rented out to local people. at the end of the year part of the money in the  bank generated from the rents minus any expenditure is divided between Widecombe Church and Widecombe Educational Foundation | £28,184
-<strong>BACD</strong> [Charity number: [1181666](https://findthatcharity.uk/orgid/GB-CHC-1181666)]<br>The main activity of the charity is to advance the effective, safe and ethical practice of aesthetic medicine to the benefit of all concerned through leadership, provision of information, education, support, professional development and the maintenance of the highest professional standards. | £339,668
-<strong>JEWISH BEREAVEMENT COUNSELLING SERVICE</strong> [Charity number: [1047473](https://findthatcharity.uk/orgid/GB-CHC-1047473)]<br>JBCS was set up to protect and preserve mental health and the relief of suffering and distress caused through bereavement by:Offering bereavement counselling to the Jewish community, individuals, children, young people and families;Providing advice and support on bereavement issues;Providing training to individuals and organisations on bereavement. | £130,116
-<strong>RELOAD GREECE FOUNDATION</strong> [Charity number: [1163934](https://findthatcharity.uk/orgid/GB-CHC-1163934)]<br>Provision and facilitation of support, training and projects which develop the skills, capacities and capabilities of young people enable them to participate in society as mature, responsible and socially conscious individuals. | £11,019
-<strong>SERPENTINE COMMUNITY GARDEN SOCIETY CHARITABLE INCORPORATED ORGANISATION</strong> [Charity number: [1188016](https://findthatcharity.uk/orgid/GB-CHC-1188016)]<br>Our object is to advance the education of the public in the subject of horticulture and horticultural practices. We aim to teach and learn about sustainable growing practices in the High Peak climate; share knowledge with our volunteers and visitors; support the aim of long term food security; and build and maintain an environment where all people are welcome, | £51,378
-<strong>KINGSTON PARISH HALL</strong> [Charity number: [1109150](https://findthatcharity.uk/orgid/GB-CHC-1109150)]<br>The village hall provides a venue for social, religious, political, educational and other activities for people in the area. | £9,840
-<strong>ALL SAINTS FIRST SCHOOL PARENTS TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1120444](https://findthatcharity.uk/orgid/GB-CHC-1120444)]<br>Our main activities involve:Fund raisingMaking grants to schoolSetting aside funds for special purposesProvide / subsidise social events to bring the school community together | £7,830
-<strong>THE CAGNI FOUNDATION</strong> [Charity number: [1139967](https://findthatcharity.uk/orgid/GB-CHC-1139967)]<br>1.Generally advance eduction, culture and the arts 2. Relieve poverty or financial hardship 3.Promote racial harmony and integration of different racial groups 4. Encourage participation in sporting activity to promote community participation in healthy recreation, improve the condition of life for people with mental or physical diabilities and generally, the advancement of education. | £191,963
-<strong>NUESTRA ESCUELA NOTTINGHAM</strong> [Charity number: [1202366](https://findthatcharity.uk/orgid/GB-CHC-1202366)]<br>THE OBJECT OF THE CIO IS: TO ADVANCE THE EDUCATION OF THE PUBLIC IN NOTTINGHAM AND SURROUNDING AREAS IN THE SPANISH LANGUAGE, CULTURE AND TRADITIONS, BY PROVIDING SPANISH LANGUAGE CLASSES AND ORGANISING ACTIVITIES AND EVENTS TO EDUCATE AND ENGAGE THE PUBLIC IN THE CULTURE AND TRADITIONS OF THE SPANISH SPEAKING COUNTRIES. | 
+<strong>CHIPSTEAD PRE-SCHOOL</strong> [Charity number: [1055601](https://findthatcharity.uk/orgid/GB-CHC-1055601)]<br>We offer pre-school education to children in the local area. | £95,487
+<strong>BRENCHLEY PRE-SCHOOL LIMITED</strong> [Charity number: [1103545](https://findthatcharity.uk/orgid/GB-CHC-1103545)]<br>Early Years Education | £221,434
+<strong>Clydebank Community Sports Hub</strong> [Charity number: [SC043704](https://findthatcharity.uk/orgid/GB-SC-SC043704)]<br>4.1 To promote and encourage community participation in healthy recreation activities through the provision of facilities for playing sports including but not limited to Rugby, Tae Kwan Do, Football and Gaelic Football. 4.2 To establish a inclusive and accessible community hub that provides opportunities for the local people to engage in educational and recreational activities that promotes health, well-being, learning and social interaction. | £210,821
+<strong>Friends of Stalham Schools</strong> [Charity number: [1076748](https://findthatcharity.uk/orgid/GB-CHC-1076748)]<br>FUNDRAISING FOR THE SCHOOL TO PROVIDE EDUCATIONAL BENIFITS FOR THE CHILDREN.FOR EXAMPLE PROVIDING ADDITIONAL FUNDING FOR EDUCATIONAL EQUIPMENT, GAMES AND BOOKS, TRIPS, VISITS AND SPORTS ACTIVITIES ETC. | £7,457
+<strong>ALLOWAY RAILWAY TUNNEL ART SCIO</strong> [Charity number: [SC052139](https://findthatcharity.uk/orgid/GB-SC-SC052139)]<br>4 The organisation's purposes are: (a) the advancement of education, (b) the advancement of citizenship or community development, (c) the advancement of the arts, heritage, culture or science, (d) the provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended, In furtherance of these purposes through the creation and ongoing maintenance of artworks on active-travel paths within South Ayrshire and in particular that tunnel known as The Alloway Railway Tunnel in order to preserve the heritage thereof and to enable the community of South Ayrshire and visitors to appreciate the artwork.   The charity shall endeavour to achieve this through education whether  in schools or colleges or holding art classes or interpretation classes and trails or contracting with others to do the same.   Generally to promote the health and well-being of the people of South Ayrshire and visitors by encouraging the use of the Railway Tunnel and associated active-travel routes | £64,363
+<strong>FRIENDS OF ST ANDREW'S SCHOOL (NORTH WEALD)</strong> [Charity number: [1178265](https://findthatcharity.uk/orgid/GB-CHC-1178265)]<br>Fundraising to enhance the school | £24,581
+<strong>FINCHINGFIELD SCHOOL ASSOCIATION</strong> [Charity number: [1036949](https://findthatcharity.uk/orgid/GB-CHC-1036949)]<br>Fund raising to buy equipment for the school; to pay for school trips. | £2,896
+<strong>NORTH CADBURY PRIMARY SCHOOL PARENTS TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1059452](https://findthatcharity.uk/orgid/GB-CHC-1059452)]<br>Fundraising for PTAFA funds | £13,287
+<strong>CAERNARVONSHIRE FURTHER EDUCATION TRUST FUND</strong> [Charity number: [525294](https://findthatcharity.uk/orgid/GB-CHC-525294)]<br>Grants to Individuals to specified area | £921
+<strong>WHITEFRIARS PARENT SCHOOL ASSOCIATION</strong> [Charity number: [1007104](https://findthatcharity.uk/orgid/GB-CHC-1007104)]<br>Events at various times of the year including school disco's, bingo, non uniform days, car boot sales and fayres. | £7,126
