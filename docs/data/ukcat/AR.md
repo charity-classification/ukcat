@@ -3,7 +3,7 @@
 Arts is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Arts](AR.md) category.
 
-29,169 charities have been tagged with this tag.
+29,186 charities have been tagged with this tag.
 This represents 14.40% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,998 | 13.50%
-£10k - £100k | 11,004 | 15.99%
-£100k - £250k | 2,660 | 12.63%
-£250k - £500k | 1,436 | 14.20%
-£500k - £1m | 861 | 13.60%
-£1m - £10m | 1,102 | 12.82%
-Over £10m | 226 | 10.85%
-Total | 27,287 | 14.28%
+Under £10k | 9,951 | 13.48%
+£10k - £100k | 11,029 | 16.02%
+£100k - £250k | 2,656 | 12.57%
+£250k - £500k | 1,473 | 14.47%
+£500k - £1m | 857 | 13.44%
+£1m - £10m | 1,108 | 12.80%
+Over £10m | 228 | 10.85%
+Total | 27,302 | 14.29%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 23,271 | 13.63%
-oscr | 4,489 | 18.15%
-ccni | 1,409 | 19.58%
-Total | 29,169 | 14.40%
+ccew | 23,283 | 13.64%
+oscr | 4,494 | 18.21%
+ccni | 1,409 | 19.57%
+Total | 29,186 | 14.40%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>WORTWELL COMMUNITY CENTRE</strong> [Charity number: [1025885](https://findthatcharity.uk/orgid/GB-CHC-1025885)]<br>Wortwell Community Centre is a building for the use of the local inhabitants for recreation and leisure time occupations.  Currently activities include : Dance Classes, Bowls, Charity Events, Quiz nights, private hirings, Village Fete, carpet bowls, badminton, art classes, french classes, keep fit, football, yoga, theatre productions and much more | £44,788
-<strong>MARKFIELD COMMUNITY LIBRARY</strong> [Charity number: [1162059](https://findthatcharity.uk/orgid/GB-CHC-1162059)]<br>The advancement of education for the public benefit in Markfield by the provision of a volunteer run public lending library. | £14,507
-<strong>FOXLOWE ARTS CENTRE LTD</strong> [Charity number: [1144382](https://findthatcharity.uk/orgid/GB-CHC-1144382)]<br>Advances awareness, interest and understanding of the arts through talks, exhibitions, drama, poetry, film, sculpture etc along with an arts cafe focussed on Fairtrade and local products. | £266,240
-<strong>THE INTERNATIONAL SHAKESPEARE ASSOCIATION</strong> [Charity number: [1160312](https://findthatcharity.uk/orgid/GB-CHC-1160312)]<br>To advance the education of the public by furthering the study of Shakespeare's life and work by such means as the trustees determine including by:- Organising, holding and promoting participation in the World Shakespeare Congress and disseminating the learning of that event; and- Offering advice and assistance in the establishment of national or regional Shakespeare associations. | £207
-<strong>CYFEILLION YSGOL FELINHELI</strong> [Charity number: [1186024](https://findthatcharity.uk/orgid/GB-CHC-1186024)]<br>We work with school staff and governors, parents and pupils and help strengthen community links with the school by arranging an array of events and activities, for example; school discos, summer and winter fayre, arrange volunteer activities like gardening and reading, film evenings, provide volunteer help and fund raise at school events like concerts. | £5,868
-<strong>SAWSTON ARTS APPEAL</strong> [Charity number: [1098372](https://findthatcharity.uk/orgid/GB-CHC-1098372)]<br>To provide facilities and resources for the encouragement of the Arts. To provide bursaries to assist students in the study of the Arts. | £2,232
-<strong>HERTFORD DRAMATIC AND OPERATIC SOCIETY</strong> [Charity number: [271065](https://findthatcharity.uk/orgid/GB-CHC-271065)]<br>Produce amateur plays, musicals, pantomimes etc. for public performance.Run workshops for junior members dealing with theatrical and related subjects.Advise local council of artistic needs of local area.Support other charities with donations. | £49,654
-<strong>THE CHRISTOPHER RICHARD JAMES TROMANS FOUNDATION</strong> [Charity number: [1192489](https://findthatcharity.uk/orgid/GB-CHC-1192489)]<br>To raise funds to send restricted donations via specialist centres such as The Childrens Liver Disease Foundation (CLDF), to individuals/families nominated by them. To help meet a specific and identified need - such as a visit to the cinema, or other need clearly defined by CLDF (or similar specialist centre) that will help & emotionally support the nominated individual or their immediate family. | £3,271
-<strong>ALLIANCE FOR INCLUSIVE EDUCATION</strong> [Charity number: [1124424](https://findthatcharity.uk/orgid/GB-CHC-1124424)]<br>Termly magazine called "Inclusion Now", Quarterly Campaigns & Policy Briefings, "Inclusion Champions Project | £87,455
-<strong>THE EGYPT EXPLORATION SOCIETY</strong> [Charity number: [212384](https://findthatcharity.uk/orgid/GB-CHC-212384)]<br>Advances the education of the public with reference to Ancient and Medieval Egypt and countries in the same region, and promotes art, culture and heritage by raising knowledge, awareness and understanding of the language, history, arts, culture, religion and all other matters relating to Ancient and Medieval Egypt and countries in the same region. | £509,930
+<strong>Urquhart Parish Hall Committee</strong> [Charity number: [SC001131](https://findthatcharity.uk/orgid/GB-SC-SC001131)]<br>For the purpose of physical and mental training and recreation, and social, moral and intellectual development through the medium of reading and recreation rooms, library, lectures, classes, recreation or otherwise as may be found expedient to the inhabitants of the said Parish without distinction of sex or of political, religious or other opinions subject to the provisions of these presents. | £5,159
+<strong>THE OTHERWISE CLUB</strong> [Charity number: [1071831](https://findthatcharity.uk/orgid/GB-CHC-1071831)]<br>The Otherwise Club is a community centre for families choosing to educate their children out of school. It provides support, activities, sporting and drama events and outings  as well as project groups that specialise in topics. | £21,858
+<strong>THORPE HESLEY BRASS BAND</strong> [Charity number: [1076065](https://findthatcharity.uk/orgid/GB-CHC-1076065)]<br>playing concerts locally and by taking bookings from groups and organisation mainly within the Rotherham area.playing at outside events such as the Rotherham Show etc. | £3,086
+<strong>GUNNERSIDE VILLAGE HALL</strong> [Charity number: [523354](https://findthatcharity.uk/orgid/GB-CHC-523354)]<br>snooker club. games for the elderly, w.i. meetings and activities, parish council meetings.village concerts, film shows,public parties and events.Council/national elections.Chapel fund raising.Village fund raising events. Sales for charity. | £4,070
+<strong>NEW FOREST HOSPITAL RADIO</strong> [Charity number: [1204071](https://findthatcharity.uk/orgid/GB-CHC-1204071)]<br>Hospital Radio | 
+<strong>The Balance Eco Foundation</strong> [Charity number: [1162529](https://findthatcharity.uk/orgid/GB-CHC-1162529)]<br>Chant will sell music in order to fund pro-social activity such as tree planting, Climate change communication, Sustainable building opportunities, animal welfare, water, and ocean protection. | 
+<strong>PETERBOROUGH CHRISTADELPHIAN ECCLESIA</strong> [Charity number: [1195882](https://findthatcharity.uk/orgid/GB-CHC-1195882)]<br>To advance the Christian faith in accordance to the Christadelphian statement of Faith, through the holding of meetings for worship, prayer and the preaching of the Gospel, providing religious teaching and publications, the promotion of charitable works and the provision of pastoral care to all individuals. | £8,084
+<strong>UNIVERSITY OF PLYMOUTH CHORAL SOCIETY</strong> [Charity number: [1144999](https://findthatcharity.uk/orgid/GB-CHC-1144999)]<br>Choral Society associated with the University of Plymouth. | £19,741
+<strong>LLANRWST CHAMBER MUSIC SOCIETY</strong> [Charity number: [517039](https://findthatcharity.uk/orgid/GB-CHC-517039)]<br>The Llanrwst Chamber Music Society, an educational and cultural organisation, is a small charity devoted to promoting instrumental string music among amateurs. Two to four times a year it holds residential weekend courses at venues in North Wales and Powys, for a maximum of eight quartets, or a string orchestra, which receive coaching in their prepared works from professional musicians. | £6,078
+<strong>THE M T AND S D BURTON CHARITABLE SETTLEMENT</strong> [Charity number: [327450](https://findthatcharity.uk/orgid/GB-CHC-327450)]<br>Donations are made at the discretion of the trustees and grants are normally made to cover health, arts, education and social needs.Donations to individuals will not be considered. Appeals should be in writing only to the trust managers. Unsuccessful appeals will not necessarily be acknowledged. | £89,422

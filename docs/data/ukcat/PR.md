@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,295 charities have been tagged with this tag.
+1,293 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 482 | 0.65%
-£10k - £100k | 392 | 0.57%
-£100k - £250k | 151 | 0.72%
+Under £10k | 477 | 0.65%
+£10k - £100k | 390 | 0.57%
+£100k - £250k | 156 | 0.74%
 £250k - £500k | 69 | 0.68%
 £500k - £1m | 40 | 0.63%
-£1m - £10m | 74 | 0.86%
-Over £10m | 41 | 1.97%
-Total | 1,249 | 0.65%
+£1m - £10m | 74 | 0.85%
+Over £10m | 41 | 1.95%
+Total | 1,247 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,117 | 0.65%
-oscr | 131 | 0.53%
+ccew | 1,114 | 0.65%
+oscr | 132 | 0.53%
 ccni | 47 | 0.65%
-Total | 1,295 | 0.64%
+Total | 1,293 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -45,8 +45,8 @@ Total | 1,295 | 0.64%
 Name | Latest income
 -----|--------:
 <strong>CHURCH COMMISSIONERS FOR ENGLAND</strong> [Charity number: [1140097](https://findthatcharity.uk/orgid/GB-CHC-1140097)]<br>Promoting the mission and ministry of the Church of England especially by supporting poorer dioceses with ministry costs, providing funds to support mission activities, paying for bishops' ministry and some cathedral costs, administering the legal framework for pastoral reorganisation and closed church buildings, paying clergy pensions for service prior to 1998 and running the clergy payroll. | £192,121,024
-<strong>Nursing And Midwifery Council</strong> [Charity number: [SC038362](https://findthatcharity.uk/orgid/GB-SC-SC038362)]<br>(2) The principal functions of the Council shall be to establish from time to time standards of education, training, conduct and performance for nurses and midwives and to ensure the maintenance of those standards. (4) The main objective of the Council in exercising its functions shall be to safeguard the health and well-being of persons using or needing the services of registrants. | £102,885,000
-<strong>NURSING AND MIDWIFERY COUNCIL</strong> [Charity number: [1091434](https://findthatcharity.uk/orgid/GB-CHC-1091434)]<br>The NMC is the independent regulator for nurses and midwives in the UK. Our primary purpose is to protect patients and the public through effective and proportionate regulation of nurses and midwives. We set and promote standards of education and practice, maintain a register of those who meet these standards, and take action when a nurse's or midwife's fitness to practise is called into question. | £102,885,000
+<strong>NURSING AND MIDWIFERY COUNCIL</strong> [Charity number: [1091434](https://findthatcharity.uk/orgid/GB-CHC-1091434)]<br>The NMC is the independent regulator for nurses and midwives in the UK. Our primary purpose is to protect patients and the public through effective and proportionate regulation of nurses and midwives. We set and promote standards of education and practice, maintain a register of those who meet these standards, and take action when a nurse's or midwife's fitness to practise is called into question. | £107,215,000
+<strong>Nursing And Midwifery Council</strong> [Charity number: [SC038362](https://findthatcharity.uk/orgid/GB-SC-SC038362)]<br>(2) The principal functions of the Council shall be to establish from time to time standards of education, training, conduct and performance for nurses and midwives and to ensure the maintenance of those standards. (4) The main objective of the Council in exercising its functions shall be to safeguard the health and well-being of persons using or needing the services of registrants. | £107,215,000
 <strong>THE LONDON DIOCESAN FUND</strong> [Charity number: [241083](https://findthatcharity.uk/orgid/GB-CHC-241083)]<br>The principal activity of the London Diocesan Fund is to serve and support the parishes and people within the Diocese of London in their mission of proclaiming the gospel of Jesus Christ. It does this operationally through the payment and housing of parish clergy and chaplaincies and support to their ministry. | £49,900,000
 <strong>LIVERPOOL ROMAN CATHOLIC ARCHDIOCESAN TRUST</strong> [Charity number: [232709](https://findthatcharity.uk/orgid/GB-CHC-232709)]<br>To provide support to the clergy in training, ministry and retirementTo support pastoral work in parishes and local communitiesTo support and direct lifelong Christian education in parishes and schoolsTo preserve and invest in the property infrastructure of the Archdiocese and parishes, facilitating worship and enabling the charitable work of the Church to take place | £38,620,950
 <strong>THE ROYAL MARSDEN CANCER CHARITY</strong> [Charity number: [1095197](https://findthatcharity.uk/orgid/GB-CHC-1095197)]<br>The Charity's objects are to raise money solely to allow The Royal Marsden Foundation Trust to fund state-of-the-art equipment and groundbreaking research, create the best patient environments, and ensure its nurses, doctors and research teams can provide the very best care and develop life-saving treatments which are used here in the UK and around the world. | £35,910,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF HITCHIN, ST MARY</strong> [Charity number: [1132874](https://findthatcharity.uk/orgid/GB-CHC-1132874)]<br>The PCC is responsible for promoting the mission of the Church of England throughout the town of Hitchin.  It does this by working alongside the Team Rector and the other Team clergy in providing a wide range of activities and events - ecumenical, evangelical, pastoral, and social.  All the churches are conscious that the communities they serve are varied in ethnicity, age, and economic wealth. | £294,686
-<strong>Allanton Miners Charitable Society</strong> [Charity number: [SC018634](https://findthatcharity.uk/orgid/GB-SC-SC018634)]<br>The Objects of the Society are to provide facilities forsuch forms of recreation and other leisure-time occupation as are conducive to the improvement of the conditions of living of the inhabitants of Allanton and the neighbourhood thereof within the Society's sphere of operations as defined from time to time and in particular (but not exclusively) such of the inhabitants as are members of the Mining Community provided that nothing herein contained shall authorise the application of the Property to purposes which are not in law charitable.  The Society shall not be identified with any party or sect. | £8,200
-<strong>Waterside Miners Charitable Society</strong> [Charity number: [SC003983](https://findthatcharity.uk/orgid/GB-SC-SC003983)]<br>To provide facilities for such forms of recreation and other leisure-time occupation as are conducive to the improvement of the conditions of living of the inhabitants of Waterside and the neighbourhood thereof within the Society’s sphere of operations as defined from time to time and in particular (but not exclusively) such of the inhabitants as are members of the Mining Community provided that nothing herein contained shall authorise the application of the Property to purposes which are not in law charitable. | £15,899
-<strong>THE TERRYS CROSS TRUST</strong> [Charity number: [1192535](https://findthatcharity.uk/orgid/GB-CHC-1192535)]<br>THE PROVISION OF RESIDENTIAL AND PERSONAL CARE FOR OLDER MEMBERS OF THE CHURCH OF ENGLAND. LIMITED BY WILL TO CHURCH OF ENGLAND CLERGY, DEPENDANTS, MISSIONARIES AND LAY-WORKERS | £378,567
-<strong>YORKSHIRE MAIN MINERS WELFARE SCHEME</strong> [Charity number: [523990](https://findthatcharity.uk/orgid/GB-CHC-523990)]<br>provide sporting and social facilities for the community as a whole | £56,205
-<strong>THE HOUSETOP TRUST</strong> [Charity number: [326421](https://findthatcharity.uk/orgid/GB-CHC-326421)]<br>The advancement of the Roman Cathoic Religion.Undertake the training and education of priests, members of Religious Orders and Institutes and lay persons engaged upon Roman Catholic Missions throughout the World. | £16,746
-<strong>LORD HYLTON'S FUND FOR THE AVON AND SOMERSET CONSTABULARY</strong> [Charity number: [239459](https://findthatcharity.uk/orgid/GB-CHC-239459)]<br>We provide awards (non financial) to police officers who actions are above and beyond those normally expected in the course of their duty | £415
-<strong>HINDU TEMPLE GEETA BHAWAN DERBY</strong> [Charity number: [503307](https://findthatcharity.uk/orgid/GB-CHC-503307)]<br>Hindu Temple Geeta Bhawan,  provides free lunch to Senior Citizens, Teach Hindi, Malayalam Languages, yoga classes and Indian classical Dances. Provide Hindu Religious services, place of worship, cultural activities, Inter faith dialogue, discourses on Vedas and other scriptures. Conduct Civil Marriages, Marriages according to Vedic Rituals and provide priests for Hindu rituals. | £176,998
-<strong>HATFIELD AND DUNSCROFT MINERS' RECREATION GROUND</strong> [Charity number: [523589](https://findthatcharity.uk/orgid/GB-CHC-523589)]<br>Provide sport/recreation facilities | £3,150
-<strong>ELIZABETH COTTAGE ENDOWMENT FUND</strong> [Charity number: [237200](https://findthatcharity.uk/orgid/GB-CHC-237200)]<br>Endowment Providing accommodation for persons to the benefit of the local community such as District nurse, Teacher or those in poor circumstances' | £89
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ALL SAINTS LEAMINGTON PRIORS</strong> [Charity number: [1132974](https://findthatcharity.uk/orgid/GB-CHC-1132974)]<br>THE PCC OF ALL SAINTS HAS THE RESPONSIBILITY FOR PROMOTING IN THE PARISH THE WHOLE MISSION OF THE CHURCH OF ENGLAND. IT ALSO HAS MAINTENANCE RESPONSIBILITIES FOR THE CHURCH BUILDING. IT PLAYS A FULL PART IN THE LIFE OF THE DEANERY AND THE DIOCESE, AND SUPPORTS ITS WORK THROUGH THE PARISH SHARE. THE DIOCESE SUPPORTS ALL SAINTS THROUGH THE PROVISION OF CLERGY AND THEIR HOUSING. | £162,465
+<strong>THE VICAR'S GENERAL FUND</strong> [Charity number: [273004](https://findthatcharity.uk/orgid/GB-CHC-273004)]<br>The VGF makes small grants to charities and organisations for the relief of poverty and for the furthering of Christianity. | £21,084
+<strong>HUGGLESCOTE MINER'S WELFARE RECREATION GROUND</strong> [Charity number: [521433](https://findthatcharity.uk/orgid/GB-CHC-521433)]<br>Recreation ground or playing field for the benefit of workers in or about coal mines and more particularly those resident in the beneficial area. | 
+<strong>PENSION TRUST FOR CHRISTIAN SCIENCE NURSES</strong> [Charity number: [209226](https://findthatcharity.uk/orgid/GB-CHC-209226)]<br>Financial support of Christian Science Nurses by benevolence. | £146,926
+<strong>THE BISHOP'S STORTFORD MORAL WELFARE FUND</strong> [Charity number: [238714](https://findthatcharity.uk/orgid/GB-CHC-238714)]<br>Grants to support social welfare in the Bishop's Stortford area based on recommendations by local clergy. | £2,390
+<strong>CEFN FFOREST MINERS' WELFARE HALL</strong> [Charity number: [1191718](https://findthatcharity.uk/orgid/GB-CHC-1191718)]<br>Working to raise funds with the aim to establish or secure the establishment of a community centre and to maintain or manage or cooperate with any statutory authority in the maintenance and management of such a centre for activities promoted by the charity in furtherance of the above objects. | £19,225
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF POPLAR (ALL SAINTS AND ST NICHOLAS)</strong> [Charity number: [1134962](https://findthatcharity.uk/orgid/GB-CHC-1134962)]<br>The PCC of All Saints & St. Nicholas has the responsibility of co-operating & planning with the Team Rector, Team Vicar & clergy in promoting our pastoral, evangelistic, educational, social & ecumenical mission in the whole Parish.The charitable objectives of the Parish of Poplar are to serve the spiritual, pastoral & social needs of those who live in the Parish or who worship in our Churches. | £183,742
+<strong>DUCKMANTON MINERS WELFARE CENTRE</strong> [Charity number: [520479](https://findthatcharity.uk/orgid/GB-CHC-520479)]<br>We provide facilities for members of the Centre to participate in the purchase of alcohol and the various recreational pursuits available in the Centre. We also have a large screen television for enhanced viewing by the members. | £15,231
+<strong>SUFFOLK CLERGY CHARITY</strong> [Charity number: [1002233](https://findthatcharity.uk/orgid/GB-CHC-1002233)]<br>Religious | £38,843
+<strong>RUMBLES CATERING PROJECT LIMITED</strong> [Charity number: [1098404](https://findthatcharity.uk/orgid/GB-CHC-1098404)]<br>Training adults with learning disabilities in a realistic working environment to gain qualifications in catering. The Charity runs a country park caf+® at Vicar Water in Clipstone, that offer the trainees the opportunity to practice their skills and raise funds for the charity. | £116,636

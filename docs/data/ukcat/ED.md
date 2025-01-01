@@ -3,7 +3,7 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-82,925 charities have been tagged with this tag.
+82,932 charities have been tagged with this tag.
 This represents 40.93% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 28,512 | 38.49%
-£10k - £100k | 27,490 | 39.96%
-£100k - £250k | 8,826 | 41.90%
-£250k - £500k | 4,455 | 44.04%
-£1m - £10m | 4,212 | 48.99%
-£500k - £1m | 2,893 | 45.68%
-Over £10m | 1,142 | 54.85%
-Total | 77,530 | 40.58%
+Under £10k | 28,411 | 38.50%
+£10k - £100k | 27,496 | 39.93%
+£100k - £250k | 8,861 | 41.95%
+£250k - £500k | 4,489 | 44.09%
+£1m - £10m | 4,244 | 49.02%
+£500k - £1m | 2,907 | 45.59%
+Over £10m | 1,145 | 54.50%
+Total | 77,553 | 40.58%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,760 | 39.70%
-oscr | 12,287 | 49.68%
-ccni | 2,878 | 40.00%
-Total | 82,925 | 40.93%
+ccew | 67,777 | 39.69%
+oscr | 12,276 | 49.74%
+ccni | 2,879 | 39.99%
+Total | 82,932 | 40.93%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>CHIPSTEAD PRE-SCHOOL</strong> [Charity number: [1055601](https://findthatcharity.uk/orgid/GB-CHC-1055601)]<br>We offer pre-school education to children in the local area. | £95,487
-<strong>BRENCHLEY PRE-SCHOOL LIMITED</strong> [Charity number: [1103545](https://findthatcharity.uk/orgid/GB-CHC-1103545)]<br>Early Years Education | £221,434
-<strong>Clydebank Community Sports Hub</strong> [Charity number: [SC043704](https://findthatcharity.uk/orgid/GB-SC-SC043704)]<br>4.1 To promote and encourage community participation in healthy recreation activities through the provision of facilities for playing sports including but not limited to Rugby, Tae Kwan Do, Football and Gaelic Football. 4.2 To establish a inclusive and accessible community hub that provides opportunities for the local people to engage in educational and recreational activities that promotes health, well-being, learning and social interaction. | £210,821
-<strong>Friends of Stalham Schools</strong> [Charity number: [1076748](https://findthatcharity.uk/orgid/GB-CHC-1076748)]<br>FUNDRAISING FOR THE SCHOOL TO PROVIDE EDUCATIONAL BENIFITS FOR THE CHILDREN.FOR EXAMPLE PROVIDING ADDITIONAL FUNDING FOR EDUCATIONAL EQUIPMENT, GAMES AND BOOKS, TRIPS, VISITS AND SPORTS ACTIVITIES ETC. | £7,457
-<strong>ALLOWAY RAILWAY TUNNEL ART SCIO</strong> [Charity number: [SC052139](https://findthatcharity.uk/orgid/GB-SC-SC052139)]<br>4 The organisation's purposes are: (a) the advancement of education, (b) the advancement of citizenship or community development, (c) the advancement of the arts, heritage, culture or science, (d) the provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended, In furtherance of these purposes through the creation and ongoing maintenance of artworks on active-travel paths within South Ayrshire and in particular that tunnel known as The Alloway Railway Tunnel in order to preserve the heritage thereof and to enable the community of South Ayrshire and visitors to appreciate the artwork.   The charity shall endeavour to achieve this through education whether  in schools or colleges or holding art classes or interpretation classes and trails or contracting with others to do the same.   Generally to promote the health and well-being of the people of South Ayrshire and visitors by encouraging the use of the Railway Tunnel and associated active-travel routes | £64,363
-<strong>FRIENDS OF ST ANDREW'S SCHOOL (NORTH WEALD)</strong> [Charity number: [1178265](https://findthatcharity.uk/orgid/GB-CHC-1178265)]<br>Fundraising to enhance the school | £24,581
-<strong>FINCHINGFIELD SCHOOL ASSOCIATION</strong> [Charity number: [1036949](https://findthatcharity.uk/orgid/GB-CHC-1036949)]<br>Fund raising to buy equipment for the school; to pay for school trips. | £2,896
-<strong>NORTH CADBURY PRIMARY SCHOOL PARENTS TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1059452](https://findthatcharity.uk/orgid/GB-CHC-1059452)]<br>Fundraising for PTAFA funds | £13,287
-<strong>CAERNARVONSHIRE FURTHER EDUCATION TRUST FUND</strong> [Charity number: [525294](https://findthatcharity.uk/orgid/GB-CHC-525294)]<br>Grants to Individuals to specified area | £921
-<strong>WHITEFRIARS PARENT SCHOOL ASSOCIATION</strong> [Charity number: [1007104](https://findthatcharity.uk/orgid/GB-CHC-1007104)]<br>Events at various times of the year including school disco's, bingo, non uniform days, car boot sales and fayres. | £7,126
+<strong>FORD END SCHOOL PTA</strong> [Charity number: [1091618](https://findthatcharity.uk/orgid/GB-CHC-1091618)]<br>Organisation events to raise financial support for the school | £5,998
+<strong>SHAW-CUM-DONNINGTON VILLAGE HALL</strong> [Charity number: [300200](https://findthatcharity.uk/orgid/GB-CHC-300200)]<br>The Village Hall serves the local community. The regular users of the hall are a Pre School, Girl Guiding, Womens Institute, Parish Council, Horticultural Society and several classes of yoga and dance. | £36,228
+<strong>RETROUVAILLE IN ENGLAND AND WALES</strong> [Charity number: [1110330](https://findthatcharity.uk/orgid/GB-CHC-1110330)]<br>To provide Christian education so that people may have an understanding of the duties, responsibilities and privileges of married life. | £29,646
+<strong>GILLINGHAM LOCAL HISTORY SOCIETY</strong> [Charity number: [1014970](https://findthatcharity.uk/orgid/GB-CHC-1014970)]<br>We offer membership to the society, at an affordable cost in return for which we organise a series of lectures on an historical theme. Visitors may also attend lectures for a nominal donation. In addition we provide, maintain and manage a museum of local history, open all year, with free entry to the public. School visits and lectures to local organisations. | £5,031
+<strong>THE SAM AND SONJA FREIMAN CHARITABLE TRUST</strong> [Charity number: [1198907](https://findthatcharity.uk/orgid/GB-CHC-1198907)]<br>The advancement of education without regard to religious denomination, in particular about the Holocaust. | £200
+<strong>THE RICHARD MAGILL FUND</strong> [Charity number: [1175064](https://findthatcharity.uk/orgid/GB-CHC-1175064)]<br>The Charity provides direct support to Deaf people and their family and friends in end-of-life circumstances.  The charity also raises awareness through training of healthcare professionals and trains and supports Deaf volunteers to become visitors in end-of-life situations. | £1,955
+<strong>FRIENDS OF GRAYSWOOD SCHOOL</strong> [Charity number: [1182383](https://findthatcharity.uk/orgid/GB-CHC-1182383)]<br>The charity, Friends of Grayswood School (FROGS) is an association formed of a community of parents, relatives, teachers and friends of Grayswood Primary School. We support the school by  developing effective relationships between members of the community, together with raising funds to support the children's education through the improvement of resources and facilities. | £14,151
+<strong>DALSTON LANE EDUCATIONAL CENTRE</strong> [Charity number: [1209457](https://findthatcharity.uk/orgid/GB-CHC-1209457)]<br>TO ADVANCE THE ISLAMIC RELIGION IN THE LONDON BOROUGH OF HACKNEY FOR THE BENEFIT OF THE PUBLIC THROUGH THE HOLDING OF PRAYER MEETINGS AND FACILITIES, LECTURES, PUBLIC CELEBRATION OF RELIGIOUS FESTIVALS, PRODUCING AND/OR DISTRIBUTING LITERATURE ON THE ISLAMIC FAITH TO ENLIGHTEN AND EDUCATE OTHERS ABOUT THE RELIGION. | 
+<strong>CROPREDY SCHOOL FAIRPORT BREAKFASTS GROUP</strong> [Charity number: [1168044](https://findthatcharity.uk/orgid/GB-CHC-1168044)]<br>TO ADVANCE THE EDUCATION OF THE PUPILS AT CROPREDY PRIMARY SCHOOL OR CROPREDY PRE-SCHOOL BY PROVIDING AND ASSISTING IN THE PROVISION OF FACILITIES, ADDITIONAL RESOURCES, EQUIPMENT OR TUITION NOT REQUIRED TO BE PROVIDED BY THE LOCAL EDUCATION AUTHORITY FOR EDUCATION AT THE SCHOOLS. | 
+<strong>THE BURWARTON AND DISTRICT AGRICULTURAL SOCIETY LIMITED</strong> [Charity number: [518459](https://findthatcharity.uk/orgid/GB-CHC-518459)]<br>ORGANISATION OF ANNUAL EVENT FOR EXHIBITION OF LIVESTOCK, FARM AND HORTICULTURAL PRODUCE AND FOR THE DEMONSTRATION / EXHIBITION OF AGRICULTURAL, HORTICULTURAL AND FORESTRY METHODS AND PROCESSES, MACHINERY AND OTHER ITEMS CONSIDERED TO BE APPROPRIATE TO AN AGRICULTURAL SHOW. AGRICULTURAL EDUCATION AND TRAINING, ENCOURAGEMENT OF YOUNG FARMERS AND OF INDUSTRIES OF INTEREST TO THE FARMING COMMUNITY. | £312,189

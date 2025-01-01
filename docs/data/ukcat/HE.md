@@ -3,8 +3,8 @@
 Health is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Health](HE.md) category.
 
-29,512 charities have been tagged with this tag.
-This represents 14.57% of all charities.
+29,509 charities have been tagged with this tag.
+This represents 14.56% of all charities.
 
 ## Keywords to find charities
 
@@ -20,35 +20,35 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 8,883 | 11.99%
-£10k - £100k | 8,738 | 12.70%
-£100k - £250k | 3,280 | 15.57%
-£250k - £500k | 2,047 | 20.24%
-£500k - £1m | 1,378 | 21.76%
-£1m - £10m | 2,178 | 25.33%
-Over £10m | 602 | 28.91%
-Total | 27,106 | 14.19%
+Under £10k | 8,843 | 11.98%
+£10k - £100k | 8,747 | 12.70%
+£100k - £250k | 3,291 | 15.58%
+£250k - £500k | 2,087 | 20.50%
+£500k - £1m | 1,374 | 21.55%
+£1m - £10m | 2,199 | 25.40%
+Over £10m | 605 | 28.80%
+Total | 27,146 | 14.20%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 21,925 | 12.84%
-oscr | 6,199 | 25.07%
-ccni | 1,388 | 19.29%
-Total | 29,512 | 14.57%
+ccew | 21,919 | 12.84%
+oscr | 6,202 | 25.13%
+ccni | 1,388 | 19.28%
+Total | 29,509 | 14.56%
 
 
 ## Ten largest charities (by income)
 
 Name | Latest income
 -----|--------:
-<strong>NUFFIELD HEALTH</strong> [Charity number: [205533](https://findthatcharity.uk/orgid/GB-CHC-205533)]<br>To advance, promote and maintain health and healthcare of all descriptions and to prevent, relieve and cure sickness and ill health of every kind. | £1,358,100,000
 <strong>Nuffield Health</strong> [Charity number: [SC041793](https://findthatcharity.uk/orgid/GB-SC-SC041793)]<br>3.1 To advance, promote and maintain health and health care of all descriptions and to prevent, relieve and cure sickness and ill health of any kind, all for the public benefit. | £1,358,100,000
+<strong>NUFFIELD HEALTH</strong> [Charity number: [205533](https://findthatcharity.uk/orgid/GB-CHC-205533)]<br>To advance, promote and maintain health and healthcare of all descriptions and to prevent, relieve and cure sickness and ill health of every kind. | £1,358,100,000
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £960,700,000
 <strong>CANCER RESEARCH UK</strong> [Charity number: [1089464](https://findthatcharity.uk/orgid/GB-CHC-1089464)]<br>Cancer Research UK is dedicated to saving lives through research. Our mission is to prevent, control and cure cancer through our ground-breaking research and in the last 40 years our work has helped double survival rates. But there is more work to be done. The only charity fighting over 200 types of cancer, we rely on every pound donated to help get us closer to beating cancer. | £718,793,137
-<strong>Cancer Research UK</strong> [Charity number: [SC041666](https://findthatcharity.uk/orgid/GB-SC-SC041666)]<br>The objects for which the Company is established are to protect and promote the health of the public in particular by research into the nature, causes, diagnosis, prevention, treatment and cure of all forms of cancer, including the development of findings of research into practical applications for the prevention, treatment and cure of cancer and in furtherance of that primary object, to provide information and raise public understanding of such matters. | £718,793,137
+<strong>Cancer Research UK</strong> [Charity number: [SC041666](https://findthatcharity.uk/orgid/GB-SC-SC041666)]<br>The objects for which the Company is established are to protect and promote the health of the public in particular by research into the nature, causes, diagnosis, prevention, treatment and cure of all forms of cancer, including the development of findings of research into practical applications for the prevention, treatment and cure of cancer and in furtherance of that primary object, to provide information and raise public understanding of such matters. | £684,207,447
 <strong>WELLCOME TRUST</strong> [Charity number: [210183](https://findthatcharity.uk/orgid/GB-CHC-210183)]<br>Wellcome exists to improve health by helping great ideas to thrive.We support researchers, we take on big health challenges, we campaign for better science, and we help everyone get involved with science and health research. We are a politically and financially independent foundation. | £541,832,807
 <strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £381,300,000
 <strong>Royal Commonwealth Society for the Blind</strong> [Charity number: [SC038110](https://findthatcharity.uk/orgid/GB-SC-SC038110)]<br>'	To take or promote measures for the prevention and cure of blindness in the countries and territories specified under article 4 of this our charter and for the education, rehabilitation, training and employment of the blind in those countries and territories and '	To foster collaboration among organisations concerned with blindness and its prevention and to promote and where appropriate, to participate in national, regional and international activities likely to prevent blindness and benefit the blind in any part of the world. | £338,159,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE MEDIAWISE TRUST</strong> [Charity number: [1076002](https://findthatcharity.uk/orgid/GB-CHC-1076002)]<br>MediaWise provides information, research, advice and training on all aspects of the media and ethics issues, particularly on coverage of refugees and asylum seekers, children, health and suicide, and of minority groups. | £1,419
-<strong>THE HULL AND EAST RIDING DERMATOLOGICAL TRUST FUND</strong> [Charity number: [258310](https://findthatcharity.uk/orgid/GB-CHC-258310)]<br>102 EDUCATION/TRAINING103 MEDICAL/HEALTH/SICKNESS207 PUBLIC/MANKIND303PROVIDES OTHER FINANCE307PROVIDES SERVICES | 
-<strong>THE ETERNAL SACRED ORDER OF CHERUBIM & SERAPHIM UK PROVINCE LTD</strong> [Charity number: [1139822](https://findthatcharity.uk/orgid/GB-CHC-1139822)]<br>Advice, Counselling and Church Ministry within the community and abroad. | £246,291
-<strong>Small Wonders Childcare</strong> [Charity number: [NI102340](https://findthatcharity.uk/orgid/GB-NIC-102340)]<br>Small Wonders childcare is a social economy business owned by Shankill Women’s Centre. The social aims are to provide a high quality childcare business that supports parents to return to work and training. Small Wonders Childcare is not for profit for any individual but to provide any profit to Shankill Women’s Centre to help support their social aims of Education and Training for Women within this Social and Economically disadvantaged area. Small Wonders Childcare provides one third of its childcare free of charge to disadvantaged women, who are trying to better themselves through courses, education, health and training within Shankill Women’s Centre. Small Wonders looks after children from six weeks to twelve years and opens from 7:30am – 6:00pm Monday to Friday | £597,137
-<strong>SOUTH WEST CHILDREN'S HEART CIRCLE</strong> [Charity number: [267323](https://findthatcharity.uk/orgid/GB-CHC-267323)]<br>Supporting children undergoing heart surgery at Bristol Childrens Hospital and their families. | £10,417
-<strong>PC DAVID RATHBAND'S BLUE LAMP FOUNDATION</strong> [Charity number: [1138319](https://findthatcharity.uk/orgid/GB-CHC-1138319)]<br>We provide support to relieve financial hardship amongst ambulance, police or fire service personnel injured in the course of duty (and the families and dependants of such personnel) and at the Trustees' discretion to those injured in any other circumstances and through grants awarded to support projects of existing Emergency Services focused Charities. | £117,239
-<strong>THE PRIMROSE CENTRE LIMITED</strong> [Charity number: [1120931](https://findthatcharity.uk/orgid/GB-CHC-1120931)]<br>Breast cancer support centre offering holistic treatments, lymphatic drainage, support and information to breast cancer patients and their families | £43,307
-<strong>THE SUDANESE WOMEN'S RIGHTS GROUP</strong> [Charity number: [1082170](https://findthatcharity.uk/orgid/GB-CHC-1082170)]<br>SWRG IS WORKING AMONG WIDE RANGE OF BLACK REFUGEE WOMEN. ITS AIM INCLUDE INTEGRATION IN THE HOST COMMUNITY, RAISING AWARENESS OF THEIR NEEDS E.G. EDUCATE HEALTH TRAINING. WORK ALSO TO ERADICATE BAD TRADITIONS E.G. FGM. | £964
-<strong>THE BRITISH NEUROPSYCHIATRY ASSOCIATION</strong> [Charity number: [1154725](https://findthatcharity.uk/orgid/GB-CHC-1154725)]<br>Provides a multidisciplinary inclusive forum for the dissemination of research findings and best clinical practice Facilitates crossdisciplinary discussion of clinical and academic issues across the related fields of psychiatry, neurology and neuropsychologyRuns scientific meetings and educational coursesPromotes the public understanding of neuropsychiatry within the UK and internationally. | £116,739
-<strong>YOUR HELPING HANDS</strong> [Charity number: [1145054](https://findthatcharity.uk/orgid/GB-CHC-1145054)]<br>Helping disadvantaged people play a fuller role in society is one of the core goals. We achieve this through the prevention of poverty, reduction in suffering,  We have an on-going garden projects which serve to help vulnerable adults, who, through ill health, are unable to do so on their own. Our teaching stretches  to helping people gain employment by building and developing their IT skills. | £17,901
+<strong>THE ASSOCIATION FOR PALLIATIVE MEDICINE OF GREAT BRITAIN AND IRELAND</strong> [Charity number: [1053572](https://findthatcharity.uk/orgid/GB-CHC-1053572)]<br>Promote the advancement and development of palliative medicine. | £442,029
+<strong>CITY OF WELLS LIONS CLUB (CIO)</strong> [Charity number: [1181081](https://findthatcharity.uk/orgid/GB-CHC-1181081)]<br>As well as providing grants to deserving causes within Wells and surrounding area, the City of Wells Lions Club undertakes a number of community service projects inc. Wells Moat Boat Races, MayDay festivities, Diabetes and other health related events for the benefit of the public. | £8,550
+<strong>The Chaffinch Trust</strong> [Charity number: [SC043561](https://findthatcharity.uk/orgid/GB-SC-SC043561)]<br>The Company is established for the advancement of charitable purposes and in particular the prevention and relief of poverty, the advancement of education, the advancement of health, the saving of lives and the relief of those in need by reason of age, health, disability, financial hardship or other disadvantage by:- 2.1.1 creating a network of organisations committed to combining their energies to work in harmony to alleviate poverty and make efficient use of personnel and resources. 2.1.2 facilitating collaboration and cooperation among charities and others involved in working for the poor by alleviating hunger, improving health and the provision of education and skills.  | £19,069
+<strong>Mid Deeside Community First Responders</strong> [Charity number: [SC037411](https://findthatcharity.uk/orgid/GB-SC-SC037411)]<br>Tarland & Mid Deeside Community First Responders objectives are the protection and preservation of human life and the relief of sickness in persons residing in Tarland & Mid Deeside and its environs (defined from time to time in collaboration with surrounding Community First Responder groups), hereinafter to be called the area of benefit, in particular, but without prejudice to the generality of the foregoing by responding to emergency calls as determined by the Ambulance Control Centre triage arrangements extant at the time. We will operate under the governance systems of the Scottish Ambulance Service (SAS) under whose structures and indemnity arrangements we fall.   | £19
+<strong>WEST HALLAM VILLAGE HALL</strong> [Charity number: [503723](https://findthatcharity.uk/orgid/GB-CHC-503723)]<br>Maintain and refurbish Grade II building for use by any organisation or individuals in area. Major users, Guides, Brownies, Ramblers, dance, yoga, exercise groups, Women's Institute, portrait painting, physiotherapy, luncheon and social gatherings; also concerts, drama and private parties. Centre for village Community Events including Well Dressing festival, Open Gardens and Christmas Lights. | £127,565
+<strong>CHRISTIAN LIFE CENTRE OXFORD TRUST</strong> [Charity number: [1074213](https://findthatcharity.uk/orgid/GB-CHC-1074213)]<br>Conduct regular weekly services and Bible studies. Conduct baptism and baby dedications. Conduct marriage and pre-marital classes. Equip the local community by providing seminars on family and mental health matters. Resourcing and equipping of a primary school in Uganda and other projects abroad. | £449,580
+<strong>THE J P T CHARITABLE TRUST</strong> [Charity number: [1002808](https://findthatcharity.uk/orgid/GB-CHC-1002808)]<br>To give opportunity for young adults for travel in foreign countries, to facilitate young adults in the exchange of cultures; to co-fund medical research, to bring delivery of medical facilities in difficult to reach foreign areas; to fund education of young adults in foreign countries who in turn will benefit their communities and  for other general charitable purposes in the trustees discretion. | £18,594
+<strong>Christ Ambassadors Community Church of God</strong> [Charity number: [SC050727](https://findthatcharity.uk/orgid/GB-SC-SC050727)]<br>Charity’s objects are: (i) The advancement the Christian religion. (ii) The prevention and relief of poverty. (iii) The advancement of citizenship and community development. (iv) The provision of recreational facilities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. (v) The promotion of religious and racial harmony. (vi) The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage. In furtherance of the above objects, Christ Ambassadors Community Church of God will: (i) Provide religious services, which will promote respect and compassion, as well as making people feel valued in the local community. (ii) Provide educational activities which will promote other cultures in a way that helps them to integrate into the local community. (iii) Provide educational activities which will promote literacy in the local community, which will help disadvantaged groups. (iv) Provide educational activities which will promote greater understanding of Christian values in the local community. (v) Identify and support those in the community with difficulties due to age, ill health, disability or any other dilemma a person might face. (vi) Provide activities and services aimed at improving the quality life for all as well as helping every individual feel valued in the local community. | £25,192
+<strong>MEKANE HIWET MADHANE-ALEM ERITREAN ORTHODOX TEWAHDO CHURCH  IN GREATER MANCHESTER, UK</strong> [Charity number: [1181524](https://findthatcharity.uk/orgid/GB-CHC-1181524)]<br>To advance the Christian faith in greater Manchester and such other parts of the united kingdom as the charity trustees may from time to time think fit in accordance with the Eritrean orthodox church; and the relief of persons who are in need by reason of financial hardship, unemployment, disability, ill-health, poor education and such other economic or social disadvantage | £74,010
+<strong>SAMBER RIDING FOR THE DISABLED GROUP</strong> [Charity number: [1074208](https://findthatcharity.uk/orgid/GB-CHC-1074208)]<br>The aim of Samber (Riding for the Disabled) is to assist children with disabilities to experience the benefits that horse riding can bring to their health and well-being. | £6,753

@@ -3,8 +3,8 @@
 Heritage is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Heritage](HR.md) category.
 
-13,048 charities have been tagged with this tag.
-This represents 6.44% of all charities.
+13,073 charities have been tagged with this tag.
+This represents 6.45% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 5,293 | 7.15%
-£10k - £100k | 4,209 | 6.12%
-£100k - £250k | 1,109 | 5.27%
-£250k - £500k | 616 | 6.09%
-£1m - £10m | 518 | 6.03%
-£500k - £1m | 397 | 6.27%
-Over £10m | 116 | 5.57%
-Total | 12,258 | 6.42%
+Under £10k | 5,311 | 7.20%
+£10k - £100k | 4,209 | 6.11%
+£100k - £250k | 1,114 | 5.27%
+£250k - £500k | 623 | 6.12%
+£1m - £10m | 523 | 6.04%
+£500k - £1m | 400 | 6.27%
+Over £10m | 119 | 5.66%
+Total | 12,299 | 6.44%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 8,956 | 5.25%
-oscr | 3,619 | 14.63%
+ccew | 8,970 | 5.25%
+oscr | 3,630 | 14.71%
 ccni | 473 | 6.57%
-Total | 13,048 | 6.44%
+Total | 13,073 | 6.45%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>MECHANICAL MUSIC MUSEUM TRUST</strong> [Charity number: [801863](https://findthatcharity.uk/orgid/GB-CHC-801863)]<br>Educational talks, demonstrating the large collection of mechanical music items ie music boxes, polyphons, street pianos, fair organs & the wurlitzer theatre organ - to name a few, to educate all ages of the general public. preservation and restoration of mechanical music instruments. Organiser of events to show case the history and culture that has mostly been forgotten. | £29,327
-<strong>UNDER THE CLOCK BRADFORD</strong> [Charity number: [1169131](https://findthatcharity.uk/orgid/GB-CHC-1169131)]<br>For the benefit of the public to maintain a museum of policing, crime and punishment, the criminal justice system and civil enforcement in Bradford from the early 19th century to the present day. | £32,196
-<strong>THE FRIENDS OF CHATHAM TRACTION</strong> [Charity number: [1174323](https://findthatcharity.uk/orgid/GB-CHC-1174323)]<br>1) TO PRESERVE, RESTORE, EXHIBIT AND OPERATE FOR PUBLIC BENEFIT THE 1939 BRISTOL K5GDOUBLE-DECK BUS REGISTERED GKE 68: AND(2) TO ADVANCE THE EDUCATION OF THE PUBL IC IN THE HISTORY AND USE OF THEBUS, INCLUDING, BUT NOT LIMITED TO THE HISTORY AND ROLE OF THE CHATHAM A NDDISTRICT TRACTION COMPANY. | £3,000
-<strong>THE BULLEID SOCIETY</strong> [Charity number: [1205884](https://findthatcharity.uk/orgid/GB-CHC-1205884)]<br>Acquisition, restoration, preservation, exhibition / display of steam locomotives and rolling stock and other appropriate items, equipment, stock, artefacts, documents and records. The publication of a journal and website on the topic of steam locomotives and rolling stock. Providing opportunities for people of all ages and diverse backgrounds to learn about heritage railway preservation. | 
-<strong>INTERNATIONAL INSTITUTE FOR RESTORATIVE REPRODUCTIVE MEDICINE</strong> [Charity number: [1189777](https://findthatcharity.uk/orgid/GB-CHC-1189777)]<br>IIRRM unites providers & researchers in educating, researching & promoting scientifically-based and well researched reproductive health care services that cooperate with and restore reproductive function. Restorative Reproductive Medicine (RRM) exclusively focuses investigations and treatments on identifying and correcting abnormalities, restoring or optimizing natural reproductive function. | £37,891
-<strong>HANSLOPE COMMUNITY ORCHARD</strong> [Charity number: [1200266](https://findthatcharity.uk/orgid/GB-CHC-1200266)]<br>Hanslope Community Orchard grows heritage fruit trees for the community to enjoy behind the village hall.We are a group of like minded residents of Hanslope village, looking to reclaim and re-introduce heritage fruit trees in a non-cultivated corner of a local farmer's field.  Our long-term aim is for the orchard to be a recreational, inclusive space for all village residents; harvesting fruits, | £1,938
-<strong>THE QUANTOCK FOODBANK</strong> [Charity number: [1189991](https://findthatcharity.uk/orgid/GB-CHC-1189991)]<br>The prevention or relief of poverty in Watchet, Williton and surrounding area by the provision of food, essential toiletries, and household items to people in need; working with professional partners to restore dignity, maintain health and support efforts to regain independence and stability, and providing support to access or signposting to relevant agencies, advisory or information services. | £43,847
-<strong>THE VICTORIAN SOCIETY</strong> [Charity number: [1081435](https://findthatcharity.uk/orgid/GB-CHC-1081435)]<br>The Victorian Society is the national charity campaigning for the Victorian and Edwardian historic environment. | £435,168
-<strong>THE BRITISH MUSEUM FRIENDS</strong> [Charity number: [1086080](https://findthatcharity.uk/orgid/GB-CHC-1086080)]<br>To support and assist the British Museum in maintaining and expanding its collections and services to scholars and to the general public. | £6,166,391
-<strong>Scottish Community Drama Association Stirling District</strong> [Charity number: [SC021379](https://findthatcharity.uk/orgid/GB-SC-SC021379)]<br>The advancement of education. The advancement of arts, heritage, culture, or science. | £1,159
+<strong>BADGWORTHY TRUST FOR THE PRESERVATION OF EXMOOR</strong> [Charity number: [271170](https://findthatcharity.uk/orgid/GB-CHC-271170)]<br>To promote for the benefit of the public generally and especially for the inhabitants and users of the Exmoor National Park the protection of land and buildings of beauty or historic interest and as regards lands of ecological or other scientific importance with the National Park. | £102,023
+<strong>ONCA TRUST LIMITED</strong> [Charity number: [1150539](https://findthatcharity.uk/orgid/GB-CHC-1150539)]<br>The ONCA Trust fosters and inspires a greater understanding of ecology through art, education and creative practice.  We raise awareness of environmental and social change through the running of a non-profit art gallery, studio and workspace, and through arts-based educational outreach. We organise exhibitions, workshops, events and projects, themed around key ecological issues. | £143,360
+<strong>LONGRIDGE HERITAGE CENTRE TRUST</strong> [Charity number: [1158326](https://findthatcharity.uk/orgid/GB-CHC-1158326)]<br>LONGRIDGE HERITAGE CENTRE TRUST COLLECTS, PRESERVES AND DISPLAYS ARTEFACTS, DOCUMENTS AND PHOTOGRAPHS RELATING TO THE LONGRIDGE AREA. THESE ITEMS HAVE BEEN DONATED BY THE LOCAL HISTORY SOCIETY AND RESIDENTS. THE TRUST OPERATES FROM A FREE ADMISSION HERITAGE CENTRE, BASED AT THE OLD RAILWAY STATION, AND ORGANISES A REGULAR PROGRAMME OF TALKS, EXHIBITIONS AND EVENTS FOR THE PUBLIC. | £1,523
+<strong>LIVING HISTORY (NORTH EAST) LIMITED</strong> [Charity number: [1100755](https://findthatcharity.uk/orgid/GB-CHC-1100755)]<br>REGIONAL ORAL HISTORY CENTRERECORD PEOPLE'S MEMORIES/LIFE STORIES TO PRESERVE FOR FUTURE GENERATIONS | £42,908
+<strong>THE CATHEDRAL CHURCH OF THE HOLY AND UNDIVIDED TRINITY OF ELY</strong> [Charity number: [1202546](https://findthatcharity.uk/orgid/GB-CHC-1202546)]<br>Ely Cathedral is a Christian Church offering daily worship and a place of prayer and sanctity. It is the seat of the Bishop of Ely and the mother church of over 300 parishes that make up the Diocese of Ely. The Cathedral is also a historical monument, built to the glory of God, which welcomes thousands of pilgrims and visitors every year. | £4,701,000
+<strong>HARTPURY HERITAGE TRUST</strong> [Charity number: [1068784](https://findthatcharity.uk/orgid/GB-CHC-1068784)]<br>ÔÇÿTo advance the education of the public by the conservation protection and improvement of any part of the physical and natural environment in and around the parish of Hartpury which is of historical significance.ÔÇÖ | £84,269
+<strong>ST JOHN'S FOUNDATION PORTHCAWL</strong> [Charity number: [1126671](https://findthatcharity.uk/orgid/GB-CHC-1126671)]<br>1. To preserve the history of St John's School Porthcawl and promote and foster links between former pupils, staff and parents2. To advance the education of past pupils of St John's School Porthcawl3. To assist the professional development of past members of staff of St John's School Porthcawl4. To aid other local educational charities and community groups that provide services for children | £1,902
+<strong>ROTTINGDEAN HERITAGE CIO</strong> [Charity number: [1206340](https://findthatcharity.uk/orgid/GB-CHC-1206340)]<br>We look after the iconic windmill on Beacon Hill in Rottingdean and other village properties, and run the Grange Museum and Gallery with permanent and changing exhibitions and cultural events. We are digitising our archive of photographs and documents from Rottingdean's past and are setting out a heritage trail. | 
+<strong>THE CATHEDRAL OF ST JOHN THE BAPTIST TRUST</strong> [Charity number: [1152820](https://findthatcharity.uk/orgid/GB-CHC-1152820)]<br>The aims of the charity are to provide for the preservation and development of the building known as the Cathedral of St John The Baptist, Norwich, to promote the community use of the premises for education to provide a meeting place and to maintain the fabric of the building. | £625,512
+<strong>The Royal Highland Fusiliers Trust</strong> [Charity number: [SC045834](https://findthatcharity.uk/orgid/GB-SC-SC045834)]<br>(i) the prevention or relief of poverty  (ii) the advancement of the arts, heritage, culture or science  (iii) the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage  (iv) the advancement of education | £115,718

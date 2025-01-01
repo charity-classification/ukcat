@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-44,850 charities have been tagged with this tag.
-This represents 22.14% of all charities.
+44,902 charities have been tagged with this tag.
+This represents 22.16% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,854 | 16.00%
-£10k - £100k | 16,492 | 23.97%
-£100k - £250k | 7,346 | 34.88%
-£250k - £500k | 2,899 | 28.66%
-£500k - £1m | 1,438 | 22.71%
-£1m - £10m | 1,373 | 15.97%
-Over £10m | 308 | 14.79%
-Total | 41,710 | 21.83%
+Under £10k | 11,799 | 15.99%
+£10k - £100k | 16,500 | 23.96%
+£100k - £250k | 7,383 | 34.95%
+£250k - £500k | 2,913 | 28.61%
+£500k - £1m | 1,446 | 22.68%
+£1m - £10m | 1,393 | 16.09%
+Over £10m | 306 | 14.56%
+Total | 41,740 | 21.84%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 36,856 | 21.59%
-oscr | 5,973 | 24.15%
-ccni | 2,021 | 28.09%
-Total | 44,850 | 22.14%
+ccew | 36,909 | 21.62%
+oscr | 5,972 | 24.20%
+ccni | 2,021 | 28.07%
+Total | 44,902 | 22.16%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE LOWY-DENES CHARITABLE FOUNDATION</strong> [Charity number: [1078746](https://findthatcharity.uk/orgid/GB-CHC-1078746)]<br>The advancement of education according to the tenets of the orthodos Jewish fathThe Alleviation of provertyThe relief and care of orphans, the elderly and infirmThe preservation and protection of mental and physical health | £96,123
-<strong>NOORANI EDUCATION CENTRE</strong> [Charity number: [1121772](https://findthatcharity.uk/orgid/GB-CHC-1121772)]<br>The Charity shall promote the teachings in accordance with its Objects and in particular:- To establish and promote multi-faith dialogue with other religious communities to develop     community cohesion within the relevant locality;- To assist the relevant community with local issues and youth education;- To ensure community harmony and to counteract all forms of extremism | £254,051
-<strong>HARPENDEN METHODIST CHURCH</strong> [Charity number: [1128950](https://findthatcharity.uk/orgid/GB-CHC-1128950)]<br>Provision of regular public acts of worship open to members, non-members of the church; provision of sacred space for prayer, contemplation; teaching Christianity through sermons, short courses, small groups; pastoral work including visiting the sick and bereaved; provision of youth club, women's meetings, etc. with Christian ethos; taking religious assemblies in schools, hosting school visits | £408,140
-<strong>RAINBOW NURSERY (LONG SUTTON)</strong> [Charity number: [1202415](https://findthatcharity.uk/orgid/GB-CHC-1202415)]<br>THE AIMS OF THE NURSERY ARE TO ENHANCE THE DEVELOPMENT AND EDUCATION OF CHILDREN PRIMARILY UNDER STATUTORY SCHOOL AGE BY ENCOURAGING PARENTS TO UNDERSTAND AND PROVIDE FOR THE NEEDS OF THEIR CHILDREN THROUGH COMMUNITY GROUPS AND BY:OFFERING APPROPRIATE PLAY, EDUCATION AND CARE FACILITIES, FAMILY LEARNING AND EXTENDED HOURS GROUPS, TOGETHER WITH THE RIGHT OF PARENTS TO TAKE RESPONSIBILITY FOR AND TO BECOME INVOLVED IN THE ACTIVITIES OF SUCH GROUPS, ENSURING THAT SUCH GROUPS OFFER OPPORTUNITIES FOR ALL CHILDREN WHATEVER THEIR RACE, CULTURE, RELIGION, MEANS OR ABILITY;ENCOURAGING THE STUDY OF THE NEEDS OF SUCH CHILDREN AND THEIR FAMILIES AND PROMOTING PUBLIC INTEREST IN AND RECOGNITION OF SUCH NEEDS IN THE LOCAL AREAS;INSTIGATING AND ADHERING TO THE STATUTORY FRAMEWORK FOR THE EARLY YEARS FOUNDATION STAGE. | 
-<strong>FLAXTON COMMUNITY HALL</strong> [Charity number: [1187370](https://findthatcharity.uk/orgid/GB-CHC-1187370)]<br>The provision & maintenance of a village hall for the use of the inhabitants of the Parish of Flaxton in North Yorkshire without distinction of political, religious or other opinions including use for meetings, lectures & classes, other forms of recreation & leisure-time occupation, with the object of improving the conditions of life for the inhabitants and promoting education for the inhabitants. | £105,934
-<strong>THE RIGHT TO LIFE CHARITABLE TRUST</strong> [Charity number: [1099319](https://findthatcharity.uk/orgid/GB-CHC-1099319)]<br>Education, information, support and research into pro life issues and the presentation of this to the public, schools and religious and secular organisations | £791,024
-<strong>Stornoway Free Church: Stornoway</strong> [Charity number: [SC011447](https://findthatcharity.uk/orgid/GB-SC-SC011447)]<br>The Congregation aims to maintain the public worship of God and to foster Christian fellowship. to evangelise the local area by proclaiming the gospel of Jesus Christ, to | £459,519
-<strong>RANDWICK CHURCH TRUST</strong> [Charity number: [1060647](https://findthatcharity.uk/orgid/GB-CHC-1060647)]<br>Help to fund church activities. | £43
-<strong>Lisnadill Full Gospel Church</strong> [Charity number: [NI100085](https://findthatcharity.uk/orgid/GB-NIC-100085)]<br>Besides preaching the gospel and the conduct of typical church services we run a successful charity shop in Armagh staffed entirely by volunteers. Proceeds apart from overhead costs go entirely to 3rd world projects. | £122,984
-<strong>EAST DRAYTON VILLAGE HALL</strong> [Charity number: [504706](https://findthatcharity.uk/orgid/GB-CHC-504706)]<br>Fundraising events for the local communityMeetings held by village residentsKeep Fit and dance clubsSocial events - for community and private hireParish Council meetingsParochial Church Coucil meetings | £1,532
+<strong>Kirkcowan Hall </strong> [Charity number: [SC047563](https://findthatcharity.uk/orgid/GB-SC-SC047563)]<br>To further or benefit the residents of Kirkcowan parish and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions by associating together the said residents and the local authorities, voluntary and other organisations in a common effort to provide facilities in the interests of social welfare for recreation and leisure time occupation with the objective of improving the conditions of life for the residents | £8,440
+<strong>BRIDGING SPIRITUAL CULTURES</strong> [Charity number: [1170420](https://findthatcharity.uk/orgid/GB-CHC-1170420)]<br>The promotion of religious harmony for the benefit of the public through educating the public about different religious beliefs, and their common ground as well as different spiritual expression and practices in order to promote good relations. The advancement of the faith of Islam through its spiritual doctrine of Sufism. Both to be achieved through seminars, conference and public events. | £710
+<strong>Hope Chapel</strong> [Charity number: [1134290](https://findthatcharity.uk/orgid/GB-CHC-1134290)]<br>Hope is a Christian Church with 4 dreams (be a church that kids love, be a place of Hope for the marginalised, be a place of 24/7 prayer and to be a benefit to the community). These dreams are facilitated through a Sunday morning service and Sunday evening gatherings, Mums and Toddlers groups, a youth group, hosting community events, prayer meetings and many other organic groups and activities. | £202,117
+<strong>MSGP TRUST</strong> [Charity number: [1198762](https://findthatcharity.uk/orgid/GB-CHC-1198762)]<br>Giving grants to organisations involved in Jewish religous education in the UK | £1,100
+<strong>AL-HIDAYAH FOUNDATION</strong> [Charity number: [1149150](https://findthatcharity.uk/orgid/GB-CHC-1149150)]<br>To impart religious education to children in the locality | £83,735
+<strong>CROWN OF GLORY MINISTRIES (UK)</strong> [Charity number: [1146426](https://findthatcharity.uk/orgid/GB-CHC-1146426)]<br>We are Christian based multinational church that teaches and practices the truth of the Gospel as obtaining in both the new and old testament. We engage in the fundamental teachings of equality of all races before God and the charge to extend love, forgiveness and selflessness in human living.We do this by fellowshiping, cultural and biblical celebrations of key festivals, training members. | £3,039
+<strong>NEIGHBOURHOOD ELDERS TEAM</strong> [Charity number: [1088836](https://findthatcharity.uk/orgid/GB-CHC-1088836)]<br>Relief of poverty, sickness and distress of elderly people and their carers in Garforth and thesurrounding area. These objects are achieved by the provision of a caring and befriending service, advice and guidance with the purpose of alleviating social exclusion and are carried out in such a way as to maintain its Christian ethos. | £307,912
+<strong>THE GARDEN MUSEUM</strong> [Charity number: [1088221](https://findthatcharity.uk/orgid/GB-CHC-1088221)]<br>(i) The advancement of education in all aspects of the study and teaching of gardening and its history(ii) The maintainance of the churchyard of St Mary at Lambeth as a garden/open space for the benefit of the general public(iii) The care of the church of St Mary at Lambeth;  and to finance its use for charitable purposes for the benefit of the general public | £2,871,926
+<strong>FRIENDS OF ST JAMES REDNAL</strong> [Charity number: [1183698](https://findthatcharity.uk/orgid/GB-CHC-1183698)]<br>We are a charity that raises money for St James Catholic School. The monies raised are used to support the children within the school | £5,377
+<strong>THE BUS STOP</strong> [Charity number: [1161945](https://findthatcharity.uk/orgid/GB-CHC-1161945)]<br>Visits churches and schools to provide a safe space working with children and young people | £7,778
