@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,293 charities have been tagged with this tag.
+1,291 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -21,13 +21,13 @@ The regular expression used to find charities in this tag is:
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 Under £10k | 477 | 0.65%
-£10k - £100k | 390 | 0.57%
-£100k - £250k | 156 | 0.74%
-£250k - £500k | 69 | 0.68%
-£500k - £1m | 40 | 0.63%
-£1m - £10m | 74 | 0.85%
-Over £10m | 41 | 1.95%
-Total | 1,247 | 0.65%
+£10k - £100k | 394 | 0.57%
+£100k - £250k | 152 | 0.72%
+£250k - £500k | 69 | 0.67%
+£500k - £1m | 42 | 0.65%
+£1m - £10m | 72 | 0.82%
+Over £10m | 42 | 1.97%
+Total | 1,248 | 0.65%
 
 
 ## Distribution by charity regulator
@@ -35,9 +35,9 @@ Total | 1,247 | 0.65%
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 ccew | 1,114 | 0.65%
-oscr | 132 | 0.53%
+oscr | 130 | 0.53%
 ccni | 47 | 0.65%
-Total | 1,293 | 0.64%
+Total | 1,291 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ALL SAINTS LEAMINGTON PRIORS</strong> [Charity number: [1132974](https://findthatcharity.uk/orgid/GB-CHC-1132974)]<br>THE PCC OF ALL SAINTS HAS THE RESPONSIBILITY FOR PROMOTING IN THE PARISH THE WHOLE MISSION OF THE CHURCH OF ENGLAND. IT ALSO HAS MAINTENANCE RESPONSIBILITIES FOR THE CHURCH BUILDING. IT PLAYS A FULL PART IN THE LIFE OF THE DEANERY AND THE DIOCESE, AND SUPPORTS ITS WORK THROUGH THE PARISH SHARE. THE DIOCESE SUPPORTS ALL SAINTS THROUGH THE PROVISION OF CLERGY AND THEIR HOUSING. | £162,465
-<strong>THE VICAR'S GENERAL FUND</strong> [Charity number: [273004](https://findthatcharity.uk/orgid/GB-CHC-273004)]<br>The VGF makes small grants to charities and organisations for the relief of poverty and for the furthering of Christianity. | £21,084
-<strong>HUGGLESCOTE MINER'S WELFARE RECREATION GROUND</strong> [Charity number: [521433](https://findthatcharity.uk/orgid/GB-CHC-521433)]<br>Recreation ground or playing field for the benefit of workers in or about coal mines and more particularly those resident in the beneficial area. | 
-<strong>PENSION TRUST FOR CHRISTIAN SCIENCE NURSES</strong> [Charity number: [209226](https://findthatcharity.uk/orgid/GB-CHC-209226)]<br>Financial support of Christian Science Nurses by benevolence. | £146,926
-<strong>THE BISHOP'S STORTFORD MORAL WELFARE FUND</strong> [Charity number: [238714](https://findthatcharity.uk/orgid/GB-CHC-238714)]<br>Grants to support social welfare in the Bishop's Stortford area based on recommendations by local clergy. | £2,390
-<strong>CEFN FFOREST MINERS' WELFARE HALL</strong> [Charity number: [1191718](https://findthatcharity.uk/orgid/GB-CHC-1191718)]<br>Working to raise funds with the aim to establish or secure the establishment of a community centre and to maintain or manage or cooperate with any statutory authority in the maintenance and management of such a centre for activities promoted by the charity in furtherance of the above objects. | £19,225
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF POPLAR (ALL SAINTS AND ST NICHOLAS)</strong> [Charity number: [1134962](https://findthatcharity.uk/orgid/GB-CHC-1134962)]<br>The PCC of All Saints & St. Nicholas has the responsibility of co-operating & planning with the Team Rector, Team Vicar & clergy in promoting our pastoral, evangelistic, educational, social & ecumenical mission in the whole Parish.The charitable objectives of the Parish of Poplar are to serve the spiritual, pastoral & social needs of those who live in the Parish or who worship in our Churches. | £183,742
-<strong>DUCKMANTON MINERS WELFARE CENTRE</strong> [Charity number: [520479](https://findthatcharity.uk/orgid/GB-CHC-520479)]<br>We provide facilities for members of the Centre to participate in the purchase of alcohol and the various recreational pursuits available in the Centre. We also have a large screen television for enhanced viewing by the members. | £15,231
-<strong>SUFFOLK CLERGY CHARITY</strong> [Charity number: [1002233](https://findthatcharity.uk/orgid/GB-CHC-1002233)]<br>Religious | £38,843
-<strong>RUMBLES CATERING PROJECT LIMITED</strong> [Charity number: [1098404](https://findthatcharity.uk/orgid/GB-CHC-1098404)]<br>Training adults with learning disabilities in a realistic working environment to gain qualifications in catering. The Charity runs a country park caf+® at Vicar Water in Clipstone, that offer the trainees the opportunity to practice their skills and raise funds for the charity. | £116,636
+<strong>FOUNDATION FOR RURAL EDUCATION EMPOWERMENT AND DEVELOPMENT</strong> [Charity number: [1116024](https://findthatcharity.uk/orgid/GB-CHC-1116024)]<br>To promote human development through training and education by enhancing individual's personal growth and creative skills and other such charitable purposes that the Trustees shall from time to time determine.To raise funds for training of nurses and other health workers; for the building and equipping of buildings to be used for the purpose of caring for the sick and training opportunities. | £100
+<strong>ORCHID CANCER APPEAL</strong> [Charity number: [1080540](https://findthatcharity.uk/orgid/GB-CHC-1080540)]<br>Every year over 58,000 men will be diagnosed with prostate, testicular or penile cancer in the UK. Orchid Cancer Appeal supports anyone affected by or interested in male specific cancers through a range of support services led by Male Cancer Information Nurse Specialists, awareness campaigns such as the Orchid Male Cancer Awareness Week, education and training programmes and world class research. | £730,024
+<strong>Gartmore House</strong> [Charity number: [SC029484](https://findthatcharity.uk/orgid/GB-SC-SC029484)]<br>The Objects of the Company is to (a) advance education (b) the relief of those in need in Scotland by:- (a) organising and running activities from Gartmore House. (b) operating, running and developing Gartmore House Conference Centre as a quality conference and retreat facility. (c) organising, facilitating and presenting educational courses. (d) providing homes and sheltered housing for the over-50's, physically and mentally impaired and for those who are unable to find a place, temporarily or permanently, in the social order. and by creating conditions calculated to affect favourably their physical, moral and mental welfare and, as far as possible, by enabling them to take their place as responsible citizens of the community. (e) managing, controlling, administering and governing the communities and residential centres and other premises of the Company in every respect as seem fit and by appointing administrators, care assistants, nurses, physicians and others for giving care and attention, treatment, instruction, training, rehabilitation and special needs care or services. and (f) receiving as residents of the communities and residential centres and other premises, such persons as the Company may consider proper, and that on such conditions, including payment of fees for or towards their care, maintenance, training and treatment and for such periods all as the Company may fix. and by removing any such persons from said communities and other premises at the discretion of the Company without case assigned. | £518,639
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST OSWALD, CROXLEY GREEN</strong> [Charity number: [1182850](https://findthatcharity.uk/orgid/GB-CHC-1182850)]<br>SUPPORT TO THE PARISH CLERGY IN PROVIDING CHRISTIAN RELIGIOUS SERVICES WITHIN THE ANGLICAN CHURCH OPEN TO THE WHOLE COMMUNITY, PASTORAL VISITING AND EDUCATIONAL OUTREACH WORK WITHIN ST OSWALD'S PARISH. USE FOR OTHER PARISH FUNDS TO RELIEVE POVERTY AND NEED WITHIN AND OUTSIDE THE PARISH. DONATIONS TO OTHER CHARITIES AND USE OF CHURCH HALL AS A MEETING VENUE | £126,776
+<strong>VICAR AND CHURCHWARDENS OF BERRIEW CHARITY</strong> [Charity number: [525723](https://findthatcharity.uk/orgid/GB-CHC-525723)]<br>Religious education in Berriew | £10,389
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST BENEDICTS, CAMBRIDGE</strong> [Charity number: [1139506](https://findthatcharity.uk/orgid/GB-CHC-1139506)]<br>Maintains: Christian worship according to the Church of England; quiet space for public personal prayer/contemplation; an ancient building of great historic interestSupports:links with community in the parish; clergy/lay people in visiting the sick/elderly/bereaved; pastoral /spiritual direction/Sacrament of ReconciliationTeach the faith to young people & creche for infants in Sunday worship | £164,019
+<strong>CARE OF POLICE SURVIVORS</strong> [Charity number: [1170760](https://findthatcharity.uk/orgid/GB-CHC-1170760)]<br>Provides peer support to the families of police officers and police staff who have lost their lives while on duty.  This support can be of a one to one nature or group activities such as parents weekends, spouses weekends and children's activities. | £734,294
+<strong>GLOUCESTERSHIRE COMMUNITY NURSES FOUNDATION CIO</strong> [Charity number: [1209065](https://findthatcharity.uk/orgid/GB-CHC-1209065)]<br>We award grants to relieve the needs of residents in Gloucestershire who are sick, convalescent, mentally or physically disabled or infirm.  The grants cover the costs of items, services etc. which alleviate their suffering or assist their recovery.   We also make training grants to health care professionals engaged in community healthcare in Gloucestershire. | 
+<strong>THE GENERAL NURSING COUNCIL FOR ENGLAND AND WALES TRUST</strong> [Charity number: [288068](https://findthatcharity.uk/orgid/GB-CHC-288068)]<br>The Charity's main activities include the following:1. Advancing the science and art of nursing;2. Advancing the better education and training of student nurses training for a statutory nursing qualification and the further education and training of Registered Nurses;and3. Promoting research and investigation into matters relating to nursing. | £97,572
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST STEPHEN ON THE CLIFFS, BLACKPOOL</strong> [Charity number: [1131959](https://findthatcharity.uk/orgid/GB-CHC-1131959)]<br>The main purpose of the PCC as defined by the Parochial Church Council (Powers) Measure 1956, is to co-operate with the Vicar in promoting in the Parish the whole mission of the Church,pastoral,evangelical,social and ecumenical. There have been no material changes in these policies during the year.The PCC has been satisfied during the year to maintain its position. | £228,681

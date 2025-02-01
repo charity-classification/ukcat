@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-44,902 charities have been tagged with this tag.
-This represents 22.16% of all charities.
+44,917 charities have been tagged with this tag.
+This represents 22.18% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,799 | 15.99%
-£10k - £100k | 16,500 | 23.96%
-£100k - £250k | 7,383 | 34.95%
-£250k - £500k | 2,913 | 28.61%
-£500k - £1m | 1,446 | 22.68%
-£1m - £10m | 1,393 | 16.09%
-Over £10m | 306 | 14.56%
-Total | 41,740 | 21.84%
+Under £10k | 11,738 | 15.98%
+£10k - £100k | 16,529 | 23.90%
+£100k - £250k | 7,414 | 34.97%
+£250k - £500k | 2,963 | 28.67%
+£500k - £1m | 1,470 | 22.92%
+£1m - £10m | 1,398 | 15.94%
+Over £10m | 308 | 14.42%
+Total | 41,820 | 21.84%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 36,909 | 21.62%
-oscr | 5,972 | 24.20%
-ccni | 2,021 | 28.07%
-Total | 44,902 | 22.16%
+ccew | 36,974 | 21.66%
+oscr | 5,920 | 24.07%
+ccni | 2,023 | 28.08%
+Total | 44,917 | 22.18%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Kirkcowan Hall </strong> [Charity number: [SC047563](https://findthatcharity.uk/orgid/GB-SC-SC047563)]<br>To further or benefit the residents of Kirkcowan parish and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions by associating together the said residents and the local authorities, voluntary and other organisations in a common effort to provide facilities in the interests of social welfare for recreation and leisure time occupation with the objective of improving the conditions of life for the residents | £8,440
-<strong>BRIDGING SPIRITUAL CULTURES</strong> [Charity number: [1170420](https://findthatcharity.uk/orgid/GB-CHC-1170420)]<br>The promotion of religious harmony for the benefit of the public through educating the public about different religious beliefs, and their common ground as well as different spiritual expression and practices in order to promote good relations. The advancement of the faith of Islam through its spiritual doctrine of Sufism. Both to be achieved through seminars, conference and public events. | £710
-<strong>Hope Chapel</strong> [Charity number: [1134290](https://findthatcharity.uk/orgid/GB-CHC-1134290)]<br>Hope is a Christian Church with 4 dreams (be a church that kids love, be a place of Hope for the marginalised, be a place of 24/7 prayer and to be a benefit to the community). These dreams are facilitated through a Sunday morning service and Sunday evening gatherings, Mums and Toddlers groups, a youth group, hosting community events, prayer meetings and many other organic groups and activities. | £202,117
-<strong>MSGP TRUST</strong> [Charity number: [1198762](https://findthatcharity.uk/orgid/GB-CHC-1198762)]<br>Giving grants to organisations involved in Jewish religous education in the UK | £1,100
-<strong>AL-HIDAYAH FOUNDATION</strong> [Charity number: [1149150](https://findthatcharity.uk/orgid/GB-CHC-1149150)]<br>To impart religious education to children in the locality | £83,735
-<strong>CROWN OF GLORY MINISTRIES (UK)</strong> [Charity number: [1146426](https://findthatcharity.uk/orgid/GB-CHC-1146426)]<br>We are Christian based multinational church that teaches and practices the truth of the Gospel as obtaining in both the new and old testament. We engage in the fundamental teachings of equality of all races before God and the charge to extend love, forgiveness and selflessness in human living.We do this by fellowshiping, cultural and biblical celebrations of key festivals, training members. | £3,039
-<strong>NEIGHBOURHOOD ELDERS TEAM</strong> [Charity number: [1088836](https://findthatcharity.uk/orgid/GB-CHC-1088836)]<br>Relief of poverty, sickness and distress of elderly people and their carers in Garforth and thesurrounding area. These objects are achieved by the provision of a caring and befriending service, advice and guidance with the purpose of alleviating social exclusion and are carried out in such a way as to maintain its Christian ethos. | £307,912
-<strong>THE GARDEN MUSEUM</strong> [Charity number: [1088221](https://findthatcharity.uk/orgid/GB-CHC-1088221)]<br>(i) The advancement of education in all aspects of the study and teaching of gardening and its history(ii) The maintainance of the churchyard of St Mary at Lambeth as a garden/open space for the benefit of the general public(iii) The care of the church of St Mary at Lambeth;  and to finance its use for charitable purposes for the benefit of the general public | £2,871,926
-<strong>FRIENDS OF ST JAMES REDNAL</strong> [Charity number: [1183698](https://findthatcharity.uk/orgid/GB-CHC-1183698)]<br>We are a charity that raises money for St James Catholic School. The monies raised are used to support the children within the school | £5,377
-<strong>THE BUS STOP</strong> [Charity number: [1161945](https://findthatcharity.uk/orgid/GB-CHC-1161945)]<br>Visits churches and schools to provide a safe space working with children and young people | £7,778
+<strong>LONDON STREET (BASINGSTOKE) UNITED REFORMED CHURCH CHARITY</strong> [Charity number: [1130801](https://findthatcharity.uk/orgid/GB-CHC-1130801)]<br>As a local congregation of the United Reformed Church, London Street United Reformed Church seeks to advance the Christian religion through its activities and the facilities offered to the community by its building. | £465,851
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESTIASTICAL PARISH OF ST MARY, ARNOLD</strong> [Charity number: [1134021](https://findthatcharity.uk/orgid/GB-CHC-1134021)]<br>Provides religious activities, premises, charitable support, based in the Ecclestiastical Parish of St Mary Arnold, Nottinghamshire | £107,100
+<strong>L D NICHOLSON TRUST</strong> [Charity number: [1176174](https://findthatcharity.uk/orgid/GB-CHC-1176174)]<br>to hold manage and apply assets for the benefit of members of the Church of England as by law established in the Parishes of Mayfield and Hadlow Down in East Sussex | £17,639
+<strong>Krushna Krupa Trust</strong> [Charity number: [1116985](https://findthatcharity.uk/orgid/GB-CHC-1116985)]<br>To further the education and training of children, assist in relief of poverty, provide overseas aid relief and assist in promoting the hindu religion. | £29,454
+<strong>African and Caribbean Christian Fellowship, Aberdeen</strong> [Charity number: [SC039662](https://findthatcharity.uk/orgid/GB-SC-SC039662)]<br>2. The association's objects are: The advancement of the Christian religion, advancement of education and the relief of poverty and distress in the city of Aberdeen and the north-east of Scotland, the rest of the United Kingdom and overseas. and in furtherance of this by. a) Bringing Christians of all denominations together in fellowship to praise and worship God. b) Promoting opportunities for the study of the word of God and of other educational opportunities. c) Giving witness to the Lord by the giving of alms to the poor and needy. | £6,736
+<strong>THE FRIENDS OF ST PETER'S PORTESHAM</strong> [Charity number: [1108114](https://findthatcharity.uk/orgid/GB-CHC-1108114)]<br>The charity makes grants for the care, maintenance and preservation of the fabric of St Peters Church Portesham. It raises funds in various ways to enable it to make such grants. | £7,790
+<strong>Outreach Community Church SCIO</strong> [Charity number: [SC053319](https://findthatcharity.uk/orgid/GB-SC-SC053319)]<br>The organisation’s purposes are: 4.1 To advance the Christian faith in accordance with the Statement of Faith in such ways and in such parts of the United Kingdom or the world as the Board from time to time may think fit. 4.2 To relieve sickness and financial hardship and to promote and preserve good health by the provision of funds, goods or services of any kind including through the provision of counselling and support in such parts of the United Kingdom or the world as the Board from time to time think fit. 4.3 The advancement of citizenship or community development. This will be achieved through the promotion of volunteering, working closely with local and national third sector organisations, promoting partnership working for the benefit of the community at large. | 
+<strong>BEDFORD CHRISTIAN CENTRE</strong> [Charity number: [1120030](https://findthatcharity.uk/orgid/GB-CHC-1120030)]<br>General Charitable Purposes, Relief of Poverty, Overseas aid/Famine relief. Religious activities. Children/Young people, Elderly/Old People, People with disabilities. People of a particular ethnic or racial origin, General public/Mankind, Provides other finance.Provides human resources, Provides buildings/facilities/open space, Provides servicesThroughout England & India | £40,370
+<strong>UNITED SYNAGOGUE</strong> [Charity number: [242552](https://findthatcharity.uk/orgid/GB-CHC-242552)]<br>There are five primary objects of the charity.1  To create and maintain synagogues conforming to the orthodox form of Jewish worship.2  To advance education in Jewish religion.3  To provide burial for same4  Relief of the poor 5  To advance charitable purposes of other Jewish bodies and in general any other charitable purpose in connection with the above. | £49,571,000
+<strong>TABERNACLE MORRISTON COMMUNITY HERITAGE TRUST</strong> [Charity number: [1197032](https://findthatcharity.uk/orgid/GB-CHC-1197032)]<br>Tabernacle Morriston is an independent non-conformist Chapel built in 1872 and it is a grade one listed building. The chapel has undergone a reconfiguration of the ground floor to provide high quality, accessible and flexible facilities for the community to use. This will provide a source of income generation to help maintain the building and keep it as a centre for the community. | 

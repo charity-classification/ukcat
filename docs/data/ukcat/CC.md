@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,295 charities have been tagged with this tag.
-This represents 4.59% of all charities.
+9,270 charities have been tagged with this tag.
+This represents 4.58% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,804 | 2.44%
-£10k - £100k | 3,695 | 5.37%
-£100k - £250k | 2,289 | 10.84%
-£250k - £500k | 606 | 5.95%
-£500k - £1m | 277 | 4.34%
-£1m - £10m | 203 | 2.34%
-Over £10m | 21 | 1.00%
-Total | 8,895 | 4.65%
+Under £10k | 1,795 | 2.44%
+£10k - £100k | 3,672 | 5.31%
+£100k - £250k | 2,289 | 10.80%
+£250k - £500k | 614 | 5.94%
+£500k - £1m | 286 | 4.46%
+£1m - £10m | 209 | 2.38%
+Over £10m | 22 | 1.03%
+Total | 8,887 | 4.64%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,954 | 4.66%
-oscr | 716 | 2.90%
-ccni | 625 | 8.68%
-Total | 9,295 | 4.59%
+ccew | 7,929 | 4.64%
+oscr | 716 | 2.91%
+ccni | 625 | 8.67%
+Total | 9,270 | 4.58%
 
 
 ## Ten largest charities (by income)
@@ -47,8 +47,8 @@ Name | Latest income
 <strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £280,413,000
 <strong>BERKHAMSTED SCHOOLS GROUP</strong> [Charity number: [310630](https://findthatcharity.uk/orgid/GB-CHC-310630)]<br>The education (including social and physical training) of boys and girls aged 3 -18, with a subsidiary nursery school for children from 5 months old. | £41,786,000
 <strong>Aberlour Child Care Trust</strong> [Charity number: [SC007991](https://findthatcharity.uk/orgid/GB-SC-SC007991)]<br>3.1. The charitable purposes of the Trust are: 3.1.1 to provide, maintain and promote care, accommodation, support, training and/or services: 3.1.1.1 primarily for children and young persons who are in need of care, protection, assistance and/or training. 3.1.1.2 for vulnerable and/or disadvantaged adults whose assistance by the Trust will provide care, protection and/or assistance to children and young persons. and 3.1.1.3 for adults who are vulnerable and/ or disadvantaged and therefore remain in need of care, protection, assistance and/or training. 3.1.2 to provide, maintain and promote education, training, consultancy, research and information for: 3.1.2.1 the beneficiaries listed in 3.1.1, as may be required to meet their specific educational and physical needs. 3.1.2.2 current and prospective individuals and agencies involved whether through the Trust or otherwise, with issues relating principally to the beneficiaries listed in 3.1.1. and 3.1.2.3 members of the public generally and decision makers about the activities of the Trust and issues arising therefrom. | £29,128,000
+<strong>ONE YMCA</strong> [Charity number: [1102301](https://findthatcharity.uk/orgid/GB-CHC-1102301)]<br>THE PROVISION OF SOCIAL HOUSING FOR SINGLE PEOPLE, THE TRAINING AND DEVELOPMENT OF YOUNG PEOPLE AND RESIDENTS.IN ADDITION WE OPERATE A WIDE RANGE OF CHILDRENS' CENTRES AND A FULL DAY NURSERY.OTHER SERVICES PROVIDED FOR THE COMMUNITY INCLUDE HEALTH, SPORTS AND RECREATION PROGRAMMES AND FACILITIES AND MEETING SPACES FOR COMMUNITY GROUPS. | £26,468,821
 <strong>PRE-SCHOOL LEARNING ALLIANCE</strong> [Charity number: [1096526](https://findthatcharity.uk/orgid/GB-CHC-1096526)]<br>A membership organisation for early years providers, our charitable purpose is to give children the best start in life by providing services that promote child development and support families especially those in deprived areas. This is achieved through early intervention and family services programmes, advising and representing our members and developing our own settings in deprived communities. | £25,726,000
-<strong>ONE YMCA</strong> [Charity number: [1102301](https://findthatcharity.uk/orgid/GB-CHC-1102301)]<br>THE PROVISION OF SOCIAL HOUSING FOR SINGLE PEOPLE, THE TRAINING AND DEVELOPMENT OF YOUNG PEOPLE AND RESIDENTS.IN ADDITION WE OPERATE A WIDE RANGE OF CHILDRENS' CENTRES AND A FULL DAY NURSERY.OTHER SERVICES PROVIDED FOR THE COMMUNITY INCLUDE HEALTH, SPORTS AND RECREATION PROGRAMMES AND FACILITIES AND MEETING SPACES FOR COMMUNITY GROUPS. | £23,225,398
 <strong>THE ALDENHAM FOUNDATION</strong> [Charity number: [298140](https://findthatcharity.uk/orgid/GB-CHC-298140)]<br>Trustee of the Aldenham School Charity and St Hilda's Educatioal Trust Ltd, charities engaged in secondary, primary and nursery education. | £22,408,996
 <strong>Learning Disability Network London Limited</strong> [Charity number: [801081](https://findthatcharity.uk/orgid/GB-CHC-801081)]<br>Providing quality services and creating new opportunities for people with learning disabilities and their families.  Our services include registered care, supported housing, community support, leisure activities, short breaks, a drop in, playschemes, a children and family centre, a pre-school nursery, play and youth services and a family support service. | £20,961,925
 <strong>The Edinburgh Academy</strong> [Charity number: [SC016999](https://findthatcharity.uk/orgid/GB-SC-SC016999)]<br>The objects of The Edinburgh Academy, in substitution for those set out in the Original Charter, shall be (1) the provision of education in Scotland and in particular at The Edinburgh Academy including all aspects of nursery, primary and secondary education and the provision of all facilities to achieve that. and (2) the furtherance of that and the following objects a contribution to the educational life of Scotland in its widest sense and the provision of benefits related to the purposes of The Edinburgh Academy for those who may not be enrolled pupils at the Edinburgh Academy | £18,825,945
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>STAUNTON ON WYE PLAYGROUP</strong> [Charity number: [1044996](https://findthatcharity.uk/orgid/GB-CHC-1044996)]<br>The provision of a pre-school for children aged 6 months  to 5 years, open from 8-5.30 five days a week in term time;  the provision of a toddler group for children aged 0 upwards and their parents and carers;  the provision of after-school care for children of primary school age; | £159,872
-<strong>BINFIELD PRE-SCHOOL</strong> [Charity number: [1020270](https://findthatcharity.uk/orgid/GB-CHC-1020270)]<br>Binfield Pre School provides educational services for 2-5 year olds within the local community. | £65,672
-<strong>Naiscoil na SpeirÝnÝ</strong> [Charity number: [NI103075](https://findthatcharity.uk/orgid/GB-NIC-103075)]<br>our organisation provides playgroup education to pre-school children (aged 3-4 years) via the communication medium of the Irish language. The children come to our premise from 9.00 - 11.45am every week day morning. We apply the curriculum as set out by the Department of Education. We engage the children in solo and group play, and also activities which are either structured or more 'free time' focused. Our premises has indoor and outdoor play facilities. On occassion we'll take the children out on field trips to other playgroups, theatre shows etc. | £64,312
-<strong>NEWPORT BAPTIST CHURCH SHROPSHIRE</strong> [Charity number: [1176587](https://findthatcharity.uk/orgid/GB-CHC-1176587)]<br>Christian worship services, Sunday School, Pastoral Care, Community Support e.g. Parent/Carer Toddler Group | £25,300
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF HILLSIDE</strong> [Charity number: [1153663](https://findthatcharity.uk/orgid/GB-CHC-1153663)]<br>We are an Anglican Church in the North East of England. Baptisms, Weddings, Funerals,  All Saints Preschool, Messy Church, Cafe Church, Sunday school and a Youth groupwho meet during the week. We support Traidcraft and Gateshead Foodbank. Each year we give a % of our income to Charities. There a number of community groups which take place within our buildings. | £123,574
-<strong>The L20 Hub</strong> [Charity number: [1147852](https://findthatcharity.uk/orgid/GB-CHC-1147852)]<br>Youth & community focussed services, projects & events in & around the Bootle area. Targeting children, young people, older people & the wider community; who are affected by social, educational, economic & health inequality via:Youth Services,After School Clubs,Reactive community projects, Health HubsFitness classesCoffee morningsTripsLeisure CoursesEventsLocal partership work | £111,404
-<strong>Jedburgh Out Of School Club</strong> [Charity number: [SC032893](https://findthatcharity.uk/orgid/GB-SC-SC032893)]<br>4.1 To promote the care and education of children in need of care during out of school hours and school holidays and to promote the provision of facilities for the recreation and other leisure time occupation of such children in the interests of social welfare with the object of improving their conditions of life and 4.2 To advance the education and training of persons providing such care and education recreational activities.. | £47,302
-<strong>ASHBROOK INFANT PTA</strong> [Charity number: [1101460](https://findthatcharity.uk/orgid/GB-CHC-1101460)]<br>Providing additional facilities for Ashbrook Infant & Nursery School over and above that possible within the school budget. These facilities are of benefit to all the children at the school. | 
-<strong>EIGHTON BANKS VILLAGE HALL TRUST</strong> [Charity number: [1152464](https://findthatcharity.uk/orgid/GB-CHC-1152464)]<br>groups using the Hall facilities consist of;Pre school toddlers, youths age 6-16Mentally or physically challenged individualsHealth & education of womenCreative Arts Promotion of activities for the elderlyMartial artsDance GroupsDog obedience classesSocial and fundraising events for all.Councillors surgery | £13,756
-<strong>QUEENHILL ROAD PLAYGROUND</strong> [Charity number: [200242](https://findthatcharity.uk/orgid/GB-CHC-200242)]<br>PUBLIC OPEN SPACE | 
+<strong>MARION ELIZABETH KENNEDY FOR AN OPEN SPACE AND CHILDREN'S PLAYGROUND</strong> [Charity number: [301777](https://findthatcharity.uk/orgid/GB-CHC-301777)]<br>PUBLIC OPEN SPACES FOR INFORMAL RECREATION | 
+<strong>THE PETE ATKINS YOUTH HOCKEY FOUNDATION</strong> [Charity number: [1181103](https://findthatcharity.uk/orgid/GB-CHC-1181103)]<br>Enabling Schools to provide Hockey coaching as part of the curriculum and/or as an after School Activity.  Also encourage participation in organised competitions with other schools.Provide small grants or equipment to help young players enter the world of Hockey or to achieve there ambitions to be the best they can be at the sport. | £244
+<strong>WEST HENDON OPPORTUNITY PRE-SCHOOL</strong> [Charity number: [1030746](https://findthatcharity.uk/orgid/GB-CHC-1030746)]<br>PROVIDE EDUCATION TO YOUNG CHILDREN AGED TWO TO FIVE YEARS. | £115,961
+<strong>RAINBOW PRESCHOOL</strong> [Charity number: [1035573](https://findthatcharity.uk/orgid/GB-CHC-1035573)]<br>Rainbow Pre school aims to give every child the very best opportunity to develop to their full potential in a fun, friendly and fascinating environment. Rainbow Pre school does this by providing care & education for children from the age of 2 1/2 to statutory school age, with close regards to the early years foundation stage standards and guidance. Rainbow Pre school aims to offer quality of oppor | £30,060
+<strong>CYLCH MEITHRIN SGETI</strong> [Charity number: [1057296](https://findthatcharity.uk/orgid/GB-CHC-1057296)]<br>Cylch Meithrin Sgeti provides a playgroup and a toddler group which offers a variety of play opportunities in a friendly Welsh-language environment. | £8,662
+<strong>BOLLINBROOK PRE-SCHOOL</strong> [Charity number: [1023849](https://findthatcharity.uk/orgid/GB-CHC-1023849)]<br>Bollinbrook Pre-school is a fully inclusive setting which provides care and education for pre-school aged children. It opened in 1989 in the Bollinbrook area of Macclesfield and serves up to fifty four families from the community. | £114,656
+<strong>THE ACRES SEND</strong> [Charity number: [1207490](https://findthatcharity.uk/orgid/GB-CHC-1207490)]<br>To advance the education of children with special educational needs and to provide information, advice and guidance for their families and carers, in particular by means of education, conductive education, rehabilitation, childcare and the provision of facilities in Burnley, Lancashire. | 
+<strong>THE FRIENDS OF SAINT ANNES INFANT SCHOOL</strong> [Charity number: [1053907](https://findthatcharity.uk/orgid/GB-CHC-1053907)]<br>We do a variety of fund raising events to enable us to purchase items for the children which school funds would not be able  to meet. We also hold fun events for the children such as christmas parties and video nights. | £3,772
+<strong>TOWER PLAYGROUP</strong> [Charity number: [1035280](https://findthatcharity.uk/orgid/GB-CHC-1035280)]<br>To provide a safe and caring environment for young children to play and learn together | £40,296
+<strong>TRELOWAN PRE SCHOOL PLAYGROUP</strong> [Charity number: [1031344](https://findthatcharity.uk/orgid/GB-CHC-1031344)]<br>Trelowan Preschool provides early years care and education for children aged two to five years old. | £94,999
