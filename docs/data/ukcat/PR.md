@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,291 charities have been tagged with this tag.
+1,292 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 477 | 0.65%
-£10k - £100k | 394 | 0.57%
-£100k - £250k | 152 | 0.72%
-£250k - £500k | 69 | 0.67%
+Under £10k | 482 | 0.66%
+£10k - £100k | 390 | 0.56%
+£100k - £250k | 152 | 0.71%
+£250k - £500k | 70 | 0.68%
 £500k - £1m | 42 | 0.65%
 £1m - £10m | 72 | 0.82%
 Over £10m | 42 | 1.97%
-Total | 1,248 | 0.65%
+Total | 1,250 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,114 | 0.65%
+ccew | 1,115 | 0.65%
 oscr | 130 | 0.53%
 ccni | 47 | 0.65%
-Total | 1,291 | 0.64%
+Total | 1,292 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FOUNDATION FOR RURAL EDUCATION EMPOWERMENT AND DEVELOPMENT</strong> [Charity number: [1116024](https://findthatcharity.uk/orgid/GB-CHC-1116024)]<br>To promote human development through training and education by enhancing individual's personal growth and creative skills and other such charitable purposes that the Trustees shall from time to time determine.To raise funds for training of nurses and other health workers; for the building and equipping of buildings to be used for the purpose of caring for the sick and training opportunities. | £100
-<strong>ORCHID CANCER APPEAL</strong> [Charity number: [1080540](https://findthatcharity.uk/orgid/GB-CHC-1080540)]<br>Every year over 58,000 men will be diagnosed with prostate, testicular or penile cancer in the UK. Orchid Cancer Appeal supports anyone affected by or interested in male specific cancers through a range of support services led by Male Cancer Information Nurse Specialists, awareness campaigns such as the Orchid Male Cancer Awareness Week, education and training programmes and world class research. | £730,024
-<strong>Gartmore House</strong> [Charity number: [SC029484](https://findthatcharity.uk/orgid/GB-SC-SC029484)]<br>The Objects of the Company is to (a) advance education (b) the relief of those in need in Scotland by:- (a) organising and running activities from Gartmore House. (b) operating, running and developing Gartmore House Conference Centre as a quality conference and retreat facility. (c) organising, facilitating and presenting educational courses. (d) providing homes and sheltered housing for the over-50's, physically and mentally impaired and for those who are unable to find a place, temporarily or permanently, in the social order. and by creating conditions calculated to affect favourably their physical, moral and mental welfare and, as far as possible, by enabling them to take their place as responsible citizens of the community. (e) managing, controlling, administering and governing the communities and residential centres and other premises of the Company in every respect as seem fit and by appointing administrators, care assistants, nurses, physicians and others for giving care and attention, treatment, instruction, training, rehabilitation and special needs care or services. and (f) receiving as residents of the communities and residential centres and other premises, such persons as the Company may consider proper, and that on such conditions, including payment of fees for or towards their care, maintenance, training and treatment and for such periods all as the Company may fix. and by removing any such persons from said communities and other premises at the discretion of the Company without case assigned. | £518,639
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST OSWALD, CROXLEY GREEN</strong> [Charity number: [1182850](https://findthatcharity.uk/orgid/GB-CHC-1182850)]<br>SUPPORT TO THE PARISH CLERGY IN PROVIDING CHRISTIAN RELIGIOUS SERVICES WITHIN THE ANGLICAN CHURCH OPEN TO THE WHOLE COMMUNITY, PASTORAL VISITING AND EDUCATIONAL OUTREACH WORK WITHIN ST OSWALD'S PARISH. USE FOR OTHER PARISH FUNDS TO RELIEVE POVERTY AND NEED WITHIN AND OUTSIDE THE PARISH. DONATIONS TO OTHER CHARITIES AND USE OF CHURCH HALL AS A MEETING VENUE | £126,776
-<strong>VICAR AND CHURCHWARDENS OF BERRIEW CHARITY</strong> [Charity number: [525723](https://findthatcharity.uk/orgid/GB-CHC-525723)]<br>Religious education in Berriew | £10,389
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST BENEDICTS, CAMBRIDGE</strong> [Charity number: [1139506](https://findthatcharity.uk/orgid/GB-CHC-1139506)]<br>Maintains: Christian worship according to the Church of England; quiet space for public personal prayer/contemplation; an ancient building of great historic interestSupports:links with community in the parish; clergy/lay people in visiting the sick/elderly/bereaved; pastoral /spiritual direction/Sacrament of ReconciliationTeach the faith to young people & creche for infants in Sunday worship | £164,019
-<strong>CARE OF POLICE SURVIVORS</strong> [Charity number: [1170760](https://findthatcharity.uk/orgid/GB-CHC-1170760)]<br>Provides peer support to the families of police officers and police staff who have lost their lives while on duty.  This support can be of a one to one nature or group activities such as parents weekends, spouses weekends and children's activities. | £734,294
-<strong>GLOUCESTERSHIRE COMMUNITY NURSES FOUNDATION CIO</strong> [Charity number: [1209065](https://findthatcharity.uk/orgid/GB-CHC-1209065)]<br>We award grants to relieve the needs of residents in Gloucestershire who are sick, convalescent, mentally or physically disabled or infirm.  The grants cover the costs of items, services etc. which alleviate their suffering or assist their recovery.   We also make training grants to health care professionals engaged in community healthcare in Gloucestershire. | 
-<strong>THE GENERAL NURSING COUNCIL FOR ENGLAND AND WALES TRUST</strong> [Charity number: [288068](https://findthatcharity.uk/orgid/GB-CHC-288068)]<br>The Charity's main activities include the following:1. Advancing the science and art of nursing;2. Advancing the better education and training of student nurses training for a statutory nursing qualification and the further education and training of Registered Nurses;and3. Promoting research and investigation into matters relating to nursing. | £97,572
-<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST STEPHEN ON THE CLIFFS, BLACKPOOL</strong> [Charity number: [1131959](https://findthatcharity.uk/orgid/GB-CHC-1131959)]<br>The main purpose of the PCC as defined by the Parochial Church Council (Powers) Measure 1956, is to co-operate with the Vicar in promoting in the Parish the whole mission of the Church,pastoral,evangelical,social and ecumenical. There have been no material changes in these policies during the year.The PCC has been satisfied during the year to maintain its position. | £228,681
+<strong>Youth Link NI</strong> [Charity number: [NI103369](https://findthatcharity.uk/orgid/GB-NIC-103369)]<br>Youth Link offers accredited training and bespoke programmes to young people, voluntary youth leaders, full and part-time youth workers, theological students and clergy across Northern Ireland and the Border Counties in Youth Work, Youth Ministry and Community Relations Skills and Issues. Programmes are delivered in a variety of settings including churches, local communities and schools. | £386,690
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST CUTHBERT WITH ST MATTHIAS EARL'S COURT</strong> [Charity number: [1182543](https://findthatcharity.uk/orgid/GB-CHC-1182543)]<br>St Cuthbert's PCC has the responsibility of co-operating with the Vicar in promoting in the ecclesiastical parish the whole mission of the Church, pastoral, evangelistic, social and ecumenical. It also has the responsibilities for the maintenance and upkeep of the buildings and contents of the Church and The Philbeach Halls complex. | £223,540
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF HOLY SAVIOUR, HITCHIN</strong> [Charity number: [1205456](https://findthatcharity.uk/orgid/GB-CHC-1205456)]<br>The charity provides a range of services which vary in their liturgical style including Children's Praise which seeks to reach out to younger people. Some members of our parish due to illness and age. Pastoral care is provided by the Vicar and the Lay Readers, prayer and the celebration of communion can be celebrated in either their homes or in hospital. Holy Saviour encourages mission to all. | 
+<strong>BARLBOROUGH MINERS WELFARE RECREATION GROUND AND INSTITUTE</strong> [Charity number: [520411](https://findthatcharity.uk/orgid/GB-CHC-520411)]<br>Community organisation which aims to support the residents of the local area in the activities of recreation, including a number of societys and a number of different dance groups. | £97,344
+<strong>THE ALL SAINTS AND ST MARY'S CHARITY</strong> [Charity number: [1054590](https://findthatcharity.uk/orgid/GB-CHC-1054590)]<br>Advance the Christian religion in the Parish of Crondall and EwshotPreservation and maintenance of the fabric and contents of All Saints Church Crondall and St Mary's Church EwshotMaintenance and support of the ordained clergy in the ParishProvide funds to the PCC of Crondall and Ewshot for legally charitable works within the Parish | £180,110
+<strong>THE NORTH OF ENGLAND INSTITUTE OF MINING AND MECHANICAL ENGINEERS</strong> [Charity number: [220208](https://findthatcharity.uk/orgid/GB-CHC-220208)]<br>To advance & promote the science, education & technology of Mining Engineering & engineering generally. To secure the increased safety & improved health and well being of those employed. To collect, acquire & disseminate, scientific knowledge & technical information. To advance & promote the science & technology of addressing the environmental & socio-economic legacies of former mining activities. | £12,246
+<strong>Allanton Miners Charitable Society</strong> [Charity number: [SC018634](https://findthatcharity.uk/orgid/GB-SC-SC018634)]<br>The Objects of the Society are to provide facilities forsuch forms of recreation and other leisure-time occupation as are conducive to the improvement of the conditions of living of the inhabitants of Allanton and the neighbourhood thereof within the Society's sphere of operations as defined from time to time and in particular (but not exclusively) such of the inhabitants as are members of the Mining Community provided that nothing herein contained shall authorise the application of the Property to purposes which are not in law charitable.  The Society shall not be identified with any party or sect. | £8,200
+<strong>GAINSFORD THOMAS</strong> [Charity number: [200291](https://findthatcharity.uk/orgid/GB-CHC-200291)]<br>provide funds for discretionary payments by the Vicar of Chobham to people in need | £220
+<strong>DUNSCROFT WELFARE SPORTS ASSOCIATION</strong> [Charity number: [1119998](https://findthatcharity.uk/orgid/GB-CHC-1119998)]<br>The principal purpose of the charity is to provide assistance in the development of community sport and recreation on the site of Dunscroft Miners Welfare. The charity is fully supportive of promoting football at "grass roots level," helping to fund football courses for willing volunteers, and also helping to apply for grants to improve the facilities at the ground. | £368
+<strong>COLLEGE OF PARAMEDICS</strong> [Charity number: [1164445](https://findthatcharity.uk/orgid/GB-CHC-1164445)]<br>Membership organisation development of the Paramedic Profession | £2,845,226

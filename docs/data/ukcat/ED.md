@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-82,906 charities have been tagged with this tag.
-This represents 40.93% of all charities.
+82,966 charities have been tagged with this tag.
+This represents 40.95% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 28,279 | 38.50%
-£10k - £100k | 27,625 | 39.94%
-£100k - £250k | 8,865 | 41.81%
-£250k - £500k | 4,553 | 44.05%
-£1m - £10m | 4,284 | 48.84%
-£500k - £1m | 2,925 | 45.60%
-Over £10m | 1,158 | 54.21%
-Total | 77,689 | 40.57%
+Under £10k | 28,257 | 38.54%
+£10k - £100k | 27,685 | 39.94%
+£100k - £250k | 8,882 | 41.74%
+£250k - £500k | 4,559 | 44.00%
+£1m - £10m | 4,286 | 48.77%
+£500k - £1m | 2,936 | 45.55%
+Over £10m | 1,159 | 54.23%
+Total | 77,764 | 40.57%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 67,782 | 39.70%
-oscr | 12,247 | 49.79%
-ccni | 2,877 | 39.93%
-Total | 82,906 | 40.93%
+ccew | 67,846 | 39.72%
+oscr | 12,242 | 49.78%
+ccni | 2,878 | 39.92%
+Total | 82,966 | 40.95%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>The Embo Trust (Urras Euraboil)</strong> [Charity number: [SC041360](https://findthatcharity.uk/orgid/GB-SC-SC041360)]<br>4.0 The Company has been formed to benefit the community of Embo and District as defined by the postcode units IV25 3HZ, IV25 3PP, IV25 3PR, IV25 3PS, IV25 3PT, IV25 3PU, IV25 3PX, IV25 3PY, IV25 3PZ, IV25 3QA, IV25 3QB, IV25 3QD, IV25 3QE, IV25 3QF, IV25 3QH, IV25 3QL, IV25 3QQ, IV25 3QS ('the Community') with the following Purposes ('the Purposes'): 4.1 To manage community land and associated assets for the benefit of the Community and the public in general. 4.2 To provide, or assist in providing, recreational facilities, and/ or organising recreational activities, which will be available to members of the Community and public at large with the object of improving the conditions of life of the Community. 4.3 To advance community development, including urban or rural regeneration. 4.4 To advance the education of the Community about its environment, culture, heritage and/or history. 4.5 To advance environmental protection or improvement including preservation, and conservation of the natural environment, the promotion of sustainable development, the maintenance, improvement or provision of environmental amenities for the community. 4.6 All of the above purposes as given in Articles 4.1 - 4.5 shall be carried out following principles of sustainable development, where sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their own needs. | £17,073
-<strong>Churches Action For The Homeless</strong> [Charity number: [SC021740](https://findthatcharity.uk/orgid/GB-SC-SC021740)]<br>5.1 To relieve homelessness and poor housing, to improve the conditions of life and generally aid the development of persons who are homeless or in danger of becoming homeless, or who live in poor and sub-standard housing in the Perth and Kinross council area and any other area agreed by the Board of Trustees.  5.2 To support, encourage and promote the development of projects to prevent and/or alleviate homelessness, poor and sub-standard housing and associated problems in the Perth & Kinross council area and any other area agreed by the Board of Trustees.  5.3 To prevent and relieve the impact of poverty in its various forms. 5.4 To promote good mental health and recovery.  5.5 To foster collaboration between organisations promoting projects described above and to promote activities for the benefit of such organisations.  5.6 To establish and maintain or assist in the establishment and maintenance of appropriate accommodation with or without support for those without homes or living in poor or sub-standard accommodation or in need in the Perth & Kinross District and to purchase and distribute items of food, clothing or other materials which may be required by such persons.  5.7 To support education programmes in schools and communities aimed at preventing and alleviating the problems of homelessness and poor housing  5.8 To enable people to benefit from meaningful and structured activity in such ways as it may be thought fit, including training in skills of all kinds, particularly such skills as will assist individuals in obtaining paid employment.   5.85.9 To encourage greater social inclusion and to provide support and opportunities to connect, engage and participate to those experiencing social isolation in the communities we serve. 5.10 To ensure that our services and support are aligned to the needs of the people of Perthshire, recognising the changing demographics and growing diversity of our communities, putting equality, fairness and respect at the heart of all we do. 5.11 To promote, establish, operate and/or support other schemes of a charitable nature.  | £1,233,250
-<strong>FESTIVAL WASTE RECLAMATION AND DISTRIBUTION</strong> [Charity number: [1168696](https://findthatcharity.uk/orgid/GB-CHC-1168696)]<br>FWRD is dedicated to reducing festival waste through education of festival-goers and collection of abandoned items once festivals end. We engage festival-goers to inform them about the environmental consequences of tent abandonment and organise post-festival salvages which other local and national charities can attend to collect abandoned items for whatever cause they support. | 
-<strong>THE CO-MISSION INITIATIVE TRUST</strong> [Charity number: [1157383](https://findthatcharity.uk/orgid/GB-CHC-1157383)]<br>The Charity has been established to provide training and support to Gospel workers to help them to set up new Christian missions and churches in London. | £1,080,139
-<strong>ST MARY'S TODDLER AND PLAYGROUP, TETBURY</strong> [Charity number: [1038904](https://findthatcharity.uk/orgid/GB-CHC-1038904)]<br>The main activities the Charity carries out are the following:Offering appropriate play facilities and training courses, together with allowing parents the right to take responsibility for and to become involved in the activities of the Playgroup, ensuring that opportunities are offered to all children regardless of race, culture, religion, disability or means. | £95,677
-<strong>DARUL ULOOM PIREREGOW FOUNDATION</strong> [Charity number: [1200690](https://findthatcharity.uk/orgid/GB-CHC-1200690)]<br>Education | £15,164
-<strong>THE GERMAN CHRISTIAN ASSOCIATION (LONDON) CHARITABLE INCORPORATED ORGANISATION</strong> [Charity number: [1187036](https://findthatcharity.uk/orgid/GB-CHC-1187036)]<br>To advance the Christian faith by developing and supporting initiatives which reflect and/or promote Christian values. Providing general support for churches of all denominations in particular to our local churches in Bayswater and German churches throughout the UK. To provide or assist in the provision of social welfare, cultural activities, educational, recreation and leisure facilities for all. | 
-<strong>CHRIS WORFOLK FOUNDATION</strong> [Charity number: [1137220](https://findthatcharity.uk/orgid/GB-CHC-1137220)]<br>RUNNING LOCAL COMMUNITY GROUPS, HOMELESS OUTREACH PROGRAMME, ANXIETY PEER SUPPORT, CHAPLAIN SUPPORT NETWORK, PUBLISHING EDUCATIONAL COURSES, RUNNING EDUCATIONAL COURSES, PUBLISHING ONLINE RESOURCES. | £2,400
-<strong>JAMIA MASJID SWAFIA</strong> [Charity number: [1167300](https://findthatcharity.uk/orgid/GB-CHC-1167300)]<br>The charity aims to advance the Islamic religion by providing a mosque with facilities and staff to hold prayers, lectures, visits, and celebrate festivals for members of the public.  To provide Islamic education for children.  Provide funeral and other services for the local community.  Promote cohesion with wider community. Raise and distribute funds to relieve poverty or suffering. | £547,251
-<strong>Caddie School for Soldiers SCIO</strong> [Charity number: [SC052511](https://findthatcharity.uk/orgid/GB-SC-SC052511)]<br>4 The organisation?s purposes are to assist former serving members of the armed forces or other professions who are in charitable need as a result of injury or other harmful experience suffered during their service by teaching these individuals how to caddie. The organisations objects are:- 4.1. The advancement of public participation in sport. 4.2. The advancement of education.  4.3. The provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. and  4.4. the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. | 
+<strong>SUSTAINABLE AMERSHAM</strong> [Charity number: [1212349](https://findthatcharity.uk/orgid/GB-CHC-1212349)]<br>THE OBJECTS OF THE CIO, CARRIED OUT IN AMERSHAM, CHESHAM BOIS AND SURROUNDING AREAS FOR THE PUBLIC BENEFIT ARE AS FOLLOWS:• TO PROMOTE THE CONSERVATION, PROTECTION AND IMPROVEMENT OF THE LOCAL PHYSICAL AND NATURAL ENVIRONMENT, PRIMARILY BUT NOT EXCLUSIVELY BY PROMOTING BIODIVERSITY.• TO ADVANCE THE EDUCATION OF THE PUBLIC IN THE CONSERVATION, PROTECTION AND IMPROVEMENT OF THE LOCAL PHYSICAL AND NATURAL ENVIRONMENT, AND IN TOPICS RELATED TO CLIMATE CHANGE, RECYCLING, WASTE REDUCTION AND SUSTAINABLE LIVING. | 
+<strong>FRIENDS OF BEIS CHINUCH LEBONOS TRUST</strong> [Charity number: [1153187](https://findthatcharity.uk/orgid/GB-CHC-1153187)]<br>To support the Beis Chinuch Lebonos School. Relief of poverty and the advancement of  Orthodox Jewish education. | £4,440,108
+<strong>Crowland Community Preschool</strong> [Charity number: [1036268](https://findthatcharity.uk/orgid/GB-CHC-1036268)]<br>We are a small childcare setting offering Pre School sessions 5 days a week during term time for children aged 2 up until school entry age.  We offer funded spaces for all children and can take a maximum of 18 children per session. | £79,600
+<strong>IXWORTH SCHOOL FUND</strong> [Charity number: [271352](https://findthatcharity.uk/orgid/GB-CHC-271352)]<br>To promote the education of children attending the Church of England School at Ixworth, and the Sunday School at Ixworth or in the neighbourhood. | £222
+<strong>THE KEITH SIMPSON TRUST</strong> [Charity number: [1198740](https://findthatcharity.uk/orgid/GB-CHC-1198740)]<br> PROVIDING SCHOLARSHIPS AND TUITION IN SUBJECTS PROMOTING ORGAN MUSIC, SHEET MUSIC AND CHURCH OR THEATRE ORGANS - FUNDING THEATRES, CONCERT HALLS, CATHEDRALS AND OTHER MUSIC VENUES FOR THE PROVISION OF TUITION IN ORGAN PLAYING - PROMOTING THE ART OF ORGAN MUSIC TO 11 - 21 YEAR OLDS TO IMPROVE OR DEVELOP THEIR SKILLS IN ORGAN MUSIC IN ENGLAND, WALES AND THE ISLE OF MAN | 
+<strong>REGENT'S PARK COLLEGE</strong> [Charity number: [1181801](https://findthatcharity.uk/orgid/GB-CHC-1181801)]<br>THE COLLEGE AIMS TO PROVIDE MEN AND WOMEN WITH HIGHER EDUCATION IN THE ARTS AND HUMANITIES AT UNDERGRADUATE, GRADUATE AND RESEARCH LEVEL AS PART OF A WORLD-CLASS UNIVERSITY, AND IN THE CONTEXT OF CHRISTIAN PASTORAL CARE. IT PROVIDES SPECIAL OPPORTUNITIES FOR THE STUDY OF THEOLOGY AND RELIGION, INCLUDING PREPARATION FOR ORDAINED CHRISTIAN MINISTRY. | £3,196,000
+<strong>Comfort Zone Alternative Therapies SCIO</strong> [Charity number: [SC044014](https://findthatcharity.uk/orgid/GB-SC-SC044014)]<br>4.1 To relieve those in need by providing counselling services, holistic and complementary therapies and support and advisory services to the community. 4.2 To advance citizenship or community development by encouraging and supporting volunteering opportunities and providing a social hub for the residents of the local area. 4.3 To advance education by facilitating workshops and raising awareness about social issues faced in the beneficiary communities. | £3,500
+<strong>PEOPLES HELP FOUNDATION</strong> [Charity number: [1204301](https://findthatcharity.uk/orgid/GB-CHC-1204301)]<br>1. FOR THE PUBLIC BENEFIT, THE PREVENTION OR RELIEF OF POVERTY IN PAKISTAN BY PROVIDING GRANTS TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS WORKING TO PREVENT OR RELIEVE POVERTY.2. FOR THE PUBLIC BENEFIT, THE ADVANCEMENT OF EDUCATION IN PAKISTAN FOR CHILDREN AGED 3 TO 13 BY PROVIDING GRANTS FOR EDUCATIONAL SUPPLIES AND THE REPAIRS AND MAINTENANCE OF PRIMARY SCHOOLS AND OTHER EDUCATIONAL ESTABLISHMENTS. | 
+<strong>2nd Dunblane Guides</strong> [Charity number: [SC033588](https://findthatcharity.uk/orgid/GB-SC-SC033588)]<br>The advancement of education and the advancement of citizenship or community development. | £3,116
+<strong>RIPLEY NURSERY SCHOOL CHILDCARE</strong> [Charity number: [1139677](https://findthatcharity.uk/orgid/GB-CHC-1139677)]<br>To advance the education of children aged between 0 and 7 years, in Ripley and the surrounding area, through the provision of day and after school care. | £237,882

@@ -3,7 +3,7 @@
 Housing is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Housing](HO.md) category.
 
-13,061 charities have been tagged with this tag.
+13,068 charities have been tagged with this tag.
 This represents 6.45% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 3,140 | 4.27%
-£10k - £100k | 4,303 | 6.22%
-£100k - £250k | 1,645 | 7.76%
-£250k - £500k | 966 | 9.35%
-£500k - £1m | 715 | 11.15%
-£1m - £10m | 1,328 | 15.14%
-Over £10m | 331 | 15.50%
-Total | 12,428 | 6.49%
+Under £10k | 3,143 | 4.29%
+£10k - £100k | 4,297 | 6.20%
+£100k - £250k | 1,651 | 7.76%
+£250k - £500k | 966 | 9.32%
+£500k - £1m | 713 | 11.06%
+£1m - £10m | 1,332 | 15.16%
+Over £10m | 332 | 15.54%
+Total | 12,434 | 6.49%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 10,871 | 6.37%
-oscr | 1,450 | 5.90%
-ccni | 740 | 10.27%
-Total | 13,061 | 6.45%
+ccew | 10,879 | 6.37%
+oscr | 1,449 | 5.89%
+ccni | 740 | 10.26%
+Total | 13,068 | 6.45%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>HUXLEY'S FOUNDATION</strong> [Charity number: [1208765](https://findthatcharity.uk/orgid/GB-CHC-1208765)]<br>THE OBJECTS OF THE CIO ARE: 1. FOR THE BENEFIT OF THE PUBLIC TO RELIVE THE SUFFERING OF BIRDS OF PREY IN NEED OF CARE AND ATTENTION, AND, IN PARTICULAR, TO PROVIDE AND MAINTAIN RESCUE HOMES OR OTHER FACILITIES FOR THE RECEPTION, CARE AND TREATMENT OF SUCH BIRDS. 2. TO PROMOTE FOR THE PUBLIC BENEFIT THE CONSERVATION, PROTECTION AND PRESERVATION OF BIRDS OF PREY TOGETHER WITH THEIR VARYING HABITATS, | 
-<strong>STAFFORDSHIRE COUNTY GUIDE ASSOCIATION</strong> [Charity number: [524559](https://findthatcharity.uk/orgid/GB-CHC-524559)]<br>The charity objectives are to enable girls to mature into confident, capable and caring women, who are able to make the most of their potential in career, home and personal life and be willing as citizens to contribute to their community and the wider world. Members of Girlguiding Staffordshire are encouraged to "learn by doing" through the "Guiding Method" which has five distinct elements. | £202,351
-<strong>Armadale Village Hall Limited</strong> [Charity number: [SC049779](https://findthatcharity.uk/orgid/GB-SC-SC049779)]<br>The company's objects are: (a)To provide recreational facilities, and organise recreational activities, available to the public at large with the object of improving their conditions of life.  (b)To advance education. (c)To advance citizenship and community development. and (d)To advance the arts and culture. in each case, primarily for the benefit of residents of Armadale and the surrounding area, through (i) the management and operation of Armadale Village Hall and (ii) organising, supporting and/or delivering a range of activities and events (whether accommodated in Armadale Village Hall or otherwise) which further one or more of the above aims. | £3,367
-<strong>STILL HUMAN UK</strong> [Charity number: [1175862](https://findthatcharity.uk/orgid/GB-CHC-1175862)]<br>This charity aims to support people with disabilities across the UK by providing advice on various matters. Such as accessing disability services, housing applications, and so on. | 
-<strong>SHROPSHIRE CAT RESCUE</strong> [Charity number: [1071884](https://findthatcharity.uk/orgid/GB-CHC-1071884)]<br>To provide shelter, food, veterinary care for homeless, stray, abandoned and unwanted cats and kittens. To re-home said animals where possible. To benefit the community by trapping & neutering feral cats thus limiting their numbers to avoid health hazards and nuisance. To educate the public on health and care of cats and kittens in order to alleviate and obviate distress and cruelty. | £328,027
-<strong>EXOTIC PET REFUGE</strong> [Charity number: [1041774](https://findthatcharity.uk/orgid/GB-CHC-1041774)]<br>PET REFUGE AND CARE | £137,680
-<strong>AYSCOUGH COURT</strong> [Charity number: [515361](https://findthatcharity.uk/orgid/GB-CHC-515361)]<br>To provide accommodation for 4 elderly ladies of little means. The block of four houses owned by the charity are almshouses and are registered with the Almshouse Association. | £11,035
-<strong>HESWALL HONEYS WOMEN'S INSTITUTE</strong> [Charity number: [1208813](https://findthatcharity.uk/orgid/GB-CHC-1208813)]<br>3. THE MAIN PURPOSES OF THE WOMEN’S INSTITUTE ORGANISATION ARE:(A) TO ADVANCE THE EDUCATION OF WOMEN AND GIRLS FOR THE PUBLIC BENEFIT IN ALL AREAS INCLUDING (WITHOUT LIMITATION):(I) LOCAL, NATIONAL AND INTERNATIONAL ISSUES OF POLITICAL AND SOCIAL IMPORTANCE;(II) MUSIC, DRAMA AND OTHER CULTURAL SUBJECTS; AND(III) ALL BRANCHES OF AGRICULTURE, CRAFTS, HOME ECONOMICS, SCIENCE, HEALTH AND SOCIAL WELFARE;(B) TO PROMOTE SUSTAINABLE DEVELOPMENT FOR THE PUBLIC BENEFIT BY:(I) EDUCATING PEOPLE IN THE PRESERVATION, CONSERVATION AND PROTECTION OF THE ENVIRONMENT AND THE PRUDENT USE OF NATURAL RESOURCES; AND(II) PROMOTING SUSTAINABLE MEANS OF ACHIEVING ECONOMIC GROWTH AND REGENERATION;(C) TO ADVANCE HEALTH FOR THE PUBLIC BENEFIT; AND(D) TO ADVANCE CITIZENSHIP FOR THE PUBLIC BENEFIT BY THE PROMOTION OF CIVIC RESPONSIBILITY AND VOLUNTEERING. | 
-<strong>THE URSULA KEYES TRUST</strong> [Charity number: [517200](https://findthatcharity.uk/orgid/GB-CHC-517200)]<br>(i)Primarily (but not exclusively) for the benefit of the inhabitants of the area administered by Chester District Council.(ii)The dissemination and improvement of medical knowledge, skills and the care or treatment of patients whether in public or private hospitals or nursing homes (including hospices) or in their own homes. | £429,390
-<strong>HOME-START WELLINGBOROUGH & DISTRICT</strong> [Charity number: [1114076](https://findthatcharity.uk/orgid/GB-CHC-1114076)]<br>Home-Start Wellingborough & district is a voluntary organisation in which volunteers offer support, friendship & practical help to families who have at least one child under the age of five and who are experiencing difficulties. | £122,871
+<strong>ANIMAL RESCUE</strong> [Charity number: [1007182](https://findthatcharity.uk/orgid/GB-CHC-1007182)]<br>The animal rescue charity provides sanctuary (safe haven) throughout the  UK for all animals whether domesticated or wild. Without exception, the prevention of suffering and preservation of life is paramount. The ultimate objective is to re-home or re-habilitate. Operates save a dog (SAD) campaign to rescue dogs facing euthanasia from Uk dog pounds. | £325,310
+<strong>KAIROS HOUSING</strong> [Charity number: [1198820](https://findthatcharity.uk/orgid/GB-CHC-1198820)]<br>Kairos Housing provides safe accommodation and holistic support to refused asylum seekers and refugees who find themselves homeless within Blackburn with Darwen. We are a Christian organisation who help and support people of all faiths or none. | £156,121
+<strong>Walls And District Agricultural Society</strong> [Charity number: [SC009931](https://findthatcharity.uk/orgid/GB-SC-SC009931)]<br>The Society shall have for its Object the aiding and encouraging and the improvement of stock and fanning, and the general agricultural development of the District, particularly of small tenants, and in furtherance of this Object the Society shall have the power to purchase, sell, take on lease, or otherwise acquire or dispose of any land or property and any such land or property shall be held in the names of the President, Vice President, Secretary and Treasurer of the Society all as Trustees ex officiis and any three of the President, Vice President, Secretary and Treasurer shall be authorised to execute any document in this regard. | £24,299
+<strong>HITS HOMES TRUST LIMITED</strong> [Charity number: [1049935](https://findthatcharity.uk/orgid/GB-CHC-1049935)]<br>Supported housing to vulnerable, single, homeless people aged between 16 and 25 years old. Provide a Protected Licence that can be for a maximum stay of two years. | £203,572
+<strong>SIR JOHN PERROT TRUST</strong> [Charity number: [213879](https://findthatcharity.uk/orgid/GB-CHC-213879)]<br>The improvement of the town and architectural facilities of Haverfordwest. Provision of low cost housing to individuals in Haverfordwest. | £152,528
+<strong>FOURSQUARE CHURCH ANGELUS TEMPLE</strong> [Charity number: [1080126](https://findthatcharity.uk/orgid/GB-CHC-1080126)]<br>Teaching and preaching the gospel of Jesus Christ. Gift and donations to orphanage, support for the older adults, widows, poor and unemployed within our community. mentoring youths and teenagers to become good and God fearing adults, working with them to improve our community. We also send funds to disaster areas and providing support to the homeless and vulnerable people in our local community. | £50,629
+<strong>MIDDLEMORE'S ALMSHOUSES CIO</strong> [Charity number: [1197684](https://findthatcharity.uk/orgid/GB-CHC-1197684)]<br>THE PROVISION AND ADMINISTRATION ALMSHOUSES IN STANTON BY DALE, DERBYSHIRE | 
+<strong>Inspire Disability Services</strong> [Charity number: [NI101899](https://findthatcharity.uk/orgid/GB-NIC-101899)]<br>Inspire provides care and 24 hour housing support services to individuals with learning disabilities. Inspire currently provides services in Antrim, Armagh, Belfast, Lisburn and Omagh. | 
+<strong>LEGACY EAST ALMSHOUSE PARTNERSHIP</strong> [Charity number: [1155672](https://findthatcharity.uk/orgid/GB-CHC-1155672)]<br>Management of almshouse charities, management of almshouses and engagment in the provision of new almshouses for people in need of housing.  At the present time, the areas in which we can operate are Essex, Suffolk and Norfolk. | £450,450
+<strong>Iontaobhas na GaelscolaÝochta</strong> [Charity number: [NI100147](https://findthatcharity.uk/orgid/GB-NIC-100147)]<br>InaG provides grants and advice mainly to groups who are looking to set up IME pre-schools and primary schools. The Trust has purchased sites for schools and provided temporary accommodation for IME pre-schools and primary schools that do not qualify for capital grant status from the Department of Education. InaG provide grants for salary and running costs for IME schools that did not qualify for funding from the Department of Education [DE] until they met the criteria for DE funding. Similarly, InaG provide seed funding for IME pre-schools before they are in a position to access statutory funding. In addition InaG manages an Accommodation Fund of £2m for the DE which provides high quality system build accommodation units to IME schools that have not yet met the criteria for capital funding from the DE. The Accommodation Fund also funds planning fees and enabling works for temporary accommodation for IME schools as part of a rental arrangement with private suppliers. InaG raises funds by organising events, through funding applications to charitable and statutory funders, by soliciting private donations and working in conjunction with TACA, the lottery which raises funds for Irish language projects. | £173,726

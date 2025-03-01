@@ -3,8 +3,8 @@
 Arts is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Arts](AR.md) category.
 
-29,165 charities have been tagged with this tag.
-This represents 14.40% of all charities.
+29,189 charities have been tagged with this tag.
+This represents 14.41% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,862 | 13.43%
-£10k - £100k | 11,087 | 16.03%
-£100k - £250k | 2,663 | 12.56%
-£250k - £500k | 1,494 | 14.46%
-£500k - £1m | 880 | 13.72%
-£1m - £10m | 1,109 | 12.64%
-Over £10m | 234 | 10.96%
-Total | 27,329 | 14.27%
+Under £10k | 9,801 | 13.37%
+£10k - £100k | 11,161 | 16.10%
+£100k - £250k | 2,676 | 12.57%
+£250k - £500k | 1,497 | 14.45%
+£500k - £1m | 880 | 13.65%
+£1m - £10m | 1,113 | 12.66%
+Over £10m | 233 | 10.90%
+Total | 27,361 | 14.28%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 23,274 | 13.63%
-oscr | 4,483 | 18.23%
-ccni | 1,408 | 19.54%
-Total | 29,165 | 14.40%
+ccew | 23,297 | 13.64%
+oscr | 4,485 | 18.24%
+ccni | 1,407 | 19.51%
+Total | 29,189 | 14.41%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>WEYMOUTH DRAMA CLUB</strong> [Charity number: [1144845](https://findthatcharity.uk/orgid/GB-CHC-1144845)]<br>To advance the education of the public in all aspects of the dramatic art and the development of public appreciation of such art, by the provision of a theatre and the facilities for the presentation of public performances. | £16,789
-<strong>The Bromsgrove Musicians Competition Foundation</strong> [Charity number: [1075565](https://findthatcharity.uk/orgid/GB-CHC-1075565)]<br>Charitable Trust to support the Bromsgrove Festival Young Musicians' Platform or equivalent | 
-<strong>GRAVESHAM PERFORMING ARTS FESTIVAL</strong> [Charity number: [1189321](https://findthatcharity.uk/orgid/GB-CHC-1189321)]<br>The activities of Gravesham Performing Arts Festival is to assist in advancing the education of the public in the art of dance in all its branches, in particular but not limited to children and young people. | £23,367
-<strong>FRIENDS OF DOWNSVIEW SCHOOL</strong> [Charity number: [1038126](https://findthatcharity.uk/orgid/GB-CHC-1038126)]<br>The Friends Of Downsview raise money for equipment, to subsidise theatre visits and other trips, as well as run social events for the children, families, local residents and other stake holders. Amongst these events are The Annual Christmas shop, Christmas parties and a Summer Fete. | £1,027
-<strong>HIGHFIELD GRANGE PRE-SCHOOL</strong> [Charity number: [1172681](https://findthatcharity.uk/orgid/GB-CHC-1172681)]<br>We operate from the Highfield Centre, Wigan. We take a friendly and fun approach  to learning. We use Early Years Curriculum to encourage children to learn through play and offer a wide range of activities, including arts/crafts, outdoor play, role play etc. We support parents access to local community and Social Services groups to help with their needs and those of their children. | £125,816
-<strong>IGREJA BATISTA BETANIA EM LONDRES</strong> [Charity number: [1182925](https://findthatcharity.uk/orgid/GB-CHC-1182925)]<br>TO ADVANCE THE CHRISTIAN RELIGION FOR THE BENEFIT OF THE PUBLIC IN LONDON AND THE SURROUNDING AREAS, PARTICULARLY BUT NOT EXCLUSIVELY, THROUGH THE HOLDING OF SERVICES OF WORSHIP, PRAYER MEETINGS, BIBLE STUDY, PUBLIC CELEBRATION OF RELIGIOUS FESTIVALS, PASTORAL CARE AND MISSIONARY WORK | 
-<strong>LLANDAFF CATHEDRAL CHORAL SOCIETY</strong> [Charity number: [507289](https://findthatcharity.uk/orgid/GB-CHC-507289)]<br>Choral singing, in concerts and in church services, including carol services for the benefit of other charitable organisations. | £29,805
-<strong>THE FRIENDS OF THE CHURCH OF ST. HUBERT IDSWORTH TRUST</strong> [Charity number: [1168533](https://findthatcharity.uk/orgid/GB-CHC-1168533)]<br>During the year the trustees undertook a number of activities towards fulfilling the objectives of the trust; these included a Dark Skies Event,  Jazz Evening, Summer and Autumn Concert and Art Show which received visitors of around 1,000 over 3 days.  The Chairman promoted the work of the Trust by hosting a Friends Stall at the Three Parishes Event in Horndean. | £27,023
-<strong>SECOND CHURCH OF CHRIST, SCIENTIST, BIRMINGHAM</strong> [Charity number: [1014735](https://findthatcharity.uk/orgid/GB-CHC-1014735)]<br>Provides regular public Sunday service and Sunday School & public meetings on Wednesday evenings. Provides a Reading Room open four days per week for the public to read, borrow or purchase literature on Christian Science.  Distributes free literature to the workers at hotels and offices in the church area. Gives at least one free Christian Science lecture to the public each year. | £15,133
-<strong>Grace Communion International</strong> [Charity number: [SC040008](https://findthatcharity.uk/orgid/GB-SC-SC040008)]<br>The objects of the charity are to advance the Christian Faith in accordance with the Statement of Beliefs, for the public benefit, and in particular (but without limitation).  o	To proclaim the Christian Faith across the UK and around the world for a witness to all nations by the spoken word, radio, television, recording, in print, by electronic media, by any and all legally acceptable means and personal evangelism.  o	To work for the salvation of souls and to raise up and organise local church congregations.  o	To minister to edify believers and to assemble people together in worship of Almighty God for mutual edification and Christian fellowship in Jesus Christ.  o	To ordain and grant credentials or licence to preach to such as the Charity believe to be called of God and qualified according to Holy Scripture as evangelists, ministers, elders, or deacons.  o	To promote and provide for the advancement of education in the liberal arts and theology and to conduct, carry on and acquire in the UK colleges and seminaries for the education of people in these subjects and for the service and ministry of God and to offer appropriate courses of instruction. and   o	To carry out such other charitable purposes as shall, in the opinion of the Trustees, put into practice the Christian faith in accordance with the Statement of Beliefs, including but not limited to the prevention and relief of need, hardship and sickness, and the provision of facilities in the interests of social welfare for recreation or other leisure time occupation of individuals who have need of such facilities by reason of their youth, age, infirmity or disability, financial hardship or social circumstances with the object of improving their conditions of life.   o	Nothing in these Articles shall authorise an application of the property of the Charity for purposes which are not charitable in accordance with section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and/or section 2 of the Charities Act (Northern Ireland) 2008.   o	This Article 4 may be amended by Special Resolution, but only with prior written consent of the Charity Commission.   o	The Statement of Beliefs may be amended or supplemented by a resolution of the Trustees passed by a majority of at least 75% of them, provided that any such amendments or supplemental statements shall be consistent with the Statement of Beliefs as at the date of adoption of these Articles.  | £552,363
+<strong>CAPEL-LE-FERNE VILLAGE HALL</strong> [Charity number: [281786](https://findthatcharity.uk/orgid/GB-CHC-281786)]<br>The Vllage Hall is a benefit given to the residents of Capel-le-Ferne for a range of activities.The two halls are available for hire by residents and non residents for:-parties, badminton, short mat bowls, exercise and other sports activities, conferences educational purposes, meetings, club venues, drama and other purposes.More information on www.capelvillagehall.com | £33,466
+<strong>DSG2010</strong> [Charity number: [NI101143](https://findthatcharity.uk/orgid/GB-NIC-101143)]<br>The main activities of our group are: Provide transport to a local luncheon club for seniors Social evenings Cultural Events Networking Seniors Christmas lunch social function Drug and Alcohol awareness workshops Old Tyme Dancing Walking Club Monthly Newsletter Craft classes Fundraising Activities Training workshops Ladies Keep Fit/Zumba | £13,814
+<strong>THE EGHAM BAND</strong> [Charity number: [1207993](https://findthatcharity.uk/orgid/GB-CHC-1207993)]<br>The Egham Band encourages education and appreciation of brass band music by providing public concerts, community events, workshops, and performances in our local and broader area. It also provides music education and after-school clubs in several local schools. Bands are provided at all levels to facilitate all levels of players, both adults and youngsters. | 
+<strong>THE THAMES FESTIVAL TRUST</strong> [Charity number: [1074794](https://findthatcharity.uk/orgid/GB-CHC-1074794)]<br>Thames Festival Trust's focus is on engaging a wide public in art, heritage, education, environmental and well-being programmes that reveal our rivers' rich natural environment, share their unique history, protect their sustainability, and celebrate the diverse connections they make for us with the wider world. | £604,981
+<strong>FRIENDS OF BURY MUSIC CENTRE</strong> [Charity number: [507538](https://findthatcharity.uk/orgid/GB-CHC-507538)]<br>SUPPORT ORGANISATION FOR THE STAFF, PUPILS, AND ACTIVITIES OF BURY MUSIC CENTRE.RAISING FUNDS TO PURCHASE NEW INSTRUMENTS, AND TO PROVIDE LOANS TO PARENTS TO ASSIST THEM TO PURCHASE INSTRUMENTS.ASSIST WITH ORGANISING CONCERTS FOR VARIOUS BANDS AND ORCHESTRAS COACHED BY THE BURY MUSIC CENTRE. | £9,280
+<strong>LYNEHAM VILLAGE HALL</strong> [Charity number: [305544](https://findthatcharity.uk/orgid/GB-CHC-305544)]<br>We are a meeting place for many local clubs and facilities such as Fitness classes,Martial arts classes,WI, Yoga, Art classes,RAOB lodge and Parish Council meetings.  We also take bookings for birthday parties and other such private and community events. | £11,903
+<strong>Urras Dualchas Shiaboist</strong> [Charity number: [SC044533](https://findthatcharity.uk/orgid/GB-SC-SC044533)]<br>The organisation's purposes are: ?To promote the heritage and culture of Crofting life in the Shawbost area. ?To secure and advance the role of the Gaelic language. ?To advance the development of the community through a rural regeneration project which will establish a community owned heritage centre. ?To promote civic responsibility by providing opportunities for volunteering. ?To educate the local community and visitors in the geography and history of the area. ?To improve the conditions of life for local residents by providing facilities for education, recreation and leisure.  | 
+<strong>ADVANCEMENT OF FILM EDUCATION CHARITABLE TRUST</strong> [Charity number: [291139](https://findthatcharity.uk/orgid/GB-CHC-291139)]<br>AFECT uniquely provides professional standard practical part-time 16mm training, with subsequent opportunity for film-making, for those who have neither the time nor money to attend full-time school, yet seek prolonged and serious involvement. | 
+<strong>SUSSEX CHORUS</strong> [Charity number: [271678](https://findthatcharity.uk/orgid/GB-CHC-271678)]<br>The Choir's object is to provide,improve,develop and maintain public education in appreciation of the art and science of choral music in all its aspects | £35,230
+<strong>SKIPTON CAMERATA LIMITED</strong> [Charity number: [1139637](https://findthatcharity.uk/orgid/GB-CHC-1139637)]<br>The company's principal activity is to act as a professional chamber orchestra, providing benefits to the public in general and education to young people. | £108,466

@@ -3,8 +3,8 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-28,973 charities have been tagged with this tag.
-This represents 14.31% of all charities.
+29,016 charities have been tagged with this tag.
+This represents 14.32% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,819 | 14.73%
-£10k - £100k | 8,887 | 12.85%
-£100k - £250k | 2,541 | 11.99%
-£250k - £500k | 1,521 | 14.72%
-£500k - £1m | 1,154 | 17.99%
-£1m - £10m | 1,735 | 19.78%
-Over £10m | 336 | 15.73%
-Total | 26,993 | 14.10%
+Under £10k | 10,836 | 14.78%
+£10k - £100k | 8,906 | 12.85%
+£100k - £250k | 2,568 | 12.07%
+£250k - £500k | 1,521 | 14.68%
+£500k - £1m | 1,162 | 18.03%
+£1m - £10m | 1,731 | 19.70%
+Over £10m | 338 | 15.82%
+Total | 27,062 | 14.12%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,379 | 14.86%
-oscr | 2,779 | 11.30%
-ccni | 815 | 11.31%
-Total | 28,973 | 14.31%
+ccew | 25,424 | 14.88%
+oscr | 2,777 | 11.29%
+ccni | 815 | 11.30%
+Total | 29,016 | 14.32%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FRONTLINE DEBT ADVICE (UK)</strong> [Charity number: [1134908](https://findthatcharity.uk/orgid/GB-CHC-1134908)]<br>Debt Counselling Debt AdjustingBenefits AdvicePersonal Budgetting Advice | £49,826
-<strong>EDUCATION FOR YOUTH FOUNDATION</strong> [Charity number: [1197023](https://findthatcharity.uk/orgid/GB-CHC-1197023)]<br>Education for Youth Foundation provides access to technology, digital skills programmes and financial support for children and young people ages 7-19 in Liberia, West Africa. | 
-<strong>CRAWLEY MILLENNIUM CONCERT BAND</strong> [Charity number: [1211443](https://findthatcharity.uk/orgid/GB-CHC-1211443)]<br>THE OBJECTS OF THE SOCIETY SHALL BE:1. TO ADVANCE, IMPROVE, DEVELOP AND MAINTAIN PUBLIC EDUCATION IN, AND APPRECIATION OF, THEART AND SCIENCE OF MUSIC IN ALL ITS ASPECTS BY ANY MEANS THE TRUSTEES SEE FIT, INCLUDING THROUGH THE PRESENTATION OF PUBLIC EVENTS; | 
-<strong>DANIELS MILL TRUST</strong> [Charity number: [1123673](https://findthatcharity.uk/orgid/GB-CHC-1123673)]<br>To maintain & preserve the water mill known as Daniels Mill, Eardington, Bridgnorth, Shropshire for the public education & benefit. | £14,608
-<strong>THE FIONA FOUNDATION CHARITABLE APPEAL TRUST</strong> [Charity number: [1161742](https://findthatcharity.uk/orgid/GB-CHC-1161742)]<br>The foundation fund raises and helps charities within the UK as agreed by the trustees and in line with our founding principle of supporting charitable organisations that were either close to Fiona' s heart or from which she benefitted in her lifetime . For example we provide grants by way of scholarships to female undergraduates in chemical engineering at Newcastle University. | £7,013
-<strong>KIRK IRETON EDUCATIONAL TRUST</strong> [Charity number: [1040546](https://findthatcharity.uk/orgid/GB-CHC-1040546)]<br>To make grants to of an educational nature to residents of Kirk Ireton | £121
-<strong>BRUNO MEMORIAL TRUST</strong> [Charity number: [1155790](https://findthatcharity.uk/orgid/GB-CHC-1155790)]<br>? The prevention or relief of poverty or financial hardship? To assist in the treatment and care of persons suffering from illness? To promote humane behaviour towards animals? To advance the education of the public in the conservation, protection and improvement of the environment | £964
-<strong>HARROW ASSOCIATION OF SOMALI VOLUNTARY ORGANIZATIONS (HASVO)</strong> [Charity number: [1129442](https://findthatcharity.uk/orgid/GB-CHC-1129442)]<br>Provide information &  drop in services .Partner other organisations in the field.Provide elderly services for people with cultural and language difficulty.Provide education, training and raising awareness on the practical issues affecting the Arabic & Somali Community in the Borough.Provide advice and advocacy and outreach services.Offer weekend support for young people , elderly and women. | £282,000
-<strong>Baird Educational Trust</strong> [Charity number: [SC033431](https://findthatcharity.uk/orgid/GB-SC-SC033431)]<br>The Trustees shall hold the Trust Fund and apply the same or any part thereof and/or the income thereof from time to time for the purpose of advancing education in any way that is not the statutory requirement of the appropriate local authority by providing financial assistance and support,on such terms as the Trustees may,acting in their uncontrolled discretion,think fit to any person who is undertaking,or is about to undertake,a course of tuition,education or training,whether full time or part time and of whatever duration with any person or body or at any School, University, College of Education, or other learning institution whether in or outwith the United Kingdom and that in any branch of the performing,visual orliterary arts. | £1,064,495
-<strong>CHISEN FOUNDATION</strong> [Charity number: [1148250](https://findthatcharity.uk/orgid/GB-CHC-1148250)]<br>We support children/young people with special needs and disabilities,their carers and other charitable organisations in Ghana. To relief poverty and deprivation by providing items, grants, disability equipment, and other services. Raising public awareness of the issues affecting disabled children and their carers in Ghana especially in relation to lack of resources, medicare and social exclusion. | £9,879
+<strong>OLDHAM, ROCHDALE AND TAMESIDE ORGANISTS ASSOCIATION</strong> [Charity number: [516899](https://findthatcharity.uk/orgid/GB-CHC-516899)]<br>To advance the education of the public in the study of the art of music, with special reference to liturgical and organ music. | £1,982
+<strong>THE BRITISH ANTIQUE DEALERS' ASSOCIATION LIMITED CULTURAL AND EDUCATIONAL TRUST</strong> [Charity number: [264856](https://findthatcharity.uk/orgid/GB-CHC-264856)]<br>PROMOTION OF PUBLIC EDUCATION AND APPRECIATION OF THE HISTORY AND DESIGN OF ANTIQUES AND OTHER WORKS OF ART AND TO ADVANCE PUBLIC EDUCATION IN THE DEVELOPMENT OF THE SKILLS AND TECHNIQUES REQUIRED IN RESTORING AND CONSERVING ANTIQUES AND OTHER WORKS OF ART. | £31,714
+<strong>J M CHARITABLE TRUST</strong> [Charity number: [1212334](https://findthatcharity.uk/orgid/GB-CHC-1212334)]<br>TO FURTHER SUCH CHARITABLE PURPOSES (CHARITABLE UNDER ENGLISH LAW) AS THE TRUSTEES SEE FIT FROM TIME TO TIME IN PARTICULAR BUT NOT LIMITED TO THE PREVENTION AND RELIEF OF POVERTY AND THE ADVANCEMENT OF EDUCATION IN KENT, EAST SUSSEX AND SURROUNDING AREAS FOR THE PUBLIC BENEFIT BY MAKING GRANTS TO REGISTERED CHARITIES. | 
+<strong>TABAXH</strong> [Charity number: [1193604](https://findthatcharity.uk/orgid/GB-CHC-1193604)]<br>For the public benefit, to advance the education of women who are nationals, or residents, of The Gambia by awarding grants and funding to study a construction related course at the University the Gambia (UTG) or Gambia Technical Training Institute (GTTI) or a similar educational institution in The Gambia. | £2,253
+<strong>SCIENCE AND RELIGION FORUM</strong> [Charity number: [1034657](https://findthatcharity.uk/orgid/GB-CHC-1034657)]<br>Advances public education in the relationship between science and theology. | £11,011
+<strong>MAIA MOUSE FOUNDATION</strong> [Charity number: [1170696](https://findthatcharity.uk/orgid/GB-CHC-1170696)]<br>The charity acts for the benefit of the public, the relief of those in need by reason of ill health or life limiting conditions (children up to 18 years of age). In particular, but not exclusively by; (a) the provision of grants and financial assistance, (b) by funding research and (c) by raising awareness. | £19,061
+<strong>INTERNATIONAL SOCIETY FOR GEOGRAPHICAL AND EPIDEMIOLOGICAL OPHTHALMOLOGY</strong> [Charity number: [1168197](https://findthatcharity.uk/orgid/GB-CHC-1168197)]<br>The ultimate aim of ISGEO is to reduce eye disease, prevent blindness and preserve sight and increase visual rehabilitation globally, through promoting epidemiological, operational and health systems research and dissemination of the findings.  ISGEO organises conferences where researchers can meet and exchange findings and ideas. ISGEO also awards small research grants, funds permitting. | £4,148
+<strong>HOPE SURVIVORS FOUNDATION</strong> [Charity number: [1118367](https://findthatcharity.uk/orgid/GB-CHC-1118367)]<br>1) The promotion of the mental and moral improvement of mankind by commemorating and     remembering the victims of genocides.  In particular but not exclusively the genocide     committed in Rwanda in 1994;2) The relief of survivors who are in conditions of poverty, sickness and distress by provision     of advice on health, housing, education and social issues or by providing grants; | £9,800
+<strong>THE OGBOURNE ST ANDREW PARISH CHARITY</strong> [Charity number: [1002839](https://findthatcharity.uk/orgid/GB-CHC-1002839)]<br>To provide funds to those people within the parish who need help | £459
+<strong>THE HOCHHAUSER FOUNDATION</strong> [Charity number: [1167377](https://findthatcharity.uk/orgid/GB-CHC-1167377)]<br>The Declaration of Trust established a general charitable trust. The Trustees make regular donations to registered charities. The Trustees do not themselves intend to engage in charitable activities other than the making of charitable donations. | £5,082

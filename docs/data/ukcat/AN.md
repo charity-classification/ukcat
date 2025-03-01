@@ -3,7 +3,7 @@
 Animals is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Animals](AN.md) category.
 
-4,250 charities have been tagged with this tag.
+4,260 charities have been tagged with this tag.
 This represents 2.10% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,150 | 1.57%
-£10k - £100k | 1,551 | 2.24%
-£100k - £250k | 539 | 2.54%
-£250k - £500k | 261 | 2.53%
-£500k - £1m | 180 | 2.81%
-£1m - £10m | 197 | 2.25%
+Under £10k | 1,159 | 1.58%
+£10k - £100k | 1,555 | 2.24%
+£100k - £250k | 530 | 2.49%
+£250k - £500k | 265 | 2.56%
+£500k - £1m | 180 | 2.79%
+£1m - £10m | 200 | 2.28%
 Over £10m | 62 | 2.90%
-Total | 3,940 | 2.06%
+Total | 3,951 | 2.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 3,486 | 2.04%
-oscr | 653 | 2.65%
+ccew | 3,495 | 2.05%
+oscr | 654 | 2.66%
 ccni | 111 | 1.54%
-Total | 4,250 | 2.10%
+Total | 4,260 | 2.10%
 
 
 ## Ten largest charities (by income)
@@ -53,20 +53,20 @@ Name | Latest income
 <strong>Dogs Trust Legacy</strong> [Charity number: [SC037843](https://findthatcharity.uk/orgid/GB-SC-SC037843)]<br>The objects of DOGS TRUST shall be (and for the avoidance of doubt whether within the United Kingdom or elsewhere throughout the World) to protect dogs and such other animals in the Trustee's discretion from maltreatment, cruelty, suffering   | £136,045,000
 <strong>THE PEOPLE'S DISPENSARY FOR SICK ANIMALS</strong> [Charity number: [208217](https://findthatcharity.uk/orgid/GB-CHC-208217)]<br>Founded in 1917, PDSA is the UK's leading veterinary charity. Our mission is to improve the life of every pet. We prevent illness, suffering and unnecessary death of pets; educate people about their welfare needs, and treat pets needing our help across the UK.  In 2018 we provided 2.5 million treatments to more than 430,000 pets. Our services are funded entirely by public support. | £113,975,000
 <strong>People's Dispensary For Sick Animals</strong> [Charity number: [SC037585](https://findthatcharity.uk/orgid/GB-SC-SC037585)]<br>(4) The objects of the Society are– a) the provision of free medical or surgical treatment, or such treatment at reduced charges, to animals belonging to persons who are unable to afford the services of a veterinary surgeon.  b) the prevention of suffering of animals by the provision of preventative treatment, care and advice (whether free, at a reduced charge or at full charge).  c) the education of the public in matters concerning animal health and welfare in general.  d) the advancement of animal welfare for the public benefit by any   other means.’   | £113,975,000
-<strong>Cats Protection</strong> [Charity number: [SC037711](https://findthatcharity.uk/orgid/GB-SC-SC037711)]<br>The League is established to relieve the suffering and distress of cats. | £89,272,000
+<strong>CATS PROTECTION</strong> [Charity number: [203644](https://findthatcharity.uk/orgid/GB-CHC-203644)]<br>Homing, neutering and the provision of information.  Cats Protection operates through a network of around 250 volunteer led branches throughout the United Kingdom.  We are also registered with OSCR.  In addition to the branch network we have 32 purpose built cat adoption centres.  Branches and adoption centres work side by side to deliver cat work. | £89,272,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>SONGBIRD SURVIVAL</strong> [Charity number: [1085281](https://findthatcharity.uk/orgid/GB-CHC-1085281)]<br>The objective of the charity is to improve, protect & preserve the population of song & other small birds for the benefit of national biodiversity & the public. It aims to achieve this by commissioning & funding scientific research, supporting the conservation & restoration of habitats, by education of the public & advocacy where changes in the law may be deemed necessary to protect songbirds. | £437,930
-<strong>WESTCOUNTRY RIVERS TRUST</strong> [Charity number: [1135007](https://findthatcharity.uk/orgid/GB-CHC-1135007)]<br>Farm visits and educate farmers to adopt sustainable practices; conferences and work with institutions to educate the public about resource protection issues; catchment restoration to restore rivers and improve land management; research based on habitat protection and species conservation including fish stocks and migration; liaise with policy makers to benefit the public through conservation. | £3,413,397
-<strong>BARNFIELD RIDING FOR THE DISABLED ASSOCIATION</strong> [Charity number: [1073731](https://findthatcharity.uk/orgid/GB-CHC-1073731)]<br>We subsidise adults and children with disabilities to have horse riding therapy lessons | £38,202
-<strong>NINETYFOLD FOUNDATION</strong> [Charity number: [1201775](https://findthatcharity.uk/orgid/GB-CHC-1201775)]<br>The Trusts beneficiaries will be Christian Organisations whose main purpose or aim is to further the Christian faith or individuals within a church or Christian community who have an identified need or purpose which will encourage the growth of their faith or ministry.The Trust will not consider applications to support animals, buildings, and overseas projects. | £6,641
-<strong>Cats Protection</strong> [Charity number: [SC037711](https://findthatcharity.uk/orgid/GB-SC-SC037711)]<br>The League is established to relieve the suffering and distress of cats. | £89,272,000
-<strong>ROYAL SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS BEDFORDSHIRE NORTH BRANCH</strong> [Charity number: [202037](https://findthatcharity.uk/orgid/GB-CHC-202037)]<br>Prevention of cruelty to animals | £130,626
-<strong>APPLEDOWN RESCUE AND REHOMING KENNELS</strong> [Charity number: [1116848](https://findthatcharity.uk/orgid/GB-CHC-1116848)]<br>The care of unwanted dogs, particularly strays. Keeping these dogs safe, well and fit. Rehoming dogs to new, appropriate owners. Educating and advising the public on the care of dogs. | £178,536
-<strong>Clara Cat Neutering Project</strong> [Charity number: [NI108497](https://findthatcharity.uk/orgid/GB-NIC-108497)]<br>None | £11,699
-<strong>TIGER TRAILS FOUNDATION</strong> [Charity number: [1092852](https://findthatcharity.uk/orgid/GB-CHC-1092852)]<br>To help protect the habitat and wildlife of India's National Parks through providing resources and support to the neighbouring tribal villages.  Using sustainable eco-development projects to promote awareness, improve the quality of life and increase the yield from crops and livestock with the co-operation and involvement of the villagers. | 
-<strong>WOLFIE'S LEGACY</strong> [Charity number: [1175441](https://findthatcharity.uk/orgid/GB-CHC-1175441)]<br>Our aim is to heal, rehabilitate and rehome as many disabled dogs as possible, and in the process demonstrate to the public the pleasure of owning a disabled dog | £44,600
+<strong>CENTRAL TREC GROUP</strong> [Charity number: [1164070](https://findthatcharity.uk/orgid/GB-CHC-1164070)]<br>Central TREC Group promotes healthy recreation in the general public by encouraging horse riding. The club organises training events and competitions in the sport of British TREC, trains judges and is involved in all aspects of the sport. Representatives of the club sit on the Board of the national governing body, TREC GB. | £15,421
+<strong>THE HERTFORDSHIRE BEEKEEPERS ASSOCIATION [CIO]</strong> [Charity number: [1184766](https://findthatcharity.uk/orgid/GB-CHC-1184766)]<br>We support beekeeping in Hertfordshire both by assisting the local beekeeping groups across the county and by providing education to the public. | £18,862
+<strong>VETERINARY EDUCATION OUTREACH</strong> [Charity number: [1209978](https://findthatcharity.uk/orgid/GB-CHC-1209978)]<br>THE OBJECTS OF THE CIO ARE“FOR THE PUBLIC BENEFIT TO RELIEVE SUFFERING OF ANIMALS IN NEED OF CARE AND ATTENTION AND TO PROMOTE HUMANE BEHAVIOUR TOWARDS ANIMALS BY THE PROVISION OF EDUCATION AND TRAINING FOR LOCAL VETERINARY HEALTHCARE WORKERS, AND THOSE TRAINING LOCAL HEALTHCARE WORKERS IN-COUNTRY, IN LOW AND MIDDLE INCOME COUNTRIES" | 
+<strong>HARROW BEEKEEPERS' ASSOCIATION</strong> [Charity number: [286086](https://findthatcharity.uk/orgid/GB-CHC-286086)]<br>We promote the craft and heritage of beekeeping by educating the public and training beekeepers for the improvement of husbandry; we visit schools & local events; we encourage an understanding of the benefits of our craft and the role of bees in the environment; we set up local apiaries to include the planting of trees and meadow flowers which benefits all insect pollination. | £12,464
+<strong>DONCASTER AND DISTRICT ORNITHOLOGICAL SOCIETY</strong> [Charity number: [510938](https://findthatcharity.uk/orgid/GB-CHC-510938)]<br>To promote the study and conservation of birds in the Doncaster district through various slideshows and talks on a monthly basis and encourage the younger members of society to play and active role in the aims of the society. | £211
+<strong>ROYAL SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS NEWCASTLE AND NORTH NORTHUMBERLAND BRANCH</strong> [Charity number: [232240](https://findthatcharity.uk/orgid/GB-CHC-232240)]<br>To promote animal welfare in the Branch area | £381,806
+<strong>Caithness Seal Rehab & Release</strong> [Charity number: [SC052004](https://findthatcharity.uk/orgid/GB-SC-SC052004)]<br>Purposes 4 The organisation's purposes are: (a) The advancement of education, with the teaching of what species of seals are along the Caithness coastline, their habitats, the behaviours and how we can protect them. (b) The saving of marine mammal lives, in particular Pinnipeds, by rescuing them if warranted and uplifting them to a safe environment for rehabilitation. (c) The advancement of the arts, heritage, culture or science, by recording and monitoring seal populations already present and those that are rescued & released. (d) The advancement of environmental protection or improvement, by monitoring vulnerable areas, feed availability and pups born. (e) The advancement of animal welfare. (f) The rescue, protection, treatment, rehabilitation and release of sick or injured Pinnipeds. | £35,143
+<strong>THE ELEANOR GRACE FOUNDATION</strong> [Charity number: [1187177](https://findthatcharity.uk/orgid/GB-CHC-1187177)]<br>The trustees currently consider grant applications for:-Healthcare and medical research for the treatment and rehabilitation of patients suffering from severe burns or degenerative brain diseases such as dementia and Alzheimer's.-Animal welfare in relation to the re-homing of abandoned or displaced animals and providing shelters for retired or rescued animals.-Alleviating youth homelessness. | £7,533
+<strong>THE MAVIS RONSON MEMORIAL TRUST</strong> [Charity number: [800767](https://findthatcharity.uk/orgid/GB-CHC-800767)]<br>Donations for medical, children, animal welfare, Jewish and other causes | 
+<strong>ROCKCLIFFE COMMUNITY CENTRE</strong> [Charity number: [224700](https://findthatcharity.uk/orgid/GB-CHC-224700)]<br>A hall located at the entrance to Rockcliffe Village offering facilities for a range of activities. These includeone off bookings for parties, weddings, village and family events, coffee mornings, table top sales, together with regular bookings for classes such as dancing, baby play events, other fitness and indoor sports for adults, school events, art and dog training classes. | £27,475

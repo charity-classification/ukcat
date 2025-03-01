@@ -3,8 +3,8 @@
 Health is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Health](HE.md) category.
 
-29,514 charities have been tagged with this tag.
-This represents 14.57% of all charities.
+29,534 charities have been tagged with this tag.
+This represents 14.58% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 8,849 | 12.05%
-£10k - £100k | 8,790 | 12.71%
-£100k - £250k | 3,255 | 15.35%
-£250k - £500k | 2,119 | 20.50%
-£500k - £1m | 1,383 | 21.56%
-£1m - £10m | 2,216 | 25.27%
-Over £10m | 617 | 28.89%
-Total | 27,229 | 14.22%
+Under £10k | 8,845 | 12.06%
+£10k - £100k | 8,810 | 12.71%
+£100k - £250k | 3,262 | 15.33%
+£250k - £500k | 2,113 | 20.39%
+£500k - £1m | 1,388 | 21.53%
+£1m - £10m | 2,220 | 25.26%
+Over £10m | 617 | 28.87%
+Total | 27,255 | 14.22%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 21,930 | 12.84%
-oscr | 6,196 | 25.19%
-ccni | 1,388 | 19.26%
-Total | 29,514 | 14.57%
+ccew | 21,947 | 12.85%
+oscr | 6,199 | 25.21%
+ccni | 1,388 | 19.25%
+Total | 29,534 | 14.58%
 
 
 ## Ten largest charities (by income)
@@ -47,8 +47,8 @@ Name | Latest income
 <strong>NUFFIELD HEALTH</strong> [Charity number: [205533](https://findthatcharity.uk/orgid/GB-CHC-205533)]<br>To advance, promote and maintain health and healthcare of all descriptions and to prevent, relieve and cure sickness and ill health of every kind. | £1,358,100,000
 <strong>Nuffield Health</strong> [Charity number: [SC041793](https://findthatcharity.uk/orgid/GB-SC-SC041793)]<br>3.1 To advance, promote and maintain health and health care of all descriptions and to prevent, relieve and cure sickness and ill health of any kind, all for the public benefit. | £1,358,100,000
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £960,700,000
-<strong>CANCER RESEARCH UK</strong> [Charity number: [1089464](https://findthatcharity.uk/orgid/GB-CHC-1089464)]<br>Cancer Research UK is dedicated to saving lives through research. Our mission is to prevent, control and cure cancer through our ground-breaking research and in the last 40 years our work has helped double survival rates. But there is more work to be done. The only charity fighting over 200 types of cancer, we rely on every pound donated to help get us closer to beating cancer. | £684,207,447
 <strong>Cancer Research UK</strong> [Charity number: [SC041666](https://findthatcharity.uk/orgid/GB-SC-SC041666)]<br>The objects for which the Company is established are to protect and promote the health of the public in particular by research into the nature, causes, diagnosis, prevention, treatment and cure of all forms of cancer, including the development of findings of research into practical applications for the prevention, treatment and cure of cancer and in furtherance of that primary object, to provide information and raise public understanding of such matters. | £684,207,447
+<strong>CANCER RESEARCH UK</strong> [Charity number: [1089464](https://findthatcharity.uk/orgid/GB-CHC-1089464)]<br>Cancer Research UK is dedicated to saving lives through research. Our mission is to prevent, control and cure cancer through our ground-breaking research and in the last 40 years our work has helped double survival rates. But there is more work to be done. The only charity fighting over 200 types of cancer, we rely on every pound donated to help get us closer to beating cancer. | £684,207,447
 <strong>WELLCOME TRUST</strong> [Charity number: [210183](https://findthatcharity.uk/orgid/GB-CHC-210183)]<br>Wellcome exists to improve health by helping great ideas to thrive.We support researchers, we take on big health challenges, we campaign for better science, and we help everyone get involved with science and health research. We are a politically and financially independent foundation. | £541,832,807
 <strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £398,900,000
 <strong>Royal Commonwealth Society for the Blind</strong> [Charity number: [SC038110](https://findthatcharity.uk/orgid/GB-SC-SC038110)]<br>'	To take or promote measures for the prevention and cure of blindness in the countries and territories specified under article 4 of this our charter and for the education, rehabilitation, training and employment of the blind in those countries and territories and '	To foster collaboration among organisations concerned with blindness and its prevention and to promote and where appropriate, to participate in national, regional and international activities likely to prevent blindness and benefit the blind in any part of the world. | £338,159,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Ups and Downs Theatre Group</strong> [Charity number: [SC042908](https://findthatcharity.uk/orgid/GB-SC-SC042908)]<br>7 The Company is established for charitable objects and purposes only. 7.1 In particular, the Company is established to provide public benefit in Scotland and to promote, maintain, improve and advance public education, appreciation and understanding of the arts, and in particular to provide creative and performance opportunities for children and young people with Down's Syndrome by providing them with the opportunity to perform music, dance and drama. | £50,366
-<strong>RYDE MEAD LAWN TENNIS CLUB CIO</strong> [Charity number: [1199560](https://findthatcharity.uk/orgid/GB-CHC-1199560)]<br>Providing Tennis facilities for members of the public. Promoting health through sport. Offering tennis activities to the disabled community of the Isle of Wight. | £1,700
-<strong>CLARA E BURGESS CHARITY</strong> [Charity number: [1072546](https://findthatcharity.uk/orgid/GB-CHC-1072546)]<br>Relief of children and young persons, in particular by the provision of facilities and assistance to enhance the education, health and physical well- being of such children, in order that their conditions of life may be improved, but having particular regard to children under age of 10 and those who have lost either one or both parents. Trust is open to applications. | £722,993
-<strong>BRIDLINGTON TALKING NEWSPAPER</strong> [Charity number: [700833](https://findthatcharity.uk/orgid/GB-CHC-700833)]<br>Production and recording of spoken news items from local papers/magazines for distribution on memory sticks for people with sight disabilities. | £14,284
-<strong>Cumbernauld and Kilsyth Care</strong> [Charity number: [SC047347](https://findthatcharity.uk/orgid/GB-SC-SC047347)]<br>“The prevention or relief of poverty.  The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage.  The advance of environmental protection or improvement.  In furtherance of the objectives above we will ensure that:  Every child and young person in our communities having access to the school uniform and other school essentials that they require, establishing and operating a School Uniform/Clothing and Hygiene Bank covering Cumbernauld, Kilsyth and surrounding villages.  Every baby born into our community having access to essentials, from nappies and formula to a cot and buggy, establishing and operating a Baby Bank covering Cumbernauld, Kilsyth and surrounding villages.  Every child and young person in our communities having access to the clothing, shoes and hygiene essentials that they require.  Support disadvantaged and vulnerable people across our communities, by working with and supporting other organisations and groups assisting disadvantaged and vulnerable people.  Protect our environment, through waste reduction, re-use of clothing and equipment, and promotion of sustainability.”  | £109,534
-<strong>Newcastle Preschool Playgroup</strong> [Charity number: [NI103912](https://findthatcharity.uk/orgid/GB-NIC-103912)]<br>The group is established to promote play based learning environments for all children under statutory school age (hereinafter referred to as the beneficiaries) of Newcastle and its surrounding environs of county Down (hereinafter called the "area of benefit" without distinction of age, gender, martial status, disability, sexual orientation, nationality, ethnic identity, political or religious opinion, by associating the statutory authorities, community and voluntary organisations and the inhabitants in a common effort to advance education and health and well being. | £50,495
-<strong>HOWDEN-LE-WEAR VILLAGE HALL SOCIETY</strong> [Charity number: [1156035](https://findthatcharity.uk/orgid/GB-CHC-1156035)]<br>We are a Village Hall providing rooms for various village societies, eg Cubs & Scouts, History Society & NH Healthy Eating classes. The rooms are also available for hire to local people for parties, fairs etc. The Village Hall is also used as a Polling Station for the village at National & Local elections | £17,160
-<strong>DEMENTIA ADVENTURE TRUST</strong> [Charity number: [1163163](https://findthatcharity.uk/orgid/GB-CHC-1163163)]<br>THE DEMENTIA ADVENTURE TRUST (DAT) WAS REGISTERED AS A CHARITY IN 2013 TO RELIEVE THE NEEDS OF PEOPLE LIVING WITH DEMENTIA, AND THEIR CARERS, BY:PROVIDING OR ASSISTING IN THE PROVISION OF HOLIDAYS, OUTDOOR ACTIVITIES OR OTHER SUPPORT AND,PROMOTING RESEARCH INTO THE BENEFITS OF ACTIVITIES WHICH ASSIST IN FURTHERING THE OBJECTS AND PUBLISHING THE RESULTS OF THAT RESEARCH | £958,139
-<strong>GRAND ORDER OF UNITED SCOTTISH MECHANICS OF THE UNIVERSE GRAND LODGE BENEVOLENT FUND</strong> [Charity number: [1063056](https://findthatcharity.uk/orgid/GB-CHC-1063056)]<br>To help sickle cell anaemia society, Afro-Caribbean leukaemia trust, diabetic society, youth education training, overseas aid, famine relief and poverty relief. | £51
-<strong>RESTORE TRUTH OUTREACH MINISTRY</strong> [Charity number: [1139520](https://findthatcharity.uk/orgid/GB-CHC-1139520)]<br>CHARITY FOR THE COMMUNITY TO PROMOTE CHRISTIAN ACTS OF WORSHIP, PRAYERS, COUNSELLING AND OUTREACH WORK INT HE RELIEF OF POVERTY AND DISTRESS | £21,772
+<strong>MIDLAND DOCTORS ASSOCIATION UK</strong> [Charity number: [1114559](https://findthatcharity.uk/orgid/GB-CHC-1114559)]<br>Construction, equipping and operating medical facilities in Kashmir, Pakistan.Raising of funds for this project and others with the primary objective of relieving sickness and protection and preservation of good health particularly, but not exclusively, in Pakistan. | £798,776
+<strong>Blackwood Homes and Care</strong> [Charity number: [SC007658](https://findthatcharity.uk/orgid/GB-SC-SC007658)]<br>2.1 to provide for the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage through the provision, construction, improvement and management of land and accommodation and the provision of care. and 2.2 any other purpose or object permitted under Section 24 of the Housing (Scotland) Act 2010 which is charitable both for the purposes of Section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and also in relation to the application of the Taxes Acts.  | £28,111,000
+<strong>Western Isles Association For Mental Health</strong> [Charity number: [SC027469](https://findthatcharity.uk/orgid/GB-SC-SC027469)]<br>To promote the preservation of mental health and to assist in relieving and rehabilitating persons suffering from mental health disorders or conditions of emotional or mental distress requiring advice or treatment in the Western Isles  To advance the education of the public about mental health and all matters pertaining to it | £122,316
+<strong>AUDIO DESCRIPTION ASSOCIATION</strong> [Charity number: [1084230](https://findthatcharity.uk/orgid/GB-CHC-1084230)]<br>Improving experience of blind and partially sighted attenders at cultural and leisure activities by supporting provision of audio description services, in particular raising standards of provision through accredited training. | £3,921
+<strong>Hugh Stenhouse Foundation</strong> [Charity number: [SC015074](https://findthatcharity.uk/orgid/GB-SC-SC015074)]<br>The prevention and relief of poverty. The advancement of education. The advancement of religion. The advancement of health. Saving Of Lives. The advancement of civic responsibility or community development. The advancement of, arts, heritage, culture, or science. The advancement of environmental protection and improvement. The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage. Any other purpose that may reasonably be regarded as analogous to any of the other preceding purposes. The promotion of animal welfare. | £76,817
+<strong>TORBAY MEDICAL RESEARCH FUND</strong> [Charity number: [261932](https://findthatcharity.uk/orgid/GB-CHC-261932)]<br>The preservation and protection of health and the relief of sickness by the furtherance of medical, dental, health and care research projects directed to that end by members of the medical, dental, health and care professions practicing under the auspices of the Torbay and South Devon medical, dental, health and care community, and the publication of the results of all such research. | £75,642
+<strong>SPARKS OF HOPE</strong> [Charity number: [1160997](https://findthatcharity.uk/orgid/GB-CHC-1160997)]<br>To relieve poverty or financial hardship from people living in North London by assisting in the provision of education/training and all the necessary support designed to enable individuals and families in need to become self-sufficient.To relieve the physical, emotional and mental sickness of people living in North London by the provision of advice, support, referrals and counselling. | £68,947
+<strong>NORTHUMBERLAND COMMUNITY ENTERPRISE LIMITED</strong> [Charity number: [1174831](https://findthatcharity.uk/orgid/GB-CHC-1174831)]<br>NCEL operates various initiatives and projects to better the lives of disadvantaged people living within Stobhill and throughout South East Northumberland. Our services are open to all age ranges and run from our Stobhill Link Community Hub. We offer volunteer opportunities and address local issues such as health and wellbeing, unemployment, skills building, horticulture and social inclusion. | £70,689
+<strong>THE FREEMASONS' FUND FOR SURGICAL RESEARCH</strong> [Charity number: [252951](https://findthatcharity.uk/orgid/GB-CHC-252951)]<br>The charity makes grants to the Royal College of Surgeons of England to support surgical research fellowships. | £267,527
+<strong>Heathhall Community Centre (HCC)</strong> [Charity number: [SC052868](https://findthatcharity.uk/orgid/GB-SC-SC052868)]<br>The Committee?s objectives are set out below, all relative to primarily, but not limited to, benefit the inhabitants of Heathhall Community Council area: a. The advancement of health and well-being. physical and mental. b. The advancement of citizenship and community development. c. The provision of recreational facilities, or the organisation of recreational activities with the object of improving the conditions of life (including social and physical) for the persons for whom the facilities or activities are primarily intended. d. Any other purpose that may reasonably be regarded as analogous to any of the preceding purposes. | £32,474

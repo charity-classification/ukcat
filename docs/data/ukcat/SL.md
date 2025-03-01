@@ -3,7 +3,7 @@
 Saving of lives is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Saving of lives](SL.md) category.
 
-3,601 charities have been tagged with this tag.
+3,612 charities have been tagged with this tag.
 This represents 1.78% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,221 | 1.66%
-£10k - £100k | 1,171 | 1.69%
-£100k - £250k | 313 | 1.48%
-£250k - £500k | 166 | 1.61%
-£500k - £1m | 111 | 1.73%
-£1m - £10m | 172 | 1.96%
-Over £10m | 83 | 3.89%
-Total | 3,237 | 1.69%
+Under £10k | 1,226 | 1.67%
+£10k - £100k | 1,170 | 1.69%
+£100k - £250k | 322 | 1.51%
+£250k - £500k | 163 | 1.57%
+£500k - £1m | 108 | 1.68%
+£1m - £10m | 173 | 1.97%
+Over £10m | 84 | 3.93%
+Total | 3,246 | 1.69%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,809 | 1.65%
-oscr | 663 | 2.70%
+ccew | 2,817 | 1.65%
+oscr | 666 | 2.71%
 ccni | 129 | 1.79%
-Total | 3,601 | 1.78%
+Total | 3,612 | 1.78%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FIRE BRIGADES OF SURREY PRESERVATION TRUST</strong> [Charity number: [297162](https://findthatcharity.uk/orgid/GB-CHC-297162)]<br>To research and record the history of the fire brigades which exist and/or existed within the original Surrey county boundary. To acquire and maintain a collection of fire service appliances, memorabilia, photographs. records and other artifacts associated with the fire brigades within Surrey. To provide assistance and support toward research and education in relation to fire service history. | £97
-<strong>ST AUBYN'S CHARITY</strong> [Charity number: [801930](https://findthatcharity.uk/orgid/GB-CHC-801930)]<br>General Charitable Purposes including overseas aid and famine relief | £10
-<strong>THE FACE CHARITY</strong> [Charity number: [1154175](https://findthatcharity.uk/orgid/GB-CHC-1154175)]<br>Raise money and provide support for free surgical cleft lip and palate and microtia reconstruction missions for children and adults in the Philippines and Ecuador. | £36
-<strong>DROPLETS OF MERCY</strong> [Charity number: [1210531](https://findthatcharity.uk/orgid/GB-CHC-1210531)]<br>1. THE RELIEF AND ASSISTANCE OF PEOPLE IN ANY PART OF THE WORLD WHO ARE THE VICTIMS OF WAR OR NATURAL DISASTER, TROUBLE, OR CATASTROPHE. 2. THE PREVENTION OR RELIEF OF POVERTY ANYWHERE IN THE WORLD BY PROVIDING: GRANTS, ITEMS AND SERVICES TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS WORKING TO PREVENT OR RELIEVE POVERTY. | 
-<strong>THE RUSSELL AND MARY FOREMAN 1980 CHARITABLE TRUST</strong> [Charity number: [281543](https://findthatcharity.uk/orgid/GB-CHC-281543)]<br>The advancement of animal welfare;The advancement of health or the saving of lives.Trust is open to applications. Please submit your application to https://funding.ludlowtrust.com | £7,627
-<strong>THE ROTARY CLUBS OF NORTHAMPTON CHARITABLE TRUSTS FUND</strong> [Charity number: [1124836](https://findthatcharity.uk/orgid/GB-CHC-1124836)]<br>Joint fund raising activities by the Rotary clubs of Northampton for the benefit of local charities and for relief for victims of natural disasters, home or abroad, including medical aid towards eliminating diseases. | £3,311
-<strong>FELIXSTOWE VOLUNTEER COAST PATROL AND RESCUE SERVICES</strong> [Charity number: [1082443](https://findthatcharity.uk/orgid/GB-CHC-1082443)]<br>Water based patrol and rescue service | £18,080
-<strong>KINGSWINFORD AND STOURBRIDGE LIONS CLUB (CIO)</strong> [Charity number: [1201879](https://findthatcharity.uk/orgid/GB-CHC-1201879)]<br>3.1 THE OBJECTS OF THE CLUB ARE SUCH PURPOSES AS ARE EXCLUSIVELY CHARITABLE IN ENGLAND & WALES, INCLUDING IN PARTICULAR:3.1.1 THE ADVANCEMENT OF CITIZENSHIP BY:3.1.1.1 PROMOTING THE PRINCIPLES OF GOOD CITIZENSHIP.3.1.1.2 ENCOURAGING MEMBERS TO TAKE AN ACTIVE INTEREST IN THE CIVIC, CULTURAL, SOCIAL AND MORAL WELFARE OF THE COMMUNITY.3.1.1.3 PROVIDING A FORUM FOR THE OPEN DISCUSSION OF ALL MATTERS OF PUBLIC INTEREST, PROVIDED THAT PARTISAN POLITICS AND SECTARIAN RELIGION SHALL NOT BE DEBATED BY MEMBERS.3.1.1.4 ENCOURAGING SERVICE-MINDED PEOPLE TO SERVE THEIR COMMUNITY WITHOUT PERSONAL REWARD AND ENCOURAGING THE PROMOTION OF HIGH ETHICAL STANDARDS IN COMMERCE, INDUSTRY, PROFESSIONS, PUBLIC WORKS AND PRIVATE ENDEAVOURS.3.1.1.5 SUPPORTING YOUTH TO DEVELOP THEIR SKILLS, CAPACITIES, AND CAPABILITIES TO ENABLE THEM TO PARTICIPATE IN SOCIETY AS MATURE AND RESPONSIBLE INDIVIDUALS.3.1.2 PROMOTING THE VOLUNTARY SECTOR FOR THE PUBLIC BENEFIT BY ASSOCIATING WITH LOCAL AUTHORITIES IN A COMMON EFFORT TO ADVANCE EDUCATION AND PROVIDE FACILITIES IN THE INTERESTS OF SOCIAL WELFARE FOR RECREATION OR OTHER LEISURE TIME OCCUPATION TO IMPROVE THE CONDITIONS OF LIFE OF PEOPLE IN LOCAL, NATIONAL AND INTERNATIONAL COMMUNITIES.3.1.3 PROMOTING VOLUNTEERING.3.1.4 THE RELIEF OF POVERTY AND THE RELIEF OF THOSE IN NEED IN PARTICULAR BY PROVIDING HUMANITARIAN AID AND DISASTER RELIEF.3.1.5 THE ADVANCEMENT OF HEALTH OR THE SAVING OF LIVES BY PREVENTING AVOIDABLE BLINDNESS, ASSISTING DISABLED PEOPLE TO LEAD INDEPENDENT LIVES OR HELPING TO PREVENT OR MANAGE HEALTH ISSUES.3.1.6 PROMOTING FOR THE BENEFIT OF THE PUBLIC THE CONSERVATION PROTECTION AND IMPROVEMENT OF THE PHYSICAL AND NATURAL ENVIRONMENT; AND/OR3.1.7 PROMOTING COMMUNITY PARTICIPATION IN HEALTHY RECREATION. | 
-<strong>PETER VALLANCE FOUNDATION</strong> [Charity number: [1147364](https://findthatcharity.uk/orgid/GB-CHC-1147364)]<br>THE ADVANCEMENT OF HEALTH , WELL-BEING AND THE SAVING OF LIVES INCLUDING, BUT NOT LIMITED TO, RELIEVING SICKNESS, DISEASE AND HUMAN SUFFERING AND ENDEAVOURING TO PRESERVE AND PROTECT, IN PARTICULAR BUT NOT EXCLUSIVELY, THOSE WITH ANY FORM OF DEPRESSION, SUICIDE TENDENCIES, SELF HARM AND ASSIST IN OBTAINING TREATMENT. | £250
-<strong>ROKPA GB</strong> [Charity number: [1179878](https://findthatcharity.uk/orgid/GB-CHC-1179878)]<br>Relief of Poverty, Education, Sustainable Development, Disaster Relief and Environmental Conservation | £13,239
+<strong>LONDON'S AIR AMBULANCE LIMITED</strong> [Charity number: [801013](https://findthatcharity.uk/orgid/GB-CHC-801013)]<br>The relief of sickness and physical injury by the provision of emergency medical services and equipment and in particular by the provision of a helicopter ambulance service or other emergency transport.The provision of training, research and education in the field of pre-hospital medicine for the treatment and/or prevention of sickness and physical injury. | £24,077,000
+<strong>The Police Historical Society (N.I.) (incorporating The RUC GC Historical Society)</strong> [Charity number: [NI106672](https://findthatcharity.uk/orgid/GB-NIC-106672)]<br>Management of RUC Museum which collects, loans and preserves articles associated with Police history, carrying out research into the history of policing in Ireland, recording and gathering information and artefacts, publishing a newsletter and delivering educational talks | 
+<strong>THE POLICE ARBORETUM MEMORIAL TRUST</strong> [Charity number: [1159831](https://findthatcharity.uk/orgid/GB-CHC-1159831)]<br>PAMT aims to honour the dedication, courage and sacrifice of members of the UK's Police service, through the creation of a new UK Police Memorial at the National Memorial Arboretum in Staffordshire, the UK?s place for year round remembrance.  Commemoration, remembrance and reflection will be at its heart, also nurturing a sense of pride and value in our Police through its educational elements. | £251,284
+<strong>EDALE MOUNTAIN RESCUE TEAM</strong> [Charity number: [1138626](https://findthatcharity.uk/orgid/GB-CHC-1138626)]<br>Saving lives in wild and remote places | £207,916
+<strong>Police Roll of Honour Trust</strong> [Charity number: [SC048982](https://findthatcharity.uk/orgid/GB-SC-SC048982)]<br>4. The objects of the Trust shall be the commemoration of Police Officers who have lost their lives both on, and in the line of duty in all or any of the following ways:  (a) the provision of a record of all those Police Officers who lost their lives in a manner that dictates their name be added, historically or contemporaneously, to the United Kingdom's Police Roll of Honour.  (b) support the ongoing research to ensure accuracy and relevance of the United Kingdom's Police Roll of Honour.  ( c) the provision of, or to assist in the provision of, and maintenance of memorials including statues, memorial gardens, books of remembrance, plaques and other appropriate memorials be they national, local, group or individual.  (d) the holding of, or participation in, memorial services or other acts of remembrance. | £118,237
+<strong>THE NATIONAL POLICE COMMUNITY TRUST</strong> [Charity number: [1079612](https://findthatcharity.uk/orgid/GB-CHC-1079612)]<br>Provide opportunities for youths at risk of coming involved in crime or anti social behaviour. Through a range of projects including sport, education and. The charity helps thousands of young people throughout the year to make positive decisions about their future. | 
+<strong>THE BEDFORDSHIRE AND HERTFORDSHIRE HISTORIC CHURCHES TRUST</strong> [Charity number: [1197228](https://findthatcharity.uk/orgid/GB-CHC-1197228)]<br>To raise funds, and co-operate with other grant-making bodies, to make funds available for the restoration, preservation, repair and reconstruction of historic churches and chapels. To secure funds from the Trust's Supporters, from an annual sponsored bike ride and other fund-raising events. Educational and other events for Supporters: Study Day; Church Tours. | £592,059
+<strong>Ballater Historic Forestry Project Association</strong> [Charity number: [SC047489](https://findthatcharity.uk/orgid/GB-SC-SC047489)]<br>The organisation's principle purpose is the advancement of heritage and culture. The organisation will fulfil its purpose through the following activities:- (a)The necessary reconstruction, restoration, maintenance, conservation and preservation of the logging camp and log cabin village (the Historic Buildings) which were first constructed at Dalmochie, Pannanich Wood near Ballater, Aberdeenshire (the Dalmochie Site) during the Second World War, into a publicly accessible historical attraction and working model of environmentally friendly forest management.  (b) The development of links of friendship with individuals who worked at the Dalmochie Site during the Second World War, and their descendants.  (c) The preservation of memories of individuals who worked at the Dalmochie Site during the Second World War.  (d) The advancement of public education by collecting and making publicly available information regarding the history and development of the forestry industry in Aberdeenshire, the history of the Dalmochie Site and its environs and contribution to the Second World War effort.  (e) The stimulation of public interest and appreciation in the history, use and development of the Dalmochie Site. (f) The provision of training and skills of all kinds, particularly those which will assist in activities relating to forestry, the history of forestry and the protection of the environment.  | 
+<strong>FESTIVAL MEDICAL SERVICES</strong> [Charity number: [1124695](https://findthatcharity.uk/orgid/GB-CHC-1124695)]<br>(a) the relief of sickness by the provision of medical services and emergency relief particularly at public gatherings; (b) to advance the education and training of members and volunteers of the Charity, and of members of the public in general, in the subject of medical care ; and(c) any Charitable purpose which the trustees shall from time to time think fit | £799,845
+<strong>ANGLO ASIAN FRIENDSHIP SOCIETY</strong> [Charity number: [1108891](https://findthatcharity.uk/orgid/GB-CHC-1108891)]<br>-Free advice & advocacy surgeries: legal health, finance, benefits, immigration & faith.-Spiritual counselling-International free eye camps-Disaster relief & rehabilitation-Inter-faith dialogue forums in UK, Pakistan and Israel-Lobbying & advocacy | £12,766

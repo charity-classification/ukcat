@@ -3,7 +3,7 @@
 Beneficiary group is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Beneficiary group](BE.md) category.
 
-77,413 charities have been tagged with this tag.
+77,434 charities have been tagged with this tag.
 This represents 38.22% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 26,766 | 36.44%
-£10k - £100k | 26,143 | 37.80%
-£100k - £250k | 8,790 | 41.46%
-£250k - £500k | 4,199 | 40.63%
-£1m - £10m | 3,604 | 41.09%
-£500k - £1m | 2,489 | 38.80%
-Over £10m | 878 | 41.10%
-Total | 72,869 | 38.05%
+Under £10k | 26,699 | 36.41%
+£10k - £100k | 26,188 | 37.78%
+£100k - £250k | 8,818 | 41.44%
+£250k - £500k | 4,215 | 40.68%
+£1m - £10m | 3,614 | 41.12%
+£500k - £1m | 2,496 | 38.72%
+Over £10m | 878 | 41.09%
+Total | 72,908 | 38.04%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 63,656 | 37.28%
-oscr | 10,090 | 41.02%
-ccni | 3,667 | 50.90%
-Total | 77,413 | 38.22%
+ccew | 63,681 | 37.28%
+oscr | 10,088 | 41.02%
+ccni | 3,665 | 50.83%
+Total | 77,434 | 38.22%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>123rd Belfast Rainbows</strong> [Charity number: [NI104327](https://findthatcharity.uk/orgid/GB-NIC-104327)]<br>Appendix 2 Organisation’s Activities Girlguiding believes in the value of learning by doing. This is put into practice through a Method with five interlinking elements, known as the Five Essentials of guiding: • working together in small groups • encouraging self-government and decision making • a balanced and varied programme • caring for the individual • sharing a commitment to a common standard The Guiding Method is delivered to young members grouped by age into four sections: Rainbow Guides, Brownie Guides, Guides and members of The Senior Section. Its principles apply to all members, including adults. | £98
-<strong>THE PONTOON TRUST</strong> [Charity number: [1172421](https://findthatcharity.uk/orgid/GB-CHC-1172421)]<br>Supporting of the Society of Jesus (The Jesuits) in the UK, the Republic of Ireland, Sweden and East Africa and financial assistance for students wishing to attend Blackrock College, Dublin, and similar Catholic schools or academic institutions.  The relief of those in need because of youth, age, Ill-health, financial hardship or other disadvantage.  Support of the arts, classical music and opera. | £3,327,951
-<strong>ROBERT WOODS EXHIBITION FOUNDATION</strong> [Charity number: [529415](https://findthatcharity.uk/orgid/GB-CHC-529415)]<br>Grants to children attending university. | £18
-<strong>THE FUTSAL STARS FOUNDATION</strong> [Charity number: [1194598](https://findthatcharity.uk/orgid/GB-CHC-1194598)]<br>Provide grants of financial assistance to children from economically disadvantaged backgrounds to access football and futsal coaching services in London and Sussex. | £32,612
-<strong>PANGBOURNE VALLEY PRE-SCHOOL</strong> [Charity number: [1039967](https://findthatcharity.uk/orgid/GB-CHC-1039967)]<br>Playgroup provision for the West Berkshire Area | £104,757
-<strong>ST MARYS PRE-SCHOOL PLAYGROUP</strong> [Charity number: [1122601](https://findthatcharity.uk/orgid/GB-CHC-1122601)]<br>To enhance the development and education of children primarily under statutory school age by encouraging parents to understand and provide for the needs of their children through by offering appropriate play, education and care facilities and family learning ensuring that such groups offer opportunities for all children whatever their race, culture, religion, means or ability. | £228,807
-<strong>ZION COMMUNITY PRE-SCHOOL</strong> [Charity number: [1112170](https://findthatcharity.uk/orgid/GB-CHC-1112170)]<br>Pre-school education provider in the village of Frampton Cotterell. | £86,063
-<strong>OLD CHAPEL AND SUNDAY SCHOOL DUKINFIELD</strong> [Charity number: [1046857](https://findthatcharity.uk/orgid/GB-CHC-1046857)]<br>a) The advancement of the Unitarian faith and the public worship of God; b) The advancement of religious education in accordance with the principles of the Unitarian faith; c) The advancement of the education of children and young people in the faith particularly by the provision of a Sunday School. | £36,322
-<strong>3 LITTLE MIRACLES FUND</strong> [Charity number: [1119331](https://findthatcharity.uk/orgid/GB-CHC-1119331)]<br>OBJECT: TO RAISE FUNDS TO PURCHASE VITAL LIFE SAVING EQUIPMENT FOR NEONATAL UNITS ACROSS THE UNITED KINGDOM.  ACTIVITIES INCLUDE PERSONAL APPEALS FOR DONATIONS; FUNDRAISING EVENTS; VARIOUS FUNDRAISING ACTIVITIES CARRIED OUT BY FRIENDS AND FAMILY. | 
-<strong>NATURE OF LEARNING FOUNDATION</strong> [Charity number: [1201558](https://findthatcharity.uk/orgid/GB-CHC-1201558)]<br>The advancement of education for the public benefit by making grants to enable children, young people and adults who may otherwise be excluded by socio economic factors or disability to access the educational opportunities and experiences in the natural world offered by recognised Forest School Association forest school providers. | £723
+<strong>BOLTON DEVELOPMENT SCHEME</strong> [Charity number: [1210541](https://findthatcharity.uk/orgid/GB-CHC-1210541)]<br>TO ADVANCE IN LIFE AND OF YOUNG PEOPLE IN BOLTON AGED 5-18 THROUGH:(A) THE PROVISION OF RECREATIONAL AND LEISURE TIME ACTIVITIES PROVIDED IN THE INTEREST OF SOCIAL WELFARE, DESIGNED TO IMPROVE THEIR CONDITIONS OF LIFE;(B) PROVIDING SUPPORT AND ACTIVITIES WHICH DEVELOP THEIR SKILLS, CAPACITIES AND CAPABILITIES TO ENABLE THEM TO PARTICIPATE IN SOCIETY AS MATURE AND RESPONSIBLE INDIVIDUALS.” | 
+<strong>THOMAS WILLIAMS' FOUNDATION</strong> [Charity number: [527044](https://findthatcharity.uk/orgid/GB-CHC-527044)]<br>Operates in area of parishes of Norbury and Roston and Snelston in County of Derbyshire to give cash awards under two moities. 1st moiety towards provision of religious instruction for children of Norbury School, other moiety to provide education grants to persons under 25 resident in either parish who have been educated for over 2 years at a county school and who are in need of financial assistan | £804
+<strong>CONNECTED LIFE CHURCH</strong> [Charity number: [1139836](https://findthatcharity.uk/orgid/GB-CHC-1139836)]<br>Regular open public worship. Pastoral work,among sick and bereaved. Teaching Christianity through sermons, courses, small groups. Youth club with Christian ethos. Promoting Christianity by staging events, meetings, and distribution of literature. Promoting mission via provision of activities for senior citizens, parents toddlers and special need groups. Supporting mission in the UK and overseas. | £176,944
+<strong>CHRIST APOSTOLIC CHURCH RIVER OF LIFE</strong> [Charity number: [1196564](https://findthatcharity.uk/orgid/GB-CHC-1196564)]<br>Sunday worship gathering, Prayer, Christian education like Bible study/seminars, Youth activities, Music class, Counselling and advice and Community activities. | £12,897
+<strong>SHEPSHED DOLPHIN SWIMMING GROUP</strong> [Charity number: [1129347](https://findthatcharity.uk/orgid/GB-CHC-1129347)]<br>SDSG runs a weekly swim session and other sports/social activities, for persons with a physical, sensory or learning disability and for those recovering from short-term illness or injury.  Individuals - who are encouraged to come with other family members or carers - swim to help build confidence, increase strength, and co-ordination, social interaction, and primarily, to have fun. | £11,575
+<strong>THE LINDSEY FAMILY FOUNDATION</strong> [Charity number: [1193673](https://findthatcharity.uk/orgid/GB-CHC-1193673)]<br>It will be providing financial support to people who have fallen on hard times and need help. This is likely to be combination of those who need financial help to meet their day-to-day expenditure and others who may have medical and/or care home fees /or similar. In addition the trustees wish to support other charities. This is likely to to be a combination of regular support and ad hoc payments. | £38,588
+<strong>Dunbartonshire Disability Sports Club SCIO</strong> [Charity number: [SC052562](https://findthatcharity.uk/orgid/GB-SC-SC052562)]<br>4 For the purpose of the following clauses and throughout this document, the organisations name Dunbartonshire Disability Sports Club SCIO shall in some cases be abbreviated to DDSC or ?the DDSC.  The organisations purposes are: a.The DDSC will provide recreational opportunities through sport for those children and young people, primarily but not exclusively, with disabilities in the Dunbartonshire and surrounding areas with the aim of improving their physical and mental wellbeing. b.The DDSC will provide the parents and carers of our members with the opportunity gain valuable respite during club time. We will also promote their participation in sport and provide fitness and health opportunities during this time thus enabling the parents and carers of our members to improve their physical and mental wellbeing.  c.The DDSC will further promote the public's participation in sport and advance the public's sense of citizenship by offering valuable volunteering opportunities with our club.  d.The DDSC will promote equality and diversity to the wider community by offering support to other sports club and other community groups in the surrounding area. | 
+<strong>CHARITIES OF NICHOLAS AND BEAMOND</strong> [Charity number: [226799](https://findthatcharity.uk/orgid/GB-CHC-226799)]<br>To provide sheltered accommodation for residents over 60 years old on limited income under the Almshouse Trust under the lease with Warden Housing (now Home Group) and to benefit poor members of the Salters' Company and poor people in Greater London. | £56,577
+<strong>HELP THE NEEDY CHARITABLE TRUST</strong> [Charity number: [1059951](https://findthatcharity.uk/orgid/GB-CHC-1059951)]<br>Our Charity set out to do: General Charitable Purposes, Education/ Training, Medical/Health/Sickness, Disability, Relief pf Poverty, Overseas aid/Famine relief, Accommodation/HousingOur charity helps: Women, Children/ Young People, Elderly/Old People, People with Disability/Special Need, Other Charities/ Voluntary Bodies, General Public/Mankind | £3,067,859
+<strong>THE WOKING COMMUNITY FURNITURE PROJECT</strong> [Charity number: [1059139](https://findthatcharity.uk/orgid/GB-CHC-1059139)]<br>Relief of poverty by the supply to needy individuals and families of furniture and household goods at low cost. | £169,588

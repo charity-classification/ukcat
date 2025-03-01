@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,270 charities have been tagged with this tag.
-This represents 4.58% of all charities.
+9,258 charities have been tagged with this tag.
+This represents 4.57% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,795 | 2.44%
-£10k - £100k | 3,672 | 5.31%
-£100k - £250k | 2,289 | 10.80%
-£250k - £500k | 614 | 5.94%
-£500k - £1m | 286 | 4.46%
-£1m - £10m | 209 | 2.38%
+Under £10k | 1,789 | 2.44%
+£10k - £100k | 3,658 | 5.28%
+£100k - £250k | 2,295 | 10.78%
+£250k - £500k | 620 | 5.98%
+£500k - £1m | 288 | 4.47%
+£1m - £10m | 210 | 2.39%
 Over £10m | 22 | 1.03%
-Total | 8,887 | 4.64%
+Total | 8,882 | 4.63%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,929 | 4.64%
-oscr | 716 | 2.91%
-ccni | 625 | 8.67%
-Total | 9,270 | 4.58%
+ccew | 7,920 | 4.64%
+oscr | 712 | 2.90%
+ccni | 626 | 8.68%
+Total | 9,258 | 4.57%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>MARION ELIZABETH KENNEDY FOR AN OPEN SPACE AND CHILDREN'S PLAYGROUND</strong> [Charity number: [301777](https://findthatcharity.uk/orgid/GB-CHC-301777)]<br>PUBLIC OPEN SPACES FOR INFORMAL RECREATION | 
-<strong>THE PETE ATKINS YOUTH HOCKEY FOUNDATION</strong> [Charity number: [1181103](https://findthatcharity.uk/orgid/GB-CHC-1181103)]<br>Enabling Schools to provide Hockey coaching as part of the curriculum and/or as an after School Activity.  Also encourage participation in organised competitions with other schools.Provide small grants or equipment to help young players enter the world of Hockey or to achieve there ambitions to be the best they can be at the sport. | £244
-<strong>WEST HENDON OPPORTUNITY PRE-SCHOOL</strong> [Charity number: [1030746](https://findthatcharity.uk/orgid/GB-CHC-1030746)]<br>PROVIDE EDUCATION TO YOUNG CHILDREN AGED TWO TO FIVE YEARS. | £115,961
-<strong>RAINBOW PRESCHOOL</strong> [Charity number: [1035573](https://findthatcharity.uk/orgid/GB-CHC-1035573)]<br>Rainbow Pre school aims to give every child the very best opportunity to develop to their full potential in a fun, friendly and fascinating environment. Rainbow Pre school does this by providing care & education for children from the age of 2 1/2 to statutory school age, with close regards to the early years foundation stage standards and guidance. Rainbow Pre school aims to offer quality of oppor | £30,060
-<strong>CYLCH MEITHRIN SGETI</strong> [Charity number: [1057296](https://findthatcharity.uk/orgid/GB-CHC-1057296)]<br>Cylch Meithrin Sgeti provides a playgroup and a toddler group which offers a variety of play opportunities in a friendly Welsh-language environment. | £8,662
-<strong>BOLLINBROOK PRE-SCHOOL</strong> [Charity number: [1023849](https://findthatcharity.uk/orgid/GB-CHC-1023849)]<br>Bollinbrook Pre-school is a fully inclusive setting which provides care and education for pre-school aged children. It opened in 1989 in the Bollinbrook area of Macclesfield and serves up to fifty four families from the community. | £114,656
-<strong>THE ACRES SEND</strong> [Charity number: [1207490](https://findthatcharity.uk/orgid/GB-CHC-1207490)]<br>To advance the education of children with special educational needs and to provide information, advice and guidance for their families and carers, in particular by means of education, conductive education, rehabilitation, childcare and the provision of facilities in Burnley, Lancashire. | 
-<strong>THE FRIENDS OF SAINT ANNES INFANT SCHOOL</strong> [Charity number: [1053907](https://findthatcharity.uk/orgid/GB-CHC-1053907)]<br>We do a variety of fund raising events to enable us to purchase items for the children which school funds would not be able  to meet. We also hold fun events for the children such as christmas parties and video nights. | £3,772
-<strong>TOWER PLAYGROUP</strong> [Charity number: [1035280](https://findthatcharity.uk/orgid/GB-CHC-1035280)]<br>To provide a safe and caring environment for young children to play and learn together | £40,296
-<strong>TRELOWAN PRE SCHOOL PLAYGROUP</strong> [Charity number: [1031344](https://findthatcharity.uk/orgid/GB-CHC-1031344)]<br>Trelowan Preschool provides early years care and education for children aged two to five years old. | £94,999
+<strong>KINGS HILL PRE-SCHOOL</strong> [Charity number: [1118021](https://findthatcharity.uk/orgid/GB-CHC-1118021)]<br>We are a community pre school providing a safe supportive and stimulating environment for children aged 2-5 years. Places are open primarily to children living on Kingshill/Kingshill parish however remaining places will be available to children from surrounding areas. | £213,304
+<strong>KIRKROYDS PRE-SCHOOL</strong> [Charity number: [1155576](https://findthatcharity.uk/orgid/GB-CHC-1155576)]<br>Care and education for Pre-school children aged 2 to 5 | £70,746
+<strong>RAINBOW PRE-SCHOOL (BLACKWELL PARISH)</strong> [Charity number: [1039061](https://findthatcharity.uk/orgid/GB-CHC-1039061)]<br>We are a nursery offering sessional day care. | £37,262
+<strong>THE BRIDGE YOUTH PROJECT</strong> [Charity number: [1184436](https://findthatcharity.uk/orgid/GB-CHC-1184436)]<br>MENTORING SECONDARY SCHOOL PUPILS. PASTORAL/CHAPLAINCY/EMOTIONAL LITERACY SUPPORT WORK IN SCHOOLS, DELIVERING LESSONS ON ASPECTS OF CHRISTIAN FAITH WITHIN THE RELIGIOUS STUDIES PROGRAMMES OF SECONDARY AND PRIMARY SCHOOLS; SPEAKING AT SCHOOL ASSEMBLIES, PRESENTING A CHRISTIAN STANDPOINT ON CURRENT ISSUES; RUNNING AFTER-SCHOOL CHRISTIAN CLUBS; ENCOURAGING CHRISTIAN STUDENT GROUPS IN SCHOOLS | £276,120
+<strong>CRESWICK PRE-SCHOOL LTD</strong> [Charity number: [1145213](https://findthatcharity.uk/orgid/GB-CHC-1145213)]<br>Creswick pre-school provides early learning and play experiences for children aged between 2-5. We follow the Early Years Foundation Stage curriculum. | £145,396
+<strong>MOONPENNY WAY PLAY AREA</strong> [Charity number: [1051088](https://findthatcharity.uk/orgid/GB-CHC-1051088)]<br>To provide recreational facilities for young people | 
+<strong>DIVINE CHRIST MINISTRIES</strong> [Charity number: [1164825](https://findthatcharity.uk/orgid/GB-CHC-1164825)]<br>THE ADVANCEMENT OF THE CHRISTIAN RELIGION IN PARTICULAR BY THE PROPAGATION OF THE GOSPEL.   WE PROVIDE MEANINGFUL TIMES OF WORSHIP AND OPPORTUNITIES FOR FELLOWSHIP FOR PEOPLE OF ALL AGES, THROUGH SUNDAY SCHOOL, YOUTH GROUP, SENIOR CITIZENS CLUB, , SUMMER HOLIDAY CLUB. SEMINARS FOR MEN & WOMEN COVERING VARIOUS TOPICS INCLUDING DOMESTIC ABUSE, FINANCE AND HEALTH ISSUES | £16,169
+<strong>Mount Saint Catherine's Little Buds Playgroup and Big Buds Out of Schools Club</strong> [Charity number: [NI107477](https://findthatcharity.uk/orgid/GB-NIC-107477)]<br>Children can attend the playgroup from the age of 2 years and 10 months old and can stay until they are school age. Children can attend regardless of their gender, race, disability and religion. Little Buds provides a warm, stable, secure, stimulating and educational environment in which younger children follow the Eager and Able to Learn Programme and the pre-school children follow the N.Ireland Preschool Curriculum. We charge the minimum amount to make the playgroup affordable to all as we are situated in one of the most socially deprived areas in Armagh. Observations of the children are recorded on a daily basis and any concerns are dealt with promptly. Parents are invited to join our voluntary committee on a yearly basis. We currently have 8 parents on our committee. We are a member of Early Years and when joining up we agreed to their values and principles. We meet with our Early Years Advisor at least twice a year to ensure this. In relation to any harm which may arise from any of the purposes, there may be minor incidents during the course of play and to manage this risk all staff are trained in Health, Safety & Risk Assessment and adhere to the ‘Management of Risks’ policy. All staff are also trained in Paediatric First Aid and Fire Safety Risk Assessment. | £82,042
+<strong>OSCARS</strong> [Charity number: [1186326](https://findthatcharity.uk/orgid/GB-CHC-1186326)]<br>OSCARS provides out of school childcare for primary age children during term-time and holidays in Frampton Cotterell. | 
+<strong>ANDOVER PRE SCHOOL LIMITED</strong> [Charity number: [1135042](https://findthatcharity.uk/orgid/GB-CHC-1135042)]<br>Early Years Education; Training for Early Years Volunteers and Students; Parent Workshops. | £122,607

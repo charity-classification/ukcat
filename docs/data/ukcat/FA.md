@@ -3,7 +3,7 @@
 Facilities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Facilities](FA.md) category.
 
-19,231 charities have been tagged with this tag.
+19,249 charities have been tagged with this tag.
 This represents 9.50% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 7,776 | 10.59%
-£10k - £100k | 8,472 | 12.25%
-£100k - £250k | 1,202 | 5.67%
-£250k - £500k | 533 | 5.16%
-£500k - £1m | 266 | 4.15%
-£1m - £10m | 262 | 2.99%
+Under £10k | 7,767 | 10.59%
+£10k - £100k | 8,494 | 12.25%
+£100k - £250k | 1,212 | 5.70%
+£250k - £500k | 535 | 5.16%
+£500k - £1m | 266 | 4.13%
+£1m - £10m | 264 | 3.00%
 Over £10m | 26 | 1.22%
-Total | 18,537 | 9.68%
+Total | 18,564 | 9.69%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 17,213 | 10.08%
-oscr | 1,627 | 6.61%
-ccni | 391 | 5.43%
-Total | 19,231 | 9.50%
+ccew | 17,229 | 10.09%
+oscr | 1,627 | 6.62%
+ccni | 393 | 5.45%
+Total | 19,249 | 9.50%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>PIDDINGHOE VILLAGE HALL</strong> [Charity number: [264645](https://findthatcharity.uk/orgid/GB-CHC-264645)]<br>VILLAGE HALL AVAILABLE FOR INTEREST GROUPS/CLUBS LOCAL FUNCTIONS TABLE TENNIS KEEP FIT. | £7,862
-<strong>CORSENSIDE PARISH HALL</strong> [Charity number: [1067904](https://findthatcharity.uk/orgid/GB-CHC-1067904)]<br>MANAGEMENT OF PARISH HALL BUILDING AND LAND | £22,915
-<strong>THE ROBINSON INSTITUTE, GLAISDALE</strong> [Charity number: [1094588](https://findthatcharity.uk/orgid/GB-CHC-1094588)]<br>The Robinson Institute is a community hall, managed by trustees, with the primary objective of serving the community of Glaisdale and the Esk Valley. | £13,204
-<strong>TRUST PROPERTY HELD IN CONNECTION WITH WESTVALE COMMUNITY ASSOCIATION</strong> [Charity number: [521351](https://findthatcharity.uk/orgid/GB-CHC-521351)]<br>(A) TO PRMOTE THE WELL-BEING OF THE CUMMUNITY RESIDENT IN WESTVALE AND DISTRICT (HEREINAFTER REFERRED TO AS "THE NEIGHBOURHOOD") BY ASSOCIATIONG VOLUNTARY ORGANISATIONS AND RESIDENTS IN A COMMON EFFORT TO ADVANCE EDUCATION AND TO PROVIDE FACILITIES FOR PHYSICAL AND MENTAL TRAINING AND RECREATION AND SOCIAL MORAL AND INTELLECTUAL DEVELOPMENT AND TO FURTHER HEALTH; AND (B) TO ESTABLISH OR TO SECURE THE ESTABLISHMENT OF A COMMUNITY CENTRE. | £2,096
-<strong>SESSAY COMMUNITY TRUST</strong> [Charity number: [1171804](https://findthatcharity.uk/orgid/GB-CHC-1171804)]<br>Multi-use Village Hall supporting  activities for all ages including social clubs,Rural arts activities, 10 cricket teams across gender and age groups and bowls clubs. | £49,825
-<strong>Friends of Morley Meadow Primary</strong> [Charity number: [1070436](https://findthatcharity.uk/orgid/GB-CHC-1070436)]<br>Regular fundraising activities held within the school to raise additional funds for use by the school and its pupils. | £4,041
-<strong>AUDLEM AND DISTRICT COMMUNITY ACTION</strong> [Charity number: [1144074](https://findthatcharity.uk/orgid/GB-CHC-1144074)]<br>Provides welfare support to vulnerable and socially isolated adults and older people  and their carers which promotes social inclusion, community participation and independence. This includes a day club, coffee club, befriending services, voluntary driving and support to carers. | £90,775
-<strong>LITTLE WEIGHTON VILLAGE HALL</strong> [Charity number: [523266](https://findthatcharity.uk/orgid/GB-CHC-523266)]<br>Provide and maintain a village hall for the people of the village of Little Weighton | £14,762
-<strong>WEST PARLEY MEMORIAL HALL CHARITABLE INCORPORATED ORGANISATION</strong> [Charity number: [1179113](https://findthatcharity.uk/orgid/GB-CHC-1179113)]<br>We hire the hall out to community clubs, birthday parties, weddings, anniversary parties,  dance groups, fitness groups, baby/toddler groups, dog training groups and community meetings.  The hall that serves the community. | £4,716
-<strong>FLAGG VILLAGE HALL</strong> [Charity number: [1014279](https://findthatcharity.uk/orgid/GB-CHC-1014279)]<br>The hall (charity) is used by all the community for social, recreational, sporting and educational activities. | £4,425
+<strong>HALSTEAD PLAYERS</strong> [Charity number: [297267](https://findthatcharity.uk/orgid/GB-CHC-297267)]<br>We organise local amateur dramatic productions, usually 1 to 2 a year, in order to give our community the opportunity to experience local theatre, both through taking part in productions and as members of the audience. We also make donations to other organisations and groups within our community (such as the local school, nursery and community cafe), and to other good causes close to our hearts. | £3,294
+<strong>RECULVER AND BELTINGE MEMORIAL HALL</strong> [Charity number: [302823](https://findthatcharity.uk/orgid/GB-CHC-302823)]<br>The charity provides a well maintained village hall available for hire by local clubs & organisations. Regular users include  Brownies, Art classes, WI, Garden Club, Bowling, Keep fit, Tia Chi, Zumba, Choir and Band practices. Taekwanda for kids, club fairs and polling station. Plus a venue for private parties. The hall has facilities for the disabled and well appointed stage and dressing rooms. | £26,098
+<strong>Abundant Borders (SCIO)</strong> [Charity number: [SC049008](https://findthatcharity.uk/orgid/GB-SC-SC049008)]<br>4 The organisation's purposes are: 4.1 The advancement of education by training people to produce food in a sustainable and environmentally friendly way  Our activities can reasonably be expected to also promote: 4.2 The relief of poverty, specifically food poverty, through the development of skills, including but not restricted to, food growing, preservation and cooking 4.3 Environmental protection and improvement by, for example, teaching the benefits of wildlife to food production and by creating healthy soil ecosystems 4.4 The use of land for recreational purposes by, for example, the creation of community gardens and other growing spaces. | £104,126
+<strong>ACTIVATE - FAIRLIGHT YOUTH CENTRE</strong> [Charity number: [1087115](https://findthatcharity.uk/orgid/GB-CHC-1087115)]<br>YOUTH CLUB FOR 10-16 YEAR OLD CHILDREN OF LOCAL VILLAGES | £7,632
+<strong>ORWELL VILLAGE HALL</strong> [Charity number: [300416](https://findthatcharity.uk/orgid/GB-CHC-300416)]<br>General meeting place for Orwell and surrounding villages, for villagers to engage in such activities as the Womens' Institute, Parish Council & Friendship Club.A venue for private parties and events.A venue for activities, such as pannier markets and jumble sales.A venue for the arts, including the Orwell Film Club.A venue for exercise activities such as aerobics, yoga & carpet bowls. | £10,534
+<strong>ROCHDALE COUNCIL OF MOSQUES</strong> [Charity number: [1148918](https://findthatcharity.uk/orgid/GB-CHC-1148918)]<br>Our Activities and Achievements ? Safeguarding Training for all Imams? Respect for All Religions? Birthday of the Prophet Celebrations? Islam Awareness Training? Spoken Urdu Training? Inter Mosque Competition? Drugs Awareness Training? Fire Safety Awareness? Cemetery Consultation? Cancer Awareness Training | £43,883
+<strong>DONHEAD ST MARY REMEMBRANCE FIELD</strong> [Charity number: [305503](https://findthatcharity.uk/orgid/GB-CHC-305503)]<br>Provide a recreation ground for the parish of Donhead St Mary | £50
+<strong>SCORTON PLAYING FIELD</strong> [Charity number: [1064386](https://findthatcharity.uk/orgid/GB-CHC-1064386)]<br>The charity's principal activity is currently to develop the village playing field for the benefit of the community and visitors to the area. | 
+<strong>CHURCH ALLOTMENTS</strong> [Charity number: [260590](https://findthatcharity.uk/orgid/GB-CHC-260590)]<br>The aim is to help to maintain and the keep the grade 1 listed church building in good repair. | £17,904
+<strong>SUTTON COURTENAY VILLAGE HALL</strong> [Charity number: [300213](https://findthatcharity.uk/orgid/GB-CHC-300213)]<br>Management of Village Hall for use by community and others | £78,445

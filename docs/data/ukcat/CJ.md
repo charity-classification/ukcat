@@ -3,8 +3,8 @@
 Crime and Justice is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Crime and Justice](CJ.md) category.
 
-1,829 charities have been tagged with this tag.
-This represents 0.90% of all charities.
+1,839 charities have been tagged with this tag.
+This represents 0.91% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 564 | 0.77%
-£10k - £100k | 458 | 0.66%
-£100k - £250k | 204 | 0.96%
-£250k - £500k | 163 | 1.58%
-£1m - £10m | 148 | 1.69%
-£500k - £1m | 112 | 1.75%
+Under £10k | 570 | 0.78%
+£10k - £100k | 453 | 0.65%
+£100k - £250k | 209 | 0.98%
+£250k - £500k | 161 | 1.55%
+£1m - £10m | 149 | 1.70%
+£500k - £1m | 114 | 1.77%
 Over £10m | 45 | 2.11%
-Total | 1,694 | 0.88%
+Total | 1,701 | 0.89%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,493 | 0.87%
-oscr | 207 | 0.84%
+ccew | 1,501 | 0.88%
+oscr | 209 | 0.85%
 ccni | 129 | 1.79%
-Total | 1,829 | 0.90%
+Total | 1,839 | 0.91%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE CONVENT OF THE SISTERS OF CHARITY - SERVANTS OF THE POOR</strong> [Charity number: [215027](https://findthatcharity.uk/orgid/GB-CHC-215027)]<br>To honour the charity of Our Lord and Saviour Jesus Christ by works of mercy, spiritual and temporal, the poor, the sick, prisoners, orphans, aged and infirm persons or persons in any other need. This includes the provision of a private registered nursing home. | £72,757
-<strong>LEEDS GYPSY AND TRAVELLER EXCHANGE</strong> [Charity number: [1123374](https://findthatcharity.uk/orgid/GB-CHC-1123374)]<br>Leeds GATE works to improve quality of life for Gypsies and Travellers across West Yorkshire. We provide advocacy, mental health support work, community development work, youth work and specialist support around domestic violence and criminal justice to our membership. We have a community centre in Cross Green, Leeds but work via outreach and other community venues across West Yorkshire. | £935,457
-<strong>IAM Roadsmart-South Wales Advanced Motorcyclists</strong> [Charity number: [1077703](https://findthatcharity.uk/orgid/GB-CHC-1077703)]<br>To promote road safety awareness in affiliation with the Institute of Advanced Motorists.To train and encourage motorcyclists in advanced riding techniques and safe riding | £1,965
-<strong>CIRCLES SOUTH WEST</strong> [Charity number: [1138726](https://findthatcharity.uk/orgid/GB-CHC-1138726)]<br>CIRCLES SOUTH WEST IS A  COMMUNITY-BASED PROGRAMME WHICH WORKS CLOSELY WITH STATUTORY SERVICES, HELPING KNOWN SEX OFFENDERS LIVE  OFFENCE-FREE LIVES. | £408,780
-<strong>SALTMINE TRUST</strong> [Charity number: [1038007](https://findthatcharity.uk/orgid/GB-CHC-1038007)]<br>1. Theatre In Education: productions/workshops in primary & secondary schools that support the RE Curriculum,  and also address social issues e.g. knife crime, internet safety.2. Theatre in communities, churches and national theatres.3. Partnerships with national organisations, telling historic stories of their founders & development e.g. YMCA, Mothers' Union.4. Video/media services. | £596,297
-<strong>TEACH ME PLEASE</strong> [Charity number: [1182407](https://findthatcharity.uk/orgid/GB-CHC-1182407)]<br>TEACH ME PLEASE is committed to offering education to the turned away children living in Pakistan almost every corner of the country. Our aim is to provide them with modern education and enable them to manage their own lives. Through this project, we would be able to save the children from child labour, which is equivalent to modern day slavery. | £16,127
-<strong>LIFELINES</strong> [Charity number: [1168273](https://findthatcharity.uk/orgid/GB-CHC-1168273)]<br>Promotes friendship by writing to those awaiting execution in the USA by providing advice and information about the issues likely to arise when writing; a publication that allows people to hear the voice of those on death row; and conferences that include speakers with personal experience of the justice system, death row, and the impact of violent crime on all those who are affected. | £25,607
-<strong>Mentalization Based Therapy Scotland (SCIO)</strong> [Charity number: [SC046841](https://findthatcharity.uk/orgid/GB-SC-SC046841)]<br>4.1 To Advance knowledge and education in MBT and help improve mental health outcomes  4.2 To provide training pathway for mental health clinicians and those working in social car. education. police. prison services and others interested in developing MBT skills  4.3 To provide support to clinicians in continuing use of MBT  4.4 To promote public awareness of MBT and the benefits to the community and provide access to information and advice  | £14,600
-<strong>Jill and Norman Franklin Trust</strong> [Charity number: [1000175](https://findthatcharity.uk/orgid/GB-CHC-1000175)]<br>Grants to churches for restoration; small organizations of people with mental health problems or learning difficulties;  asylum seekers and refugees: desistance from crime, bereavement counselling to members of the community; grants are given to other organizations which the trustees have selected, Emphasis is given to poorer parts of the UK, particularly the North-East of England | £72,024
-<strong>THE UPPER ROOM (ST SAVIOUR'S)</strong> [Charity number: [1004354](https://findthatcharity.uk/orgid/GB-CHC-1004354)]<br>The Upper Room works with homeless people, economic migrants, ex-offenders and other socially disadvantaged      people to improve their lives and conditions. The Upper Room aims to give people a second chance. | £605,514
+<strong>WORD BELIEVERS CHRIST ASSEMBLY LTD</strong> [Charity number: [1183983](https://findthatcharity.uk/orgid/GB-CHC-1183983)]<br>Provision of tailored products to teach Christian faith - books, CDs, DVDs, internet downloads, etc. Providing public Christian meetings. Grant making to Christian organisations predominantly. Christian based prison ministry. Administering a Disaster Relief Fund. Prevention or relief of poverty.Outbound calling and email to new contacts and locally in event of disasters.We operate in England. | £13,598
+<strong>SOMALI ADVICE AND DEVELOPMENT CENTRE</strong> [Charity number: [1115436](https://findthatcharity.uk/orgid/GB-CHC-1115436)]<br>Our current services are:Mentoring Young People at Risk of CrimeAdvice, Information & Guidance (including welfare, benefits, immigration et al.)Youth ClubSupport for Somali Youth Offenders at Feltham YOISomali Community Resilience Project | £5,155
+<strong>YOUNG PEOPLE CORNWALL</strong> [Charity number: [801688](https://findthatcharity.uk/orgid/GB-CHC-801688)]<br>Today we support work with 11 -25 year olds through specialist projects and programmes addressing issues that marginalise or place young people at risk, including mental health, homelessness, crime, racism, sexuality, drug & alcohol use, abuse, rural isolation and poverty. | £1,873,001
+<strong>OXFORD DIOCESAN COUNCIL FOR SOCIAL WORK INCORPORATED</strong> [Charity number: [285214](https://findthatcharity.uk/orgid/GB-CHC-285214)]<br>The main areas of activity are in adoption work and community projects such as Alana House for those within the criminal justice system. | £4,604,726
+<strong>THE ELY MEMORIAL FUND</strong> [Charity number: [1148535](https://findthatcharity.uk/orgid/GB-CHC-1148535)]<br>I lost my daughter Emma Louise Young (ELY) aged 23 on the 30th Sept 2010. Em's car left the road and was killed instantly.  We were suddenly faced with a funeral bill having insufficient funds for Em's funeral. The fund will pay an agreed amount through a funeral plan to families who lose a son/daughter are tragically killed in a road traffic crash to relieve financial stress at a traumatic time. | £58,470
+<strong>THE PRISON PHOENIX TRUST</strong> [Charity number: [327907](https://findthatcharity.uk/orgid/GB-CHC-327907)]<br>The assets and liabilities of The Prison Phoenix Trust were transferred to the Prison Phoenix Trust CIO (Ch 1163558) on March 31 2016 and since that date the charity has been dormant and inactive. | 
+<strong>QUAKERS IN CRIMINAL JUSTICE</strong> [Charity number: [1189077](https://findthatcharity.uk/orgid/GB-CHC-1189077)]<br>To advance the education of the public in general (and particularly within the Religious Society) on thesubject of Criminal Justice, in particular by: i) arranging conferences, seminars and lectures;ii) publication of a regular newsletter;iii) facilitating contact and exchange of experience between members of the charity. | £12,314
+<strong>ENDING IMPUNITY LIMITED</strong> [Charity number: [1197203](https://findthatcharity.uk/orgid/GB-CHC-1197203)]<br>The charity  promotes human rights and compliance with international law, including investigations and legal cases concerning alleged violations of international  human rights laws and international criminal law, and through  public education and advocacy. | £14,750
+<strong>The Prison Opticians Trust</strong> [Charity number: [1159896](https://findthatcharity.uk/orgid/GB-CHC-1159896)]<br>Training people in optical skills to eventually gain meaningful employment. | £90,747
+<strong>The Royal Ulster Constabulary Athletic Association Limited</strong> [Charity number: [NI106083](https://findthatcharity.uk/orgid/GB-NIC-106083)]<br>The activities of the Athletic Association (AA) include provision of sports facilities, resources & assistance to amateur sports clubs, youth & community groups, other charities, schools and other sports organisations. For example, for 30 years it has worked with Table Tennis Ulster providing free use of rooms for monthly management meetings, interviews & AGM. The AA provides grass pitches for bowls, soccer, Gaelic football, rugby, cricket, softball & American football. It provides ongoing advice on sporting matters from financial governance to organising events for 30+ sports clubs. The AA organises annual sports events and helps facilitate the events of other organisations. It also provides assistance to clubs using the facilities, e.g. governance advice & free facility hire to Ulster Barbarians Wheelchair Rugby Club since 2013. The AA hosts community sports academies, tasters & engagement programmes, e.g. Annual Summer Soccer School - attendee children receive training from qualified coaches to attain accredited awards, with free places awarded to children from disadvantaged backgrounds. The AA promotes understanding of the Police family through these sports activities & includes the local community, e.g. Butsuriki Jujitsu Club with who, over the last 10 years, AA has developed a partnership, in providing training for children in martial arts in a safe, controlled environment. The AA provides weekly rooms & has purchased training mats allowing children safety in this sport. The AA activities also include allowing other charitable organisations free use of facilities & resources for activities such as fundraising, events & meetings. Several charities used the facilities free to date, including Diabetes UK, Belfast & Lisburn Woman’s Aid, Mary Peters Trust, The National Trust, Mission Africa, Victim Support NI, Action Cancer NI, NSPCC, SOS NI and a range of Police charities such as RUC Widows, Wounded Police & Families and the Police Parents Associations. | £1,262,417

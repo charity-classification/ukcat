@@ -3,8 +3,8 @@
 Social welfare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Social welfare](SW.md) category.
 
-37,959 charities have been tagged with this tag.
-This represents 18.74% of all charities.
+38,016 charities have been tagged with this tag.
+This represents 18.76% of all charities.
 
 ## Keywords to find charities
 
@@ -20,32 +20,32 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,610 | 17.17%
-£10k - £100k | 11,929 | 17.25%
-£100k - £250k | 4,211 | 19.86%
-£250k - £500k | 2,299 | 22.24%
-£1m - £10m | 1,879 | 21.42%
-£500k - £1m | 1,470 | 22.92%
-Over £10m | 401 | 18.77%
-Total | 34,799 | 18.17%
+Under £10k | 12,621 | 17.21%
+£10k - £100k | 11,968 | 17.26%
+£100k - £250k | 4,221 | 19.83%
+£250k - £500k | 2,303 | 22.23%
+£1m - £10m | 1,882 | 21.42%
+£500k - £1m | 1,476 | 22.90%
+Over £10m | 401 | 18.76%
+Total | 34,872 | 18.20%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 30,305 | 17.75%
-oscr | 6,296 | 25.60%
-ccni | 1,358 | 18.85%
-Total | 37,959 | 18.74%
+ccew | 30,358 | 17.77%
+oscr | 6,300 | 25.62%
+ccni | 1,358 | 18.83%
+Total | 38,016 | 18.76%
 
 
 ## Ten largest charities (by income)
 
 Name | Latest income
 -----|--------:
-<strong>OXFAM</strong> [Charity number: [202918](https://findthatcharity.uk/orgid/GB-CHC-202918)]<br>Oxfam's objects are to prevent and relieve poverty and protect the vulnerable anywhere in the world.  Oxfam furthers its objects through interlinked activities of humanitarian relief, development work and advocacy and campaigning.  Oxfam is an affiliate member of Oxfam International.  Details of Oxfam's mission and ways of working can be found at www.oxfam.org.uk | £368,000,000
 <strong>Oxfam</strong> [Charity number: [SC039042](https://findthatcharity.uk/orgid/GB-SC-SC039042)]<br>To prevent and relieve poverty and to protect the vulnerable, including through humanitarian intervention. . To advance sustainable development. To promote human rights and equality and diversity, in particular where to do so contributes to the prevention and relief of poverty. | £368,000,000
+<strong>OXFAM</strong> [Charity number: [202918](https://findthatcharity.uk/orgid/GB-CHC-202918)]<br>Oxfam's objects are to prevent and relieve poverty and protect the vulnerable anywhere in the world.  Oxfam furthers its objects through interlinked activities of humanitarian relief, development work and advocacy and campaigning.  Oxfam is an affiliate member of Oxfam International.  Details of Oxfam's mission and ways of working can be found at www.oxfam.org.uk | £368,000,000
 <strong>ROYAL COMMONWEALTH SOCIETY FOR THE BLIND</strong> [Charity number: [207544](https://findthatcharity.uk/orgid/GB-CHC-207544)]<br>Seventy five per cent of blindness in the world is either avoidable or treatable. Sightsavers works with partners in developing countries to eliminate avoidable blindness and promote equality of opportunity for disabled people. Our work alleviates poverty among poor and marginalised communities and thus helps to realise the internationally accepted Millenium Development Goals. | £337,945,000
 <strong>Barnardo's</strong> [Charity number: [SC037605](https://findthatcharity.uk/orgid/GB-SC-SC037605)]<br>The Objects of the Charity are for the public benefit: To promote the care, safety and upbringing of children and young people by:- supporting and assisting those in need, their families and carers. promoting their health. and advancing their education. The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. | £326,134,000
 <strong>CHANGE, GROW, LIVE</strong> [Charity number: [1079327](https://findthatcharity.uk/orgid/GB-CHC-1079327)]<br>CGL provides a range of services to support individuals, families and communities whose lives are adversely affected by crime, substance misuse, homelessness, anti-social behaviour, domestic violence, social deprivation and lack of opportunity.The Charity works with challenging service users with complex needs, including those with entrenched drug habits and offending behaviour. | £307,341,207
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>C7 Church</strong> [Charity number: [SC037276](https://findthatcharity.uk/orgid/GB-SC-SC037276)]<br>(1) To advance the Christian faith in accordance with the Statement of Beliefs appearing in the Schedule hereto in Scotland and in such other parts of the United Kingdom or the world as the Trustees may from time to time think fit and other such purposes which are exclusively charitable according to the law of Scotland and are connected with the charitable work of the Charity.  (2) To promote the benefit of the inhabitants of Glasgow and its environs without distinction of sex, sexuality, political, religious or other opinions by associating the local statutory authorities, voluntary organisations and inhabitants in a common effort to advance education and to provide facilities, or assist in the provision of facilities, in the interest of social welfare for recreation and other leisure-time occupation so that their conditions of life may be improved.  (3) To relieve persons who are in conditions of need or hardship or who are aged or sick and to relieve the distress caused thereby in such parts of Scotland, the United Kingdom and the world as the Trustees may from time to time think fit. | £471,530
-<strong>ANSTON WOMENS'INSTITUTE</strong> [Charity number: [1048201](https://findthatcharity.uk/orgid/GB-CHC-1048201)]<br>The WI offers opportunities for all women to enjoy friendship, to learn, to widen their horizons and together to influence local, national and international affairs. The WI aims to improve and develop the quality of life for women and their families; advance the education of women in citizenship and in public issues, national and international. | £2,988
-<strong>WINTERLEY METHODIST CHURCH</strong> [Charity number: [1174291](https://findthatcharity.uk/orgid/GB-CHC-1174291)]<br>We hold services of public worship weekly and special services at Christian festivals, coffee fellowship morning weekly, Brass Band practice weekly, host yoga  and exercise groups, work with the Goslings pre-school who use our premises, and hold many other social events and concerts. | £28,560
-<strong>ASIAN RURAL FOUNDATION</strong> [Charity number: [1141842](https://findthatcharity.uk/orgid/GB-CHC-1141842)]<br>- TO PROMOTE THE BENEFIT OF PEOPLE IN ASIA AND UK.- TO ADVANCEMENT OF EDUCATION, TRAINING AND EMPLOYMENT OPPORTUNITIES.- TO RELIEF OF POVERTY, SICKNESS AND DISASTERS.- TO HELP VULNERABLE PEOPLE IN UK AND ASIA - TO PURPOSE ANY TYPE OF CHARITABLE ACTIVITY BY THE LAW OF ENGLAND AND WALES. | £75,467
-<strong>Brechin Men's Shed</strong> [Charity number: [SC048811](https://findthatcharity.uk/orgid/GB-SC-SC048811)]<br>The purpose of the organisation is to provide recreational facilities and advance the social needs, health and well being of men of all ages and backgrounds living in Brechin and surrounding areas By: a) Creating, developing and maintaining a facility, namely a Men's Shed. b) Offering opportunities for men in the Brechin area to meet and undertake creative, physical, purposeful and recreational activities of their choice. c) Reducing isolation of men in the area thus contributing to their physical and mental wellbeing. d) Developing the capacity of men in the Brechin area to share their skills and knowledge with others in the community. | £4,303
-<strong>LAJNA IMA'ILLAH (UK)</strong> [Charity number: [1189468](https://findthatcharity.uk/orgid/GB-CHC-1189468)]<br>For women to come together to increase their knowledge and to help people in need! Lajna carried out outreach work and social welfare activities throughout the country including donating PPE to hospitals, delivering prescriptions, assisting the elderly, providing essential food packages for NHS staff, registering as NHS volunteer responders, handicraft activities and physical health programmes. | £1,127,267
-<strong>LITTLE MELTON PAROCHIAL CHARITY</strong> [Charity number: [243883](https://findthatcharity.uk/orgid/GB-CHC-243883)]<br>The charity is for the benefit of residents in the Parish of Little Melton, Norwich who are in conditions of need, hardship or distress by making grants of money or providing or paying for items, services or facilities calculated to reduce the need, hardship or distress of such persons. | £27,306
-<strong>WHEATHAMPSTEAD CHAPEL COMMUNITY HUB</strong> [Charity number: [1196844](https://findthatcharity.uk/orgid/GB-CHC-1196844)]<br>We promote community participation in a range of activities including healthy exercise and recreation and Christian fellowship. We hold regular community meals to encourage the preparation of healthy food and the social benefits of eating with a wide range of individuals. | £114,801
-<strong>PORA ZIMBABWE</strong> [Charity number: [1197779](https://findthatcharity.uk/orgid/GB-CHC-1197779)]<br>The purpose of PORA is to alleviate the trauma and distress, both mentally and physically, for victims of rape, sexual assault and sexual abuse in Zimbabwe. This will be achieved through the promotion, support and provision of grants for essential resources for ARC (Adult Rape Clinic) Zimbabwe. | £23,017
-<strong>ST THOMAS, LANCASTER HOUSING PROJECTS</strong> [Charity number: [1200112](https://findthatcharity.uk/orgid/GB-CHC-1200112)]<br>FOR THE PUBLIC BENEFIT, THE RELIEF OF THOSE IN NEED BECAUSE OF FINANCIAL HARDSHIP OR OTHER DISADVANTAGE INCLUDING, BUT NOT EXCLUSIVELY, REFUGEES, VULNERABLE PEOPLE AND OTHERS AT RISK OF BECOMING HOMELESS IN LANCASTER AND THE SURROUNDING AREA, IN PARTICULAR BUT NOT LIMITED TO PROVIDING ACCOMMODATION AND OTHER SUPPORT AND ASSISTANCE. | £25,706
+<strong>CHARLES BROOK CONVALESCENT FUND</strong> [Charity number: [229445](https://findthatcharity.uk/orgid/GB-CHC-229445)]<br>Trustees use the yearly income of the Fund for the benefit of people convalescing after treatment as in-patients or out-patients of Huddersfield hospitals.  Support may be of the following. Special foods, medicines or appliances. Household goods such as washing machines, fridges etc.  Floor coverings, cleaning services.  Clothing, bedding.  Holiday for convalescence. | £12,673
+<strong>MY BAG CHARITY</strong> [Charity number: [1178042](https://findthatcharity.uk/orgid/GB-CHC-1178042)]<br>THE PREVENTION OR RELIEF OF POVERTY OF VULNERABLE CHILDREN THROUGHOUT ENGLAND FOR THE PUBLIC BENEFIT BY SUPPLYING A HOLDALL WITH ESSENTIAL AND COMFORT ITEMS AS THEY ENTER FOSTER CARE, IN ORDER TO HELP THOSE CHILDREN HAVE A MORE POSITIVE EXPERIENCE AND ENSURING THEY HAVE A MORE STABLE AND SUPPORTED OPPORTUNITY IN THE CARE SYSTEM. | £35,848
+<strong>2000 COMMUNITY ACTION CENTRE</strong> [Charity number: [1084224](https://findthatcharity.uk/orgid/GB-CHC-1084224)]<br>- To relief the effects of disadvantage and poverty in the interest of social welfare with the object of improving the conditions of life for the inhabitants of the Pepys Estate and surrounding areas, through the provision of advisory, education, health & well-being services and recreation & leisure activities.-To maintain and manage a centre for activities in furtherance of the above objects. | £153,446
+<strong>CHARITY OF RICHARD CLOUDESLEY</strong> [Charity number: [205959](https://findthatcharity.uk/orgid/GB-CHC-205959)]<br>The Charity's area of benefit is the London Borough of Islington where, through programmes of pro-active grant-making, the Charity's aim is to help those who are sick and poor and to support twenty seven Church of England churches. | £1,747,000
+<strong>MARY WHARRIE TRUST</strong> [Charity number: [212267](https://findthatcharity.uk/orgid/GB-CHC-212267)]<br>Provision of financial and other assistance for the sick poor of the Parish of Warnham, West Sussex | £7,223
+<strong>THE D M CHARITABLE TRUST</strong> [Charity number: [1110419](https://findthatcharity.uk/orgid/GB-CHC-1110419)]<br>Makes grants to charitable organisation that offer relief of poverty and sickness and/or advance education of the Orthodox Jewish Religion. | £1,677
+<strong>WHITFIELD OLD CHURCH SCHOOL CHARITY</strong> [Charity number: [309859](https://findthatcharity.uk/orgid/GB-CHC-309859)]<br>Bibles books and clothing for young children | £659
+<strong>ROYAL ANTEDILUVIAN ORDER OF BUFFALOES G L E GUILDFORD AND DISTRICT PROVINCIAL GRAND LODGE BENEVOLENT FUND</strong> [Charity number: [252339](https://findthatcharity.uk/orgid/GB-CHC-252339)]<br>TO OFFER BENEVOLENCE TO BRETHREN IN HARDSHIP OR NEED | £200
+<strong>ROTARY CLUB OF ABBEYDALE TRUST FUND</strong> [Charity number: [505844](https://findthatcharity.uk/orgid/GB-CHC-505844)]<br>The relief of the poor and needy and such other charitable purpose as the Club shall direct | £23,146
+<strong>THE INNER WHEEL CLUB OF THE ISLE OF SHEPPEY BENEVOLENT FUND</strong> [Charity number: [1100079](https://findthatcharity.uk/orgid/GB-CHC-1100079)]<br>We raise funds to pass on to UK registered and international charities. | £2,954

@@ -3,8 +3,8 @@
 Associations is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Associations](AS.md) category.
 
-46,367 charities have been tagged with this tag.
-This represents 22.89% of all charities.
+46,361 charities have been tagged with this tag.
+This represents 22.88% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 20,353 | 27.71%
-£10k - £100k | 18,548 | 26.82%
-£100k - £250k | 2,954 | 13.93%
-£250k - £500k | 1,150 | 11.13%
-£1m - £10m | 764 | 8.71%
-£500k - £1m | 657 | 10.24%
-Over £10m | 174 | 8.15%
-Total | 44,600 | 23.29%
+Under £10k | 20,275 | 27.65%
+£10k - £100k | 18,607 | 26.84%
+£100k - £250k | 2,957 | 13.90%
+£250k - £500k | 1,171 | 11.30%
+£1m - £10m | 764 | 8.69%
+£500k - £1m | 659 | 10.22%
+Over £10m | 175 | 8.19%
+Total | 44,608 | 23.28%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,173 | 22.36%
-oscr | 5,764 | 23.43%
-ccni | 2,430 | 33.73%
-Total | 46,367 | 22.89%
+ccew | 38,171 | 22.35%
+oscr | 5,763 | 23.43%
+ccni | 2,427 | 33.66%
+Total | 46,361 | 22.88%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>2ND GODALMING SCOUT GROUP</strong> [Charity number: [295627](https://findthatcharity.uk/orgid/GB-CHC-295627)]<br>The purpose of Scouting is to contribute to the development of young people in achieving their full physical, intellectual, social and spiritual potentials, as individuals, as responsible citizens and as members of their local, national and international communities. | £12,299
-<strong>UNICORN EQUESTRIAN CENTRE</strong> [Charity number: [1148612](https://findthatcharity.uk/orgid/GB-CHC-1148612)]<br>Provision of equestrian facilities and training for those of all abilities including those who are disadvantaged and/or in need, minority and youth groups and those persons with physical and learning disabilities. A purpose and benefit of physical recreation, education and social welfare and promoting community participation in healthy recreation through the provision of equestrian sports. | £214,617
-<strong>THE ARTS PARENTS</strong> [Charity number: [1210704](https://findthatcharity.uk/orgid/GB-CHC-1210704)]<br>THE OBJECT OF THE ASSOCIATION (THE OBJECTS) IS TO ADVANCE THEEDUCATION OF PUPILS IN THE SCHOOL IN PARTICULAR BY:2.1 DEVELOPING EFFECTIVE RELATIONSHIPS BETWEEN THE STAFF, PARENTS ANDOTHERS ASSOCIATED WITH THE SCHOOL2.2 ENGAGING IN ACTIVITIES OR PROVIDING FACILITIES OR EQUIPMENT WHICHSUPPORT THE SCHOOL AND ADVANCE THE EDUCATION OF THE PUPILS. | 
-<strong>THE FRIENDS OF ST CATHERINES CHURCH</strong> [Charity number: [1023600](https://findthatcharity.uk/orgid/GB-CHC-1023600)]<br>To support the fabric and building of St Catherines Church, Gosfield. | £46,233
-<strong>GRAVESEND SAILING CLUB SAILABILITY</strong> [Charity number: [1085456](https://findthatcharity.uk/orgid/GB-CHC-1085456)]<br>Education and training in sailing for disabled people together with being involved in the general experience and relaxation of sailing | 
-<strong>THE FRIENDS OF BROCKS HILL SCHOOL</strong> [Charity number: [1096392](https://findthatcharity.uk/orgid/GB-CHC-1096392)]<br>Fundraising and community cohesion activities for Brocks Hill Primary School and the surrounding community. | £1,178
-<strong>FRIENDS OF MONTPELLIER SKATEPARK</strong> [Charity number: [1207146](https://findthatcharity.uk/orgid/GB-CHC-1207146)]<br>Fundraising, improving the local community and improving the recreational facilities for wheeled sports | 
-<strong>TREFONEN SCHOOL PARENT TEACHERS ASSOCIATION</strong> [Charity number: [1050422](https://findthatcharity.uk/orgid/GB-CHC-1050422)]<br>Trefonen School Parent Teachers Association raise funds for Trefonen CE Primary School in Shropshire with the purpose of enhancing the education of our children by contributing to school trips, workshops and improving facilities and technology at the school. We organise various fundraising activities throughout the year and liaise closely with the school to meet their requirements for support. | £2,595
-<strong>FC DARLINGTON LOCOMOTIVES</strong> [Charity number: [1206894](https://findthatcharity.uk/orgid/GB-CHC-1206894)]<br>We are an all girls grass roots football club. | 
-<strong>MANOR FARM WOMEN'S INSTITUTE</strong> [Charity number: [1019706](https://findthatcharity.uk/orgid/GB-CHC-1019706)]<br>W.I. purposes ass with rural life | £852
+<strong>WEMBROOK PRIMARY SCHOOL FRIENDS OF WEMBROOK</strong> [Charity number: [1121359](https://findthatcharity.uk/orgid/GB-CHC-1121359)]<br>DiscosBingo NightsSummer FayreWin Nights out with HeadWin Pie the Head | £4,670
+<strong>PETERBOROUGH DISTRICT SCOUT COUNCIL</strong> [Charity number: [1176050](https://findthatcharity.uk/orgid/GB-CHC-1176050)]<br>As Scouts, we believe in preparing young people with skills for life. Peterborough Scout District Councilsupports Network and Explorer Scout Units and Scout Groups across the Peterborough area to encourage the young people to do more, learn more and be more. Each week we support our members by providing the opportunity to enjoy fun and adventure while developing the skills they need to succeed. | £67,907
+<strong>FRIENDS OF HALWILL SCHOOL</strong> [Charity number: [1116245](https://findthatcharity.uk/orgid/GB-CHC-1116245)]<br>Friends of Halwill School = hold various fund raising events to raise money for the school | £2,174
+<strong>FAMILIES UNITED (WARRINGTON)</strong> [Charity number: [1097146](https://findthatcharity.uk/orgid/GB-CHC-1097146)]<br>Families United Warrington is for families with children and young people that have special educational needs and disabilities. The charity offers social opportunities for the whole family to participate in adaptive inclusive outings and activities, monthly FUN Club, monthly family respite, weekly sport/swim sessions and parents support meetings. | £56,263
+<strong>BORDER LODGE BENEVOLENT FUND</strong> [Charity number: [285815](https://findthatcharity.uk/orgid/GB-CHC-285815)]<br>Support to indigent Freemasons; support to widows and children of Freemasons; support to local causes; support to general Masonic charities in England and Wales | £6,720
+<strong>LIGHTHOUSE BEACONSFIELD</strong> [Charity number: [1198953](https://findthatcharity.uk/orgid/GB-CHC-1198953)]<br>The Christian holiday club runs for one week for children aged between 4 to 12 years of age.  Volunteers from age 12 upwards support the activities and care of the children.  Sports, music and drama activities run all week alongside the Christian teaching. | £7,122
+<strong>HOLDSWORTH CLUB OF THE STUDENTS OF THE FACULTY OF LAW IN THE UNIVERSITY OF BIRMINGHAM</strong> [Charity number: [507598](https://findthatcharity.uk/orgid/GB-CHC-507598)]<br>The principal objects of the charity are to further the educational aims of the Law School and the professional aims of all students interested in a legal vocation and to promote communication with the legal profession including the judiciary, the Bar and practising solicitors in order to widen the students' knowledge and experience with regard to career opportunities and prospects. | £42,910
+<strong>TOLLESBURY WOMENS INSTITUTE</strong> [Charity number: [1025202](https://findthatcharity.uk/orgid/GB-CHC-1025202)]<br>We are a W.I. situated in Tollesbury, Essex. | £3,554
+<strong>GOMELDON HOME AND SCHOOL ASSOCIATION</strong> [Charity number: [1094375](https://findthatcharity.uk/orgid/GB-CHC-1094375)]<br>The Charity's activities involve running events which include summer school fete, Christmas Bazaar, and a community bonfire night. Our smaller activities include quiz nights and raffles at school events such as class productions.  We also organise discos and leavers bbq. | £5,936
+<strong>LEICESTERSHIRE AND RUTLAND CRICKET FOUNDATION</strong> [Charity number: [1207043](https://findthatcharity.uk/orgid/GB-CHC-1207043)]<br>THE CHARITY EXISTS TO FURTHER THE FOLLOWING CHARITABLE PURPOSES: 1.1 TO PROMOTE COMMUNITY PARTICIPATION IN HEALTHY RECREATION BY PROVIDING FACILITIES FOR PLAYING CRICKET AND OTHER SPORTS ("FACILITIES" MEANS LAND, BUILDINGS, EQUIPMENT AND ORGANISING SPORTING ACTIVITIES); AND 1.2 TO PROMOTE ALL PURPOSES RECOGNISED AS CHARITABLE UNDER THE LAWS OF ENGLAND AND WALES FROM TIME TO TIME IN PARTICULAR THROUGH AN ASSOCIATION WITH CRICKET. | 
