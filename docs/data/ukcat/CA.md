@@ -3,8 +3,8 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-29,261 charities have been tagged with this tag.
-This represents 14.41% of all charities.
+29,525 charities have been tagged with this tag.
+This represents 14.54% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,717 | 15.02%
-£10k - £100k | 9,028 | 12.90%
-£100k - £250k | 2,658 | 12.06%
-£250k - £500k | 1,578 | 14.59%
-£500k - £1m | 1,197 | 17.90%
-£1m - £10m | 1,814 | 20.16%
-Over £10m | 349 | 16.05%
-Total | 27,341 | 14.24%
+Under £10k | 10,798 | 15.13%
+£10k - £100k | 9,114 | 13.03%
+£100k - £250k | 2,683 | 12.17%
+£250k - £500k | 1,594 | 14.74%
+£500k - £1m | 1,210 | 18.09%
+£1m - £10m | 1,830 | 20.33%
+Over £10m | 374 | 17.20%
+Total | 27,603 | 14.37%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,640 | 14.98%
-oscr | 2,833 | 11.44%
-ccni | 788 | 10.96%
-Total | 29,261 | 14.41%
+ccew | 25,849 | 15.10%
+oscr | 2,877 | 11.62%
+ccni | 799 | 11.11%
+Total | 29,525 | 14.54%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE ASSOCIATION OF VEHICLE RECOVERY OPERATORS' BENEVOLENT FUND</strong> [Charity number: [328297](https://findthatcharity.uk/orgid/GB-CHC-328297)]<br>The relief of poverty by the provision of financial assistance to members of the Association of Vehicle Recovery Operators, their families and their employees and their families For the promotion of such other charitable purposes as the trustees shall think fit. | £3,348
-<strong>CHRISTOPHER TENWINTER CHARITY</strong> [Charity number: [207379](https://findthatcharity.uk/orgid/GB-CHC-207379)]<br>Charity owns a small piece of arable land in the village of BerghApton, Norfolk. Annually gives grants to individuals and groups resident in BerghApton. | £1,191
-<strong>ALL PEOPLE ALL PLACES</strong> [Charity number: [1139885](https://findthatcharity.uk/orgid/GB-CHC-1139885)]<br>We provide accommodation, care and advocacy for the homeless. We work with partner agencies to deliver a robust pathway into accommodation, sustain tenancies and break the cycle of homelessness. We aim to replicate our model wherever there is a need and enthusiasm.  Working with partners we are also looking at the development of properties to become part of our pathway and maximise impact. | £683,652
-<strong>CHARITY OF EDWARD RICHARD AND DOROTHEA OLIVER</strong> [Charity number: [525349](https://findthatcharity.uk/orgid/GB-CHC-525349)]<br>Makes Grants to individuals | £119
-<strong>MATEMA EDUCATIONAL TRUST</strong> [Charity number: [1114090](https://findthatcharity.uk/orgid/GB-CHC-1114090)]<br>We raise money in the U.K and are a receipient of donations to build, equip and administer Matema Secondary School in the Karonga, Northern Malawi, Africa. | 
-<strong>Ian and June Green Traditional Music Trust </strong> [Charity number: [SC043444](https://findthatcharity.uk/orgid/GB-SC-SC043444)]<br>(a) The advancement of the Arts heritage culture and science by preservation of recordings of cultural and historical merit and by financial contribution or otherwise to the establishment of a Scottish National Sound Archive. (b) To provide financial assistance for (i) 'young musicians' to enable tuition and attendance at music courses who have insufficient means to support such attendance. and (ii) those people within the Scottish Traditional Music scene whom the Trustees consider to be suffering from financial hardship. (c) To support any charitable or other Trust having similar purposes.  | 
-<strong>ARMED FORCES COVENANT FUND</strong> [Charity number: [1177627](https://findthatcharity.uk/orgid/GB-CHC-1177627)]<br>The Armed Forces Covenant Fund Trust makes grants to support the Armed Forces Community. The Covenant Fund is delivered by the Armed Forces Covenant Fund Trust. It has £10M a year to fund projects that support the Armed Forces Community.  | £30,874,242
-<strong>ISLIP SHOP COMMUNITY FUND</strong> [Charity number: [1150098](https://findthatcharity.uk/orgid/GB-CHC-1150098)]<br>Such charitable purposes for the public benefit within Islip, Noke and Woodeaton as are exclusively charitable according to the laws of England and Wales as the trustees may from time to time determine. | £1,000
-<strong>CHRISTOPHER WHARTON EDUCATIONAL FOUNDATION</strong> [Charity number: [506958](https://findthatcharity.uk/orgid/GB-CHC-506958)]<br>To help young people age 18-25 living in Stamford Bridge and Gate Helmsley with education and training by means of grants to individuals. | £2,592
-<strong>SSP FOUNDATION</strong> [Charity number: [1163717](https://findthatcharity.uk/orgid/GB-CHC-1163717)]<br>The charity will provide grants to charities working to promote healthy eating, particularly in young people.The charity will make donations to certain charities nominated by employees of the SSP Group of companies, broadly to match donations made to those charities by the employees themselves or via fund-raising efforts organised by those employees. | £408,909
+<strong>CHELSEA CHAMBER CHOIR</strong> [Charity number: [1198225](https://findthatcharity.uk/orgid/GB-CHC-1198225)]<br>THE OBJECTS OF THE SOCIETY SHALL BE:TO ADVANCE, IMPROVE, DEVELOP AND MAINTAIN PUBLIC EDUCATION IN, ANDAPPRECIATION OF, THEART AND SCIENCE OF MUSIC IN ALL ITS ASPECTS BY ANY MEANS THE TRUSTEES SEE FIT,INCLUDINGTHROUGH THE PRESENTATION OF PUBLIC CONCERTS AND RECITALS. | £10,556
+<strong>DYLAN MASON MEMORIAL TRUST</strong> [Charity number: [1109339](https://findthatcharity.uk/orgid/GB-CHC-1109339)]<br>help with people getting to hospital, education of illness, donations to hospitals | 
+<strong>SAYes Mentoring</strong> [Charity number: [1127701](https://findthatcharity.uk/orgid/GB-CHC-1127701)]<br>The SAYes Transition to Independent Living (TIL) Programme provides guidance, advocacy and support to under-served young people, in particular care leavers, through evidence based one-to-one mentoring, in the UK, South Africa & elsewhere.Our person-centred programme focuses on developing: education & life-long learning, work & money, citizenship & identity, sport & recreation, family & community | £350,053
+<strong>THE GLASTONBURY TRUST CIO</strong> [Charity number: [1078170](https://findthatcharity.uk/orgid/GB-CHC-1078170)]<br>We support community projects with social and educational outcomes with a particular focus on building a local, environmentally sustainable infrastructure. We deliver training for this purpose.The charity makes donations to organisations and individuals carrying out related work. | £75,880
+<strong>The KM Foundation</strong> [Charity number: [1189487](https://findthatcharity.uk/orgid/GB-CHC-1189487)]<br>To provide funding and support for Education, Healthcare, Community and Social Enterprise both UK and Globally (in developing countries), In Developing Countries, our focus will be on Health and Education for those in poverty. | £131,419
+<strong>SOLVA EDGE FESTIVAL LIMITED</strong> [Charity number: [1180538](https://findthatcharity.uk/orgid/GB-CHC-1180538)]<br>1. To promote the arts, heritage and culture for the benefit of the public, the charity organises an annual community led arts and culture festival (The Edge Festival).2. To advance education the Festival provides a number of educational workshops on such subjects as dance, architecture, culture and heritage.3. Supporting general charitable purposes and young people by making grants | £70,508
+<strong>IBIYINKA MACAULAY FOUNDATION</strong> [Charity number: [1178379](https://findthatcharity.uk/orgid/GB-CHC-1178379)]<br>SAVING LIVES, GIVING HELP TO PEOPLE WITH DISABILITIES.GIVING SUPPORT AND AID TO RELIEVE POVERTY AND ADVANCEMENT OF HEALTH.TO PROVIDE EQUIPMENTS TO AID DISABILITY AND MOVEMENT.RAISING FUNDS FOR PEOPLE WITH DISABILITIES THROUGH OTHER CHARITIES, VOLUNTARY BODIES ORTHE  GENERAL PUBLIC IN ORDER TO GIVE GRANTS TO DESERVING DISABLED PERSONS AND PEOPLE WITH NEEDS AFTER SUITABLE ASSESSMENT. | 
+<strong>SUDDEN SAM</strong> [Charity number: [1207785](https://findthatcharity.uk/orgid/GB-CHC-1207785)]<br>Sudden Sam provides support to those impacted by sudden death. We provide emotional support (therapy and counselling), financial support (grants for costs associated with a sudden death), practical awareness (guidance on the procedure following a sudden death), and community awareness (increasing understanding of the impact). | £26,828
+<strong>LICHFIELD CATHEDRAL CHORUS</strong> [Charity number: [1197192](https://findthatcharity.uk/orgid/GB-CHC-1197192)]<br>TO ADVANCE, IMPROVE, DEVELOP AND MAINTAIN PUBLIC EDUCATION IN, AND FOSTER APPRECIATION OF THE ART AND SCIENCE OF MUSIC IN ALL ITS ASPECTS BY ANY MEANS THE TRUSTEES SEE FIT, INCLUDING THROUGH THE PRESENTATION OF PUBLIC CONCERTS AND RECITALS IN THE CATHEDRAL CHURCH OF LICHFIELD AND ELSEWHERE. | £29,203
+<strong>THE PROVISION OF EDUCATION AND NUTRITION WELFARE (PEN WELFARE)</strong> [Charity number: [1197723](https://findthatcharity.uk/orgid/GB-CHC-1197723)]<br>THE ADVANCEMENT OF EDUCATION AND THE RELIEF OF THOSE IN NEED BY REASON OF YOUTH, AGE, ILL-HEALTH, DISABILITY, FINANCIAL HARDSHIP OR OTHER DISADVANTAGE THROUGH THE PROVISION OF FOOD, GRANTS, ITEMS AND SERVICES TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS, WORKING TO ASSIST SUCH INDIVIDUALS. | 

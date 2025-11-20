@@ -3,8 +3,8 @@
 Beneficiary group is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Beneficiary group](BE.md) category.
 
-76,869 charities have been tagged with this tag.
-This represents 37.84% of all charities.
+77,585 charities have been tagged with this tag.
+This represents 38.20% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 25,797 | 36.15%
-£10k - £100k | 25,974 | 37.12%
-£100k - £250k | 9,093 | 41.25%
-£250k - £500k | 4,339 | 40.12%
-£500k - £1m | 2,589 | 38.71%
-£1m - £10m | 3,648 | 40.53%
-Over £10m | 864 | 39.72%
-Total | 72,304 | 37.65%
+Under £10k | 26,036 | 36.49%
+£10k - £100k | 26,206 | 37.45%
+£100k - £250k | 9,175 | 41.62%
+£250k - £500k | 4,389 | 40.58%
+£500k - £1m | 2,611 | 39.04%
+£1m - £10m | 3,688 | 40.98%
+Over £10m | 908 | 41.75%
+Total | 73,013 | 38.02%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 63,249 | 36.95%
-oscr | 10,066 | 40.65%
-ccni | 3,554 | 49.44%
-Total | 76,869 | 37.84%
+ccew | 63,809 | 37.28%
+oscr | 10,179 | 41.11%
+ccni | 3,597 | 50.03%
+Total | 77,585 | 38.20%
 
 
 ## Ten largest charities (by income)
@@ -45,28 +45,28 @@ Total | 76,869 | 37.84%
 Name | Latest income
 -----|--------:
 <strong>SAVE THE CHILDREN INTERNATIONAL</strong> [Charity number: [1076822](https://findthatcharity.uk/orgid/GB-CHC-1076822)]<br>Save the Children works in around 120 countries to deliver immediate and lasting change to children's lives. We program across all contexts to ensure all children survive, learn and are protected. Save the Children International and 29 member organisations make up Save the Children Association. Together in 2015 we reached 62 million children directly through our and our partners' work. | £1,103,536,563
+<strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £398,900,000
+<strong>THE GIRLS' DAY SCHOOL TRUST</strong> [Charity number: [306983](https://findthatcharity.uk/orgid/GB-CHC-306983)]<br>To remain at the forefront of education, extend excellence and innovation in dynamic educationalsettings and maintain our leadership in the education of young people, principally women. | £340,388,000
+<strong>CHANGE, GROW, LIVE</strong> [Charity number: [1079327](https://findthatcharity.uk/orgid/GB-CHC-1079327)]<br>CGL provides a range of services to support individuals, families and communities whose lives are adversely affected by crime, substance misuse, homelessness, anti-social behaviour, domestic violence, social deprivation and lack of opportunity.The Charity works with challenging service users with complex needs, including those with entrenched drug habits and offending behaviour. | £339,714,761
+<strong>THE ORMISTON TRUST</strong> [Charity number: [1164358](https://findthatcharity.uk/orgid/GB-CHC-1164358)]<br>Ormiston Trust supports children and their families by way of grants to Ormiston organisations and the sponsorship of Multi Academy Trusts. Four core values underpin our work: Nurture; Empower; Innovate; and Impact. | £338,987,000
 <strong>OASIS CHARITABLE TRUST</strong> [Charity number: [1026487](https://findthatcharity.uk/orgid/GB-CHC-1026487)]<br>Oasis Charitable Trust is a family of organisations running community Hubs providing holistic support to the communities we serve. Our work includes our Academies programme, youthwork, Chaplaincy services & churches, anti human traffiking campaigning through STOP THE TRAFFIK, Higher Education courses through Oasis College and supported housing through Oasis Aquila Housing. | £335,019,000
+<strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £327,318,000
 <strong>BARNARDO'S</strong> [Charity number: [216250](https://findthatcharity.uk/orgid/GB-CHC-216250)]<br>Barnardo?s helped improve the lives of more than 240,000 vulnerable children, young people and their families. We help children including those who have been sexually exploited, young people leaving care, children with a parent in prison and provide early intervention for families struggling to cope. We find adoptive homes and foster placements for children in care and campaign to change policy. | £326,134,178
 <strong>Barnardo's</strong> [Charity number: [SC037605](https://findthatcharity.uk/orgid/GB-SC-SC037605)]<br>The Objects of the Charity are for the public benefit: To promote the care, safety and upbringing of children and young people by:- supporting and assisting those in need, their families and carers. promoting their health. and advancing their education. The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. | £326,134,000
 <strong>THE SHAW TRUST LIMITED</strong> [Charity number: [287785](https://findthatcharity.uk/orgid/GB-CHC-287785)]<br>Shaw Trust provides services to people who are disabled or otherwise disadvantaged, principally to help them find employment or to develop work and independence skills. | £315,754,000
-<strong>The Shaw Trust Limited</strong> [Charity number: [SC039856](https://findthatcharity.uk/orgid/GB-SC-SC039856)]<br>The objects of the company are: (a) To relieve any person who is in need because of any disability or because of any other disadvantage resulting from unemployment, youth, age, financial hardship, ill-health or because they are offenders, ex-offenders or are at risk of offending. (b) The promotion of the health, equality and independence of disabled people. and (c) The prevention and relief of poverty. in particular by providing education, training, rehabilitation, support, employment opportunities and personal development opportunities. The company will be non-party in politics and non-sectarian in religion. | £315,754,000
-<strong>THE SAVE THE CHILDREN FUND</strong> [Charity number: [213890](https://findthatcharity.uk/orgid/GB-CHC-213890)]<br>TO RELIEVE THE DISTRESS AND TO PROMOTE THE WELFARE OF CHILDREN IN ANY COUNTRY OR COUNTRIES, WITHOUT DIFFERENTIATION ON THE GROUND OF RACE, COLOUR, NATIONALITY, CREED OR SEX TO EDUCATE THE PUBLIC CONCERNING THE NATURE, CAUSES AND EFFECTS OF DISTRESS, AND WANT OF WELFARE AS AFORESAID, AND TO CONDUCT AND PROCURE RESEARCH CONCERNING THE SAME AND TO MAKE AVAILABLE THE USEFUL RESULTS THEREOF. | £304,834,000
-<strong>The Save the Children Fund</strong> [Charity number: [SC039570](https://findthatcharity.uk/orgid/GB-SC-SC039570)]<br>The objects for which the Charity is  established are to relieve the distress and hardship, and to promote the welfare of children in any country or countries, place or places, without differentiation on the ground of race, colour, nationality, creed or sex and to educate the public concerning the nature, causes and effects of distress, hardship and want of welfare as aforesaid, and to conduct and procure research concerning the same and to make available the useful results thereof to the public. | £304,834,000
-<strong>METHODIST HOMES</strong> [Charity number: [1083995](https://findthatcharity.uk/orgid/GB-CHC-1083995)]<br>Methodist Homes is a charity providing care, accommodation and support services for older people throughout Britain.  We are one of the largest charitable care providers in the sector and amongst the largest charities in Britain, providing services to 15,000 older people for nearly 70 years. | £279,198,000
-<strong>THE SALVATION ARMY SOCIAL WORK TRUST</strong> [Charity number: [215174](https://findthatcharity.uk/orgid/GB-CHC-215174)]<br>The provision of supported accommodation for homeless people Older peoples housing and supportWork to help unemployed people back into workAnti-Human Trafficking workAddiction Support ServicesOutreach programmes and services to communitiesFamily tracing serviceFrontline assistance to emergency services personnel and people affected by disasters | £239,960,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>1st Winchburgh Rainbow Unit</strong> [Charity number: [SC052468](https://findthatcharity.uk/orgid/GB-SC-SC052468)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship. | £2,251
-<strong>IQRA EDUCATIONAL TRUST</strong> [Charity number: [1102439](https://findthatcharity.uk/orgid/GB-CHC-1102439)]<br>Providing educational resources and equipment to special schools in Pakistan. Helping the poor and widows in day to day expenses. Providing help to flood victims in Pakistan. Also providing educational resources and general support to young Muslim prisoners at the Pentonville Prison in London with the courtesy of the prison's Imam. Please visit our website at www.iqratrust.com for further details. | £50,888
-<strong>PETER HARRISON FOUNDATION</strong> [Charity number: [1076579](https://findthatcharity.uk/orgid/GB-CHC-1076579)]<br>Two grant programmes are open to applications:1. Opportunities through Sport - applications accepted from charities throughout the United Kingdom;2. Special Needs and Care for Children and Young People - applications accepted from charities where the beneficiaries are in: Berkshire; Buckinghamshire; Hampshire; Isle of Wight; Kent; Oxfordshire; Surrey; East Sussex; and West Sussex. | £2,857,196
-<strong>NORTHAMPTON UNIVERSITY OF THE THIRD AGE</strong> [Charity number: [1077058](https://findthatcharity.uk/orgid/GB-CHC-1077058)]<br>(I) To advance the education of the public and in particular the education of middle aged and older people who are not in full time employment in Northampton and its surrounding locality.(II) The provision of facilities for leisure time and recreational activities with the object of improving the conditions of life for the above persons in the interests of their social welfare. | £69,930
-<strong>ENGLISH CHAMBER ORCHESTRA</strong> [Charity number: [1214613](https://findthatcharity.uk/orgid/GB-CHC-1214613)]<br>3. OBJECTS3.1 THE OBJECTS OF THE CIO ARE:3.1.1 TO PROMOTE AND ENCOURAGE INTEREST IN AND FOSTER AN APPRECIATION OF ENGLISH CHAMBER MUSIC AND CLASSICAL MUSIC BOTH DOMESTICALLY AND INTERNATIONALLY; AND/OR3.1.2 TO ENCOURAGE AND FOSTER AN APPRECIATION OF MUSIC AND CREATE OPPORTUNITY FOR YOUNG PERSONS AND CHILDREN TO ENGAGE WITH AND BE PART OF THE WORK OF THE ENGLISH CHAMBER ORCHESTRA; AND/OR 3.1.3 TO ENHANCE THE STANDARD OF MUSIC EDUCATION OF THE PUBLIC, SPECIFICALLY IN SCHOOLS, PLACES OF LEARNING AND COMMUNITY GROUPS AND IN PURSUANCE THEREOF TO ARRANGE AND PRESENT CONCERTS, MUSIC EDUCATION PROJECTS AND WIDER MATERIALS (INCLUDING RECORDINGS IN ALL SOUND AND VIDEO MEDIA); AND/OR3.1.4 TO INTRODUCE A WIDER ORCHESTRAL AND CHAMBER MUSIC REPERTOIRE TO THE PUBLIC, WITH A SPECIFIC FOCUS ON CELEBRATING BRITISH/ENGLISH ORCHESTRAL MUSIC AND ITS CONNECTION TO MUSIC FROM OTHER CULTURES AS PART OF OUR ROLE AS GLOBAL AMBASSADORS FOR BRITISH ARTS AND CULTURE; AND/OR3.1.5 TO PROMOTE, ASSIST AND ENCOURAGE THE AWARENESS OF THE BENEFICIAL VALUE TO SOCIETY OF THE ARTS AND SCIENCE OF MUSIC.  | 
-<strong>ORCHARD JUNIOR SCHOOL PTFA</strong> [Charity number: [1143968](https://findthatcharity.uk/orgid/GB-CHC-1143968)]<br>To organise events for the benefit of the Orchard Community that raise money to provide equipment and activities for the children of Orchard Junior School. | £27,258
-<strong>ROSSINGTON HALL GROUP DONCASTER RIDING FOR THE DISABLED</strong> [Charity number: [1074139](https://findthatcharity.uk/orgid/GB-CHC-1074139)]<br>Provide riding opportunity to people with disabilities | £57,783
-<strong>GRACE ABLAZE MINISTRIES INTERNATIONAL</strong> [Charity number: [1203097](https://findthatcharity.uk/orgid/GB-CHC-1203097)]<br>Grace Ablaze Weekly church programs and activities:Sunday  1510 to 1710Adults & children, worshiping together/ fellowships Prayer, Bible study, Praise and Worship, Word(Children's Church go for separate teaching during Word / Sermon)Tuesday evening:Adults and Children: prayers | £6,243
-<strong>VESSELS OF HONOUR MINISTRIES</strong> [Charity number: [1170971](https://findthatcharity.uk/orgid/GB-CHC-1170971)]<br>To provide regular weekly recreational and cultural activities to youth, adult recreational and cultural programs, and health education and services to children and adults. 2. To increase the proficiency of adults in Croydon to achieve by making available English as a Second Language (ESOL), and life skills classes.3. To provide a low cost food program (and an emergency foodprogram for those | £14,500
-<strong>CAPTAIN WILLIAM SHORT</strong> [Charity number: [242093](https://findthatcharity.uk/orgid/GB-CHC-242093)]<br>Makes contributions to elderly people in Totnes | £217
+<strong>Her-Place Charitable Trust</strong> [Charity number: [1173554](https://findthatcharity.uk/orgid/GB-CHC-1173554)]<br>The focus of the charity is to encourage, inspire and empower all women and girls toimprove their mental health and challenge the associated stigma.The promotion and protection of good health, in particularly but not exclusively for women in the area of Cheshire. | £384,673
+<strong>AKAMBA CHILDREN'S EDUCATION FUND</strong> [Charity number: [1139880](https://findthatcharity.uk/orgid/GB-CHC-1139880)]<br>The Charity's objectives are to advance the education, health and wellbeing of  800 plus vulnerable children and orphans who attend Brainhouse Academy in Mathare North slum, Kenya. The charity support the basic rights of a child; to be cared for, to have a safe place to live, to have food and clean water to drink, to be protected from harm and to be given a good education. | £36,136
+<strong>CAPE MACLEAR LEARNING AND DEVELOPMENT</strong> [Charity number: [1202570](https://findthatcharity.uk/orgid/GB-CHC-1202570)]<br>Empowering Malawi's youth in Cape Maclear through education. Sponsoring underprivileged students for secondary & tertiary studies. Transparent selection, progress monitoring, mentorship ensure excellence. Join us in transforming lives. | £9,697
+<strong>GREAT BOOKHAM BELLES WI</strong> [Charity number: [1186264](https://findthatcharity.uk/orgid/GB-CHC-1186264)]<br>WI Group meeting in Bookham Surrey and following the constitution of the national Womens Institute to educate women in our group and to fund raise for local charities | £6,621
+<strong>SMSC IN THE COMMUNITY</strong> [Charity number: [1206409](https://findthatcharity.uk/orgid/GB-CHC-1206409)]<br>Provide sporting opportunities to young people within Merton and surrounding areas. | £32,130
+<strong>The L20 Hub</strong> [Charity number: [1147852](https://findthatcharity.uk/orgid/GB-CHC-1147852)]<br>Youth & community focussed services, projects & events in & around the Bootle area. Targeting children, young people, older people & the wider community; who are affected by social, educational, economic & health inequality via:Youth Services,After School Clubs,Reactive community projects, Health HubsFitness classesCoffee morningsTripsLeisure CoursesEventsLocal partership work | £176,766
+<strong>GRENFELL ATHLETIC</strong> [Charity number: [1199039](https://findthatcharity.uk/orgid/GB-CHC-1199039)]<br>Grenfell Athletic was set up to encourage participation in healthy recreational activity for members of the communities of Royal Borough of Kensington and Chelsea, Hammersmith and Fulham and Westminster through the provision of football. We have mens and womens team and encourage all members of our community to take part in team sports to improve their physical and mental wellbeing. | £84,523
+<strong>PATHFINDERS CYMRU</strong> [Charity number: [1205187](https://findthatcharity.uk/orgid/GB-CHC-1205187)]<br>Building a more inclusive future through community-integrated activities, volunteering and enterprise opportunities, education, and skills training for children and young people with learning disabilities, while supporting their families, carers, and siblings. | £39,675
+<strong>Lismore Community Transport </strong> [Charity number: [SC030469](https://findthatcharity.uk/orgid/GB-SC-SC030469)]<br>The organisation's purpose is to provide relief to the inhabitants of the Isle of Lismore and its environs who have need because of age, mental or physical disability, poverty or isolation, of a rural transport service. | £3,373
+<strong>TEST VALLEY MEN'S SHED</strong> [Charity number: [1200625](https://findthatcharity.uk/orgid/GB-CHC-1200625)]<br>To provide a venue and support for members to talk and connect with others while participating in group or individual projects.  To provide opportunities for friendship and socialising in a safe environment while providing space, expertise and facilities for members to pursue hobbies, crafts and other creative activities. To undertake projects which benefit the members and the broader community. | £28,798
