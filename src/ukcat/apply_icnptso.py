@@ -10,6 +10,7 @@ from ukcat.settings import (
     CHARITY_CSV,
     ICNPTSO_CSV,
     ICNPTSO_MODEL,
+    MANUAL_ADJUSTMENTS_FILE,
     ML_DEFAULT_FIELDS,
     SAMPLE_FILE,
     TOP2000_FILE,
@@ -18,6 +19,7 @@ from ukcat.settings import (
 MANUAL_FILES = [
     SAMPLE_FILE,
     TOP2000_FILE,
+    MANUAL_ADJUSTMENTS_FILE,
 ]
 
 

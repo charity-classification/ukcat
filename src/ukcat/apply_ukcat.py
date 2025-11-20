@@ -4,6 +4,7 @@ import click
 import pandas as pd
 from tqdm import tqdm
 
+from ukcat.apply_icnptso import MANUAL_FILES
 from ukcat.ml_icnptso import get_text_corpus
 from ukcat.settings import CHARITY_CSV, UKCAT_FILE
 
@@ -43,6 +44,14 @@ from ukcat.settings import CHARITY_CSV, UKCAT_FILE
     default=False,
     help="Add codes for the intermediate groups to the results",
 )
+@click.option(
+    "--manual-files",
+    "-m",
+    multiple=True,
+    default=MANUAL_FILES,
+    type=str,
+    help="Overwrite the values for the charities in the sample with the manually found ICNPTSO from these files",
+)
 def apply_ukcat(
     charity_csv: str,
     ukcat_csv: str,
@@ -53,6 +62,7 @@ def apply_ukcat(
     sample: int,
     add_names: bool,
     include_groups: bool,
+    manual_files: Sequence[str],
 ) -> pd.DataFrame:
     if not save_location:
         save_location = charity_csv.replace(".csv", "-ukcat.csv")
@@ -89,6 +99,19 @@ def apply_ukcat(
         )
 
     results = pd.concat(results_list)
+
+    # open the manual files and find the codes to apply
+    if manual_files:
+        manual_data = (
+            pd.concat([pd.read_csv(f) for f in manual_files])
+            .groupby("org_id")
+            .first()["UKCAT"]
+            .rename("manual_icnptso_code")
+        )
+        manual_data = manual_data[manual_data.notnull()].apply(lambda x: x.split(";")).explode()
+        # remove any existing codes and replace with manual ones
+        results = results.drop(results.index.isin(manual_data.index), errors="ignore")
+        results = pd.concat([results, manual_data.rename("ukcat_code")])
 
     # add 2-digit versions of the codes & mid-level codes
     if include_groups:

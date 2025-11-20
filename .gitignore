@@ -6,6 +6,7 @@ working/
 !data/ccni_activities.csv
 !data/icnptso.csv
 !data/top2000.csv
+!data/manual_adjustments.csv
 !data/charities_active-ukcat.csv
 !data/charities_inactive-ukcat.csv
 !data/charities_active-icnptso.csv

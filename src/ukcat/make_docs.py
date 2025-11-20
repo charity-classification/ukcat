@@ -73,9 +73,10 @@ def make_ukcat_docs(charity_csv, ukcat_csv, id_field, template, save_location):
         os.makedirs(save_location)
 
     for category in tqdm(ukcat.index.tolist()):
-        category_charities = charities_ukcat.loc[
-            charities_ukcat["ukcat_code"].str.startswith(category), id_field
-        ].unique()
+        category_charities = np.intersect1d(
+            charities_ukcat.loc[charities_ukcat["ukcat_code"].str.startswith(category), id_field].unique(),
+            charities.index,
+        )
 
         top_charities = (
             charities.loc[category_charities, :]

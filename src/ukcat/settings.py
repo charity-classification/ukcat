@@ -11,6 +11,7 @@ ICNPTSO_CSV = os.path.join(DATA_DIR, "icnptso.csv")
 ICNPTSO_MODEL = os.path.join(DATA_DIR, "icnptso_ml_model.pkl")
 SAMPLE_FILE = os.path.join(DATA_DIR, "sample.csv")
 TOP2000_FILE = os.path.join(DATA_DIR, "top2000.csv")
+MANUAL_ADJUSTMENTS_FILE = os.path.join(DATA_DIR, "manual_adjustments.csv")
 
 # regexes for use in machine learning models and text cleaning
 REPLACE_BY_SPACE_RE = re.compile("[/(){}\[\]\|@,;]")
@@ -53,8 +54,8 @@ CCEW_PARTA_FILE = (
 )
 
 # Office of Scottish Charity Regulator
-OSCR_ACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityRegDownload"
-OSCR_INACTIVE = "https://www.oscr.org.uk/umbraco/Surface/FormsSurface/CharityFormerRegDownload"
+OSCR_ACTIVE = "https://www.oscr.org.uk/download/charity-register"
+OSCR_INACTIVE = "https://www.oscr.org.uk/download/charity-former-register"
 
 # Charity Commission for Northern Ireland
 CCNI_DATA = "https://www.charitycommissionni.org.uk/umbraco/api/charityApi/ExportSearchResultsToCsv/?include=Linked&include=Removed"

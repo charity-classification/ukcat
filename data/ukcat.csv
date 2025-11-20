@@ -5,7 +5,7 @@ AN102,Dogs,Animals,,3,,,\b(dogs?|canines?|kennels?|Rhodesian Ridgeback)\b,
 AN103,Donkeys,Animals,,3,,E21;E29;E20,\b(donkey|donkeys|mule(s)?)\b,
 AN104,Horses,Animals,,3,,E21;E29;E20,\b(horses?|equine|dressage|(pon(y|ies)+)|horsemanship)\b,
 AF,Armed forces,Armed forces,,1,"Includes military, services, military services. ",G13,\b(military|armed (forces?|services?)|regiment(al)?|cadet(s)?|british forces)\b,
-AF101,Army,Armed forces,,3,,G13,\b(army|household division|grenadier|soldiers?|regimental|infantry)\b,\b(salvation army)\b
+AF101,Army,Armed forces,,3,,G13,\b(army|household division|grenadier|soldiers?|regimental|infantry)\b,\b((salvation|church) army)\b
 AF102,Navy,Armed forces,,3,,G13,\b((royal|merchant) (navy|naval)|royal marines?|HMS)\b,
 AF103,RAF,Armed forces,,3,,,\b(royal air forces?|r\.?a\.?f\.?)\b,
 AF104,Veterans,Armed forces,,3,,D19,\b(ex-service|armed forces personnel|regimental association|royal british legion|ex-soldiers?|(former|retired) members of the armed (forces|services)|military patients?)\b,

@@ -272,6 +272,29 @@ def fetch_charities(
         )
         click.echo("Saved charities_inactive.csv")
 
+        # update the top 2000
+        click.echo("Update top2000.csv")
+        top2000 = pd.read_csv(os.path.join(DATA_DIR, "top2000.csv"), dtype={"reg_number": str})
+        new_top2000 = charities[charities["active"]].sort_values("income", ascending=False).head(2000)
+        # add any missing ones to the bottom
+        top2000 = pd.concat(
+            [
+                top2000,
+                new_top2000[~new_top2000["org_id"].isin(top2000["org_id"])][
+                    [c for c in top2000.columns if c in new_top2000.columns]
+                ],
+            ]
+        ).set_index("org_id")
+
+        # update with new data
+        for c in top2000.columns:
+            if c not in charities.columns:
+                continue
+            top2000.loc[:, c] = charities.set_index("org_id")[c].fillna(top2000[c])
+
+        top2000.sort_index().reset_index().to_csv(os.path.join(save_location, "top2000.csv"), **csv_config)
+        click.echo("Saved top2000.csv")
+
     return charities
 
 
