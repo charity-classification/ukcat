@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-83,459 charities have been tagged with this tag.
-This represents 41.09% of all charities.
+83,469 charities have been tagged with this tag.
+This represents 41.10% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,579 | 38.65%
-£10k - £100k | 27,944 | 39.94%
-£100k - £250k | 9,271 | 42.05%
-£250k - £500k | 4,703 | 43.48%
-£500k - £1m | 3,032 | 45.33%
-£1m - £10m | 4,380 | 48.67%
-Over £10m | 1,177 | 54.11%
-Total | 78,086 | 40.66%
+Under £10k | 27,541 | 38.65%
+£10k - £100k | 27,946 | 39.94%
+£100k - £250k | 9,294 | 42.12%
+£250k - £500k | 4,697 | 43.36%
+£500k - £1m | 3,047 | 45.46%
+£1m - £10m | 4,373 | 48.59%
+Over £10m | 1,181 | 54.15%
+Total | 78,079 | 40.66%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 68,256 | 39.88%
-oscr | 12,363 | 49.93%
-ccni | 2,840 | 39.50%
-Total | 83,459 | 41.09%
+ccew | 68,271 | 39.88%
+oscr | 12,364 | 49.95%
+ccni | 2,834 | 39.45%
+Total | 83,469 | 41.10%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>HOME-START SOUTH WARWICKSHIRE</strong> [Charity number: [1185280](https://findthatcharity.uk/orgid/GB-CHC-1185280)]<br>Home-Start South Warwickshire provide practical help, friendship and emotional support to families in South Warwickshire where there is a child under five. Families may be struggling with parenting, physical or mental illness, disability, multiple births, loneliness or isolation. Our volunteers, who are parents themselves, undergo 30 hours of training, regular CPD and supervision. | £203,202
-<strong>LEYLAND'S FOUNDATION</strong> [Charity number: [526348](https://findthatcharity.uk/orgid/GB-CHC-526348)]<br>the charity makes grants to students and schools in Blackburn | £1,377
-<strong>DURHAM BAT GROUP</strong> [Charity number: [1170672](https://findthatcharity.uk/orgid/GB-CHC-1170672)]<br>Durham Bat Group promotes the conservation and welfare of bats within the vice-county of Durham, including the provision of  advice and help to the public with regard to bats, education of the public about bats by means of  talks, bat walks, talks to school groups etc., encouragement of community participation in bat related activities, and study of bats to improve understanding of their biology.. | £7,373
-<strong>HARVEY'S FOUNDRY TRUST</strong> [Charity number: [1112920](https://findthatcharity.uk/orgid/GB-CHC-1112920)]<br>Promoting the preservation, protection, development, improvement & education for the benefit of the people of Hayle, Cornwall & the nation, the natural historical, architectural & constructional heritage, features, objects, collections and projects of historic & public interest, including buildings of particular beauty or historical, architectural or constructional interest. | £530,930
-<strong>TEIKYO FOUNDATION (UK)</strong> [Charity number: [1001232](https://findthatcharity.uk/orgid/GB-CHC-1001232)]<br>To advance the education and training of school children and students, members of Teikyo University, Tokyo , Japan, its schools and other educational institutions administered by it, and to advance the education and training of other persons, in the United Kingdom and elsewhere. | £2,433,893
-<strong>CLAVERLEY (C OF E) SCHOOL P.T.A.</strong> [Charity number: [1069377](https://findthatcharity.uk/orgid/GB-CHC-1069377)]<br>Parent Teacher Association for village school. | £13,267
-<strong>COMMUNITY WATCHMEN MINISTRIES</strong> [Charity number: [1101322](https://findthatcharity.uk/orgid/GB-CHC-1101322)]<br>Main activities include teaching, training, encouraging, equipping, empowering and activating Christians to make a difference across Merseyside, UK and beyond. This is done through the Big PUSH gatherings, Ministry Schools, Conferences and interaction with different spheres. We work in partnership with local organisations and across the nations. | £39,978
-<strong>HEALTH, EDUCATION AND LITERACY PROGRAMME INTERNATIONAL</strong> [Charity number: [1100438](https://findthatcharity.uk/orgid/GB-CHC-1100438)]<br>United Kingdom: Health awareness. Sessions on Lifestyle choices, nutrition and healthy eating.India: improving lives of disadvantaged  children by empowering the parents/guardians through education and training.  (Women's training programme, Health Education) | £13
-<strong>SIDCUP ROTARY CLUB BENEVOLENT TRUST</strong> [Charity number: [280561](https://findthatcharity.uk/orgid/GB-CHC-280561)]<br>Relief of Poverty, achievement of education, advancement of religion and other charitable purposes within the meaning of the law of England. | £37,238
-<strong>THE HARBOUR PROJECT FOR SWINDON REFUGEES AND ASYLUM SEEKERS</strong> [Charity number: [1171368](https://findthatcharity.uk/orgid/GB-CHC-1171368)]<br>To provide relief for asylum seekers and refugees and their dependants who are in conditions of hardship or distress;To preserve and protect the physical and mental health of such people;To provide facilities for such people for education, recreation or other leisure time occupation with the object of improving their conditions of life and assisting their inclusion into the wider community | £423,807
+<strong>Creative Kids Centre</strong> [Charity number: [1127371](https://findthatcharity.uk/orgid/GB-CHC-1127371)]<br>We run arts based holiday clubs and workshops that inspire children aged 6 to 14yrs, prioritising the less advantaged, offering free arts education and chances to work with local professional artists. We also provide a programme for teens offering training to gain arts qualifications and leadership skills. | £106,080
+<strong>BROXBOURNE UNIVERSITY OF THE THIRD AGE</strong> [Charity number: [1090504](https://findthatcharity.uk/orgid/GB-CHC-1090504)]<br>A monthly meeting with speaker, open to all members, and smaller special interest groups that organise their own programme. | £57,337
+<strong>St Macartans Parent Teacher Association</strong> [Charity number: [NI108598](https://findthatcharity.uk/orgid/GB-NIC-108598)]<br>None | £1,584
+<strong>Hospital Broadcasting Service Ayrshire</strong> [Charity number: [SC017119](https://findthatcharity.uk/orgid/GB-SC-SC017119)]<br>2.1 The relief of those in need through the provision of a hospital radio broadcasting service to improve the welfare and wellbeing of patients and the wider hospital  community at University Hospital Crosshouse. The activities of the organisation shall also include the provision of a radio broadcasting service to a wider audience in the United Kingdom and overseas. These activities are in no way restrictive of the powers of the organisation to carry out such voluntary work as may be from time to time agreed by them with hospital managers. In addition to the foregoing activities the organisation may raise funds and invite and collect contributions from any person or persons.  2.2 The provision and organisation of recreational facilities in the form of a radio broadcasting service with the object of improving the conditions and quality of life for patients, for example through an improved sense of wellbeing leading improved mental health. social inclusion, continuity of contact between patient family through the provision of an on line radio service and the provision of real time interaction/connection between patient and family through the provision of a real time on line radio service and wider community of University Hospital Crosshouse and wider broadcasting audience in the United Kingdom and overseas  2.3 The advancement of education through training volunteers in a range of skills including I. T. . broadcasting. public speaking. communication skills, a number of transferable skills. transferrable skills improving employability.  2.4 The advancement of education through inviting school groups, adult learning and other such groups to experience participating in training and broadcast sessions. Where possible HBSA will seek to make connections with local organisations to allow this to happen.  | £5,340
+<strong>Biological Recording In Scotland Brisc</strong> [Charity number: [SC024418](https://findthatcharity.uk/orgid/GB-SC-SC024418)]<br>The objects of the organisation are to advance the education of the public about biological diversity  and to promote for the benefit of the public the conservation of the environment and in  furtherance thereof but not otherwise.  a) To promote the effective gathering and use of biological data and other related  information as a means to develop an understanding of Scotland's biodiversity and contribute to the conservation of the natural heritage of Scotland. b) To stimulate biological recording in Scotland through promotion of a network of area based local records centres and recording groups. c) To represent the interests of those records centres, recording groups and individual recorders to other organisations. d) To promote co-ordination/co-operation between and training of individuals and organisations with an interest in biological recording. e) To promote the adoption of good practice and minimum standards of biological recording and the accreditation of records centres. | £1,405
+<strong>PHOENIX SPACE</strong> [Charity number: [1206724](https://findthatcharity.uk/orgid/GB-CHC-1206724)]<br>Our vision, mission, and efforts are all driven by a singular purpose: democratising quality education, improving the life chances of displaced youth and empowering underserved communities worldwide.We are dedicated to transforming the lives of displaced and marginalised students around the world by providing innovative STEM education and digital upskilling programs. | £138,219
+<strong>FRIENDS OF SPRINGFIELD (PTA)</strong> [Charity number: [1036040](https://findthatcharity.uk/orgid/GB-CHC-1036040)]<br>Fundraising to improve the school environment and equipment available to pupils and staff. | £5,000
+<strong>NATIONAL NURSES NUTRITION GROUP</strong> [Charity number: [295411](https://findthatcharity.uk/orgid/GB-CHC-295411)]<br>The objectives of the NNNG are to promote education in nutrition and related subjects for members of the nursing profession, for the public benefit, and especially for the benefit of patients in the hospital and community. | £4,101
+<strong>Old Loughry Heritage Group</strong> [Charity number: [NI100349](https://findthatcharity.uk/orgid/GB-NIC-100349)]<br>We are set up to keep alive the old skills and crafts and to appreciate the old farming methods, tractors and machinery. We have approx eight acres of land leased from LAFARGE/TARMC and we are using this to demonstrate in practical ways the old farming methods, using vintage tractors and machinery. We are now preparing for our second year and will soon be ploughing, sowing seed, and preparing for haymaking later in the year. We plan to use these facilities to bring together young and old, educate local school children, and speak to and record the experiences of the older generations, thus benefitting the whole community. In future we have aim to delve into the rich folklore and history of this area. We are planning craft demonstrations for such things as baking, blacksmithing, buttermaking patchwork, stitchwork and showing examples of old linens etc and researching the history of the local schools and country shops, linen, churches and graveyards etc. In future we would hope to be able to restore some old farm equipment etc and speak to and record wherever possible the reminiscences of the older generations of local people. Our group is run by a small number of enthusiastic men and women formed into a committee and members who share a love of local history and bygone farming practices. All of this work is carried out voluntarily and with no financial gain to the members. We intend to use our profits in the future to promote more of these projects over the next few years. We are currently linked to two Primary Schools who want to get involved with our group to carry out local history projects and we are taking part in a Christmas tree festival at a local church. We will measure the effectiveness of our work by the numbers attending our exhibitions, by the numbers of primary school children becoming involved in our activities, by ongoing evaluations and surveys and the response to our outreach programmes. There is no harm flowing from our activities. | £680
+<strong>CATFORTH MEMORIAL VILLAGE HALL</strong> [Charity number: [521358](https://findthatcharity.uk/orgid/GB-CHC-521358)]<br>ACTIVITIES INCLUDE; CHILDRENS PARTIES, FESTIVALS & FUN DAYS, DOG TRAINING, PRIVATE FUNCTIONS, CUBS  & SCOUTS, TODDLERS GROUP, KARATE, ANNUAL & PUBLIC COMMUNITY EVENTS. | £35,882

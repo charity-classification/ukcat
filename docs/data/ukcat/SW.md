@@ -3,8 +3,8 @@
 Social welfare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Social welfare](SW.md) category.
 
-38,761 charities have been tagged with this tag.
-This represents 19.08% of all charities.
+38,764 charities have been tagged with this tag.
+This represents 19.09% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,653 | 17.73%
-£10k - £100k | 12,167 | 17.39%
-£100k - £250k | 4,411 | 20.01%
-£250k - £500k | 2,409 | 22.27%
-£1m - £10m | 1,944 | 21.60%
-£500k - £1m | 1,520 | 22.73%
-Over £10m | 416 | 19.13%
-Total | 35,520 | 18.50%
+Under £10k | 12,654 | 17.76%
+£10k - £100k | 12,161 | 17.38%
+£100k - £250k | 4,423 | 20.05%
+£250k - £500k | 2,398 | 22.14%
+£1m - £10m | 1,937 | 21.52%
+£500k - £1m | 1,536 | 22.92%
+Over £10m | 419 | 19.21%
+Total | 35,528 | 18.50%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 30,951 | 18.08%
-oscr | 6,471 | 26.13%
-ccni | 1,339 | 18.63%
-Total | 38,761 | 19.08%
+ccew | 30,955 | 18.08%
+oscr | 6,473 | 26.15%
+ccni | 1,336 | 18.60%
+Total | 38,764 | 19.09%
 
 
 ## Ten largest charities (by income)
@@ -48,25 +48,25 @@ Name | Latest income
 <strong>Oxfam</strong> [Charity number: [SC039042](https://findthatcharity.uk/orgid/GB-SC-SC039042)]<br>To prevent and relieve poverty and to protect the vulnerable, including through humanitarian intervention. . To advance sustainable development. To promote human rights and equality and diversity, in particular where to do so contributes to the prevention and relief of poverty. | £368,000,000
 <strong>OXFAM</strong> [Charity number: [202918](https://findthatcharity.uk/orgid/GB-CHC-202918)]<br>Oxfam's objects are to prevent and relieve poverty and protect the vulnerable anywhere in the world.  Oxfam furthers its objects through interlinked activities of humanitarian relief, development work and advocacy and campaigning.  Oxfam is an affiliate member of Oxfam International.  Details of Oxfam's mission and ways of working can be found at www.oxfam.org.uk | £368,000,000
 <strong>CHANGE, GROW, LIVE</strong> [Charity number: [1079327](https://findthatcharity.uk/orgid/GB-CHC-1079327)]<br>CGL provides a range of services to support individuals, families and communities whose lives are adversely affected by crime, substance misuse, homelessness, anti-social behaviour, domestic violence, social deprivation and lack of opportunity.The Charity works with challenging service users with complex needs, including those with entrenched drug habits and offending behaviour. | £339,714,761
+<strong>Change, Grow, Live</strong> [Charity number: [SC039861](https://findthatcharity.uk/orgid/GB-SC-SC039861)]<br>The objects of the Charity are, for the public benefit: 3.1 the advancement of health or the saving of lives, and the prevention or relief of poverty among: 3.1.1 people who have been, or are, or are at risk of becoming: 3.1.1.1 affected by use of or dependent on drugs, alcohol or other substances. 3.1.1.2 homeless. 3.1.1.3 imprisoned. 3.1.2 young people. 3.1.3 such other people identified by the Trustees from time to time. 3.1.4 the families, carers and dependents of such persons. (“Beneficiaries”), in particular (but not exclusively) by providing information, advice, support, services, interventions and treatment. 3.2 the advancement of education among: 3.2.1 Beneficiaries, and the relief of their unemployment, in particular (but not exclusively) by providing information, advice, support and services. and 3.2.2 the general public in relation to the experiences of Beneficiaries, in particular (but not exclusively) by conducting and promoting research, gathering and sharing data, and raising awareness. 3.3 the promotion of such other charitable purposes as the Trustees see fit from time to time. Nothing in these Articles shall authorise an application of the property of the Charity for purposes which are not charitable in accordance with any statutory provision regarding the meaning of the word 'charitable' or the words 'charitable purposes' in force in any part of the United Kingdom. | £339,714,761
 <strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £327,318,000
 <strong>Salvation Army</strong> [Charity number: [SC009359](https://findthatcharity.uk/orgid/GB-SC-SC009359)]<br>The objects of the Army shall be the advancement of the Christian religion, as promulgated in the religious doctrines set out in Schedule 1 to this Act which are professed, believed and taught by the Army and, pursuant thereto,  the advancement of education,  the relief of poverty. and other charitable objects beneficial to society or the community of mankind as a whole.  | £327,318,000
 <strong>BARNARDO'S</strong> [Charity number: [216250](https://findthatcharity.uk/orgid/GB-CHC-216250)]<br>Barnardo?s helped improve the lives of more than 240,000 vulnerable children, young people and their families. We help children including those who have been sexually exploited, young people leaving care, children with a parent in prison and provide early intervention for families struggling to cope. We find adoptive homes and foster placements for children in care and campaign to change policy. | £326,134,178
 <strong>Barnardo's</strong> [Charity number: [SC037605](https://findthatcharity.uk/orgid/GB-SC-SC037605)]<br>The Objects of the Charity are for the public benefit: To promote the care, safety and upbringing of children and young people by:- supporting and assisting those in need, their families and carers. promoting their health. and advancing their education. The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. | £326,134,000
 <strong>THE SHAW TRUST LIMITED</strong> [Charity number: [287785](https://findthatcharity.uk/orgid/GB-CHC-287785)]<br>Shaw Trust provides services to people who are disabled or otherwise disadvantaged, principally to help them find employment or to develop work and independence skills. | £315,754,000
-<strong>The Shaw Trust Limited</strong> [Charity number: [SC039856](https://findthatcharity.uk/orgid/GB-SC-SC039856)]<br>The objects of the company are: (a) To relieve any person who is in need because of any disability or because of any other disadvantage resulting from unemployment, youth, age, financial hardship, ill-health or because they are offenders, ex-offenders or are at risk of offending. (b) The promotion of the health, equality and independence of disabled people. and (c) The prevention and relief of poverty. in particular by providing education, training, rehabilitation, support, employment opportunities and personal development opportunities. The company will be non-party in politics and non-sectarian in religion. | £315,754,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>CHILDREN CARE CENTRE</strong> [Charity number: [1014813](https://findthatcharity.uk/orgid/GB-CHC-1014813)]<br>Relieve Poverty,Sickeness and advance Education of Children | £246,319
-<strong>LOOK LONE PARENTS & YOUTH ASSOCIATION DUTCHSOM</strong> [Charity number: [1111148](https://findthatcharity.uk/orgid/GB-CHC-1111148)]<br>Education / Training  Sport / recreation WhoChildren / People of a particular ethnic or racial origin Provides human resources Provides services Provides advocacy / advice / information/to provide food,shelter and education for orphan children in Somalia,Water Project,Most needy,Orphan sponcership,Medical project | 
-<strong>AL MUSTAFA POVERTY RELIEF FOUNDATION</strong> [Charity number: [1201503](https://findthatcharity.uk/orgid/GB-CHC-1201503)]<br>The charity helps and supports the poor by providing food and basic neccessities. | £10,233
-<strong>Erskine Community Allotments SCIO</strong> [Charity number: [SC052678](https://findthatcharity.uk/orgid/GB-SC-SC052678)]<br>3.1 the advancement of community development through provision of and participation in community garden spaces in a sustainable and inclusive manner.  3.2 the advancement of education of the general public in agriculture, horticulture, sustainable development and the protection and improvement of the natural environment through good environmental practices by encouraging and teaching a range of outdoor skills and pursuits, promoting the benefits of the natural environment and living more sustainably.  3.3 to advance environmental improvement through the growing of food locally, leading to a reduction in carbon footprint, increased resilience, and opportunities for recycling organic and other materials and by promoting the benefits of and demonstrating a range of good environmental and horticultural practices such as organic growing, composting, and through reducing, re-using and recycling of resources.  3.4 To provide recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended by providing affordable allotment spaces, opportunities for people to grow their own food and to keep physically and socially active. | £15,043
-<strong>Sakina Foundation</strong> [Charity number: [1203693](https://findthatcharity.uk/orgid/GB-CHC-1203693)]<br>The prevention or relief of poverty to people in the Pakistan primarily through the supply of food, drink and other necessities such as clothing and medicine. | £1,035
-<strong>ROYAL ANTEDILUVIAN ORDER OF BUFFALOES GLE GRIMSBY AND DISTRICT PROVINCIAL GRAND LODGE BENEVOLENT FUND</strong> [Charity number: [254521](https://findthatcharity.uk/orgid/GB-CHC-254521)]<br>to make grants to our members who are in diffculty or need. | £129
-<strong>POOR'S ALLOTMENTS</strong> [Charity number: [239008](https://findthatcharity.uk/orgid/GB-CHC-239008)]<br>To help needy, elderly and disabled people in the village | £2,650
-<strong>HEART OF TAMWORTH COMMUNITY PROJECT</strong> [Charity number: [1157449](https://findthatcharity.uk/orgid/GB-CHC-1157449)]<br>The Charity provides meeting facilities and volunteers in order to deliver educational and social facilities aimed at relieving poverty within the town of Tamworth and surrounding area. | £343,686
-<strong>PETRONELA'S HOPE</strong> [Charity number: [1207298](https://findthatcharity.uk/orgid/GB-CHC-1207298)]<br>Petronela's Hope supports women, children and families affected by domestic violence and hardship. We provide therapy sessions, foodbank support, childrens and art clubs, a youth football club, interpreter services and community events raising awareness and offering help.We also organise fundraising events to support our charitable projects and services. | £8,560
-<strong>THE HOPE INITIATIVE UK CIO</strong> [Charity number: [1202011](https://findthatcharity.uk/orgid/GB-CHC-1202011)]<br>The Hope Initiative UK provides essential support services (food bank, food boxes , a limited number of energy vouchers, advisory services, signposting directories, coaching sessions) to improve the health and wellbeing of individuals and families who are in need, have experienced ill health or been affected by domestic abuse. | £8,577
+<strong>JOHN SPICER'S APPRENTICING CHARITY</strong> [Charity number: [307742](https://findthatcharity.uk/orgid/GB-CHC-307742)]<br>APPRENTICING POOR BOYS AND THEIR ADVANCEMENT IN LIFE. | £2,614
+<strong>THE INNS OF COURT GAINSFORD TRUST</strong> [Charity number: [1006005](https://findthatcharity.uk/orgid/GB-CHC-1006005)]<br>The relief of poverty of aged persons who are residents of Greater London.  The provision of facilities in the interest of social welfare, for recreation or other leisure time occupation of person who are in need of those facilities and who live in the vicinity of the Inns of Court. | £4,417
+<strong>RAHWA SUPPORT GROUP</strong> [Charity number: [1078002](https://findthatcharity.uk/orgid/GB-CHC-1078002)]<br>Helping ethnic minorities in general and eritrean in particular. To relieve them from poverty and isolation by addressing their need. Promote projects and schemes, providing them advice and information on health - social walfare etc. | £1,348
+<strong>THE FRIENDS OF ASHDON SCHOOL</strong> [Charity number: [1145518](https://findthatcharity.uk/orgid/GB-CHC-1145518)]<br>Advancing the education of the pupils of Ashdon School by providing and assisting in the provision of facilities for education at the school.Provision of facilities in the interests of social welfare for recreation or leisure occupation of individuals who need  such facilities because of their youth, age, infirmity, financial hardship or social circumstances to improve their conditions of life. | 
+<strong>GLOBAL RELIEF PLAN</strong> [Charity number: [1204988](https://findthatcharity.uk/orgid/GB-CHC-1204988)]<br>GLOBAL RELIEF PLAN is committed to positively impacting the lives of refugees by implementing strategies centered around alleviating or preventing poverty, promoting education and training, and advancing health to save lives. | 
+<strong>BARNACRE ROAD PRIMARY SCHOOL PARENT TEACHER AND FRIENDS ASSOCIATION</strong> [Charity number: [1037280](https://findthatcharity.uk/orgid/GB-CHC-1037280)]<br>We hold fundraising/social events to benefit the pupils and the school. All monies raised are used to enhance the childrens learning environment. | £1,647
+<strong>GLOUCESTERSHIRE FOOTBALL ASSOCIATION - BENEVOLENT FUND</strong> [Charity number: [249744](https://findthatcharity.uk/orgid/GB-CHC-249744)]<br>Supporting amatuer participants in Association Football when injured and absent from work. | £6,307
+<strong>WALMER CHAPEL</strong> [Charity number: [1185852](https://findthatcharity.uk/orgid/GB-CHC-1185852)]<br>The charity holds worship services each Sunday at 10.30 am and 6.30 pm, with Sunday school for children. A toddler and carer group is held each week, a cafe on Saturday mornings, ladies meeting, homegroup every Tuesday evening, street evangelism, and there is a midweek Bible study and prayer meeting on Wednesday at 6.30 pm. We also supply food for the local food bank.Details are on the website | £60,069
+<strong>MOSE MASOE FOUNDATION</strong> [Charity number: [1194301](https://findthatcharity.uk/orgid/GB-CHC-1194301)]<br>Mose Masoe Foundations objectives are to relieve financial hardship amongst current and former rugby football players anywhere in the world, providing or assisting the provision of equipment, facilities and services not normally provided by the statutory authorities. Mose Masoe Foundation furthers its objects through grants providing or paying for items, services or facilities. | £6,109
+<strong>PICK, COOK AND EAT</strong> [Charity number: [1212294](https://findthatcharity.uk/orgid/GB-CHC-1212294)]<br>TO ADVANCE THE EDUCATION, PRIMARILY OF CHILDREN AND YOUNG PEOPLE WITH SPECIAL EDUCATIONAL NEEDS AND/OR LEARNING DISABILITIES THROUGH: - PROVIDING ACTIVITIES IN FOOD PREPARATION, COOKING, NUTRITION AND HORTICULTURE; - OPPORTUNITIES TO LEARN PRACTICAL SKILLS. | 

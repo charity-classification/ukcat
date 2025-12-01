@@ -3,8 +3,8 @@
 Charity and VCS support is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charity and VCS support](CV.md) category.
 
-33,533 charities have been tagged with this tag.
-This represents 16.51% of all charities.
+33,516 charities have been tagged with this tag.
+This represents 16.50% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,871 | 18.04%
-£10k - £100k | 12,306 | 17.59%
-£100k - £250k | 3,029 | 13.74%
-£250k - £500k | 1,479 | 13.67%
-£1m - £10m | 1,157 | 12.86%
-£500k - £1m | 863 | 12.90%
-Over £10m | 268 | 12.32%
-Total | 31,973 | 16.65%
+Under £10k | 12,843 | 18.02%
+£10k - £100k | 12,307 | 17.59%
+£100k - £250k | 3,043 | 13.79%
+£250k - £500k | 1,476 | 13.63%
+£1m - £10m | 1,161 | 12.90%
+£500k - £1m | 860 | 12.83%
+Over £10m | 267 | 12.24%
+Total | 31,957 | 16.64%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 28,823 | 16.84%
-oscr | 2,883 | 11.64%
-ccni | 1,827 | 25.41%
-Total | 33,533 | 16.51%
+ccew | 28,809 | 16.83%
+oscr | 2,881 | 11.64%
+ccni | 1,826 | 25.42%
+Total | 33,516 | 16.50%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>SOUTHEND CAP DEBT ADVICE CENTRE</strong> [Charity number: [1159193](https://findthatcharity.uk/orgid/GB-CHC-1159193)]<br>In association with Christians Against Poverty (CAP) Bradford, the centre delivers free assistance to those in debt through volunteers drawn from local churches. | £30,639
-<strong>DIVERSITY MATTERS NORTH WEST LTD</strong> [Charity number: [1125544](https://findthatcharity.uk/orgid/GB-CHC-1125544)]<br>We help local people to improve their health and well-being through things like learning, volunteering, social events, physical exercise and various forms of problem-solving support. | £277,283
-<strong>BISHOP GREEN'S CHARITIES</strong> [Charity number: [311813](https://findthatcharity.uk/orgid/GB-CHC-311813)]<br>To provide such special benefits of any kind not normally provided by the LEA for Buckden CofE School. | £10,090
-<strong>Dunbeath & District Centre</strong> [Charity number: [SC019367](https://findthatcharity.uk/orgid/GB-SC-SC019367)]<br>3.	The company's objects are specifically restricted to the  following The company has been formed to promote the benefit of the public within Dunbeath and district (South East Caithness geographical area) by -  i)	The relief of those of need by reason of age, ill-health, disability, financial hardship or other disadvantage by promot ing the welfare of older people, by being inclusive, encouraging health and well being and actively being more socially inclusive and enhancing their quality of life by supporting older people to  stay in their own homes for  as long as possible.  ii)	Make available vocational and non-vocational courses to meet the need and demands of the community, by providing premises, equipment and the teaching necessary to facilitate courses aiming to raise the skill levels of the community to meet the challenges of an ever changing world.  iii)	Work and collaborate on an ongoing basis with a multi-disciplinary team of health professionals to promote health and well being within the Community, endeavouring to advance health and health education to those most in need.  iv)	Provide shelter and comfort to persons exposed to extreme weather conditions, personal calamity or situations rendering these persons vulnerable and helpless. at these times of special need having suitably qualified staff and volunteers available.  v)	Create, encourage and maintain public interest by providing a link between the Centre and the community which it serves, work closely with other Community organisations. Encourage and use volunteers whenever and wherever possible, developing Community capacity and citizenship through these endeavours.  vi)	The provision of recreational facilities, or the organisation of recreational facilities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended.  vii)	Such other similar charitable purposes as the company from time to time determines.  | £167,207
-<strong>CHARITIES ADMINISTERED ICW FISHGUARD COUNTY SECONDARY SCHOOL</strong> [Charity number: [525675](https://findthatcharity.uk/orgid/GB-CHC-525675)]<br>1. Miss A G Breeze Memorial Prize for domestic science. 2. Carey George - head boys prize. 3. Clare Newton - head girls prize. | £28
-<strong>ROTARY CLUB OF GORDANO BREAKFAST TRUST FUND</strong> [Charity number: [1179753](https://findthatcharity.uk/orgid/GB-CHC-1179753)]<br>Organising fundraising events primarily but not exclusively in the Portishead, North Somerset area for the relief of the poor and needy or such other charitable purposes as the Rotary Club of Gordano Breakfast members direct | £961
-<strong>THE BALTIC LODGE BENEVOLENT FUND</strong> [Charity number: [216473](https://findthatcharity.uk/orgid/GB-CHC-216473)]<br>Charitable donations to a number of both masonic and non masonic charities in the UK and abroad and assistance to elderly members and/or Widows as required .Works with The Freemasons Grand Charity in London . | 
-<strong>AL-MIZAAN FOUNDATION</strong> [Charity number: [1209491](https://findthatcharity.uk/orgid/GB-CHC-1209491)]<br>THE PREVENTION OR RELIEF OF POVERTY PRIMARILY IN ENGLAND, PAKISTAN AND MOROCCO, IN PARTICULAR BUT NOT EXCLUSIVELY BY PROVIDING GRANTS, ESSENTIAL ITEMS AND SERVICES TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS WORKING TO PREVENT OR RELIEVE POVERTY. | 
-<strong>SYDNEY E FRANKLIN DECEASED'S NEW SECOND CHARITY</strong> [Charity number: [272047](https://findthatcharity.uk/orgid/GB-CHC-272047)]<br>Support Charities involved in the relief of poverty & disability & protection of endangered species. Emphasis is on developing world children, education & communities working towards self  sufficiency.Funds distributed annually to smaller organisations with income under GBP200,000.Written applications only, to include, or have weblinks to, most recent audited accounts.Individuals not funded. | £36,298
-<strong>CHARITIES ADMINISTERED IN CONNECTION WITH BRYN CELYNNOG COMPREHENSIVE SCHOOL</strong> [Charity number: [506107](https://findthatcharity.uk/orgid/GB-CHC-506107)]<br>VARIOUS BOOK PRIZES | £28
+<strong>RUSHCLIFFE COMMUNITY AND VOLUNTARY SERVICE</strong> [Charity number: [1079880](https://findthatcharity.uk/orgid/GB-CHC-1079880)]<br>Rushcliffe CVS is an independent charitable organisation that exists to promote and support voluntary and community action in Rushcliffe. We work closely with local groups and organisations providing them with help and advice and enable them to have their voices heard where important decisions are taken that affect them and their users. | £375,035
+<strong>HOUNSDOWN SCHOOL ASSOCIATION</strong> [Charity number: [1017382](https://findthatcharity.uk/orgid/GB-CHC-1017382)]<br>Providing support at events for the School, and the provision of fundraising events | £1,671
+<strong>The Sarafilovic Foundation</strong> [Charity number: [SC053243](https://findthatcharity.uk/orgid/GB-SC-SC053243)]<br>5 The SCIO will promote, advance and further charitable purposes by operating as a grant giving charity which will support financially and otherwise charities, community groups, individuals and others which further the purposes detailed at clause 5.1.  5.1 For the purposes of the 2005 Act the following charitable purposes are the charitable purposes identified as applicable from section 7 of the 2005 Act are:-  5.1.1 the advancement of education. 5.1.2 the advancement of health.  5.1.3 the saving of lives. 5.1.4 the advancement of arts, heritage, culture or science. 5.1.5 the advancement of public participation in sport. 5.1.6 the advancement of environmental protection or improvement. and 5.1.7 to provide relief to those in need by reason of age, ill health, disability, financial hardship or other disadvantage. | 
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST MARY'S, HADDENHAM</strong> [Charity number: [1132319](https://findthatcharity.uk/orgid/GB-CHC-1132319)]<br>Traditional and modern church services ÔÇô childrenÔÇÖs church ÔÇô activities for young people ÔÇô outreach in local community and schools ÔÇô alternative expression of church (Caf+® plus) in Village Hall once per month ÔÇô support to local, national and international charities ÔÇô home groups and Monday Fellowship. | £246,355
+<strong>ON A SILVER PLATE</strong> [Charity number: [1196203](https://findthatcharity.uk/orgid/GB-CHC-1196203)]<br>For the public benefit, the relief of poverty in Suffolk by providing meals and food services to individuals in need and/ or charities, or other organisations working to relieve poverty. | 
+<strong>ROTARY CLUB OF SANDWICH TRUST FUND</strong> [Charity number: [1045686](https://findthatcharity.uk/orgid/GB-CHC-1045686)]<br>All Local & International Charities | £24,483
+<strong>NAILSWORTH HEALTH PARTNERSHIP</strong> [Charity number: [1161016](https://findthatcharity.uk/orgid/GB-CHC-1161016)]<br>Every 2 years  we run the Nailsworth Walking Festival (next one May 2023). Every month we have a longer "walk for health".  We have a gluten free support group.  We have raised funds for 6 community access defibrillators (cPAD) and will continue to do more.  We fund raise so the volunteers on the dementia friendly walks have first aid training. | £452
+<strong>NORTHFLEET & EBBSFLEET LIONS CLUB CIO</strong> [Charity number: [1174486](https://findthatcharity.uk/orgid/GB-CHC-1174486)]<br>Fund raising and community service organisation primarily for the benefit of people in the local community but exceptionally for those in need nationally and internationally. | £30,112
+<strong>FRIENDS OF SHIPSTON PRIMARY</strong> [Charity number: [1208478](https://findthatcharity.uk/orgid/GB-CHC-1208478)]<br>Friends of Shipston Primary supports Shipston on Stour Primary School by organising events for the entertainment of the children, raising funds to support their educational activities and facilitating communications between the school, parents and the wider community. | 
+<strong>THE WETHERLAM CHARITABLE TRUST</strong> [Charity number: [326794](https://findthatcharity.uk/orgid/GB-CHC-326794)]<br>To make donations to such charitable bodies or institutions at such times and in such manner as the Trustees may in their absolute discretion think fit. | £2,935

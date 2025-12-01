@@ -3,8 +3,8 @@
 Heritage is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Heritage](HR.md) category.
 
-13,359 charities have been tagged with this tag.
-This represents 6.58% of all charities.
+13,375 charities have been tagged with this tag.
+This represents 6.59% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 5,216 | 7.31%
-£10k - £100k | 4,297 | 6.14%
-£100k - £250k | 1,190 | 5.40%
-£250k - £500k | 681 | 6.30%
-£1m - £10m | 562 | 6.24%
-£500k - £1m | 405 | 6.06%
-Over £10m | 131 | 6.02%
-Total | 12,482 | 6.50%
+Under £10k | 5,217 | 7.32%
+£10k - £100k | 4,299 | 6.14%
+£100k - £250k | 1,200 | 5.44%
+£250k - £500k | 687 | 6.34%
+£1m - £10m | 560 | 6.22%
+£500k - £1m | 402 | 6.00%
+Over £10m | 133 | 6.10%
+Total | 12,498 | 6.51%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 9,168 | 5.36%
-oscr | 3,721 | 15.03%
+ccew | 9,175 | 5.36%
+oscr | 3,730 | 15.07%
 ccni | 470 | 6.54%
-Total | 13,359 | 6.58%
+Total | 13,375 | 6.59%
 
 
 ## Ten largest charities (by income)
@@ -52,21 +52,21 @@ Name | Latest income
 <strong>THE ROYAL NATIONAL LIFEBOAT INSTITUTION</strong> [Charity number: [209603](https://findthatcharity.uk/orgid/GB-CHC-209603)]<br>To save lives, promote safety and rescue service efficiency, and provide relief from disaster at sea and on inland and flood waters; to advance the education of the public in matters relating to sea, inland and flood water safety, and in the history and heritage of the Institution; to relieve/assist those who have been involved in saving lives at sea and on inland and flood waters in any capacity. | £251,300,000
 <strong>Royal National Lifeboat Institution</strong> [Charity number: [SC037736](https://findthatcharity.uk/orgid/GB-SC-SC037736)]<br>The object of the Institution ('the Object') shall be to save lives at sea and on inland and flood waters. In order to achieve the Object, the powers of the Institution shall without limitation include the following:-  to promote safety and provide relief from disaster at sea and on inland and flood waters. to advance the education of the public in matters relating to safety at sea and on inland and flood waters and in the history and heritage of the  Institution. to promote the efficiency of rescue services at sea and on inland and flood waters. and to relieve and assist those who have been involved in saving lives at sea and on inland and flood waters in any capacity, and who are in need of such relief or assistance by reason of poverty, disability, infirmity or otherwise, and their dependants. | £251,300,000
 <strong>CANAL & RIVER TRUST</strong> [Charity number: [1146792](https://findthatcharity.uk/orgid/GB-CHC-1146792)]<br>Canal & River Trust is the charitable operator and guardian of 2,000 miles of historic waterways across England and Wales. In addition to caring for the waterways so that they are available for the public to enjoy, the Trust maintains the nations' third largest collection of listed heritage structures, as well as museums, archives, and hundreds of important wildlife sites. | £237,300,000
+<strong>Royal Society for the Protection of Birds</strong> [Charity number: [SC037654](https://findthatcharity.uk/orgid/GB-SC-SC037654)]<br>1.  The Objects shall be:       1)  To promote the conservation of biological diversity and the natural environment for the public benefit, in particular but not         exclusively by:             a.	conserving wild birds and other wildlife, and the environment on which they depend.             b.	protecting, restoring and re-creating habitats.  And, in furtherance of that primary objective, to raise public understanding and awareness of, and to provide information on, such matters.         2) To advance education of the public in conservation of the natural environment. | £194,964,000
 <strong>ROYAL SOCIETY FOR THE PROTECTION OF BIRDS</strong> [Charity number: [207076](https://findthatcharity.uk/orgid/GB-CHC-207076)]<br>To promote the conservation of biological diversity and the natural environment for the public benefit by conserving wild birds and other wildlife, and the environment on which they depend,protecting, restoring and re-creating habitats.To raise public understanding and awareness,and to provide information on,such matters.To advance education of the public in conservation of the natural environment | £169,877,000
-<strong>Royal Society for the Protection of Birds</strong> [Charity number: [SC037654](https://findthatcharity.uk/orgid/GB-SC-SC037654)]<br>1.  The Objects shall be:       1)  To promote the conservation of biological diversity and the natural environment for the public benefit, in particular but not         exclusively by:             a.	conserving wild birds and other wildlife, and the environment on which they depend.             b.	protecting, restoring and re-creating habitats.  And, in furtherance of that primary objective, to raise public understanding and awareness of, and to provide information on, such matters.         2) To advance education of the public in conservation of the natural environment. | £169,877,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>THE FRIENDS OF BEDFORD CEMETERY (FOSTER HILL ROAD)</strong> [Charity number: [1114098](https://findthatcharity.uk/orgid/GB-CHC-1114098)]<br>The aim of the Friends of Foster Hill Road Cemetery is to  promote and preserve the  environmental, cultural and historical benefits of our Victorian Cemetery and Chapel complex. | £6,629
-<strong>FRIENDS OF NAUNTON PARK</strong> [Charity number: [1058893](https://findthatcharity.uk/orgid/GB-CHC-1058893)]<br>TO ASSIST IN THE RESTORATION, MAINTENANCE & UPKEEP, FOR THE PUBLIC BENEFIT, OF NAUNTON PARK AND ITS GARDENS. | £25,000
-<strong>THE SOCIETY OF FRIENDS OF THE REGIMENTAL MUSEUM OF THE FORMER DURHAM LIGHT INFANTRY</strong> [Charity number: [273744](https://findthatcharity.uk/orgid/GB-CHC-273744)]<br>Raise funds in support of the DLI CollectionTo assist with the conservation, identification and cataloguing of the DLI CollectionPurchase of artefacts such as medals for the benefit of the DLI CollectionEducational training for school groups, elderly and old people, and other Public groupsThe provision of research to tell the story of the DLI soldier.Tell the story of the DLI soldier | £1,823
-<strong>THE PLYMOUTH BARBICAN TRUST LIMITED</strong> [Charity number: [203774](https://findthatcharity.uk/orgid/GB-CHC-203774)]<br>The acquisition of land and buildings of historic or architectural value and interest in the City of Plymouth and to restore, preserve, improve,manage and develop such assets.   To distribute, display, exhibit, present, archive, digitise or otherwise store, pictures, records or similar material relating to, but not exclusively, land and buildings in the South of England. | £225,785
-<strong>THE STAFFORDSHIRE BULL TERRIER EXHIBITION GROUP</strong> [Charity number: [1110633](https://findthatcharity.uk/orgid/GB-CHC-1110633)]<br>to educate the public on the history of the Staffordshire bull terrier in exhibitions,slide exhibitions,road shows and a magazine | £11,558
-<strong>COATES ENGLISH WILLOW HERITAGE CENTRE CIO</strong> [Charity number: [1206458](https://findthatcharity.uk/orgid/GB-CHC-1206458)]<br>THE OBJECTS OF THE CIO ARE TO ADVANCE THE EDUCATION OF THE PUBLIC IN WILLOW GROWING, PROCESSING AND WEAVING INCLUDING BY THE ESTABLISHMENT AND MAINTENANCE OF A MUSEUM. | 
-<strong>LLANRWST MEMORIAL GARDEN</strong> [Charity number: [506698](https://findthatcharity.uk/orgid/GB-CHC-506698)]<br>A site for a war memorial. | 
-<strong>Dunbar Harbour Trust</strong> [Charity number: [SC029305](https://findthatcharity.uk/orgid/GB-SC-SC029305)]<br>The objects of the Company are for the benefit of the public to repair, maintain, conserve and preserve Dunbar Harbour through the necessary rebuilding and restoration thereof. To advance public education concerning the Harbour particularly concerning the older Cromwell and Victorian Harbours. To advance public education generally and to provide, or assist in the provision of, facilities in the interests of social welfare for recreation and leisure-time occupation with the object of improving the conditions of life for the inhabitants of Dunbar and its , environs. To promote trade and industry for the benefit of the public. | £265,664
-<strong>THE FRIENDS OF ST RUMWOLD'S CHURCH, BONNINGTON</strong> [Charity number: [1211525](https://findthatcharity.uk/orgid/GB-CHC-1211525)]<br>TO PRESERVE, PROTECT, REPAIR, RESTORE AND ENHANCE FOR PUBLIC BENEFIT THE INTERNAL AND EXTERNAL FABRIC OF ST RUMWOLD’S CHURCH AND ITS GROUNDS. | 
-<strong>ROYAL MUSEUMS GREENWICH FOUNDATION</strong> [Charity number: [1147279](https://findthatcharity.uk/orgid/GB-CHC-1147279)]<br>The Foundation provides funds to advance, as far as may be exclusively charitable, the education of the public in the sea, ships, time and the stars, and their importance and relationship with people, in particular (but without limitation) by promoting or supporting such of the charitable objects of the National Maritime Museum as the Trustees of Charity shall determine from time to time. | £2,505,062
+<strong>POLISH SATURDAY SCHOOL IN CARDIFF</strong> [Charity number: [1173080](https://findthatcharity.uk/orgid/GB-CHC-1173080)]<br>The Janusz Korczak's Polish Saturday School in Cardiff provides education for children of primary school age living in the South East Wales. The school's program includes Polish language, geography, history, culture and traditions. The premises of the school are in Cardiff Metropolitan University, Cyncoed Campus. | £15,241
+<strong>ASHBURTON ARTS LTD</strong> [Charity number: [1213557](https://findthatcharity.uk/orgid/GB-CHC-1213557)]<br>THE CHARITY’S OBJECTS (‘OBJECTS’) ARE SPECIFICALLY RESTRICTED TO THE FOLLOWING:(1) TO ADVANCE THE EDUCATION OF THE PUBLIC IN THE HISTORY AND HERITAGE OF ASHBURTON AND THE SURROUNDING AREA AND THE UNDERSTANDING AND APPRECIATION OF THE ARTS BYTHE PROVISION AND MAINTENANCE OF AN EDUCATIONAL, HERITAGE, EXHIBITION AND ARTS CENTRE.(2) TO FURTHER OR BENEFIT THE RESIDENTS OF ASHBURTON AND THE NEIGHBOURHOOD, WITHOUT DISTINCTION OF SEX, SEXUAL ORIENTATION, RACE OR OF POLITICAL, RELIGIOUS OR OTHEROPINIONS BY ASSOCIATING TOGETHER THE SAID RESIDENTS AND THE LOCAL AUTHORITIES, VOLUNTARY AND OTHER ORGANISATIONS IN A COMMON EFFORT TO ADVANCE EDUCATION AND TO PROVIDE FACILITIES IN THE INTERESTS OF SOCIAL WELFARE FOR RECREATION AND LEISURE TIME OCCUPATION WITH THE OBJECTIVE OF IMPROVING THE CONDITIONS OF LIFE FOR THERESIDENTS. | 
+<strong>YORUBA HERITAGE ART AND CULTURAL GROUP MIDLANDS UK</strong> [Charity number: [1215259](https://findthatcharity.uk/orgid/GB-CHC-1215259)]<br>THE OBJECTS OF THE CIO ARE:FOR THE PUBLIC BENEFIT TO ADVANCE THE EDUCATION OF THE PUBLIC IN YORUBA CULTURE AND HERITAGE IN THE MIDLANDS BY PROVIDING CLASSES, WORKSHOPS AND COMMUNITY EVENTS AND IN SUCH OTHER WAYS AS THE TRUSTEES THINK FIT. | 
+<strong>DARFIELD AREA AMENITY SOCIETY LIMITED</strong> [Charity number: [1095372](https://findthatcharity.uk/orgid/GB-CHC-1095372)]<br>A village civic society that also organises and manages a small village museum. | £37,023
+<strong>NORWICH RAILWAY HERITAGE AND MODEL SOCIETY</strong> [Charity number: [1065019](https://findthatcharity.uk/orgid/GB-CHC-1065019)]<br>Promote appreciation, knowledge and interest in Historic, practical and Social aspects of railways and railway modelling, exhibiting models to inform and interest the public, which also provides a platform for other organizations like ourselves, Preservation Societies and the like to further inform and engage the public at large at our invitation. | £10,058
+<strong>THE GREAT BRITONS FOUNDATION</strong> [Charity number: [1147439](https://findthatcharity.uk/orgid/GB-CHC-1147439)]<br>Arranges lectures, talks, discussions and other activities focusing on the lives of those public figures from British history as are chosen by the trustees and encourages schools and colleges to teach more about those public figures. Encourages the public, particularly the young, to take an interest in the process of government and encourages an interest in and participation in public life. | £5,125
+<strong>THE CAMBRIDGE PROJECT FOR THE BOOK TRUST</strong> [Charity number: [1000804](https://findthatcharity.uk/orgid/GB-CHC-1000804)]<br>Research, either directly undertaken or sponsored by the Trust, into the History of the Book. | 
+<strong>THE COALHOUSE FORT PROJECT</strong> [Charity number: [289952](https://findthatcharity.uk/orgid/GB-CHC-289952)]<br>To actively maintain and conserve a scheduled ancient monument.To promote the fort, encourage new members and present the fort to the public during open days.To research the history of the fort up until its closure in the 1960's.To display the findings of the research during opens.To encourage school parties studying history as part of the curriculum. | 
+<strong>HERITAGE MARINE FOUNDATION</strong> [Charity number: [1129735](https://findthatcharity.uk/orgid/GB-CHC-1129735)]<br>Advancing the education of the public  of maritime heritage   by preservation, restoration and operation of historic vessels  and offering education, information and advice.Researching  and promoting traditional methods of fishing Researching and developing carriage of cargo under sail Carrying out research and educating the public into the sources of pollution at Sea | £70,744
+<strong>The Barnton Bunker Preservation Society SCIO</strong> [Charity number: [SC052353](https://findthatcharity.uk/orgid/GB-SC-SC052353)]<br>The organisation's purposes are the advancement of the arts, heritage, culture or science and, without prejudice to the foregoing generality, to preserve the fabric and history of the Barnton Quarry Bunker for the benefit of the public, to provide accessibility to site and information regarding the historical and cultural significance of the site and its use as a military facility. | £57,112

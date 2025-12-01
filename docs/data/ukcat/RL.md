@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-45,587 charities have been tagged with this tag.
-This represents 22.44% of all charities.
+45,605 charities have been tagged with this tag.
+This represents 22.45% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,578 | 16.23%
-£10k - £100k | 16,628 | 23.77%
-£100k - £250k | 7,658 | 34.74%
-£250k - £500k | 3,246 | 30.01%
-£500k - £1m | 1,595 | 23.85%
-£1m - £10m | 1,461 | 16.23%
-Over £10m | 320 | 14.71%
-Total | 42,486 | 22.12%
+Under £10k | 11,560 | 16.22%
+£10k - £100k | 16,623 | 23.76%
+£100k - £250k | 7,674 | 34.78%
+£250k - £500k | 3,240 | 29.91%
+£500k - £1m | 1,601 | 23.88%
+£1m - £10m | 1,465 | 16.28%
+Over £10m | 319 | 14.63%
+Total | 42,482 | 22.12%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 37,676 | 22.01%
-oscr | 5,888 | 23.78%
-ccni | 2,023 | 28.14%
-Total | 45,587 | 22.44%
+ccew | 37,697 | 22.02%
+oscr | 5,887 | 23.78%
+ccni | 2,021 | 28.14%
+Total | 45,605 | 22.45%
 
 
 ## Ten largest charities (by income)
@@ -45,8 +45,8 @@ Total | 45,587 | 22.44%
 Name | Latest income
 -----|--------:
 <strong>OASIS CHARITABLE TRUST</strong> [Charity number: [1026487](https://findthatcharity.uk/orgid/GB-CHC-1026487)]<br>Oasis Charitable Trust is a family of organisations running community Hubs providing holistic support to the communities we serve. Our work includes our Academies programme, youthwork, Chaplaincy services & churches, anti human traffiking campaigning through STOP THE TRAFFIK, Higher Education courses through Oasis College and supported housing through Oasis Aquila Housing. | £335,019,000
-<strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £327,318,000
 <strong>Salvation Army</strong> [Charity number: [SC009359](https://findthatcharity.uk/orgid/GB-SC-SC009359)]<br>The objects of the Army shall be the advancement of the Christian religion, as promulgated in the religious doctrines set out in Schedule 1 to this Act which are professed, believed and taught by the Army and, pursuant thereto,  the advancement of education,  the relief of poverty. and other charitable objects beneficial to society or the community of mankind as a whole.  | £327,318,000
+<strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £327,318,000
 <strong>CANTERBURY CHRIST CHURCH UNIVERSITY</strong> [Charity number: [1098136](https://findthatcharity.uk/orgid/GB-CHC-1098136)]<br>UNIVERSITY OF HIGHER EDUCATION INSTITUTION, INCLUDING RESEARCH. | £319,161,000
 <strong>The Shaw Trust Limited</strong> [Charity number: [SC039856](https://findthatcharity.uk/orgid/GB-SC-SC039856)]<br>The objects of the company are: (a) To relieve any person who is in need because of any disability or because of any other disadvantage resulting from unemployment, youth, age, financial hardship, ill-health or because they are offenders, ex-offenders or are at risk of offending. (b) The promotion of the health, equality and independence of disabled people. and (c) The prevention and relief of poverty. in particular by providing education, training, rehabilitation, support, employment opportunities and personal development opportunities. The company will be non-party in politics and non-sectarian in religion. | £315,754,000
 <strong>ISLAMIC RELIEF WORLDWIDE</strong> [Charity number: [328158](https://findthatcharity.uk/orgid/GB-CHC-328158)]<br>1. Responding to emergencies2. Caring for orphans and children in need3. Supporting education4. Providing access to health care and water5. Promoting sustainable livelihood6. Campaigning and advocacy on humanitrian issues | £275,575,689
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FRIENDS OF UNITED PENTECOSTAL CHURCH, HIGH WYCOMBE</strong> [Charity number: [288908](https://findthatcharity.uk/orgid/GB-CHC-288908)]<br>We hold in trust a place for public worship, religious Christian education, lectures, meetings and activities of the United Pentecostal Church of High Wycombe. | £15,753
-<strong>Eglinton Men's Shed</strong> [Charity number: [NI107554](https://findthatcharity.uk/orgid/GB-NIC-107554)]<br>Eglinton Men’s Shed was established following a public meeting in early 2017 with a Constitution being formally adopted at a Special General Meeting on April 12, 2017. The organisation started with essentially nothing except for the offer of a derelict building for a nominal annual rent. Through the voluntary efforts of members and other members of the community this building has been transformed into highly functional facilities with a large social area, wood-working/turning workshop, kitchen, meeting room and office. Although upgrade work continues, the building and organisation have been functional since about April 2018 such that we could attract more members and contribute to meeting our stated purpose. The latest addition in 2019 is a poly-tunnel behind the main building. The building is currently open 3 days/week (Tues, Wed, Thurs) 10:00-14:00hrs and Wed 19:00 - 22:00hrs. The most important aspect of our activities is the provision of a warm, safe and pleasant environment for members and guests to visit and use, whether they wish to be involved in woodworking, gardening, playing pool and other games, using our free library or simply sitting down for coffee and a chat. Other activities includes a "walking group" (Tuesdays am) comprising members, partners and occasional visitors. In the Shed, on a regular basis during the autumn and winter, a series of free public talks are organised covering a wide range of subjects e.g. alcohol dependency, scam awareness, mental & physical health, home security, mindfulness, fire safety, historical topics and presentations from a number of local and national charities. Significant numbers from across the community attend. Various social events are held in the Shed e.g. Xmas party, treasure hunt, barbecue. Members of the Shed are active in the Best Kept Village initiative doing a lot of clean-up work and flower planting. Many items for local schools and churches have made in our workshop at low cost. | £13,491
-<strong>MARRICK INSTITUTE COMMUNITY ASSOCIATION</strong> [Charity number: [1074236](https://findthatcharity.uk/orgid/GB-CHC-1074236)]<br>To be held upon trust for the purpose of a village hall for the use of the inhabitants of the parish of Marrick in the county of North Yorkshire without distinction of political, religious or other opinions, including the use for meetings, lectures and classes and for other forms of recreation and leisure time occupation. | £1,065
-<strong>INTERNATIONAL CHARISMATIC CONSULTATION</strong> [Charity number: [1003378](https://findthatcharity.uk/orgid/GB-CHC-1003378)]<br>Advancement of the Christian religion either in the UK or overseas, and the advancement for the public benefit of religious or other education.The relief of the aged, poor, sick and disabled | £1,696
-<strong>THE FRIENDS OF CREDITON CHURCH</strong> [Charity number: [268236](https://findthatcharity.uk/orgid/GB-CHC-268236)]<br>Support in maintaining the fabric etc of Holy Cross Church, Crediton and the precincts thereof and furtherance of specific work of the Church and its general wellbeing. | £102,704
-<strong>UNITED AS ONE MINISTRY</strong> [Charity number: [1169207](https://findthatcharity.uk/orgid/GB-CHC-1169207)]<br>We conduct our weekly home connect group fellowships where our church members are based. We also gather once a month to conduct our combined services whereby families travel from the North and South of UK to meet at a hired venue. Outreach services have been conducted throughout communities in Abingdon, Colchester,  Tidworth area, Edinburgh and Catterick. | £3,748
-<strong>Havant and Emsworth United Reformed Church Charity</strong> [Charity number: [1130507](https://findthatcharity.uk/orgid/GB-CHC-1130507)]<br>Provision of public worship in accordance with the tradition and practice of the United Reformed Church, pastoral work, provision of premises for use by groups for meetings and activities not necessarily directly connected with the church. Provision of donations for charitable purposes not necessarily connected with but consistent the church's ethos | £111,696
-<strong>RCCG DIVINE THRONE</strong> [Charity number: [1206583](https://findthatcharity.uk/orgid/GB-CHC-1206583)]<br>- Conducting Sunday worship services, midweek Bible study and prayer meetings;- Running seminars in the church with proven ministers of faith to guide members in the various aspects of Christian faith;- Support for other charities and Christian events; and- Regular visitation within the local community to provide required support. | £196,126
-<strong>Methodist Ministers' Housing Society</strong> [Charity number: [SC050661](https://findthatcharity.uk/orgid/GB-SC-SC050661)]<br>Objects  2.1 The Society's objects are restricted specifically, in each case only for the public benefit:   (a) to carry on the business of providing, within the United Kingdom, Isle of Man and the Channel Islands, housing, or financial assistance towards the housing needs of, and any associated amenities upon terms appropriate to their means, for:   (i) Methodist presbyters and deacons (formerly referred to as ministers and deacons) who are in receipt of their full Methodist Church pension entitlement and their widows, widowers or dependants.  (ii) Methodist presbyters and deacons who have retired prior to reaching full retirement age with the consent of the Conference of the Methodist Church on health or compassionate grounds and the widows, widowers or dependants thereof.  (iii) widows, widowers or dependants of Methodist presbyters and deacons who have died in active service.  in each case such presbyters and deacons, widows, widowers or dependants being of limited means and for those in receipt of such provision, the further provision of, or assistance with the costs of, services or facilities calculated to reduce their conditions of need (whether age, ill-health, disability or financial), also upon terms appropriate to their means.  (b) such other charitable purposes as the Trustees shall from time to time determine.  2.2 Nothing in these Articles shall authorise an application of the property of the Society for purposes which are not charitable in accordance with section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and section 2 of the Charities Act (Northern Ireland) 2008. | £7,868,000
-<strong>ACACIA PARTNERSHIP TRUST</strong> [Charity number: [1126683](https://findthatcharity.uk/orgid/GB-CHC-1126683)]<br>The charity is involved in activities in Burkina Faso in line with its objectives, specifically by building and running a school, sponsoring children through high school education, well drilling, evangelism and training, supporting local church pastors, and setting up a mobile dental clinic. | £86,841
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF SAINT MARY THE VIRGIN BURY</strong> [Charity number: [1133863](https://findthatcharity.uk/orgid/GB-CHC-1133863)]<br>Our church stands in the centre of Bury and has 477 parishioners on the Electoral Roll, in addition we have approx. 100 - 150 children and young people. We are continually working to reach out to the people of Bury,sending a Christian message but also ministering to all who are in any kind of need from any or no faith. Our work is across all generations. | £260,363
+<strong>TIME STEP COMMUNITY HUB</strong> [Charity number: [1148379](https://findthatcharity.uk/orgid/GB-CHC-1148379)]<br>TO FURTHER OR BENEFIT THE RESIDENTS OF DUDLEY AND THE NEIGHBOURHOOD, WITHOUT DISTINCTION OF SEX, SEXUAL ORIENTATION, RACE OR OF POLITICAL, RELIGIOUS OR OTHER OPINIONS BY ASSOCIATING TOGETHER THE SAID RESIDENTS AND THE LOCAL AUTHORITIES, VOLUNTARY AND OTHER ORGANISATIONS IN A COMMON EFFORT TO ADVANCE EDUCATION AND TO PROVIDE FACILITIES IN THE INTERESTS OF SOCIAL WELFARE FOR RECREATION LEISURE TIME OCCUPATION WITH THE OBJECTIVE OF IMPROVING THE CONDITIONS OF LIFE FOR THE RESIDENTS. | 
+<strong>Blairs College Chapel Trust</strong> [Charity number: [SC025728](https://findthatcharity.uk/orgid/GB-SC-SC025728)]<br>The advancement of arts, heritage, culture or science. | £10,000
+<strong>THE ST MARY THE VIRGIN MENDLESHAM CHARITABLE TRUST</strong> [Charity number: [1204935](https://findthatcharity.uk/orgid/GB-CHC-1204935)]<br>To promote and maintain Catholic teaching and practice of the Church of England within the Church and Parish of St Mary the Virgin Mendlesham in accordance with the principles of The Society for the Maintenance of the Faith (247767). | £29,652
+<strong>MUSLIM SHIA WELFARE FOUNDATION</strong> [Charity number: [1114885](https://findthatcharity.uk/orgid/GB-CHC-1114885)]<br>RELIGOUS GATHERINGS (MUHARAM) | £600
+<strong>ST PETER'S PRIMARY SCHOOL P T A</strong> [Charity number: [1045183](https://findthatcharity.uk/orgid/GB-CHC-1045183)]<br>To provide monetary support and fun activities to pupils, staff and parents of St Peter's Church in Wales School. | £12,614
+<strong>HILL CITY CHURCH LONDON</strong> [Charity number: [1094715](https://findthatcharity.uk/orgid/GB-CHC-1094715)]<br>To advance the Christian faith in accordance with the Statement of Faith | 
+<strong>Kirkliston Community Church</strong> [Charity number: [SC039507](https://findthatcharity.uk/orgid/GB-SC-SC039507)]<br>Advancement of Religion | £259,928
+<strong>CATHOLIC BLIND INSTITUTE</strong> [Charity number: [1102657](https://findthatcharity.uk/orgid/GB-CHC-1102657)]<br>1. Day / 4 night residential education[full National Curriculum]for children with visual impairment age 4 - 19 at St Vincent's School. Mobility/independence/speech/language/music therapy included.2. Residential and nursing care, including palliative care, at Christopher Grange.3.A wide portfolio of community based and rehabilitation services at Bradbury Fields and Sight Loss Learning Hub. | £4,378,153
+<strong>SOUTHEAST ASIAN OUTREACH</strong> [Charity number: [293382](https://findthatcharity.uk/orgid/GB-CHC-293382)]<br>Proclaim Christ's love and Lordship through practical development work in partnership with others in Cambodia. Encourage church growth, with a special focus on the poor and marginalised, facilitating a healthy church with strong local leadership with a vision for discipleship.  Raise awareness of Cambodia in the UK, to meet the needs of poverty alleviation and growth of the Cambodian church. | £144,411

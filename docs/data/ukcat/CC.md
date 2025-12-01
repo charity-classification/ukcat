@@ -3,7 +3,7 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-9,060 charities have been tagged with this tag.
+9,050 charities have been tagged with this tag.
 This represents 4.46% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,727 | 2.42%
-£10k - £100k | 3,342 | 4.78%
-£100k - £250k | 2,400 | 10.89%
-£250k - £500k | 690 | 6.38%
-£500k - £1m | 320 | 4.78%
-£1m - £10m | 224 | 2.49%
+Under £10k | 1,720 | 2.41%
+£10k - £100k | 3,326 | 4.75%
+£100k - £250k | 2,411 | 10.93%
+£250k - £500k | 690 | 6.37%
+£500k - £1m | 323 | 4.82%
+£1m - £10m | 223 | 2.48%
 Over £10m | 24 | 1.10%
-Total | 8,727 | 4.54%
+Total | 8,717 | 4.54%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,755 | 4.53%
-oscr | 692 | 2.79%
-ccni | 613 | 8.53%
-Total | 9,060 | 4.46%
+ccew | 7,747 | 4.53%
+oscr | 691 | 2.79%
+ccni | 612 | 8.52%
+Total | 9,050 | 4.46%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>St Colmcilles Parent and Toddler Group</strong> [Charity number: [NI101153](https://findthatcharity.uk/orgid/GB-NIC-101153)]<br>We are a parent and toddler group belonging to St Colmcilles Parish on the Newtownards Road. We meet once a week on a Wednesday mornings at 10am. | £1,238
-<strong>LOOK IN NEIGHBOURHOOD CARE CENTRE (L I N C )</strong> [Charity number: [514761](https://findthatcharity.uk/orgid/GB-CHC-514761)]<br>Groups that use the centre, old time dancing, gateway club, keep-fit, active living, messey monsters, physibodies, jujitsu, ballet, street dance, mums & tots, lins-holiday club, first aid, aerobics, baby massage, eyff training. | £8,000
-<strong>Ionad UÝbh Eachach</strong> [Charity number: [NI107062](https://findthatcharity.uk/orgid/GB-NIC-107062)]<br>Misean/Mission Pobal Slán Sábhailte Gaeilge a thógáil thart ar ár bpáistí Building a safe, healthy Irish language community around our children An Ghaeilge a oscailt do chách Making the Irish Language Accessible to all” Ionad Uíbh Eachach, (the Charity) is established for the advancement of cultural and educational activities through the Irish language in an interdenominational context, for children, youth and their families, and other charitable services in particular but not exclusively, childcare, family support, health, community development and the relief of poverty. Ionad Uíbh Eachach will be non-political, non-racial and non-sectarian in character. To provide inclusive, accessible services in the Belfast area (the “area of benefit”) : • Advance culture & education through the Irish language for children, youth and their families • Develop and provide high quality early years care, childcare & education to children, youth and families through Irish • Relieve those in need by providing family support programmes and activities. • Promote community development by providing community development activities/services for the local community • Promote and provide local training/employment/economic development opportunities in Ionad Uíbh Eachach and in the Irish Language sector | £788,962
-<strong>BROOKSIDE OUT OF SCHOOL CARE CLUB</strong> [Charity number: [1154732](https://findthatcharity.uk/orgid/GB-CHC-1154732)]<br>Brookside Out of School Care Club & Nursery opens term time from 7.30 am and after school up to 6.00 pm.  During some of the school holidays it operates from 9.00 am - 5.30 pm.  This enables parents and carers to follow their own career safe in the knowledge that their children are being looked after by caring, qualified staff.  It was OFSTED inspected in Jan 2020 and was found to be Good. | £142,801
-<strong>GROVE COMMUNITY PROJECT</strong> [Charity number: [1072127](https://findthatcharity.uk/orgid/GB-CHC-1072127)]<br>To provide the necessary facilities for the daily care, recreation and education of children and communities in Handsworth, particularly during the out of school hours and school days. To advance the education and training of persons in the provision of such care, education and recreational facilities. | £189,922
-<strong>RAINBOW PRE-SCHOOL (HANDFORTH)</strong> [Charity number: [1189426](https://findthatcharity.uk/orgid/GB-CHC-1189426)]<br> Rainbow Preschool provides care and education for children below the statutory school age in accordance with the requirements of the Early Years Foundation Stage documents (DfE) | £147,060
-<strong>CHILDREY PLAYING FIELD TRUST</strong> [Charity number: [273903](https://findthatcharity.uk/orgid/GB-CHC-273903)]<br>Development and maintenance of the playing field, pavilion and children's play area in the village of Childrey. | £31,743
-<strong>The Magic Roundabout Playgroup</strong> [Charity number: [NI107119](https://findthatcharity.uk/orgid/GB-NIC-107119)]<br>We believe our playgroup has a positive impact on the physical, personal and social development of children who access our playgroup. Our aims to carry out purpose include ensuring high quality, preschool education within the local rural community and to enhance the development and education of children under statutory school age by encouraging parents/guardians to understand and provide for the needs of their children by:- (a) Offering appropriate play facilities, with the right of parents/guardians to take responsibility for and to become involved in the activities of the group, ensuring that the group offers opportunities for all children, regardless of religion, culture, race or means. (b) Encouraging the study of the needs of such children and their families and promoting public interest in and recognition of the needs of the children and their families in the local area. 2. Working in a partnership with parents, staff, statutory agencies and voluntary sector organisations. 3. Providing an opportunity for children to learn, develop and grow in a safe, friendly and supporting environment. 4. To provide activities and experiences that are planned to meet their individual stages of development within the early years foundation. 5. Early referral to relevant agency 6. Work closely with local primary school and share information. A primary objective is also to get the children ready for school. Playgroup establishes the start of separation from parents/childcare, daily/weekly routine, self-care and development of communication and language. Self-care such as using the toilet and other key skills such as dressing themselves. The playgroup strives to ensure the child's development is continually nurtured and monitored, issues that may go unseen due to larger numbers will be acted upon promptly in our small rural facility. | £41,445
-<strong>ACORN CHILDCARE (UK)</strong> [Charity number: [1090086](https://findthatcharity.uk/orgid/GB-CHC-1090086)]<br>Childcare Provision | £788,311
-<strong>ROXWELL PRE-SCHOOL LTD</strong> [Charity number: [1181652](https://findthatcharity.uk/orgid/GB-CHC-1181652)]<br>To enhance the development and education of children under statutory school age by offering appropriate play, education and care facilities, encouragement and involvement of parents.  Providing early years childcare in accordance with the National standards and OFSTED guidelines to meet the needs of children through play. | £78,613
+<strong>Limavady Central Primary School PTA</strong> [Charity number: [NI103213](https://findthatcharity.uk/orgid/GB-NIC-103213)]<br>We are an active PTA, made up of a group of elected Parents & Staff, which organises social fundraising events for the benefit of the school's pupils, their families & friends along with the wider community. We actively volunteer our services regularly to sustain these events, such as Fashion Shows, Quiz Nights, Craft Fairs, Family Fun Nights/BBQs, Halloween Discos, Mad Hair/Dress Down Days at School. Close consultation with the Principal & Teachers is essential to the success of our PTA and in this regard we would regularly meet with them to agree the expenditure of any funds raised, hence ensuring that they will always be utilised to the benefit of the School and all of its children. We also provide ongoing support, both financially & through volunteering, to our Parent & Toddlers Group which operates in the school once a week, encouraging the development of preschool children across the Community. | £9,277
+<strong>HARMONY COMMUNITY DAY NURSERY</strong> [Charity number: [1087071](https://findthatcharity.uk/orgid/GB-CHC-1087071)]<br>Provider of day care and education for children from 6 months to 5 years for working parents and parents who are students. | £488,649
+<strong>BANCROFT PARENT AND TODDLER GROUP</strong> [Charity number: [1056282](https://findthatcharity.uk/orgid/GB-CHC-1056282)]<br>WEEKLY PLAYGROUP FOR PRE-SCHOOL CHILDREN, ACCOMPANIED BY PARENTS/CARERS | £1,487
+<strong>PEWSHAM PRE-SCHOOL LIMITED</strong> [Charity number: [1113870](https://findthatcharity.uk/orgid/GB-CHC-1113870)]<br>Our Pre-school:  Pewsham Pre-school offers care and education for 2 1/2 to 5 year olds.  We have been running since 1963.  We are fortunate to be in our own premises with an outside play area, situated within the grounds of King's Lodge Primary School. | £127,453
+<strong>Home-Start Clackmannanshire</strong> [Charity number: [SC011370](https://findthatcharity.uk/orgid/GB-SC-SC011370)]<br>The objects of the Charity are: a) to safeguard, protect and preserve the good health, both mental and physical of children and parents of children. b) to prevent cruelty to or maltreatment of children. c) to relieve sickness, poverty and need amongst children and parents of children. d) to promote the education of the public in better standards of child care within the area of Clackmannanshire and its environs. | £449,917
+<strong>Chinese Welfare Association NI</strong> [Charity number: [NI100566](https://findthatcharity.uk/orgid/GB-NIC-100566)]<br>CWA offers the following services to the Chinese community and the wider community which works towards achieving integration and cohesion. Health • Chinese Health Advocacy Service (Cantonese/Mandarin) • Chinese Older People service • BME Health Advocacy and Health Programmes to BME communities in Belfast through our South Belfast BME Health Link Project Community Development • Assist in the reporting of Crime and Racial incidents for the Chinese community English/Chinese. • Services for youth: GSCE Mandarin tuition classes • Sure start Crèche for 0-4 year olds. • Chinese luncheon group for the Elderly Recreation and Leisure • Including Martial Arts classes for adults and children • Kung Fu Panda Martial Arts Club • Tai Chi Classes • Dragon and Lion dance classes • Ladies and Men’s Weight Loss Programmes Education • Adults and Children English lessons • Basic Food and Hygiene classes in Chinese • Youth Homework Clubs Chinese Culture • Mandarin Lessons for adults and children • Delivery of Chinese cultural workshops and talks • Anti-Racism/ Diversity/ Culture Training. • Cooking and Calligraphy classes. • Festivals: CWA host the largest Chinese New Year in Northern Ireland, check website for details. Celebrate a fantastic Chinese New Year Centre Facilities: Develop community infrastructure particularly at the Chinese Resource Centre to be a centre for all. Consular services for the Chinese and Polish Embassies. | £254,936
+<strong>NORTHCHURCH BAPTIST CHURCH</strong> [Charity number: [1198097](https://findthatcharity.uk/orgid/GB-CHC-1198097)]<br>We provide a place of worship as well as provision of services to the community - food pantry, meals, toddler group, youth group and many other programmes. | £303,553
+<strong>BRYNGWRAN AFTER SCHOOL CLUB</strong> [Charity number: [1209833](https://findthatcharity.uk/orgid/GB-CHC-1209833)]<br>THE OBJECT[S] OF THE CIO TO PROVIDE THE NECESSARY FACILITIES FOR THE DAILY CARE, RECREATION AND EDUCATION OF CHILDREN OUT OF SCHOOL HOURS AND TO ADVANCE THE EDUCATION AND TRAINING OF THE PERSONS IN THE PROVISION OF SUCH CARE, EDUCATION AND RECREATIONAL FACILITIES. | 
+<strong>ROBIN PRESCHOOL</strong> [Charity number: [1153217](https://findthatcharity.uk/orgid/GB-CHC-1153217)]<br>Early years provision for 2-4 year olds whose principle activities are to enhance the development and education of children under statutory school age by offering appropriate play facilities, encouraging the study of the needs of such children, promoting interest in the recognition of such needs locally and instigating and adhering to and furthering the aim of the pre-school Playgroup Association. | £307,527
+<strong>JOHN OF ROLLESTON - CARE CLUB - THE FORUM</strong> [Charity number: [1099090](https://findthatcharity.uk/orgid/GB-CHC-1099090)]<br>To provide recrational facilities for children before and after school. | £88,945
