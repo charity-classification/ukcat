@@ -3,8 +3,8 @@
 Associations is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Associations](AS.md) category.
 
-46,162 charities have been tagged with this tag.
-This represents 22.73% of all charities.
+46,140 charities have been tagged with this tag.
+This represents 22.71% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 19,323 | 27.12%
-£10k - £100k | 19,012 | 27.17%
-£100k - £250k | 3,089 | 14.00%
-£250k - £500k | 1,262 | 11.65%
-£1m - £10m | 794 | 8.82%
-£500k - £1m | 710 | 10.59%
-Over £10m | 179 | 8.21%
-Total | 44,369 | 23.11%
+Under £10k | 19,256 | 27.07%
+£10k - £100k | 19,013 | 27.12%
+£100k - £250k | 3,107 | 14.06%
+£250k - £500k | 1,293 | 11.89%
+£1m - £10m | 797 | 8.81%
+£500k - £1m | 699 | 10.38%
+Over £10m | 180 | 8.19%
+Total | 44,345 | 23.07%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,014 | 22.21%
-oscr | 5,765 | 23.29%
-ccni | 2,383 | 33.18%
-Total | 46,162 | 22.73%
+ccew | 37,992 | 22.19%
+oscr | 5,766 | 23.28%
+ccni | 2,382 | 33.11%
+Total | 46,140 | 22.71%
 
 
 ## Ten largest charities (by income)
@@ -53,20 +53,20 @@ Name | Latest income
 <strong>ST MUNGO COMMUNITY HOUSING ASSOCIATION</strong> [Charity number: [1149085](https://findthatcharity.uk/orgid/GB-CHC-1149085)]<br>St Mungo's began helping people sleeping rough off the streets of London in 1969.  Over the years we have extended our work beyond emergency help, to prevention of homelessness and promotion of recovery. We now help thousands of people across the South of England rebuild their lives day by day through housing, health and skills initiatives. | £123,668,100
 <strong>Wheatley Homes East Limited</strong> [Charity number: [SC034572](https://findthatcharity.uk/orgid/GB-SC-SC034572)]<br>2 The objects of the Association are:  2.1 to provide for the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage through the provision, construction, improvement and management of land and accommodation and the provision of care. and  2.2 any other purpose or object permitted under Section 24 of the Housing (Scotland) Act 2010 which is charitable both for the purposes of Section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and also in relation to the application of the Taxes Acts. | £121,272,000
 <strong>Watch Tower Bible and Tract Society of Britain</strong> [Charity number: [SC046952](https://findthatcharity.uk/orgid/GB-SC-SC046952)]<br>The objects ('the Objects') of the Charity are to advance the Christian religion as practised by the body of Christian persons known as Jehovah's Witnesses, in particular but not exclusively by: 3 .1 producing audio and video material for Bible education, publishing, importing, exporting, recording, translating, producing, and distributing Bible literature. 3 .2 providing services and facilities for members of the Worldwide Order of Special Full-time Servants of Jehovah's Witnesses ('the Order') and such other support as deemed appropriate from time to time. 3.3 purchasing, building, and renovating properties for use by Jehovah's Witnesses as places of worship, as well as for other purposes to support the Charity's objects. 3.4 engage in acts of charity, mercy, and humanitarian aid. and 3.5 distributing funds and goods to other entities that have similar aims. Nothing in the Memorandum and Articles of Association of the Charity shall authorise an application of the property of the Charity for purposes which are not charitable in accordance with section 7 of the Charities and Trustee Investment (Scotland) Act 2005. | £120,653,380
-<strong>The Soldiers, Sailors, Airmen & Families Association - Forces Help</strong> [Charity number: [SC038056](https://findthatcharity.uk/orgid/GB-SC-SC038056)]<br>The Object for which SSAFA is established and incorporated is to relieve the need, suffering and distress of the following individuals, who in each case shall satisfy such requirements as the Council may from time to time specify by Regulations: 3.1 members and former members of all ranks of all branches of Our Land Sea and Air Forces (‘Beneficiaries’). 3.2 any person who is dependent on a Beneficiary. 3.3 any person who was dependent on a Beneficiary while that Beneficiary was alive. 3.4 any person on whom a Beneficiary is dependent. and 3.5 any person on whom a deceased Beneficiary was dependent. | £105,826,000
+<strong>Radius Housing Association Limited</strong> [Charity number: [NI102575](https://findthatcharity.uk/orgid/GB-NIC-102575)]<br>Radius Housing Association provides housing, care and support to over 33,000 homes throughout Northern Ireland. Radius was established in 2017 following the merger of Helm and Fold housing associations and draws on over 80 years of combined experience to make a positive impact on housing and communities into the future. Radius is now one of the leading housing associations in Northern Ireland. Radius has also developed a range of services that allow us to offer our clients the right level of support in their own home or in our accommodation:- # Housing for Older People with Dementia and the Frail Elderly # Supported Housing # Day Care visits # Personal Pendant Alarms # Telemonitoring service (monitoring patient’s vital signs in their home) # Assistance for people with a disability to make home adaptations Radius's services are delivered in partnership with the Northern Ireland Housing Executive, the Department for Communities and the Health and Social Care Trusts. | £116,091,659
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>WEST YORKSHIRE NORTH GUIDE ASSOCIATION</strong> [Charity number: [701768](https://findthatcharity.uk/orgid/GB-CHC-701768)]<br>Enables girls & young women to fulfill their potential to take an active & responsible role in society through its distinctive stimulating & enjoyable programme of activities delivered by trained volunteer leaders.The aim is to help girls and young women develop emotionally, mentally, physically & spiritually so they can make a positive contribution to their community & the wider world. | £45,364
-<strong>FRIENDS OF ST BARTHOLOMEW'S PRIMARY ACADEMY (FOBS)</strong> [Charity number: [1014691](https://findthatcharity.uk/orgid/GB-CHC-1014691)]<br>Fundraising events including, but not limited to, school kids' discos and Christmas Fayre, which are are held on the school premises, and sale of Christmas Cards.Funds raised are donated to St Bartholomew's School to purchase additional items to benefit the children. | £11,790
-<strong>HATFIELD WOODHOUSE PRIMARY SCHOOL PARENTS ASSOCIATION</strong> [Charity number: [1078241](https://findthatcharity.uk/orgid/GB-CHC-1078241)]<br>Supporting the activities of Hatfield Woodhouse Primary School by providing help and financial assistance. | 
-<strong>BRITISH FRIENDS OF YESHIVAT ERETZ HATZVI LIMITED</strong> [Charity number: [1133697](https://findthatcharity.uk/orgid/GB-CHC-1133697)]<br>Advancing religious and educational programmes through prayer meetings, lectures, public celebration of festivals and distribution of literature. | £4,990
-<strong>BILDESTON BAPTIST CHURCH</strong> [Charity number: [1154041](https://findthatcharity.uk/orgid/GB-CHC-1154041)]<br>The Charity carries out a full range of normal Church activities, Sunday Meeting, Bible Study Groups, Prayer meetings. mission support etc.In addition to this the charity operates a Lunch Club & Community Cafe, Walking group and a Craft group. The charity also hosts and makes its building and resources available for various community and group events. | £40,477
-<strong>ST ANDREW'S & ST MARK'S C OF E JUNIOR SCHOOL PARENT TEACHER ASSOCIATION</strong> [Charity number: [1139152](https://findthatcharity.uk/orgid/GB-CHC-1139152)]<br>School parent teacher association: fundraising events on behalf of St Andrews and St Marks C of E Junior School | £6,714
-<strong>BASINGSTOKE GYMNASTICS CLUB</strong> [Charity number: [1050805](https://findthatcharity.uk/orgid/GB-CHC-1050805)]<br>The advancement of education of children within the borough of Basingstoke and Deane by way of providing gymnastic facilities and other associated activities. | £1,399,304
-<strong>ST DUNSTAN'S CHEAM C OF E PRIMARY SCHOOL PARENT TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1130320](https://findthatcharity.uk/orgid/GB-CHC-1130320)]<br>Fundraising to support and enhance the education and welfare of the pupils at St Dunstan's C of E Primary School by providing and assisting in the provision of facilities for education and extra curricular activities. | £20,256
-<strong>COPDOCK AND WASHBROOK VILLAGE HALL</strong> [Charity number: [304731](https://findthatcharity.uk/orgid/GB-CHC-304731)]<br>WE ACT AS A CENTRE FOR VILLAGE ACTIVITIES AND AS SUCH WE CATER FOR A RANGE OF ACTIVITIES INCLUDING BADMINTON, BOWLS, DRAMA, DANCING, WI, ETC. | £80,415
-<strong>OAKRIDGE COUNTY PRIMARY SCHOOL PARENTS TEACHER AND FRIENDS OF THE SCHOOL ASSOCIATION</strong> [Charity number: [1047223](https://findthatcharity.uk/orgid/GB-CHC-1047223)]<br>Oakridge PTFA fundraising for school equipment and trips for the children. | £7,133
+<strong>PLUSHEALTH</strong> [Charity number: [1191316](https://findthatcharity.uk/orgid/GB-CHC-1191316)]<br>(a) Provides online and telephone peer to peer support for people living with HIV(b) Provides online support for HIV negative partners, close relatives, carers and friends of those living with HIV(c) Provides practical information to improve knowledge about HIV & associated health conditions(d) Provides online HIV prevention support & information for those most at risk of acquiring HIV | £57,016
+<strong>2ND HELLESDON (37TH NORWICH) SCOUT GROUP</strong> [Charity number: [1026431](https://findthatcharity.uk/orgid/GB-CHC-1026431)]<br>Scouting | £31,987
+<strong>CHALFONT ST PETER GIRL GUIDES ASSOCIATION</strong> [Charity number: [300661](https://findthatcharity.uk/orgid/GB-CHC-300661)]<br>Maintenance of Guide hut and support Brownies, Guides, Rangers and Trefoil guild activities. | £2,770
+<strong>BANGLADESH WOMENS ASSOCIATION</strong> [Charity number: [700917](https://findthatcharity.uk/orgid/GB-CHC-700917)]<br>Provision of education and employment training facilities to women, provision of creche' facilities for mothers who attend the courses, organising employment and self emplyment related seminars and running a youth centre for young girls. | £45,532
+<strong>HORNCASTLE & DISTRICT LIONS CLUB (CIO)</strong> [Charity number: [1180570](https://findthatcharity.uk/orgid/GB-CHC-1180570)]<br>Horncastle and District LionsHistory and Content Horncastle and District Lions Club is part of Lions Clubs International Multiple District 105, which covers the UK. As a Lions Clubs their purpose is to "serve local communities" and Lions principles to which the clubs must adhere include "acting to benefit the public interest".  Administrative costs at local, national and international level | £21,677
+<strong>Strathaven Community Tennis Club</strong> [Charity number: [SC054148](https://findthatcharity.uk/orgid/GB-SC-SC054148)]<br>Clause 5 The Organisation’s main purpose is consistent with furthering the achievement of sustainable development. The Organisation’s Purposes are: Clause 5.1 The advancement of public participation in sports: The Club will advance the sports of lawn tennis and any other sports and recreational activities which may be played and developed within the available space. Clause 5.2 The provision and organisation of recreational activities: To ensure the continued provision of a physical space for community sports use through the maintenance and/or development of the tennis courts and any other land under our auspices. The Club will provide opportunities for members and, on occasion, non-members to participate in social and competitive sport. The Club will maintain its land and property to a high standard, befitting its setting in the conservation area of Strathaven. In time, The Club aims to make the courts available on a “Pay-to-Play” basis, to play its part in making Strathaven an attractive destination for day-trippers and holiday makers. | 
+<strong>SNELSTON READING ROOM</strong> [Charity number: [1046703](https://findthatcharity.uk/orgid/GB-CHC-1046703)]<br>PROVISION OF SOCIAL ACTIVITIES FOR THE VILLAGE | £4,041
+<strong>LARTEH  ASSOCIATION (UK)</strong> [Charity number: [1172595](https://findthatcharity.uk/orgid/GB-CHC-1172595)]<br>Promote the social inclusion of Larteh citizens resident in the United Kingdom, their equality and diversity for the public benefit, through support, and recreational activities  with the aim to improve their conditions of life. Relieve those in need, hardship or distress through the provision of support and welfare assistance to those in need of it, in times of illness, bereavement or distress. | £34,008
+<strong>FRIENDS OF ALL SAINTS COTTENHAM</strong> [Charity number: [1188710](https://findthatcharity.uk/orgid/GB-CHC-1188710)]<br>FOAS supports the care and preservation of All Saints' Church Cottenham through fundraising and events. | £4,695
+<strong>Mustard Seed Group</strong> [Charity number: [NI102437](https://findthatcharity.uk/orgid/GB-NIC-102437)]<br>The Mustard Seed Group is run by voluntary local people. The group was established to relief loneliness and alleviate among the poor, sick and less able by providing a facility for recreational, educational, leisure, cultural and social activities and low cost accommodation, which will enable people from a variety of backgrounds, beliefs and cultures, to retreat, rest, recuperate and gain spiritual renewal in a safe and peaceful environment within the area of Ballyhornan, Co Down. We organise many activities for all ages and backgrounds in this rural, isolated and disadvantaged area of Ballyhornan. We operate from our own premises which is located on the old RAF army camp situated at Ballyhornan, Co Down. | £9,285
