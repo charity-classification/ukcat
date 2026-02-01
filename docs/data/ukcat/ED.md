@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-83,497 charities have been tagged with this tag.
-This represents 41.09% of all charities.
+83,494 charities have been tagged with this tag.
+This represents 41.10% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,499 | 38.65%
-£10k - £100k | 27,978 | 39.91%
-£100k - £250k | 9,322 | 42.17%
-£250k - £500k | 4,728 | 43.47%
-£500k - £1m | 3,057 | 45.39%
-£1m - £10m | 4,390 | 48.54%
-Over £10m | 1,186 | 53.98%
-Total | 78,160 | 40.67%
+Under £10k | 27,565 | 38.78%
+£10k - £100k | 28,021 | 39.91%
+£100k - £250k | 9,397 | 42.15%
+£250k - £500k | 4,740 | 43.48%
+£500k - £1m | 3,127 | 45.53%
+£1m - £10m | 4,404 | 48.38%
+Over £10m | 1,190 | 53.32%
+Total | 78,444 | 40.71%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 68,293 | 39.88%
-oscr | 12,372 | 49.94%
-ccni | 2,832 | 39.37%
-Total | 83,497 | 41.09%
+ccew | 68,276 | 39.89%
+oscr | 12,386 | 49.97%
+ccni | 2,832 | 39.32%
+Total | 83,494 | 41.10%
 
 
 ## Ten largest charities (by income)
@@ -45,8 +45,8 @@ Total | 83,497 | 41.09%
 Name | Latest income
 -----|--------:
 <strong>University Of Edinburgh</strong> [Charity number: [SC005336](https://findthatcharity.uk/orgid/GB-SC-SC005336)]<br>The advancement of education. Any other purpose that may reasonably be regarded as analogous to any of the other preceding purposes. | £1,462,800,000
-<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £989,335,930
 <strong>THE BRITISH COUNCIL</strong> [Charity number: [209131](https://findthatcharity.uk/orgid/GB-CHC-209131)]<br>The British Council creates friendly knowledge and understanding between the people of the UK and other countries. We do this by making a positive contribution to the UK and the countries we work with. We reach millions of people across the world, working with over 100 countries in the fields of arts and culture, English language, education and civil society. | £989,335,930
+<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £989,335,930
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £986,400,000
 <strong>United Learning LTD</strong> [Charity number: [313999](https://findthatcharity.uk/orgid/GB-CHC-313999)]<br>THE CHARITABLE GROUP PROVIDES EDUCATION THROUGH THE OPERATION OF INDEPENDENT SCHOOLS AND THROUGH THE OPERATION OF ACADEMIES ON BEHALF OF THE DEPARTMENT FOR EDUCATION AND THE EDUCATION FUNDING AGENCY | £786,023,000
 <strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £646,938,858
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>OXTED PRE-SCHOOL PLAYGROUP</strong> [Charity number: [1199535](https://findthatcharity.uk/orgid/GB-CHC-1199535)]<br>We provide early years education to children aged between 2-4 years helping with their development and preparing them for transition into school. | £106,170
-<strong>ALINA FOUNDATION</strong> [Charity number: [1137887](https://findthatcharity.uk/orgid/GB-CHC-1137887)]<br>WE PROVIDE VITAL MEDICAL EQUIPMENT AND TRAINING FOR ORGANISATIONS ACROSS POLAND THAT SUPPORT TERMINALLY ILL PATIENTS AND THEIR FAMILIES | £23,160
-<strong>Return to Life SCIO</strong> [Charity number: [SC047494](https://findthatcharity.uk/orgid/GB-SC-SC047494)]<br>The organisation's purposes are:  4.1 To support people, including young people, suffering from kidney disease.  4.2 To support the families of people suffering from kidney disease.  4.3 To support kidney donors.  4.4 To provide mentors, advocacy, and opportunities to improve physical fitness and mental well-being, before, during and after transplants.  | £6,058
-<strong>STANDTALL</strong> [Charity number: [1171241](https://findthatcharity.uk/orgid/GB-CHC-1171241)]<br>sTandTall helps people who have been abused to find support and get back on their feet. We envision a world where violence against anyone is eradicated, and that they feel safe and confident to lead a quality, happy and independent life. We provide awareness raising activities, education, training, and online support. | £17
-<strong>LONDON COMMUNITY NETWORK</strong> [Charity number: [1114909](https://findthatcharity.uk/orgid/GB-CHC-1114909)]<br>1) To facilitate our own and other organisation's educational activities in the London boroughs of Hackney and Tower Hamlets in premises that we maintain 2) To pro-actively network our own and similar educational activities by other organisations that are in line with our own ethic of maintaining scholarship, discussion & research & the Perenial Wisdom Traditions. | £12,121
-<strong>BATLEY SPORTING FOUNDATION CIO</strong> [Charity number: [1158990](https://findthatcharity.uk/orgid/GB-CHC-1158990)]<br>Batley Sporting Charitable Trust works in partnership with the Batley Bulldogs RLFC to deliver projects in the heart of the Batley community and surrounding Kirklees area harnessing the power of sport and physical activity to make a lasting and positive impact on the lives of individuals. We deliver projects under the principles of sport, health, education and community engagement. | £96,804
-<strong>ISLE ABBOTTS VILLAGE HALL</strong> [Charity number: [281418](https://findthatcharity.uk/orgid/GB-CHC-281418)]<br>The village hall provides the environment which allows the social, educational, sporting and recreational activities in the village to take place. | £5,607
-<strong>EMPOWER SOAP SOLUTIONS</strong> [Charity number: [1202531](https://findthatcharity.uk/orgid/GB-CHC-1202531)]<br>THE PREVENTION OR RELIEF OF POVERTY ANYWHERE IN THE WORLD BUT IN PARTICULAR IN KENYA AND SUB SAHARAN AFRICA BY PROVIDING OR ASSISTING IN THE PROVISION OF EDUCATION AND TRAINING AND ALL THE NECESSARY SUPPORT DESIGNED TO ENABLE INDIVIDUALS TO GENERATE A SUSTAINABLE INCOME AND BE SELF-SUFFICIENT. | 
-<strong>VICTORY CELEBRATION MINISTRIES</strong> [Charity number: [1126762](https://findthatcharity.uk/orgid/GB-CHC-1126762)]<br>To advance the Christian faith and the kingdom of God and to spread the gospel of Jesus Christ for the benefit of the public in accordance with the doctrines of the church to advance the Christian faith (through, amongst other projects, Arms of Grace) mainly but not exclusively through: the establishment and operation of church missions, bible centres, public schools and social services centres. | £1,512
-<strong>Watermill Foundation Limited</strong> [Charity number: [SC042811](https://findthatcharity.uk/orgid/GB-SC-SC042811)]<br>The provision of recreational, educational, therapeutic, and training facilities and activities with the object of improving the conditions of life, through sporting and physical activities, primarily of persons in need by reason of disability or other disadvantage, but also of the public at large, through promoting and providing a specialist supported environment together with the facilities, education, training and administration required. | £135,478
+<strong>THE FRIENDS OF TYRRELLS</strong> [Charity number: [1000969](https://findthatcharity.uk/orgid/GB-CHC-1000969)]<br>To raise funds to help finance activities and projects to enhance learning. Any excess funds go to finance extra equipment on the school wish list. | £28,501
+<strong>Paisley Thread Mill Museum</strong> [Charity number: [SC028745](https://findthatcharity.uk/orgid/GB-SC-SC028745)]<br>To advance the education of the public about the Paisley Thread Mill it's history and development, it's links with Paisley and beyond and the inhabitants and beyond. | £4,887
+<strong>SANDWICH COMMUNITY HUB: THE JUBILEE CENTRE</strong> [Charity number: [1200763](https://findthatcharity.uk/orgid/GB-CHC-1200763)]<br>This charity was established to run a purpose built community centre in Sandwich for the benefit of local residents. The Charity leases the building from Dover District Council and it runs the community centre for partner organisations that serve the community. The Charity has built a community shed and will provide opportunities in education. It aim to provide a community allotment and garden. | £84,458
+<strong>WARNERS EDUCATIONAL FOUNDATION</strong> [Charity number: [1076452](https://findthatcharity.uk/orgid/GB-CHC-1076452)]<br>The management of a charity investment whereby the proceeds are donated to a local Oxfordshire school.St Blaise  Church of England Primay School.School Lane, Milton Heights,AbingdonOxonOX 14 4DR | £1,978
+<strong>DODLESTON PRE-SCHOOL</strong> [Charity number: [1197709](https://findthatcharity.uk/orgid/GB-CHC-1197709)]<br>Charity preschool provision | 
+<strong>Rathfriland and District Regeneration Co Ltd</strong> [Charity number: [NI100924](https://findthatcharity.uk/orgid/GB-NIC-100924)]<br>The organisation have several strands; Community Development - organising various community activities both social and educational. Social Housing - affordable housing for those who are classed as disadvantaged, i.e. disabled persons. Redevelopment of derelict property. Charity Shop. Community festivals etc. | £113,412
+<strong>Portmoak Under Fives Playgroup</strong> [Charity number: [SC015708](https://findthatcharity.uk/orgid/GB-SC-SC015708)]<br>The aim of the Playgroup is to promote the aim of the Scottish Pre-School Play Association which is to advance the education of pre-school children so that they may take a constructive place in the community, and also the education of their paretns and other adults, children and teenagers, and in the furtherance of that aim (a) to provide safe and satisfying group play in which parents take part when appropriate (b) to encourage other charitable activities through which parents may help the children. | £3,836
+<strong>HIDDEN ALTRINCHAM FESTIVAL CIO</strong> [Charity number: [1175769](https://findthatcharity.uk/orgid/GB-CHC-1175769)]<br>TO ADVANCE THE EDUCATION OF THE PUBLIC IN THE ARTS, SCIENCES AND THE HISTORY AND HERITAGE OF ALTRINCHAM BY THE PROVISION OF PUBLIC EVENTS, INCLUDING PERFORMANCES, EXHIBITIONS, WORKSHOPS, TALKS AND BY SUCH OTHER MEANS AS THE TRUSTEES MAY DETERMINE | £51,021
+<strong>GREENLEAS LOWER SCHOOL PTA</strong> [Charity number: [1021472](https://findthatcharity.uk/orgid/GB-CHC-1021472)]<br>The main activities of the PTA are fundraising events held throughout the year to purchase additional resources for the school. | £9,789
+<strong>THE FAITHFUL NEIGHBOURHOODS CENTRE</strong> [Charity number: [1148572](https://findthatcharity.uk/orgid/GB-CHC-1148572)]<br>The  advancement of religion, to develop the capacity and skills of socially and economically disadvantaged communities.The prevention or relief from poverty and the advancement of education in relation to faith and interfaith matters.Promoting Equality and Diversity by raising awareness and fostering understanding between people from diverse backgrounds by cultivating  Equality and Diversity. | 

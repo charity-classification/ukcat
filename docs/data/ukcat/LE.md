@@ -3,8 +3,8 @@
 Leisure is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Leisure](LE.md) category.
 
-30,143 charities have been tagged with this tag.
-This represents 14.83% of all charities.
+30,149 charities have been tagged with this tag.
+This represents 14.84% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,761 | 13.72%
-£10k - £100k | 11,669 | 16.65%
-£100k - £250k | 2,946 | 13.33%
-£250k - £500k | 1,440 | 13.24%
-£500k - £1m | 805 | 11.95%
-£1m - £10m | 957 | 10.58%
-Over £10m | 177 | 8.06%
-Total | 27,755 | 14.44%
+Under £10k | 9,764 | 13.74%
+£10k - £100k | 11,721 | 16.69%
+£100k - £250k | 2,971 | 13.33%
+£250k - £500k | 1,448 | 13.28%
+£500k - £1m | 815 | 11.87%
+£1m - £10m | 968 | 10.63%
+Over £10m | 187 | 8.38%
+Total | 27,874 | 14.47%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 22,210 | 12.97%
-oscr | 6,810 | 27.49%
-ccni | 1,123 | 15.61%
-Total | 30,143 | 14.83%
+ccew | 22,192 | 12.97%
+oscr | 6,835 | 27.58%
+ccni | 1,122 | 15.58%
+Total | 30,149 | 14.84%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>GHAZALI TRUST</strong> [Charity number: [1147702](https://findthatcharity.uk/orgid/GB-CHC-1147702)]<br>GENERAL CHARITABLE PURPOSESEDUCATION/TRAININGTHE PREVENTION OR RELIEF OF POVERTYARTS/CULTURE/HERITAGE/SCIENCEAMATEUR SPORTECONOMIC/COMMUNITY DEVELOPMENT/EMPLOYMENTHUMAN RIGHTS/RELIGIOUS OR RACIAL HARMONY/EQUALITY OR DIVERSITYRECREATION | £123,540
-<strong>HALTEMPRICE SKATE PARK ASSOCIATION</strong> [Charity number: [1113799](https://findthatcharity.uk/orgid/GB-CHC-1113799)]<br>To provide or assist in the provision of facilities, in particular a skate park, in the interest of social welfare for recreation or other leisure time use, with the object of improving their conditions of life. The skate park is a public facility, open to all members of the community and free of charge. | 
-<strong>BLACKHEATH & BROMLEY HARRIERS AC</strong> [Charity number: [1173422](https://findthatcharity.uk/orgid/GB-CHC-1173422)]<br>Our objectives are for the public benefit with particular reference to the inhabitants of South London, Kent, Surrey and the surrounding areas:- to promote community participation in healthy recreation including running and athletics.- to advance amateur sport by providing facilities for athletics and other such sports- to educate the public to improve fitness and health through athletics. | £472,688
-<strong>THE OLIVER JONES MEMORIAL HALL AND RECREATION GROUND</strong> [Charity number: [1027326](https://findthatcharity.uk/orgid/GB-CHC-1027326)]<br>providing facilities for local people that wish to run community activities. | £18,882
-<strong>FARNHAM COMMON MIDDLE SCHOOL - SCHOOL FUND</strong> [Charity number: [1065663](https://findthatcharity.uk/orgid/GB-CHC-1065663)]<br>Money is used to enhance and support various activities carried on in the school. These include sporting, musical, artistic and dramatic pursuits, where equipment is purchased and expenses paid. Funds are also used to provide resources in support of pupils learning and physical activities in and out of school, and for functions that may involve pupils, governors, staff, parents and visitors. | £37,202
-<strong>MAMY SHOW FOUNDATION</strong> [Charity number: [1204028](https://findthatcharity.uk/orgid/GB-CHC-1204028)]<br>On a regular basis at MSF:a) We run an After School Homework Club i.e. a Homework club to support underachieving school children in literacy, numeracy and scienceb) We run a Job Club to develop employability skills and opportunities among young peoplec) We run a Walk-in Centre to provide support, advice and advocacy for disadvantaged and disengaged young peopled)  We run Multi Sports Club | £11,528
-<strong>PLYMSTOCK & DISTRICT U3A</strong> [Charity number: [1179337](https://findthatcharity.uk/orgid/GB-CHC-1179337)]<br>University of the Third Age - a learning co-operative of older people which enables members to share many educational, creative and leisure activities. | £9,818
-<strong>HEATH U3A - LINCOLN</strong> [Charity number: [1184225](https://findthatcharity.uk/orgid/GB-CHC-1184225)]<br>Monthly Meeting with Guest Speaker on a widely-ranging series of life experience topics. Interest groups meet, on a basis decided by the Group, weekly, fortnightly, monthly, seasonally, occasionally, virtually or on an 'ad hoc' basis and covers Arts, History, Languages,  Science & Technology, Sport and Social Activities. | £6,094
-<strong>TICKWOOD CARE FARM</strong> [Charity number: [1153036](https://findthatcharity.uk/orgid/GB-CHC-1153036)]<br>The Charity provide opportunities for a variety of different groups of people primarily disable children to enjoy education, recreation, therapy and work experience covering not only all the activities that encompass farming, forestry, the natural environment and horticulture but also forest school, bushcraft, food production  projects in the walled kitchen or sensory gardens. | £1,100
-<strong>CARLETON-IN-CRAVEN VILLAGE HALL</strong> [Charity number: [512551](https://findthatcharity.uk/orgid/GB-CHC-512551)]<br>We provide a environment where people can participate in social activities including yoga, line & latin dancing, carpet bowls, over 60's physical exercise & over 60's club, parent & toddler group, quiz nights, annual pantomine, ceilidhs, shows, exhibitions & charitable events. The hall may be hired for family & public celebrations & is also used as a polling station. | £7,934
+<strong>STAMFORD TOWN CRICKET CLUB</strong> [Charity number: [1214315](https://findthatcharity.uk/orgid/GB-CHC-1214315)]<br>THE MAIN PURPOSES OF THE CLUB ARE TO PROVIDE FACILITIES FOR AND TO PROMOTE PARTICIPATION IN THE AMATEUR SPORT OF CRICKET. | 
+<strong>Fan Syndicate</strong> [Charity number: [SC051733](https://findthatcharity.uk/orgid/GB-SC-SC051733)]<br>The provision and organisation of recreational activities | 
+<strong>HOLLESLEY VILLAGE HALL CIO</strong> [Charity number: [1197877](https://findthatcharity.uk/orgid/GB-CHC-1197877)]<br>To run a village hall for the use of inhabitants of Hollesley and the neighbourhood without distinction of sex or of political, religious or other opinions and in particular for meetings, lectures and classes and for other forms of recreation and leisure-time occupation with the object of improving the conditions of life for the said inhabitants. | £27,820
+<strong>COLLEGE OF THE THIRD AGE (NEWCASTLE)</strong> [Charity number: [1039363](https://findthatcharity.uk/orgid/GB-CHC-1039363)]<br>A. To advance the education of the public in particular the education of people aged 50+ who are not in full time employment in the Newcastle Under Lyme & surrounding area. B. To improve the conditions of life for the over 50's in the above area in the interests of their social welfare by providing facilities for leisure & recreational activities. | £13,081
+<strong>Fife Nepalese Community (SCIO)</strong> [Charity number: [SC049687](https://findthatcharity.uk/orgid/GB-SC-SC049687)]<br>The organisation's purposes, to be applied principally (but not exclusively) in the Dunfermline catchment area with the postcode sector KY11, KY12 as defined from time to time by Fife Council, and wider Fife area, are the promotion of culture, heritage, equality and diversity through the promotion of, and by encouraging participation in, better integration and activities for Nepalese residents and host communities in Fife and elsewhere in Scotland.   The promotion of or provision of culture, heritage, sporting and   recreation activities designed to develop better social wellbeing to   enhance the Nepalese communities and other socially disadvantaged   individuals in Fife and elsewhere in Scotland, the UK and abroad.   The relief of poverty principally among the Nepalese communities in   Fife and elsewhere to provide or assist in the provision of improving the   quality of life in such communities in Fife and elsewhere in with   particular emphasis in health, social and integration issues. | £1,072
+<strong>THE BUGLE WVS DARBY AND JOAN CLUB</strong> [Charity number: [234941](https://findthatcharity.uk/orgid/GB-CHC-234941)]<br>Summertime coach trips every month, winter fortnightly meetings in the village hall where there is various speakers and entertainment, birthday and Christmas parties. | £5,178
+<strong>CLAREMONT FIRST STEP COMMUNITY CENTRE</strong> [Charity number: [1088988](https://findthatcharity.uk/orgid/GB-CHC-1088988)]<br>Monday & Tuesday Social Club Gentle Exercise, Friday Luncheon Club  Samba Band, Free Internet Use,  ITC Classes, Pilates,  Social Days Out, Holidays Away,  Advice & Guidance on benefits, incl. Universal Credit  Wednesday club for people with Learning Difficulties and Complex Needs incl. Mental Health Issues, Children's Projects,  Homelessness Project,Peoples Health Club Local Conversation Project | £188,283
+<strong>Benmore And Kilmun Community Development Trust</strong> [Charity number: [SC034884](https://findthatcharity.uk/orgid/GB-SC-SC034884)]<br>a) to manage community land and associated assets for the benefit of the Community and the public in general as an important part of the protection and sustainable development of Scotland's natural environment. b) to provide, in the interests of social welfare, facilities for recreation and other leisure time activity available to the public at large within the Community - with a view to improving their conditions of life. c) to preserve, restore and improve the environment in the Community through the provision , maintenance and lor improvement of public open space and other public amenities and other environmental and townscape regeneration projects, and in doing so, to seek wherever appropriate ( but subject to appropriate safeguards to ensure that the public benefit so arising clearly outweighs any private benefit thereby conferred on private landowners) to carry out works of reclamation, remediation, restoration and other operations to facilitate the use for those purposes of land whose use has been prevented or restricted because of previous use. d) To promote for public benefit the preservation (whether wholly or in part) of buildings and other structures of historic and/or architectural significance located within the Community. e) to relieve the needs of people who are elderly or who are otherwise in need of care within the Community. t) to advance education and to promote training programmes and opportunities for the benefit of the residents of the Community particularly among young people and the unemployed. g) to relieve poverty among the residents of the Community h) to promote, establish and operate other schemes of a similar charitable nature for the benefit of the community within the Community i) all the above purposes are to be exercised following the principles of sustainable development (where sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their own needs) | £9,909
+<strong>FELINDRE VILLAGE HALL</strong> [Charity number: [524458](https://findthatcharity.uk/orgid/GB-CHC-524458)]<br>The charity is responsible for managing the village hall to provide a place for recreation, educational or/and social purposes for the local communities of Felindre, Beguildy and the surrounding rural hamlets and villages.  It provides a valuable resource to the local community suporting Teme Valley YFC, Felindre W.I, Beguildy Community Council, Keep Fit Club, Art club and short mat bowls club. | £28,615
+<strong>PENZANCE AND NEWLYN PILOT GIG CLUB</strong> [Charity number: [1212207](https://findthatcharity.uk/orgid/GB-CHC-1212207)]<br>TO PROMOTE FOR PUBLIC BENEFIT, THE AMATEUR SPORT OF CORNISH PILOT GIG ROWING IN PENZANCE AND NEWLYN AND THE SURROUNDING AREA IN THE COUNTY OF CORNWALL. | 
