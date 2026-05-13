@@ -60,3 +60,6 @@ OSCR_INACTIVE = "https://www.oscr.org.uk/download/charity-former-register"
 # Charity Commission for Northern Ireland
 CCNI_DATA = "https://www.charitycommissionni.org.uk/api/charity-search/exportSearchResultsToCsv/?homePageId=c0884e5e-b621-4563-a378-2b313e15c74a&pageNumber=1&sortOption=Rank%3Basc&searchText="
 CCNI_ACTIVITIES_CSV = "./data/ccni_activities.csv"
+
+# Community Interest Company (CIC) data
+CIC_DATA = "https://github.com/uk-third-sector-database/tso-database-builder/raw/refs/heads/main/tcss-cic36-forms-Feb2026.zip?download="

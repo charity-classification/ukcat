@@ -9,6 +9,8 @@ working/
 !data/manual_adjustments.csv
 !data/charities_active-ukcat.csv
 !data/charities_inactive-ukcat.csv
+!data/cics-ukcat.csv
 !data/charities_active-icnptso.csv
 !data/charities_inactive-icnptso.csv
+!data/cics-icnptso.csv
 !data/icnptso_ml_model.pkl

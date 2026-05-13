@@ -1,7 +1,7 @@
 # Classifying UK Charities
 
 This repository is the home of the *[UK Charity Activity Tags](https://www.charityclassification.org.uk/)*, a project to classify
-every UK registered charity using two classification taxonomies.
+every UK registered charity or Community Interest Company using two classification taxonomies.
 
 The project was a collaboration between [NCVO Research](https://www.ncvo.org.uk/policy-and-research), Dr Christopher Damm at the [Centre for Regional Economic and Social Research (Sheffield Hallam University)](https://www4.shu.ac.uk/research/cresr/staff/christopher-damm) and [David Kane](https://dkane.net/), an independent freelance researcher. The project was funded by Esmée Fairbairn Foundation.
 
@@ -12,9 +12,11 @@ The classification and the results are licensed under a
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
+Data on Community Interest Companies uses data from McDonnell et al. (2026). CIC 36 Community Interest Statements Dataset as part of [UK Third and Civil Society Sector Database](https://uk-third-sector-database.github.io/data/). Licensed under CC BY 4.0.
+
 ## Using the python scripts
 
-The scripts included in the repository were created using Python 3.9. They are likely to work with other versions of Python too.
+The scripts included in the repository were created using Python 3.13. They are likely to work with other versions of Python too.
 
 ### Installing dependencies
 
@@ -147,9 +149,10 @@ This script uses the regular expressions from `./data/ukcat.csv` to apply tags t
 ```sh
 python -m ukcat apply ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
 python -m ukcat apply ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+python -m ukcat apply ukcat --charity-csv "./data/cics.csv" -f "beneficiaries" -f "surplus_use" -f "activity_1" -f "community_benefit_1" -f "activity_2" -f "community_benefit_2" -f "activity_3" -f "community_benefit_3"
 ```
 
-This will create the `charities_active-ukcat.csv` and `charities_inactive-ukcat.csv` files that are included in the `./data/` folder. Each file gives a number of rows for each charity showing the UK-CAT tags that have been applied based on the regular expression keywords.
+This will create the `charities_active-ukcat.csv`, `charities_inactive-ukcat.csv` and `cics-ukcat.csv` files that are included in the `./data/` folder. Each file gives a number of rows for each charity or community interest company showing the UK-CAT tags that have been applied based on the regular expression keywords.
 
 You can choose to include the name of the charity and the tag name by adding the `--add-names` option. You can also choose to add "parent" codes into the same data, by using the `--include-groups` option.
 
@@ -162,9 +165,10 @@ If the model doesn't already exist it will be created, using the files `sample.c
 ```sh
 python -m ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
 python -m ukcat apply icnptso --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+python -m ukcat apply icnptso --charity-csv "./data/cics.csv" -f "beneficiaries" -f "surplus_use" -f "activity_1" -f "community_benefit_1" -f "activity_2" -f "community_benefit_2" -f "activity_3" -f "community_benefit_3"
 ```
 
-This will create the `charities_active-icnptso.csv` and `charities_inactive-icnptso.csv` files that are included in the `./data/` folder. Each file gives a row per charity with the best estimated ICNP/TSO category, along with the model's estimated probability of the correctness of that category.
+This will create the `charities_active-icnptso.csv`, `charities_inactive-icnptso.csv` and `cics-icnptso.csv` files that are included in the `./data/` folder. Each file gives a row per charity or community interest company with the best estimated ICNP/TSO category, along with the model's estimated probability of the correctness of that category.
 
 You can choose to include the name of the charity and the tag name by adding the `--add-names` option.
 

@@ -17,13 +17,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install uv
-      - name: Fetch latest charity data
+      - name: Fetch latest data
         run: |
           uv run ukcat fetch charities
+          uv run ukcat fetch cics
       - name: Apply UK-CAT categories
         run: |
           uv run ukcat apply ukcat --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
           uv run ukcat apply ukcat --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+          uv run ukcat apply ukcat --charity-csv "./data/cics.csv" -f "beneficiaries" -f "surplus_use" -f "activity_1" -f "community_benefit_1" -f "activity_2" -f "community_benefit_2" -f "activity_3" -f "community_benefit_3"
       - name: Update UKCAT docs
         run: |
           uv run ukcat docs ukcat
@@ -60,13 +62,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install uv
-      - name: Fetch latest charity data
+      - name: Fetch latest data
         run: |
           uv run ukcat fetch charities
+          uv run ukcat fetch cics
       - name: Apply ICNPTSO model
         run: |
           uv run ukcat apply icnptso --charity-csv "./data/charities_active.csv" -f "name" -f "activities"
           uv run ukcat apply icnptso --charity-csv "./data/charities_inactive.csv" -f "name" -f "objects"
+          uv run ukcat apply icnptso --charity-csv "./data/cics.csv" -f "beneficiaries" -f "surplus_use" -f "activity_1" -f "community_benefit_1" -f "activity_2" -f "community_benefit_2" -f "activity_3" -f "community_benefit_3"
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

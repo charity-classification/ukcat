@@ -5,6 +5,7 @@ from ukcat.__about__ import __version__
 from ukcat.apply_icnptso import apply_icnptso
 from ukcat.apply_ukcat import apply_ukcat
 from ukcat.fetch_charities import fetch_charities
+from ukcat.fetch_cics import fetch_cics
 from ukcat.fetch_sample import fetch_sample
 from ukcat.fetch_tags import fetch_tags
 from ukcat.make_docs import make_ukcat_docs
@@ -27,6 +28,7 @@ def fetch():
 fetch.add_command(fetch_tags, name="tags")
 fetch.add_command(fetch_sample, name="sample")
 fetch.add_command(fetch_charities, name="charities")
+fetch.add_command(fetch_cics, name="cics")
 
 
 @ukcat.group("apply")
