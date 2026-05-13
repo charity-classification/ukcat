@@ -58,5 +58,5 @@ OSCR_ACTIVE = "https://www.oscr.org.uk/download/charity-register"
 OSCR_INACTIVE = "https://www.oscr.org.uk/download/charity-former-register"
 
 # Charity Commission for Northern Ireland
-CCNI_DATA = "https://www.charitycommissionni.org.uk/umbraco/api/charityApi/ExportSearchResultsToCsv/?include=Linked&include=Removed"
+CCNI_DATA = "https://www.charitycommissionni.org.uk/api/charity-search/exportSearchResultsToCsv/?homePageId=c0884e5e-b621-4563-a378-2b313e15c74a&pageNumber=1&sortOption=Rank%3Basc&searchText="
 CCNI_ACTIVITIES_CSV = "./data/ccni_activities.csv"
