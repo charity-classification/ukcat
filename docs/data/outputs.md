@@ -20,7 +20,7 @@ The classification and the results are licensed under a
 
 Based on the rules-based classification. Each charity can appear in more than one tag.
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7028720"></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/28970253"></div>
 
 ### Charities in each ICNP/TSO category
 
