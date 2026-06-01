@@ -105,7 +105,7 @@ ED102,Further education,Education,,3,,B21,\b(colleges?|further education)\b,
 ED103,Higher education,Education,,3,,B21,\b(higher education|universit(ies|y)|graduate school|business school)\b,U\.?3\.?A|third age
 ED104,Primary education,Education,,3,See primary school if applicable,B12,\b((primary|first|preparatory|elementary|prep)+ (school|education))\b,
 ED200,School support,Education,School support,2,,B32,\b(friends of .* school|school support)\b,
-ED201,Parent teacher,Education,School support,3,,B32,"\b(p\.?t\.?f?\.?a|parents?,? ?(and)? (teachers?|staff)|home and school|parents'? association)\b",
+ED201,Parent teacher,Education,School support,3,,B32,"\b(p\.?t\.?f?\.?a|parents? ?(,|and|&|\-|\\|\/) ?(teachers?|staff|friends?)|home and school|(parents'?|school) association|friends of .* (schools?|primary|juniors))\b",
 ED202,School fundraising,Education,School support,3,,B32,\b(school (fund|foundation|association)|benefit of (the )?pupils|(funds|fundraising|donations) (for|to) .* (school|pupils))\b,
 ED106,Schools,Education,,3,Create as umbrella for type of school to aid ICNPTSO classification?,B12;B13,\b(schools?)\b,
 ED107,Secondary education,Education,,3,,,\b((high|secondary|upper|senior) school|to (eighteen|18|sixteen|16)|-16)\b,
