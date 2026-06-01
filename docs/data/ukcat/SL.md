@@ -3,8 +3,8 @@
 Saving of lives is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Saving of lives](SL.md) category.
 
-3,674 charities have been tagged with this tag.
-This represents 1.81% of all charities.
+3,699 charities have been tagged with this tag.
+This represents 1.82% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,248 | 1.76%
-£10k - £100k | 1,224 | 1.74%
-£100k - £250k | 329 | 1.48%
-£250k - £500k | 169 | 1.55%
-£500k - £1m | 116 | 1.69%
-£1m - £10m | 174 | 1.91%
-Over £10m | 99 | 4.44%
-Total | 3,359 | 1.74%
+Under £10k | 1,303 | 1.82%
+£10k - £100k | 1,230 | 1.75%
+£100k - £250k | 327 | 1.46%
+£250k - £500k | 176 | 1.59%
+£1m - £10m | 176 | 1.92%
+£500k - £1m | 122 | 1.76%
+Over £10m | 98 | 4.37%
+Total | 3,432 | 1.77%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,852 | 1.67%
-oscr | 693 | 2.80%
-ccni | 129 | 1.79%
-Total | 3,674 | 1.81%
+ccew | 2,867 | 1.67%
+oscr | 706 | 2.83%
+ccni | 126 | 1.81%
+Total | 3,699 | 1.82%
 
 
 ## Ten largest charities (by income)
@@ -53,20 +53,20 @@ Name | Latest income
 <strong>The British Red Cross Society</strong> [Charity number: [SC037738](https://findthatcharity.uk/orgid/GB-SC-SC037738)]<br>To provide assistance to victims of armed conflicts.  To work for the improvement of health for the prevention of disease and for the prevention and alleviation of human suffering in the British Islands and throughout the world. | £287,100,000
 <strong>ISLAMIC RELIEF WORLDWIDE</strong> [Charity number: [328158](https://findthatcharity.uk/orgid/GB-CHC-328158)]<br>1. Responding to emergencies2. Caring for orphans and children in need3. Supporting education4. Providing access to health care and water5. Promoting sustainable livelihood6. Campaigning and advocacy on humanitrian issues | £275,575,689
 <strong>Islamic Relief Worldwide</strong> [Charity number: [SC042020](https://findthatcharity.uk/orgid/GB-SC-SC042020)]<br>‘1.1 The Objects of the Charity are, as a practical manifestation and application of the humanitarian values inspired and guided by the Islamic faith, to promote for the public benefit: 1.1.1 the alleviation of human suffering for those who are the victims of war or natural disaster, trouble, inequalities, injustices or catastrophe and the prevention or relief of poverty or financial hardship by: a. providing humanitarian assistance and other means of saving lives. b. raising awareness and advocating for those in need. c. advancing conflict resolution and reconciliation. d. promoting religious and human harmony.  1.1.2 To promote sustainable development that meets the needs of the present without compromising the ability of future generations to meet their own needs for the benefit of the public by:-  a.	the preservation, conservation and the protection of the environment and the prudent use of natural resources.  b.	the relief of poverty and the improvement of the conditions of life in socially and economically disadvantaged communities.  c.	the promotion of sustainable means of achieving economic growth and regeneration.  1.1.3	to advance and promote education by providing and assisting in the provision of facilities for education, in each case for the public benefit anywhere in the world.  1.1.4	to advance health by the provision of financial or other assistance, including medicines, hospitals and other means, in each case for the public benefit anywhere in the world. and  1.1.5	the advancement of such other charitable purposes as may from time to time be determined and agreed by the Trustees.’  | £271,466,000
-<strong>THE ROYAL NATIONAL LIFEBOAT INSTITUTION</strong> [Charity number: [209603](https://findthatcharity.uk/orgid/GB-CHC-209603)]<br>To save lives, promote safety and rescue service efficiency, and provide relief from disaster at sea and on inland and flood waters; to advance the education of the public in matters relating to sea, inland and flood water safety, and in the history and heritage of the Institution; to relieve/assist those who have been involved in saving lives at sea and on inland and flood waters in any capacity. | £251,300,000
+<strong>Royal National Lifeboat Institution</strong> [Charity number: [SC037736](https://findthatcharity.uk/orgid/GB-SC-SC037736)]<br>The object of the Institution ('the Object') shall be to save lives at sea and on inland and flood waters. In order to achieve the Object, the powers of the Institution shall without limitation include the following:-  to promote safety and provide relief from disaster at sea and on inland and flood waters. to advance the education of the public in matters relating to safety at sea and on inland and flood waters and in the history and heritage of the  Institution. to promote the efficiency of rescue services at sea and on inland and flood waters. and to relieve and assist those who have been involved in saving lives at sea and on inland and flood waters in any capacity, and who are in need of such relief or assistance by reason of poverty, disability, infirmity or otherwise, and their dependants. | £251,300,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>MIRZA FOUNDATION</strong> [Charity number: [1095314](https://findthatcharity.uk/orgid/GB-CHC-1095314)]<br>The relief of poverty, sickness and distress of any person who is suffering as a result of drough, earthquake, flood or other nutural disaster or who by reason of his her social economic conditions is need of such assistance. | £79,244
-<strong>UMMAH CARE FOUNDATION</strong> [Charity number: [1160905](https://findthatcharity.uk/orgid/GB-CHC-1160905)]<br>The objects of the charity are : The relief of orphans in Pakistan who are in need due to their poverty or financial hardship, in particular but not exclusively by the provision of an orphanage and The relief and assistance of people in any part of the world who are the victims of war or natural disaster, trouble, or catastrophe in particular by the supply of medical aid to such persons. | £500,308
-<strong>AL NOOR MEDICAL TRUST</strong> [Charity number: [1148322](https://findthatcharity.uk/orgid/GB-CHC-1148322)]<br>We are a charity based in Walton, Pakistan that provides medical facilities for the poor and disadvantaged people. We cater for around 50-60 patients daily and offer this service free of charge. We have recently purchased an ambulance where we can now reach out to even more patients. Our services now include a blood testing laboratory and ultra sound facilities. | £42,341
-<strong>Ballater Historic Forestry Project Association</strong> [Charity number: [SC047489](https://findthatcharity.uk/orgid/GB-SC-SC047489)]<br>The organisation's principle purpose is the advancement of heritage and culture. The organisation will fulfil its purpose through the following activities:- (a)The necessary reconstruction, restoration, maintenance, conservation and preservation of the logging camp and log cabin village (the Historic Buildings) which were first constructed at Dalmochie, Pannanich Wood near Ballater, Aberdeenshire (the Dalmochie Site) during the Second World War, into a publicly accessible historical attraction and working model of environmentally friendly forest management.  (b) The development of links of friendship with individuals who worked at the Dalmochie Site during the Second World War, and their descendants.  (c) The preservation of memories of individuals who worked at the Dalmochie Site during the Second World War.  (d) The advancement of public education by collecting and making publicly available information regarding the history and development of the forestry industry in Aberdeenshire, the history of the Dalmochie Site and its environs and contribution to the Second World War effort.  (e) The stimulation of public interest and appreciation in the history, use and development of the Dalmochie Site. (f) The provision of training and skills of all kinds, particularly those which will assist in activities relating to forestry, the history of forestry and the protection of the environment.  | 
-<strong>UNITED KINGDOM RESCUE ORGANISATION</strong> [Charity number: [1166883](https://findthatcharity.uk/orgid/GB-CHC-1166883)]<br>UKRO is dedicated to advancing professional rescue focusing on five rescue areas including vehicle extrication; trauma management; rope rescue; urban search and rescue (USAR) and water rescue.  Our aim is to develop, enhance and promote the rescue capabilities of firefighters to ultimately reduce unintentional injuries and deaths that can result from these types of incidents in the UK and abroad. | £69,037
-<strong>RURAL NORTHANTS COMMUNITY FIRST RESPONDERS</strong> [Charity number: [1198724](https://findthatcharity.uk/orgid/GB-CHC-1198724)]<br>The preservation of health and saving of lives in Northamptonshire for the public benefit by providing early assistance to patients residing in Northamptonshire by responding to life threatening emergencies in collaboration with the East Midlands Ambulance Service and providing educational training in basic life support and first aid to community groups in Rural Northamptonshire. | £4,569
-<strong>MO BRO SPORT FOUNDATION</strong> [Charity number: [1179190](https://findthatcharity.uk/orgid/GB-CHC-1179190)]<br>The Advancement Of Health Or Saving Of Lives | 
-<strong>AMINA SOCIETY UK</strong> [Charity number: [1206785](https://findthatcharity.uk/orgid/GB-CHC-1206785)]<br>We are  dedicated to the advancement of health and the saving of lives, with a significant focus on our operations in Malawi. Our mission is to provide essential health services, promote well-being, and offer lifesaving interventions to those in need, particularly in communities facing significant health challenges. | £90,782
-<strong>SOUTH AND MID WALES CAVE RESCUE TEAM/TIM ACHUB OGOFAU DE A CHANOLBARTH CYMRU</strong> [Charity number: [1016463](https://findthatcharity.uk/orgid/GB-CHC-1016463)]<br>The object of the Team shall be to relieve suffering and distress amongst persons or animals endangered by accident or natural hazards underground by the provision, at the request of the police, of search and rescue for any persons or animals endangered. | £21,852
-<strong>Christ Foundation Counselling Ministry</strong> [Charity number: [NI102863](https://findthatcharity.uk/orgid/GB-NIC-102863)]<br>The prevention or relief of poverty. The advancement of religion. The advancement of health or the saving of lives. Any other purposes includes any purpose recognised as charitable under existing charity law and any purposes which may reasonably be regarded as analogous to the listed purposes above, as well as those by virtue of section one of the Recreational Charities Act (1958). We have opened a centre in 163-169 Donegall Road it is the Christ Foundation Counselling Ministry Headquarters. it is a charity shop with a healing and conference room. The centre has been set up To provide help care and support to the local people who are suffering from the illness of Drug, Alcohol and Substance Addition, through the provision of food, clothing and counselling. It is a place of resourse, where prayer events, group counselling meetings, street outreach activities and community programmes are organised to help the vulnerable and those who are crying out for help. We have had testimonials and feedback from the community about the faith clinic called Healings from Above. Through this programme people who find it difficult to give up to Alcohol and Substance Addiction have been receiving deliverance and healings by Divine touch. | £10,250
+<strong>T D JAKES MINISTRIES (UK)</strong> [Charity number: [1114674](https://findthatcharity.uk/orgid/GB-CHC-1114674)]<br>The propogation of the Christian gospel, and  assisting in humanitarian aid projects, and holding occasional Christian conferences as well. | £15,333
+<strong>AFRICAN WELFARE ORGANISATION</strong> [Charity number: [1035387](https://findthatcharity.uk/orgid/GB-CHC-1035387)]<br>Advancement of children and adult education. Promotion of racial harmony. Preservation and protection of people's health, particularly the health of elderly people. Assisting the police to reduce crime. | £7,400
+<strong>CHESTER LIONS CLUB (CIO)</strong> [Charity number: [1201302](https://findthatcharity.uk/orgid/GB-CHC-1201302)]<br>General Charitable PurposesEducation/trainingThe Advancement Of Health Or Saving Of LivesDisabilityThe Prevention Or Relief Of PovertyOverseas Aid/famine ReliefArts/culture/heritage/scienceAmateur SportEnvironment/conservation/heritageEconomic/community Development/employment | £11,542
+<strong>MARGATE AMBULANCE CORPS</strong> [Charity number: [270595](https://findthatcharity.uk/orgid/GB-CHC-270595)]<br>Provision of First Aid Services by volunteer members in the Margate, Ramsgate and Broadstairs areas | £22,468
+<strong>THE WARWICKSHIRE AND COVENTRY HISTORIC CHURCHES TRUST</strong> [Charity number: [508352](https://findthatcharity.uk/orgid/GB-CHC-508352)]<br>To give grants for the preservation, repair, maintenance, improvement, beautification and reconstruction of churches in Coventry, Warwickshire and the West Midlands that are within the diocese of Coventry and of monuments, fittings fixtures, stained glass, furniture, ornaments, bells, clocks and chattels in such churches and  the churchyards belonging to any of such churches. | £9,600
+<strong>Aberdeen City First Responders</strong> [Charity number: [SC051147](https://findthatcharity.uk/orgid/GB-SC-SC051147)]<br>To provide pre-hospital emergency care on behalf of the Scottish Ambulance service in accordance with the First Responder callout system set out by the Scottish Ambulance Service. To also provide CPR awareness to schools and the local community. | £11,289
+<strong>OPERATION FLORENCE</strong> [Charity number: [1196409](https://findthatcharity.uk/orgid/GB-CHC-1196409)]<br>Emergency Medical Rescue, inclusive of Technical Rescue (Rope Rescue, Confined Spaces, Water Search and Rescue, Urban Search and Rescue (Medium)), Mutual Aid Training, Youth and Community Training and engagement. | £497
+<strong>KEEPING ABREAST</strong> [Charity number: [1129522](https://findthatcharity.uk/orgid/GB-CHC-1129522)]<br>Provide help and support to women who have been diagnosed with breast cancer and who are considering the possibility of a breast reconstruction following mastectomy. The Group also provides support to those who have recovered from breast cancer and are considering reconstruction some time later. The Charity holds regular Support Group meetings that are open to all patients. | £142,279
+<strong>THE SOHO HOUSE FOUNDATION</strong> [Charity number: [1199179](https://findthatcharity.uk/orgid/GB-CHC-1199179)]<br>The Soho House Foundation provides resources to fund and empower creative people from underrepresented and lower socioeconomic backgrounds. We run an international grant programme to support organisations working to help young people through creativity. We also work separately with selected partners in our local communities, and to aid disaster relief. | £168,470
+<strong>AL MUSTAFA WELFARE TRUST INTERNATIONAL LTD</strong> [Charity number: [1118492](https://findthatcharity.uk/orgid/GB-CHC-1118492)]<br>General charitable and religious educational activities throughout UK.Medical, aid, relief of poverty, famine relief and community development internationally. | £11,442,038

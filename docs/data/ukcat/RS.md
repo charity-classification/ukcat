@@ -3,8 +3,8 @@
 Research is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Research](RS.md) category.
 
-10,995 charities have been tagged with this tag.
-This represents 5.41% of all charities.
+11,054 charities have been tagged with this tag.
+This represents 5.43% of all charities.
 
 ## Keywords to find charities
 
@@ -20,53 +20,53 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 3,239 | 4.56%
-£10k - £100k | 3,170 | 4.51%
-£100k - £250k | 1,119 | 5.02%
-£250k - £500k | 647 | 5.94%
-£500k - £1m | 553 | 8.05%
-£1m - £10m | 1,034 | 11.36%
-Over £10m | 404 | 18.10%
-Total | 10,166 | 5.28%
+Under £10k | 3,394 | 4.75%
+£10k - £100k | 3,197 | 4.54%
+£100k - £250k | 1,132 | 5.06%
+£250k - £500k | 649 | 5.88%
+£500k - £1m | 555 | 8.01%
+£1m - £10m | 1,034 | 11.29%
+Over £10m | 408 | 18.21%
+Total | 10,369 | 5.36%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,833 | 4.58%
-oscr | 2,896 | 11.68%
-ccni | 266 | 3.69%
-Total | 10,995 | 5.41%
+ccew | 7,864 | 4.59%
+oscr | 2,939 | 11.79%
+ccni | 251 | 3.60%
+Total | 11,054 | 5.43%
 
 
 ## Ten largest charities (by income)
 
 Name | Latest income
 -----|--------:
-<strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £986,400,000
-<strong>Cancer Research UK</strong> [Charity number: [SC041666](https://findthatcharity.uk/orgid/GB-SC-SC041666)]<br>The objects for which the Company is established are to protect and promote the health of the public in particular by research into the nature, causes, diagnosis, prevention, treatment and cure of all forms of cancer, including the development of findings of research into practical applications for the prevention, treatment and cure of cancer and in furtherance of that primary object, to provide information and raise public understanding of such matters. | £734,753,802
+<strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £1,070,400,000
 <strong>CANCER RESEARCH UK</strong> [Charity number: [1089464](https://findthatcharity.uk/orgid/GB-CHC-1089464)]<br>Cancer Research UK is dedicated to saving lives through research. Our mission is to prevent, control and cure cancer through our ground-breaking research and in the last 40 years our work has helped double survival rates. But there is more work to be done. The only charity fighting over 200 types of cancer, we rely on every pound donated to help get us closer to beating cancer. | £734,753,802
-<strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £646,938,858
+<strong>Cancer Research UK</strong> [Charity number: [SC041666](https://findthatcharity.uk/orgid/GB-SC-SC041666)]<br>The objects for which the Company is established are to protect and promote the health of the public in particular by research into the nature, causes, diagnosis, prevention, treatment and cure of all forms of cancer, including the development of findings of research into practical applications for the prevention, treatment and cure of cancer and in furtherance of that primary object, to provide information and raise public understanding of such matters. | £734,753,802
+<strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £634,070,682
 <strong>The Open University</strong> [Charity number: [SC038302](https://findthatcharity.uk/orgid/GB-SC-SC038302)]<br>The objects of the University shall be the advancement and dissemination of learning and knowledge by teaching and research by a diversity of means such as broadcasting and technological devices appropriate to higher education, by correspondence tuition, residential courses and seminars and in other relevant ways, and shall be to provide education of University and professional standards for its students and to promote the educational well-being of the community generally. | £578,500,000
 <strong>WELLCOME TRUST</strong> [Charity number: [210183](https://findthatcharity.uk/orgid/GB-CHC-210183)]<br>Wellcome exists to improve health by helping great ideas to thrive.We support researchers, we take on big health challenges, we campaign for better science, and we help everyone get involved with science and health research. We are a politically and financially independent foundation. | £569,497,051
-<strong>The Queen's University of Belfast</strong> [Charity number: [NI101788](https://findthatcharity.uk/orgid/GB-NIC-101788)]<br>The University provides teaching and research in both a local, a national and international context. It is an autonomous body, established under the Irish Universities Act 1908 and bound by the provisions of its Charter and Statutes. | £472,337,000
-<strong>University Of Strathclyde</strong> [Charity number: [SC015263](https://findthatcharity.uk/orgid/GB-SC-SC015263)]<br>The advancement of education. The advancement of arts, heritage, culture, or science. | £438,816,000
-<strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £410,600,000
+<strong>The Queen's University of Belfast</strong> [Charity number: [NI101788](https://findthatcharity.uk/orgid/GB-NIC-101788)]<br>The University provides teaching and research in both a local, a national and international context. It is an autonomous body, established under the Irish Universities Act 1908 and bound by the provisions of its Charter and Statutes. | £489,483,000
+<strong>University Of Strathclyde</strong> [Charity number: [SC015263](https://findthatcharity.uk/orgid/GB-SC-SC015263)]<br>The advancement of education. The advancement of arts, heritage, culture, or science. | £433,257,000
 <strong>British Heart Foundation</strong> [Charity number: [SC039426](https://findthatcharity.uk/orgid/GB-SC-SC039426)]<br>The objects for which the Foundation is established are: to attack and defeat diseases and conditions of the heart and circulation and other diseases illness or conditions, by undertaking and promoting research for the public benefit into their cause , diagnosis, treatment and prevention, promoting their diagnosis, treatment and prevention, educating the public and alleviating suffering and promoting the welfare of persons afflicted and those who care for such persons | £410,600,000
+<strong>BRITISH HEART FOUNDATION</strong> [Charity number: [225971](https://findthatcharity.uk/orgid/GB-CHC-225971)]<br>The BHF is the UK's largest independent funder of cardiovascular research in the UK. For over 60 years BHF has pioneered life-saving research that has helped halve the number of deaths from heart and circulatory disease in the UK. BHF also helps provide vital support and information for the 7.4m people living in the UK with heart and circulatory disease. | £410,600,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>THE LAURIE TODD FOUNDATION</strong> [Charity number: [1201938](https://findthatcharity.uk/orgid/GB-CHC-1201938)]<br>THE OBJECTS OF THE CHARITY (THE 'OBJECTS') ARE, FOR THE PUBLIC BENEFIT:1) TO ADVANCE HEALTH IN PARTICULAR (WITHOUT LIMITATION) BY SUPPORTING MEDICAL RESEARCH INTO THE CAUSES, DIAGNOSIS AND TREATMENT OF OESOPHAGEAL CANCER AND RELATED MATTERS; AND 2) TO ADVANCE EDUCATION IN PARTICULAR (WITHOUT LIMITATION) IN RELATION TO THE CAUSES AND EFFECTS OF OESOPHAGEAL CANCER AND RELATED SUBJECTS. | £2,598
-<strong>THE BRITISH FRIENDS OF JERUSALEM COLLEGE OF TECHNOLOGY</strong> [Charity number: [263003](https://findthatcharity.uk/orgid/GB-CHC-263003)]<br>TO RAISE MONIES TO SUPPORT EDUCATION AND RESEARCH IN THE JERUSALEM COLLEGE OF TECHNOLOGY IN JERUSALEM , ISRAEL. | £309,762
-<strong>STANDARDS AUTHORITY FOR TOUCH IN CANCER CARE</strong> [Charity number: [1201728](https://findthatcharity.uk/orgid/GB-CHC-1201728)]<br>Our aim is to provide three things.  A direct means for consumers to find SATCC accredited, safe and welcoming salons, spas and therapists who offer treatments for those touched by cancer.  A register of SATCC approved training providers for salons, spas and therapists to further their cancer education. And a trusted source of inspiration, research & guidance for those scouring the internet | £5,765
-<strong>CHARGED PARTICLES FOR CANCER THERAPY</strong> [Charity number: [1207617](https://findthatcharity.uk/orgid/GB-CHC-1207617)]<br>CP4CT advances cancer care by supporting research into charged particle technologies (proton and ion beam therapy). We unite physics, engineering and medicine to develop and translate innovations, build partnerships and facilities, and share training and evidence - so precise, personalised treatments reach patients sooner. | 
-<strong>St Machar's Cathedral Belfry Fund</strong> [Charity number: [SC020923](https://findthatcharity.uk/orgid/GB-SC-SC020923)]<br>The advancement of education. The advancement of religion. The advancement of arts, heritage, culture, or science. | £725
-<strong>KIDDERMINSTER MALE CHOIR CIO</strong> [Charity number: [1176147](https://findthatcharity.uk/orgid/GB-CHC-1176147)]<br>       1. To promote, improve, develop and maintain public education in and appreciation of the art and science of music in all its aspects by the presentation of public concerts and recitals and by such other ways as the charity through its committee shall determine from time to time.    2. To apply funds for general charity purposes | £54,715
-<strong>CEREBRA - FOR BRAIN INJURED CHILDREN AND YOUNG PEOPLE</strong> [Charity number: [1089812](https://findthatcharity.uk/orgid/GB-CHC-1089812)]<br>Funding research, sharing information, supporting parents and carers, providing direct financial support primarily for children and young people with brain injuries | £2,468,885
-<strong>THE MAISIE LEWIS LECTURESHIP</strong> [Charity number: [260060](https://findthatcharity.uk/orgid/GB-CHC-260060)]<br>The Charity is governed by its Trust Deed. Its charitable objective is the establishment and funding of a Lectureship or Fellowship at the Kennedy Institute of Rheumatology with the object of promoting research into the causes and prevention of arthritis and allied diseases | £8,923
-<strong>The Ayrshire Archaeological and Natural History Society</strong> [Charity number: [SC044758](https://findthatcharity.uk/orgid/GB-SC-SC044758)]<br>The society's objectives are:  To promote an interest in heritage, culture and environment particularly of and within Ayrshire by:  - encouraging the study of these subjects and stimulating research. -  holding regular meetings and organizing excursions. - promoting the conservation of the heritage of Ayrshire. - publishing regularly material relevant to these objectives. - co-operating with any other organisation(s) as may be appropriate.  | £8,259
-<strong>CORPUS VITREARUM (GREAT BRITAIN)</strong> [Charity number: [1179950](https://findthatcharity.uk/orgid/GB-CHC-1179950)]<br> The Corpus Vitrearum (Great Britain) exists to advance the education of the public in, and to increase the accessibility and understanding of, Great Britain's stained glass heritage by promoting the recording, study and preservation of this historic window glass. This achieved by publishing for the public benefit the useful results of this research, by maintaining a website and online newsletter. | £18,877
+<strong>GREENPEACE ENVIRONMENTAL TRUST</strong> [Charity number: [284934](https://findthatcharity.uk/orgid/GB-CHC-284934)]<br>The Trust aims to achieve its objectives by funding work that includes education, scientific research, investigations and promoting sustainable development.In the medium to long term we are prioritising work in the areas of Climate change, Forests, and Oceans.We work closely with other Greenpeace entities around the world so as to maximise the impact of our charitable work. | £13,356,195
+<strong>Chartered Institute for Securities and Investment</strong> [Charity number: [SC040665](https://findthatcharity.uk/orgid/GB-SC-SC040665)]<br>1.	The objects for which the Institute is established are to promote for the public benefit the advancement and dissemination of knowledge in the field of securities and investments, to develop high professional, educational and ethical standards for practitioners in securities and investments and to promote such standards in the United Kingdom and overseas,  and to act as an authoritative body for the purpose of consultation and research in matters of educational or public interest concerning securities and investments and in furtherance of the said objects | £20,445,992
+<strong>FITZWILLIAM COLLEGE IN THE UNIVERSITY OF CAMBRIDGE</strong> [Charity number: [1137496](https://findthatcharity.uk/orgid/GB-CHC-1137496)]<br>The objects of the Charity are:1) to advance Education, Religion, Learning & Research in the University of Cambridge and 2) to provide a College wherein members of the University may work for Degrees in the University or may carry out postgraduate or other special studies at Cambridge. | £20,281,003
+<strong>ROYAL FREE CANCERKIN BREAST CANCER TRUST</strong> [Charity number: [1085517](https://findthatcharity.uk/orgid/GB-CHC-1085517)]<br>ONE TO ONE AND GROUP SUPPORT FOR BREAST CANCER PATIENTS AND FAMILIES; LYMPHOEDEMA CLINIC; COMPLEMENTARY THERAPIES; YOGA, PILATES, ART THERAPY  CLASSES; ADVOCACY; LOOK GOOD FEEL BETTER; HR ADVICE; COURSES & SEMINARS FOR PATIENTS, PROFESSIONALS, VOLUNTEERS AND THE PUBLIC; LITERATURE AND WEB SITE; PARTICIPATION IN/SUPPORT FOR RESEARCH;  E LDN OUTREACH; BREAST AWARENESS OUTREACH SESSIONS; FUNDRAISING. | 
+<strong>THE MOLLY WATT TRUST</strong> [Charity number: [1154853](https://findthatcharity.uk/orgid/GB-CHC-1154853)]<br>Raising awareness of Usher Syndrome and it's daily challenges.Bringing together those isolated by Usher Syndrome.Consulting about accessible technology.Fundraising for accessible technology / equipment to enhance the lives of those living with Usher Syndrome. Acquiring and sharing Usher Syndrome research information.Continued Usher consultation and networking with other charities. | £2,244
+<strong>THE FEEDING TRUST</strong> [Charity number: [1205834](https://findthatcharity.uk/orgid/GB-CHC-1205834)]<br>We help children and young people with feeding difficulties and differences to develop a lifelong, healthy relationship with food . We aim to: Reduce the barriers to accessing evidence based support,  empower families and the wider community through advocacy and advice, and raise awareness of feeding development through research, education and training. | £275,274
+<strong>City & Guilds Art School Property Trust</strong> [Charity number: [312871](https://findthatcharity.uk/orgid/GB-CHC-312871)]<br>The principal activity of the Trust, which was founded in 1879, is to support the teaching and training students in the Arts, Crafts and Sciences of the Fine Arts. The Trust maintains and develops the land and buildings occupied by the City & Guilds of London Art School, which operates as a separate independent charity since 1 April 2012 following a business transfer agreement. | £315,164
+<strong>MUSLIM WOMEN'S COUNCIL</strong> [Charity number: [1158560](https://findthatcharity.uk/orgid/GB-CHC-1158560)]<br>? PROVIDES SERVICES? PROVIDES ADVOCACY / ADVICE / INFORMATION? SPONSORS OR UNDERTAKES RESEARCH | £378,959
+<strong>THE ASSOCIATION FOR ROMAN ARCHAEOLOGY LIMITED</strong> [Charity number: [1056599](https://findthatcharity.uk/orgid/GB-CHC-1056599)]<br>Educating the general public in Roman archaeology and supporting research into Roman archaeology in the UK and elsewhere. | £76,882
+<strong>ORGANISATION FOR RESEARCH ON EWELAND (ORE UK)</strong> [Charity number: [1077037](https://findthatcharity.uk/orgid/GB-CHC-1077037)]<br>ORE UK works to relieve poverty and promote development among people from West Africa and other BME groups in London and Africa through research. We promote health, education and culture of Eweland in the UK through lectures, publications and traditional events. We run training in personal development and employment for young people and families. We raise awareness about environmental issues. | £485

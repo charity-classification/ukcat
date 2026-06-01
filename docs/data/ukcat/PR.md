@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,302 charities have been tagged with this tag.
+1,295 charities have been tagged with this tag.
 This represents 0.64% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 470 | 0.66%
-£10k - £100k | 406 | 0.58%
-£100k - £250k | 149 | 0.67%
-£250k - £500k | 72 | 0.66%
-£500k - £1m | 48 | 0.70%
-£1m - £10m | 79 | 0.87%
-Over £10m | 47 | 2.11%
-Total | 1,271 | 0.66%
+Under £10k | 464 | 0.65%
+£10k - £100k | 402 | 0.57%
+£100k - £250k | 152 | 0.68%
+£250k - £500k | 70 | 0.63%
+£500k - £1m | 48 | 0.69%
+£1m - £10m | 77 | 0.84%
+Over £10m | 48 | 2.14%
+Total | 1,261 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,124 | 0.66%
-oscr | 131 | 0.53%
-ccni | 47 | 0.65%
-Total | 1,302 | 0.64%
+ccew | 1,118 | 0.65%
+oscr | 130 | 0.52%
+ccni | 47 | 0.67%
+Total | 1,295 | 0.64%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>MIDLAND INSTITUTE OF MINING ENGINEERS</strong> [Charity number: [1177100](https://findthatcharity.uk/orgid/GB-CHC-1177100)]<br>THE ADVANCEMENT IN THE PUBLIC INTEREST OF THE ENGINEERING, SCIENCE AND PRACTICE OF THE EXTRACTION AND PROCESSING OF NATURAL RESOURCES, AND THE EDUCATION OF THOSE INVOLVED IN SUCH ACTIVITIES AND OF THE GENERAL PUBLIC. | £67,748
-<strong>FRIENDS OF RURAL DEVELOPMENT TRUST UK</strong> [Charity number: [1174814](https://findthatcharity.uk/orgid/GB-CHC-1174814)]<br>FORDT SUPPORTS WELFARE ACTIVITIES UNDERTAKEN BY RURAL DEVELOPMENT TRUST, A CHARITY IN SOUTH INDIA. BENEFICIARIES ARE THE HANDICAPPED (CHILDREN AND ADULTS) AND MARGINALISED COMMUNITIES IN DIRE POVERTY. FORDT IS CURRENTLY SUPPORTING CHILD WELFARE SCHEMES, LIVELIHOOD SCHEMES (MOSTLY FOR ADOLESCENTS AND YOUNG ADULTS) VOLUNTARY ORTHOPAEDIC SERVICE BY A VISITING SURGEON AND A SPECIALIST NURSE. | £8,410
-<strong>FERRYHILL MINERS UNITED YOUTH FOOTBALL CLUB</strong> [Charity number: [1213621](https://findthatcharity.uk/orgid/GB-CHC-1213621)]<br>THE OBJECT OF THE CIO IS:THE PROMOTION OF COMMUNITY PARTICIPATION IN HEALTHY RECREATION FOR THE BENEFIT OF THE INHABITANTS OF FERRYHILL, CO. DURHAM AND THE SURROUNDING AREA BY THE PROVISION OF FACILITIES FOR THE PLAYING OF ASSOCIATION FOOTBALL.  | 
-<strong>THE FRIENDS OF THE PARISH CHURCH OF ST MARY AND ALL SAINTS, CHESTERFIELD</strong> [Charity number: [1063561](https://findthatcharity.uk/orgid/GB-CHC-1063561)]<br>To promote (with the approval of the vicar & PCC) the restoration, maintenance, repair & improvement of the fabric, ornaments, vestments, furniture & furnshings of Chesterfield Parish Church | £1,405
-<strong>THE KNIGHTS OF ST COLUMBA BURSARY FOR THE EDUCATION OF A PRIEST OR PRIESTS FOR THE DIOCESE OF NOTTINGHAM</strong> [Charity number: [1117089](https://findthatcharity.uk/orgid/GB-CHC-1117089)]<br>To support the Bishop of Nottingham in the requirements to train future priests and deacons for the Diocese of Nottingham:-by raising funds to support this cause; by investing them appropriately; and by making appropriate donations to the Bishop from the accumulated funds. | £981
-<strong>NOTTINGHAMSHIRE MINING MUSEUM LTD</strong> [Charity number: [1183126](https://findthatcharity.uk/orgid/GB-CHC-1183126)]<br>Provision of a Mining Museum | £29,313
-<strong>DUDLEY MINERS RECREATION GROUND</strong> [Charity number: [1087509](https://findthatcharity.uk/orgid/GB-CHC-1087509)]<br>AN OPEN SPACE FOR THE INHABITANTS OF DUDLEY AND THE NEIGHBOURHOOD THEREOF | 
-<strong>GARESFIELD (HIGH SPEN) MINERS RECREATION GROUND</strong> [Charity number: [1081724](https://findthatcharity.uk/orgid/GB-CHC-1081724)]<br>General | 
-<strong>THE CHURCH CHARITY OF MARGARET EVANS</strong> [Charity number: [517757](https://findthatcharity.uk/orgid/GB-CHC-517757)]<br>To augment clergy stipends. | £4,810
-<strong>MELTHAM PARSONS TRUST</strong> [Charity number: [221379](https://findthatcharity.uk/orgid/GB-CHC-221379)]<br>TO PROVIDE A STIPEND FOR THE VICAR OF MELTHAM, HOLMFIRTH, WEST YORKSHIRE | £1,857
+<strong>Kinglassie Miners Charitable Society</strong> [Charity number: [SC004167](https://findthatcharity.uk/orgid/GB-SC-SC004167)]<br>To provide facilities for such forms of recreation and other leisure-time occupation as are conducive to the improvement of the conditions of living of the inhabitants of Kinglassie and the neighbourhood thereof within the Society’s sphere of operations as defined from time to time and in particular (but not exclusively) such of the inhabitants as are members of the Mining Community provided that nothing herein contained shall authorise the application of the Property to purposes which are not in law charitable. | £34,996
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF NORTH HINKSEY WITH BOTLEY</strong> [Charity number: [1175652](https://findthatcharity.uk/orgid/GB-CHC-1175652)]<br>The PCC represents the Anglican parish covering Botley and North Hinksey. As such, working with the rector, other clergy and volunteer members, it provides religious services and pastoral support to all who live in the parish, and takes an active role in the community working for the good of all. | £96,986
+<strong>ASSOCIATION OF BRITISH PAEDIATRIC NURSES</strong> [Charity number: [272731](https://findthatcharity.uk/orgid/GB-CHC-272731)]<br>The association aims to: promote public awareness in the nursing care of children and young people, promote optimum standards of nursing care to children and young people at home and in hospital, recognise the needs of parents/carers and offer appropriate guidance, support and comfort and promote nurse education/research in the specialist area of children and young people. | £13,736
+<strong>THE MEDWAY HINDU MANDIR CULTURAL AND COMMUNITY CENTRE OF KENT</strong> [Charity number: [802371](https://findthatcharity.uk/orgid/GB-CHC-802371)]<br>The aim of the Medway Hindu Mandir is to promote Santana Dharma (Hinduism).  To teach and remind values of Hindu religious & Indian culture, regardless of caste, creed, colour, sex, disability, nationality and be open for all to come together - all inter faiths welcome. Serving the local Medway community and nearby NHS staff and nurses with food and any other amenities feasible. | £23,026
+<strong>LLANHILLETH MINERS INSTITUTE LTD</strong> [Charity number: [1128924](https://findthatcharity.uk/orgid/GB-CHC-1128924)]<br>Providing educational, cultural and recreational opportunities to promote health and well beingStrengthening ties to provide facility that is accessible and inclusive for Aberbeeg, Brynithel, Llanhilleth and SwffrydProvide resource where new skills can be learned enabling personal and professional development.Developing financially viable social enterprise for benefit of local community | £991,371
+<strong>THE CHARITY FOR LICENSED MINISTERS IN THE DIOCESE OF CHELMSFORD</strong> [Charity number: [239238](https://findthatcharity.uk/orgid/GB-CHC-239238)]<br>The prime purpose is to provide financial assistance to "poor clergy" throughout the Chelmsford Diocese. This includes those whose own parents are now among their dependants.  Support extends into retirement and-after death-continues to provide grants for surviving spouses and dependant children. | £40,429
+<strong>The Luscombe Benefaction 2010</strong> [Charity number: [SC041545](https://findthatcharity.uk/orgid/GB-SC-SC041545)]<br>( 2)for payment of the whole or such part of the free income and the whole or such part of the capital  of the Trust Estate as the Trustees may from time to time consider desirable for charitable purposes to such individuals, charitable institutions, societies, foundations or funds within the Diocese of Brechin in the Scottish Episcopal Church as the Trustees may in their absolute discretion select and without prejudice to the discretion of the Trustees  (a) for the purpose of providing finance for restoring or altering or maintaining or repairing or renewing or equipping or promoting the use of any church or associated buildings within the said Diocese (b) for providing financial assistance to clergy within the said Diocese provided always that there is no other fund from which assistance could be sought or is immediately available | £7,600
+<strong>PENYBANC WELFARE ASSOCIATION</strong> [Charity number: [251632](https://findthatcharity.uk/orgid/GB-CHC-251632)]<br>To provide a recreation ground and welfare amenities for the benefit of the inhabitants of the area of benefit without distinction of political, religious or other opinions with the object of improving the conditions of life for the said inhabitants (in particular but not exclusively, such of the said inhabitants as are members of the mining community). | £79,393
+<strong>YOU TOUCH AFRICA</strong> [Charity number: [1123085](https://findthatcharity.uk/orgid/GB-CHC-1123085)]<br>-Assist volunteer teachers & nurses to work in Africa-Building and assisting Vocational Training Centres,-Assisting Micro-Credit Union,-Assisting women in setting up chicken farming project-Building and renovation of Schools and Hospitals-Establishing Computer Learning Centers-Improving diet in Primary Schools-Supply Educational & Medical MaterialAll projects are carried in Africa | £5,919
+<strong>NORTH STAFFORDSHIRE COALFIELD MINERS' RELIEF FUND</strong> [Charity number: [209616](https://findthatcharity.uk/orgid/GB-CHC-209616)]<br>For the relief of need, hardship or distress for workers or former workers in or about mines in the North Staffordshire Coalfield (including Cheadle). Also the dependants of such persons and such former workers. | £3,973
