@@ -3,8 +3,8 @@
 Leisure is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Leisure](LE.md) category.
 
-30,328 charities have been tagged with this tag.
-This represents 14.91% of all charities.
+30,396 charities have been tagged with this tag.
+This represents 14.94% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,115 | 14.16%
-£10k - £100k | 11,789 | 16.75%
-£100k - £250k | 3,015 | 13.47%
-£250k - £500k | 1,482 | 13.43%
-£500k - £1m | 834 | 12.04%
-£1m - £10m | 989 | 10.80%
-Over £10m | 187 | 8.34%
-Total | 28,411 | 14.68%
+Under £10k | 10,094 | 14.16%
+£10k - £100k | 11,811 | 16.78%
+£100k - £250k | 3,027 | 13.50%
+£250k - £500k | 1,494 | 13.50%
+£500k - £1m | 836 | 12.01%
+£1m - £10m | 995 | 10.84%
+Over £10m | 186 | 8.28%
+Total | 28,443 | 14.70%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 22,274 | 12.99%
-oscr | 6,962 | 27.93%
-ccni | 1,092 | 15.65%
-Total | 30,328 | 14.91%
+ccew | 22,303 | 13.00%
+oscr | 7,001 | 28.07%
+ccni | 1,092 | 15.62%
+Total | 30,396 | 14.94%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>TOGETHER DEMENTIA SUPPORT</strong> [Charity number: [1180628](https://findthatcharity.uk/orgid/GB-CHC-1180628)]<br>Together Dementia Support provides support and therapeutic activities for people living with dementia, their carers and supporters in Manchester.We provide high quality activity and support groups to help people with dementia to maintain skills and hobbies, and to enable both them and their carers to make friends and maintain wellbeing. | £589,021
-<strong>DOVEROW HILL TRUST</strong> [Charity number: [301622](https://findthatcharity.uk/orgid/GB-CHC-301622)]<br>Provision of open space leisure area for the community. Including conservation. | 
-<strong>20 20 FOUNDATION TRUST</strong> [Charity number: [1199049](https://findthatcharity.uk/orgid/GB-CHC-1199049)]<br>20 20 Foundation Trust provides facilities in the interests of social welfare for recreation and leisure time occupation with the objective of improving the conditions of life for the residents of Dewsbury, including Ravensthorpe, Scout Hill and Kirklees . | £49,128
-<strong>BISHOP'S CLEEVE SENIORS CLUB</strong> [Charity number: [1058337](https://findthatcharity.uk/orgid/GB-CHC-1058337)]<br>The relief of senior citizens domiciled in Bishop's Cleeve, Woodmancote and adjacent areas by the provision of a wide and balanced range of leisure time activities suitable to age and ability. Activities are for the enjoyment and friendship of all participants rather than for achievement. Non-party political and non-discriminatory in terms of sex, race, religious or cultural beliefs. | £42,873
-<strong>THE HORNDEAN COMMUNITY ASSOCIATION</strong> [Charity number: [301854](https://findthatcharity.uk/orgid/GB-CHC-301854)]<br>INITIATES AND RUNS LEISURE AND EDUCATIONAL ACTIVITIES.PROVIDES FACILITIES FOR OTHER ORGANISATIONS WITH SIMILAR OBJECTIVESHIRES OUT ROOMS FOR PRIVATE MEETINGS AND FUNCTIONSWORKS WITH OTHER ORGANISATIONS (EG SCHOOLS) WHERE IT BENEFITS THE COMMUNITY | £75,359
-<strong>Port William Community Association</strong> [Charity number: [SC043830](https://findthatcharity.uk/orgid/GB-SC-SC043830)]<br>4. The organisation?s purposes are to benefit the inhabitants of Port William, as defined by the post code areas within DG8 9, without distinction of age, gender, sexuality, political, religious or other opinions, by : 4.1 The advancement of citizenship or community development (including rural regeneration and the promotion of civic responsibility, volunteering, the voluntary sector or the effectiveness or efficiency of charities) 4.2 The provision of recreational facilities and organisation of recreational activities which are available to members of the public at large | £77,854
-<strong>ROTHERWICK VILLAGE HALL CHARITY</strong> [Charity number: [258630](https://findthatcharity.uk/orgid/GB-CHC-258630)]<br>Provision of a Village Hall used as a meeting place and for social and recreational events | £39,076
-<strong>Wemyss Bay Community Association</strong> [Charity number: [SC020256](https://findthatcharity.uk/orgid/GB-SC-SC020256)]<br>The objects of the Association shall be :-  (a) To promote the benefite of the inhabitants of Wemyss Bay and surrounding area by associating the local authority, voluntary , organisations and inhabitants in a common effort to advance education and provide facilities in the interest of social we [fare for recreation and leisure time occupation with the object of improving the conditions of life of the inhabitants.  (b) In furtherance thereof provide a management service in order to ensure the effective use of the Community Hall including equitable allocation of the accommodation and resources within the Hall to groups or persons residing within the area. | £18,136
-<strong>THE F N D MEMORIAL FIELD</strong> [Charity number: [505566](https://findthatcharity.uk/orgid/GB-CHC-505566)]<br>Recreational use | 
-<strong>THE BERTHA TAYLOR PRIZE</strong> [Charity number: [526406](https://findthatcharity.uk/orgid/GB-CHC-526406)]<br>Provision of sports prizes for the pupils of Morecambe Euston Road County Secondary .This is a dormant fund currently adminstered by LCC which is in the process of being transferred to an appropriate establishment by LCC Legal Services Dept. | 
+<strong>CLAPTON AND WAYFORD VILLAGE HALL</strong> [Charity number: [304517](https://findthatcharity.uk/orgid/GB-CHC-304517)]<br>Village hall which provides venue for film club, table tennis ,yoga,knit and natter group to regularly meet.  Also a venue for both Wayford and West Crewkerne parish council meetings.  Throughout the year coffee mornings,bingo,jumble sales and quizzes are held as well as plays and music evenings. | £15,527
+<strong>CAPEL VILLAGE MEMORIAL HALL</strong> [Charity number: [304990](https://findthatcharity.uk/orgid/GB-CHC-304990)]<br>Village Hall used for general charitable purposes, providing building and facilities for the general public for education, training, sport and other activities. | £24,411
+<strong>Queenzieburn Community Centre Voluntary Management Committee</strong> [Charity number: [SC047407](https://findthatcharity.uk/orgid/GB-SC-SC047407)]<br>4.1 To promote the benefit of the inhabitants of Queenzieburn and its environs without distinction of sex, sexuality, political, religious or other opinion by associating the local statutory authorities, voluntary organisations and inhabitants in a common effort to provide facilities, or assist in the provision of facilities, in the interests of social welfare or recreation and other leisure-time occupation so that their quality of life may be improved. | £16,792
+<strong>FINEDON COMMUNITY SPORTS AND LEISURE CENTRE ASSOCIATION</strong> [Charity number: [291383](https://findthatcharity.uk/orgid/GB-CHC-291383)]<br>Hire halls and rooms to organisations and individuals.  Fund raise to sustain our charity by holding various events, activities and shows. | £11,833
+<strong>SPORTING CLUB INKBERROW LTD</strong> [Charity number: [1183950](https://findthatcharity.uk/orgid/GB-CHC-1183950)]<br>Sporting Club Inkberrow is based at our pavilion and pitches on Sands Road in Inkberrow. We provide facilities and coaching for a full age range of football and cricket teams as well as hosting a small, informal running group. | £452,038
+<strong>Uyeasound Waterfront Trust</strong> [Charity number: [SC032404](https://findthatcharity.uk/orgid/GB-SC-SC032404)]<br>(i) To advance the education of the public in the natural and built environment and the local history and heritage of South Unst and environs.  (ii) To provide walks, pathways and other amenities for the public benefit.  (iii) To advance the education of the public in horticulture by the provision of a garden.  (iv) To maintain, preserve, protect and enhance the natural environment, flora and fauna. and  (v) For such other charitable purposes as are for the benefit of the community of Uyeasound. | £2,460
+<strong>NOTTINGHAMSHIRE ROYAL SOCIETY FOR THE BLIND</strong> [Charity number: [511288](https://findthatcharity.uk/orgid/GB-CHC-511288)]<br>My Sight Nottinghamshire (working name for Nottinghamshire Royal Society for the Blind) is dedicated to improving the lives of visually impaired people in Nottinghamshire. Services including; information, support, equipment, advice, befriending, peer support, arts and sport, are designed to promote confidence and independence and reduce isolation and loneliness for people living with sight loss. | £639,924
+<strong>SOUTH WEALD PARISH HALL</strong> [Charity number: [301404](https://findthatcharity.uk/orgid/GB-CHC-301404)]<br>South Weald Parish Hall provides facilities for all ages in the Brentwood , Essex area. Such facilities include fitness and dance classes,childrens groups, Brownies, Drama groups and childrens parties. | £25,405
+<strong>JACOBS FUTURA FOUNDATION</strong> [Charity number: [1208303](https://findthatcharity.uk/orgid/GB-CHC-1208303)]<br>(A) ADVANCING AND PROMOTING THE EDUCATION OF THE PUBLIC IN GENERAL (AND PARTICULARLY AMONGST SCIENTISTS AND ENGINEERS) BY MAKING GRANTS AND AWARDS TO STUDENTS IN EDUCATION, INCLUDING BUT NOT LIMITED TO ADVANCING AND PROMOTING THE EDUCATION OF THE PUBLIC IN GENERAL BY MAKING GRANTS TO ADVANCE THE EDUCATION OF THE PUBLIC IN RELATION TO CONSERVATION, PROTECTION AND IMPROVEMENT OF THE PHYSICAL AND NATURAL ENVIRONMENT;(B) ADVANCING THE EDUCATION OF THE PUBLIC IN SUBJECTS RELATING TO SUSTAINABLE DEVELOPMENT AND THE PROTECTION, ENHANCEMENT AND REHABILITATION OF THE ENVIRONMENT AND THE PROMOTION OF STUDY AND RESEARCH IN SUCH SUBJECTS AND DISSEMINATION OF THE USEFUL RESULTS OF SUCH STUDIES TO THE PUBLIC AT LARGE;(C) PROMOTING SUSTAINABLE DEVELOPMENT FOR THE BENEFIT OF THE PUBLIC BY: (I) THE PRESERVATION, CONSERVATION AND THE PROTECTION OF THE ENVIRONMENT AND THE PRUDENT USE OF RESOURCES;(II) THE RELIEF OF POVERTY AND THE IMPROVEMENT OF THE CONDITIONS OF LIFE IN SOCIALLY AND ECONOMICALLY DISADVANTAGED COMMUNITIES;(III) THE PROMOTION OF SUSTAINABLE MEANS OF ACHIEVING ECONOMIC GROWTH AND REGENERATION.(D) ADVANCING AND PROMOTING FOR THE BENEFIT OF THE PUBLIC THE CONSERVATION PROTECTION AND IMPROVEMENT OF THE PHYSICAL AND NATURAL ENVIRONMENT BY MAKING GRANTS TO SUCH PERSONS, BODIES AND, ORGANISATIONS AND/OR COUNTRIES FOR THE PURPOSES OF CONSERVING, PROTECTING AND/OR IMPROVING THE PHYSICAL AND NATURAL ENVIRONMENT ANYWHERE IN THE WORLD(E) RELIEVING FINANCIAL NEED AND SUFFERING AMONG VICTIMS OF NATURAL OR OTHER KINDS OF DISASTER IN THE FORM OF MONEY (OR OTHER MEANS DEEMED SUITABLE) FOR PERSONS, BODIES, ORGANISATIONS AND/OR COUNTRIES AFFECTED; (F) RELIEVING AND ASSISTING PEOPLE IN ANY PART OF THE WORLD WHO ARE THE VICTIMS OF WAR OR NATURAL DISASTER, TROUBLE, OR CATASTROPHE IN PARTICULAR BY MAKING GRANTS TO SUCH PERSONS, BODIES AND, ORGANISATIONS AND/OR COUNTRIES FOR THE PURPOSES OF RELIEVING AND ASSISTING THE SUFFERING OF SUCH AFFECTED PEOPLE IN ANY PART OF THE WORLD; AND(G) ADVANCING PHYSICAL EDUCATION FOR YOUNG PEOPLE INCLUDING THROUGH PROVIDING OR ASSISTING IN THE PROVISION OF FACILITIES AND EQUIPMENT WHICH ENABLE YOUNG PEOPLE (AND IN PARTICULAR YOUNG PEOPLE WHO DEMONSTRATE EXCEPTIONAL COMMITMENT AND/OR ABILITY IN THE WORLD OF SPORT) TO PARTICIPATE IN SPORTING ACTIVITIES IN THE INTEREST OF HEALTHY RECREATION OR THE ADVANCEMENT OF PHYSICAL EDUCATION.(H) ADVANCING SUCH CHARITABLE PURPOSES (ACCORDING TO THE LAW OF ENGLAND AND WALES) AS THE TRUSTEES SEE FIT FROM TIME TO TIME.FOR THE PURPOSE OF THE ORGANISATION'S OBJECTS, SUSTAINABLE DEVELOPMENT MEANS ‘DEVELOPMENT WHICH MEETS THE NEEDS OF THE PRESENT WITHOUT COMPROMISING THE ABILITY OF FUTURE GENERATIONS TO MEET THEIR OWN NEEDS.’ | £16,015,133
+<strong>Blairmore Hall Trust SCIO</strong> [Charity number: [SC050150](https://findthatcharity.uk/orgid/GB-SC-SC050150)]<br>The organisation's purposes are to: 1. maintain and repair Blairmore Hall as a community facility. 2. provide recreational facilities to encourage community interaction and inclusion. 3. use the hall as a facility to combat social isolation and loneliness within the village and the wider shore community. | 

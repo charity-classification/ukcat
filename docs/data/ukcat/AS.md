@@ -3,8 +3,8 @@
 Associations is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Associations](AS.md) category.
 
-46,065 charities have been tagged with this tag.
-This represents 22.64% of all charities.
+46,095 charities have been tagged with this tag.
+This represents 22.65% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 19,074 | 26.70%
-£10k - £100k | 19,123 | 27.17%
-£100k - £250k | 3,203 | 14.31%
-£250k - £500k | 1,329 | 12.04%
-£500k - £1m | 702 | 10.13%
-£1m - £10m | 803 | 8.77%
-Over £10m | 187 | 8.34%
-Total | 44,421 | 22.95%
+Under £10k | 19,030 | 26.70%
+£10k - £100k | 19,186 | 27.25%
+£100k - £250k | 3,188 | 14.22%
+£250k - £500k | 1,336 | 12.07%
+£500k - £1m | 715 | 10.27%
+£1m - £10m | 807 | 8.79%
+Over £10m | 185 | 8.23%
+Total | 44,447 | 22.96%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,002 | 22.16%
-oscr | 5,805 | 23.29%
-ccni | 2,258 | 32.35%
-Total | 46,065 | 22.64%
+ccew | 38,016 | 22.16%
+oscr | 5,816 | 23.32%
+ccni | 2,263 | 32.36%
+Total | 46,095 | 22.65%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>LOWESTOFT LIONS CLUB (CIO)</strong> [Charity number: [1190447](https://findthatcharity.uk/orgid/GB-CHC-1190447)]<br>Raise money through donations and collections and help vulnerable people to live a better life. | £35,301
-<strong>WREXHAM SPORTS CLUB FOR THE DISABLED</strong> [Charity number: [1000030](https://findthatcharity.uk/orgid/GB-CHC-1000030)]<br>We encourage disabled sport, and take part in sport for disabled athletes. | 
-<strong>MISTLEY KIDS CLUB LTD</strong> [Charity number: [1140273](https://findthatcharity.uk/orgid/GB-CHC-1140273)]<br>The objectives of Mistley Kids Club Limited are to provide the necessary facilities for the daily care,recreation and education of children during out of school hours and school holidays. Also, to advance theeducation and training of the persons engaged in the provision of such care, education and recreationalfacilities. | £523,352
-<strong>BILLERICAY ROUND TABLE 594 CHARITABLE ACTIVITIES</strong> [Charity number: [1205520](https://findthatcharity.uk/orgid/GB-CHC-1205520)]<br>Billericay Round Table 594 Charitable Activities organises events in the local area and raises money for local organisation and good causes in the local area, which can be applied for through our grant application on our website. | 
-<strong>3rd A Clarkston Brownie Unit</strong> [Charity number: [SC049862](https://findthatcharity.uk/orgid/GB-SC-SC049862)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £604
-<strong>Carrickfergus Central Primary School Parent Teacher Association</strong> [Charity number: [NI103620](https://findthatcharity.uk/orgid/GB-NIC-103620)]<br>Carrickfergus Central Primary School PTA organise fundraising events throughout the school year. We help the school purchase IT equipment, sports equipment, books, fund transport to events, etc. | £7,312
-<strong>NORTHAMPTON BRIDGE CLUB</strong> [Charity number: [1192969](https://findthatcharity.uk/orgid/GB-CHC-1192969)]<br>The objects of the Club areFor the public benefit(1) the advancement of amateur sport by promoting the game of bridge for the benefit of theresidents of Northampton and the surrounding area.(2) the provision of facilities for the learning, teaching and playing of bridge in a friendly andsupportive environment with the object of improving conditions of life for local residents. | £30,909
-<strong>Loughside Football Club</strong> [Charity number: [NI102323](https://findthatcharity.uk/orgid/GB-NIC-102323)]<br>Loughside Football Club has a management committee which is made up of 6 trustees’ who are involved in the running of the Charity. The organisation provides activities and services for children and young people to take part in association football and provides educational opportunities through information sessions and workshops which are built into some programmes and events. Loughside FC are based Loughside Recreation Centre which includes office space and access to football playing fields; this facility is used to hold the majority of service provision, however we have hire facilities throughout the Belfast City Council area in the past. Loughside has over 200 children and young people who avail of our services intermittently. We have a mini soccer centre which takes place one night per week and on a Saturday morning, e also have four youth teams (Under 19, 17, 16, 14); our services managed and organised by 22 volunteers who dedicate their free time to assist with the development on children and young people within North Belfast. Loughside FC provides assistance for these volunteers to develop their skills through providing continuous education and training. These teams take part in training and competition throughout Northern Ireland. 85% of our training and services are open the general public. Additional to these activities, Loughside hold a number of seasonal tournaments, cross border and cross community events, intervention programmes and community fun days. | £33,850
-<strong>1ST SOUTH ASCOT SCOUT GROUP</strong> [Charity number: [1186681](https://findthatcharity.uk/orgid/GB-CHC-1186681)]<br>Scouting Group servicing South Ascot, Sunninghill and surrounding area.   We comprise a Beaver unit for ages 5-7.  Cubs for ages 8 - 10, Scouts for ages 11 - 14 and Explorers for ages 14 - 18.The Group is based at the Scout Hut on Church Road in South Ascot.  Beavers and Cubs on a Tuesday evening, Explorers on a Wednesday and Scouts on a Thursday. | £30,715
-<strong>ISPY - PRESTATYN AND DISTRICT</strong> [Charity number: [1156558](https://findthatcharity.uk/orgid/GB-CHC-1156558)]<br>Local schools, voluntary youth groups, businesses, North Wales Police and a number of other organisations are working together to co-ordinate anti-bullying procedures within all organisations working with young people in Prestatyn and district. This year we have identified 10 High Street Businesses which provide ?Safe Havens? where young people can go if they are worried or need safety. | 
+<strong>GELLIGAER AND DISTRICT WELFARE ASSOCIATION</strong> [Charity number: [218819](https://findthatcharity.uk/orgid/GB-CHC-218819)]<br>provision of sporting facilities and public open space for use by the local community | £50
+<strong>2ND EXETER (ST MICHAEL'S) SCOUT GROUP</strong> [Charity number: [301212](https://findthatcharity.uk/orgid/GB-CHC-301212)]<br>Providing scouting activities to young people aged 6 to 14 years. We have groups of Beaver Scouts, Cub Scouts and Scouts.The 2nd Exeter Scout Group is affiliated to a national organisation, the Scout Association, although the Group is locally led and locally run by volunteers. All fundraising has to be found locally. For more info please see www.scouts.org.uk. | £43,048
+<strong>THE WAYZ</strong> [Charity number: [1181340](https://findthatcharity.uk/orgid/GB-CHC-1181340)]<br>The Wayz is a safe place for young people to attend; catering for a wide variety of young people 8-25yr olds. Creating the opportunity to try new things they are  part of a journey  which is designed to develop each young person in regards to their own needs and aspirations. supports young people gain the confidence and understanding when dealing with current issues and challenges in their lives. | £169,018
+<strong>TRURO LIONS CLUB</strong> [Charity number: [1179688](https://findthatcharity.uk/orgid/GB-CHC-1179688)]<br>Lions Club of Truro provides financial and service support to individuals and other charitable organisations in the Truro area. The Club donates to Lions International to help with emergency and disaster appeals. Funds are acquired through  regular book sales,  annual Crystal golf competition.  Christmas & Easter raffles We provide personnel to support other Charities fund raising activities | £27,966
+<strong>THE INCLUDE PROJECT</strong> [Charity number: [1177785](https://findthatcharity.uk/orgid/GB-CHC-1177785)]<br>Include.org provides creative community activities, training and consultancy  to make the world more welcoming for people with understanding or speaking difficulties. We empower people with communication needs to help train inclusive communication partners within The Include Choir. We teach a range of evidence-based techniques to help others include people with communication needs. | £170,011
+<strong>WEST HILL PRIMARY SCHOOL PARENTS, TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1041234](https://findthatcharity.uk/orgid/GB-CHC-1041234)]<br>The main activity of the charity is to raise funds to support and advance the education of the pupils of West Hill Primary School (EX11 1UQ). The main events are a village fete in June and a winter ball in November. | £18,304
+<strong>LONDON TITANS WHEELCHAIR BASKETBALL CLUB</strong> [Charity number: [299497](https://findthatcharity.uk/orgid/GB-CHC-299497)]<br>To operate a wheelchair basketball club providing disabled and able bodied people to opportunity to play the sport at whatever level they want to, ranging from recreational up to National and International standards.  To promote  fitness and competitiveness whilst taking part in league matches representing the club.  To provide a sociable and friendly atmosphere where all are welcome. | £64,934
+<strong>MEVAGISSEY ROWING CLUB</strong> [Charity number: [1209711](https://findthatcharity.uk/orgid/GB-CHC-1209711)]<br>TO PROMOTE COMMUNITY PARTICIPATION IN HEALTHY RECREATION BY PROVIDING FACILITIES FOR THE PARTICIPATION IN PILOT GIG ROWING BENEFITING PEOPLE OF ALL AGES AND ABILITIES RESIDING IN AND AROUND MEVAGISSEY AS WELL AS THE WIDER PUBLIC RESIDING IN THE COUNTY OF CORNWALL . 'FACILITIES' MEANS: EQUIPMENT AND ORGANISING SPORTING ACTIVITIES. | 
+<strong>FORGET-ME-NOT BUDDIES (TAMESIDE)</strong> [Charity number: [1183245](https://findthatcharity.uk/orgid/GB-CHC-1183245)]<br>Forget-Me-Not Buddies is a group run by Carers and Volunteers that specifically offers subsidised social activities and interaction for persons living with Dementia and their Carers.  It offers support from people who have walked the full path of the Dementia journey, from diagnosis to beyond demise of the diagnosed.  The group is based in Tameside and accepts members from surrounding areas. | £34,133
+<strong>Girlguiding North Antrim</strong> [Charity number: [NI103930](https://findthatcharity.uk/orgid/GB-NIC-103930)]<br>Organisation’s Activities Girlguiding believes in the value of learning by doing. This is put into practice through a Method with five interlinking elements, known as the Five Essentials of guiding: • working together in small groups • encouraging self-government and decision making • a balanced and varied programme • caring for the individual • sharing a commitment to a common standard The Guiding Method is delivered to young members grouped by age into four sections: Rainbow Guides, Brownie Guides, Guides and members of The Senior Section. Its principles apply to all members, including adults. | £1,624

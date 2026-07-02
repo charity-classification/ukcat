@@ -3,8 +3,8 @@
 Heritage is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Heritage](HR.md) category.
 
-13,536 charities have been tagged with this tag.
-This represents 6.65% of all charities.
+13,558 charities have been tagged with this tag.
+This represents 6.66% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 5,373 | 7.52%
-£10k - £100k | 4,369 | 6.21%
-£100k - £250k | 1,226 | 5.48%
-£250k - £500k | 702 | 6.36%
-£1m - £10m | 573 | 6.25%
-£500k - £1m | 420 | 6.06%
-Over £10m | 128 | 5.71%
-Total | 12,791 | 6.61%
+Under £10k | 5,348 | 7.50%
+£10k - £100k | 4,388 | 6.23%
+£100k - £250k | 1,225 | 5.46%
+£250k - £500k | 712 | 6.43%
+£1m - £10m | 576 | 6.28%
+£500k - £1m | 417 | 5.99%
+Over £10m | 129 | 5.74%
+Total | 12,795 | 6.61%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 9,252 | 5.39%
-oscr | 3,824 | 15.34%
-ccni | 460 | 6.59%
-Total | 13,536 | 6.65%
+ccew | 9,262 | 5.40%
+oscr | 3,836 | 15.38%
+ccni | 460 | 6.58%
+Total | 13,558 | 6.66%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>HULL GEOLOGICAL SOCIETY</strong> [Charity number: [229147](https://findthatcharity.uk/orgid/GB-CHC-229147)]<br>OUR ACTIVITIES COMPRISE EDUCATION AND RESEARCH IN GEOLOGY IN EAST YORKSHIRE AND SURROUNDING AREAS, VIA LECTURES, FIELD TRIPS, OPEN DAYS, PUBLICATIONS AND WEBSITE, IN CONJUNCTION WITH LOCAL COUNCILS, MUSEUMS, EDUCATIONAL AND CONSERVATIONAL INSTITUTIONS. ALL AVAILABLE AND PROMOTED TO PUBLIC. | £1,832
-<strong>WIMBLEDON VILLAGE HALL TRUST</strong> [Charity number: [1097389](https://findthatcharity.uk/orgid/GB-CHC-1097389)]<br>PROVISION OF FACILITIES IN THE INTERESTS OF SOCIAL WELFARE FOR RECREATIONAL AND LEISURE TIME OCCUPATION, WITH THE OBJECT OF IMPROVING THE CONDITIONS OF LIFE FOR THE SAID INHABITANTS.THE ADVANCEMENT OF ARTS/CULTURE, EDUCATION/TRAINING, AND HERITAGE. | £252,891
-<strong>Centrum Edukacyjne Razem (Educational Centre - Together)</strong> [Charity number: [SC053504](https://findthatcharity.uk/orgid/GB-SC-SC053504)]<br>Purposes 4 The advancement of the arts, heritage and culture by initiating, supporting and delivering projects celebrating and promoting Polish language and Polish culture of the world within the multicultural reality in Scotland and elsewhere. 5 The advancement of education through the teaching as well as promotion of teaching and learning of Polish as a heritage and foreign language. | 
-<strong>THE ROBEY TRUST LIMITED</strong> [Charity number: [1089025](https://findthatcharity.uk/orgid/GB-CHC-1089025)]<br>To advance public STEM education in all aspects of the design, building, function, maintenance and operation of heritage engineering items, including steam engines, plant, apparatus and equipment and in particular engines made by Robey of Lincoln, and to this end acquire, restore, operate, preserve and display them for the benefit of the public. | £27,735
-<strong>CALEB ANDREW MEAKINS FOUNDATION</strong> [Charity number: [1198386](https://findthatcharity.uk/orgid/GB-CHC-1198386)]<br>Supporting a local non-profit organisation in Ethiopia to provide holistic alternatives for exploited individuals through relationship-based recovery, leading to freedom and restoration in all areas of life. This is primarily done through fundraising. | £15,340
-<strong>Brough Bay Association SCIO</strong> [Charity number: [SC049998](https://findthatcharity.uk/orgid/GB-SC-SC049998)]<br>a) To promote the use, management and maintenance of the slipway, harbour and its associated facilities at Brough Bay to encourage community development and to provide recreational facilities to improve conditions of life for all those who use and enjoy the Bay.  (b) The advancement of environmental protection and improvement to the Bay area with associated activities and interpretations. (c) To further advancement of community development, local heritage and culture, including rural regeneration and the encouragement of volunteering.  (d) To maintain ownership in perpetuity and uphold the rights, responsibilities and privileges held by the Association by virtue of its ownership of the land at Brough Bay described in the Feu Disposition to the Association by Mrs Margaret Munro of 27/28 Croft-An-Righ, Abbeyhill, Edinburgh signed on 21 September 1993 | £1,385
-<strong>Laggan Church Partnership</strong> [Charity number: [SC053716](https://findthatcharity.uk/orgid/GB-SC-SC053716)]<br>3.1 The Charitable Purposes of the SCIO ('the Charitable Purposes') are the advancement of heritage and the development of community activity by: 3.1.1 acquiring and preserving the fabric of the historic ‘B’ listed Laggan Parish Church so as to maintain public access for a wide range of community activity including arts, cultural and celebratory events.  3.1.2 promoting understanding of the culture and history of the ancient Parish of Laggan and creating a space where the heritage can be displayed and celebrated. and  3.1.3 providing a focal point for the benefit and involvement of the Laggan community. | £46,645
-<strong>THE EXCELSIOR TRUST</strong> [Charity number: [285899](https://findthatcharity.uk/orgid/GB-CHC-285899)]<br>Acquiring, maintaining and restoring the Lowestoft Smack "Excelsior" LT472 and providing facilities for young people to sail thereby maintaining their maritime heritage | £310,921
-<strong>MARGATE MUSEUMS TRUST</strong> [Charity number: [1173031](https://findthatcharity.uk/orgid/GB-CHC-1173031)]<br>The Trust is the custodian of an extensive collection of historical artefacts of the town of Margate dating back to the Bronze Age on behalf of Thanet District Council. We open & operate both the Margate Museum and Tudor House enabling access to the towns past through exhibitions, talks, educational visits and assisting students, bodies and individuals with research into the town of Margate. | £4,216
-<strong>PHAROS TRUST</strong> [Charity number: [1090325](https://findthatcharity.uk/orgid/GB-CHC-1090325)]<br>Restoration of former Trinity House Manned Light Vessel No 18 for use as a visitor attraction and heritage learning facility. | £50,486
+<strong>Kingdom Kids Charity SCIO</strong> [Charity number: [SC050151](https://findthatcharity.uk/orgid/GB-SC-SC050151)]<br>7.1 The SCIO will promote, advance and further its Charitable purposes, by operating as a 'fundraising' and 'grant giving' charity which will support financially (and otherwise) children, young people and children's charitable and similar organisations providing public benefit in the local government area of Fife, the United Kingdom and elsewhere, with a primary focus on Fife.   7.2 For the purposes of the 2005 Act the following charitable purposes are the charitable purposes identified as applicable from section 7 of the 2005 Act:- 7.2.1 the advancement of education. 7.2.2 the advancement of health.  7.2.3 the advancement of citizenship or community development.  7.2.4 the advancement of arts, heritage, culture or science.  7.2.5 the advancement of public participation in sport.  7.2.6 the relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage. and 7.2.7 any other purpose that may reasonably be regarded as analogous to any of the preceding purposes.  | 
+<strong>Nesting Local History Group</strong> [Charity number: [SC029661](https://findthatcharity.uk/orgid/GB-SC-SC029661)]<br>The object of the Group is to advance the education of the public in the history of the Parish of Nesting, through:-  - The preservation and recording of the history of the Parish of Nesting  - The promotion of interest in local history through exhibitions. public speakers and published materials | 
+<strong>MUSEUM OF LONDON ARCHAEOLOGY</strong> [Charity number: [1143574](https://findthatcharity.uk/orgid/GB-CHC-1143574)]<br>The object of the Charity are for the benefit of the public in the advancement of education in the subjects of archaeology and the historic environment.Our aim is to stimulate enquiry and promote active discovery through partnership and participation, widening access to and appreciation of the value of heritage. | £19,442,095
+<strong>FRIENDS OF CORINIUM MUSEUM</strong> [Charity number: [1118026](https://findthatcharity.uk/orgid/GB-CHC-1118026)]<br>Fund raising for the benefit of the Corinium Museum by recruitment of members and holdingevents, trips, etc. for members to raise additional funds. | £22,124
+<strong>ENGLISH BRIDGE WORKSHOP LIMITED</strong> [Charity number: [1048286](https://findthatcharity.uk/orgid/GB-CHC-1048286)]<br>Provision of studio space to local artists, gallery available for exhibitions, community space available for workshops, classes and rehersals | £1,063
+<strong>ARBOUR STEPHENS ORATION</strong> [Charity number: [1102738](https://findthatcharity.uk/orgid/GB-CHC-1102738)]<br>To develop a centre of arthurian interest at the county museum and to establish an annual oration in Carmarthen to be given by a distinguished scholar for which he/she will be adequately and reasonably paid. | £2,733
+<strong>RESTORING HANDS</strong> [Charity number: [1056210](https://findthatcharity.uk/orgid/GB-CHC-1056210)]<br>Restoring Hands is committed to providing assistance to improve quality of life, restore dignity and promote hopefor the future. We do this by working with local families through befriending people; assessing their needs andhelping them access relevant resources. | 
+<strong>KINGDOM HERITAGE MODEL SCHOOL</strong> [Charity number: [1155588](https://findthatcharity.uk/orgid/GB-CHC-1155588)]<br>Private education | 
+<strong>Farsi Action Foundation</strong> [Charity number: [1188157](https://findthatcharity.uk/orgid/GB-CHC-1188157)]<br>-To relieve poverty and financial hardship amongst people of Afghanistan and Farsi-speaking immigrants living in England & Wales.-To preserve Faris/Persian culture and heritage.-The advancement of Education for public benefit amongst, but not exclusively, for women/girls, in Afghanistan.- For such other charitable purposes as the Trustees may think fit. | £42,819
+<strong>Oban Congregational Church</strong> [Charity number: [SC011117](https://findthatcharity.uk/orgid/GB-SC-SC011117)]<br>To share the Christian faith through the mission, restoration, preservation, repair, maintenance, improvement, beautification and reconstruction of the Congregational Church at Oban, Argyll for the benefit of the people of Oban and Argyll. | £19,163

@@ -3,7 +3,7 @@
 Saving of lives is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Saving of lives](SL.md) category.
 
-3,699 charities have been tagged with this tag.
+3,709 charities have been tagged with this tag.
 This represents 1.82% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,303 | 1.82%
-£10k - £100k | 1,230 | 1.75%
-£100k - £250k | 327 | 1.46%
-£250k - £500k | 176 | 1.59%
-£1m - £10m | 176 | 1.92%
-£500k - £1m | 122 | 1.76%
-Over £10m | 98 | 4.37%
-Total | 3,432 | 1.77%
+Under £10k | 1,303 | 1.83%
+£10k - £100k | 1,231 | 1.75%
+£100k - £250k | 331 | 1.48%
+£250k - £500k | 173 | 1.56%
+£500k - £1m | 121 | 1.74%
+£1m - £10m | 177 | 1.93%
+Over £10m | 98 | 4.36%
+Total | 3,434 | 1.77%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,867 | 1.67%
-oscr | 706 | 2.83%
-ccni | 126 | 1.81%
-Total | 3,699 | 1.82%
+ccew | 2,878 | 1.68%
+oscr | 705 | 2.83%
+ccni | 126 | 1.80%
+Total | 3,709 | 1.82%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>T D JAKES MINISTRIES (UK)</strong> [Charity number: [1114674](https://findthatcharity.uk/orgid/GB-CHC-1114674)]<br>The propogation of the Christian gospel, and  assisting in humanitarian aid projects, and holding occasional Christian conferences as well. | £15,333
-<strong>AFRICAN WELFARE ORGANISATION</strong> [Charity number: [1035387](https://findthatcharity.uk/orgid/GB-CHC-1035387)]<br>Advancement of children and adult education. Promotion of racial harmony. Preservation and protection of people's health, particularly the health of elderly people. Assisting the police to reduce crime. | £7,400
-<strong>CHESTER LIONS CLUB (CIO)</strong> [Charity number: [1201302](https://findthatcharity.uk/orgid/GB-CHC-1201302)]<br>General Charitable PurposesEducation/trainingThe Advancement Of Health Or Saving Of LivesDisabilityThe Prevention Or Relief Of PovertyOverseas Aid/famine ReliefArts/culture/heritage/scienceAmateur SportEnvironment/conservation/heritageEconomic/community Development/employment | £11,542
-<strong>MARGATE AMBULANCE CORPS</strong> [Charity number: [270595](https://findthatcharity.uk/orgid/GB-CHC-270595)]<br>Provision of First Aid Services by volunteer members in the Margate, Ramsgate and Broadstairs areas | £22,468
-<strong>THE WARWICKSHIRE AND COVENTRY HISTORIC CHURCHES TRUST</strong> [Charity number: [508352](https://findthatcharity.uk/orgid/GB-CHC-508352)]<br>To give grants for the preservation, repair, maintenance, improvement, beautification and reconstruction of churches in Coventry, Warwickshire and the West Midlands that are within the diocese of Coventry and of monuments, fittings fixtures, stained glass, furniture, ornaments, bells, clocks and chattels in such churches and  the churchyards belonging to any of such churches. | £9,600
-<strong>Aberdeen City First Responders</strong> [Charity number: [SC051147](https://findthatcharity.uk/orgid/GB-SC-SC051147)]<br>To provide pre-hospital emergency care on behalf of the Scottish Ambulance service in accordance with the First Responder callout system set out by the Scottish Ambulance Service. To also provide CPR awareness to schools and the local community. | £11,289
-<strong>OPERATION FLORENCE</strong> [Charity number: [1196409](https://findthatcharity.uk/orgid/GB-CHC-1196409)]<br>Emergency Medical Rescue, inclusive of Technical Rescue (Rope Rescue, Confined Spaces, Water Search and Rescue, Urban Search and Rescue (Medium)), Mutual Aid Training, Youth and Community Training and engagement. | £497
-<strong>KEEPING ABREAST</strong> [Charity number: [1129522](https://findthatcharity.uk/orgid/GB-CHC-1129522)]<br>Provide help and support to women who have been diagnosed with breast cancer and who are considering the possibility of a breast reconstruction following mastectomy. The Group also provides support to those who have recovered from breast cancer and are considering reconstruction some time later. The Charity holds regular Support Group meetings that are open to all patients. | £142,279
-<strong>THE SOHO HOUSE FOUNDATION</strong> [Charity number: [1199179](https://findthatcharity.uk/orgid/GB-CHC-1199179)]<br>The Soho House Foundation provides resources to fund and empower creative people from underrepresented and lower socioeconomic backgrounds. We run an international grant programme to support organisations working to help young people through creativity. We also work separately with selected partners in our local communities, and to aid disaster relief. | £168,470
-<strong>AL MUSTAFA WELFARE TRUST INTERNATIONAL LTD</strong> [Charity number: [1118492](https://findthatcharity.uk/orgid/GB-CHC-1118492)]<br>General charitable and religious educational activities throughout UK.Medical, aid, relief of poverty, famine relief and community development internationally. | £11,442,038
+<strong>EHSAAS TRUST</strong> [Charity number: [1144950](https://findthatcharity.uk/orgid/GB-CHC-1144950)]<br>To relieve poverty, distress and suffering amongst people in any part of the world [including starvation, sickness or any physical disability or affliction] primarily, but not exclusively, when arising from any public calamity [including famine, earthquake, pestilence, war or civil disturbance]. | £923,047
+<strong>Light Church</strong> [Charity number: [519135](https://findthatcharity.uk/orgid/GB-CHC-519135)]<br>A local caring programme to the isolated, infirmed or single parent, Toddler groups, youth, children and vulnerable adults clubs - working alongside other agencies in the town like the police, Youth & Community partnerships as well as schools. In Tanzania, we teach English to the Masai. | £177,690
+<strong>CHOOSE LOVE</strong> [Charity number: [1177927](https://findthatcharity.uk/orgid/GB-CHC-1177927)]<br>In both emergency disaster relief and protracted crises, Choose Love works to identify, close and prevent gaps in support displaced people around the world. We provide grants and other assistance to frontline partners along key migration routes and in countries experiencing conflict, persecution climate change and other drivers of forced displacement. | £12,593,084
+<strong>NORTH SHROPSHIRE COMMUNITY FIRST RESPONDERS</strong> [Charity number: [1136523](https://findthatcharity.uk/orgid/GB-CHC-1136523)]<br>Provision of life-saving and life-maintaining emergency volunteer service on behalf of West Midlands Ambulance Service, as despatched by WMAS in response to 999 calls made to WMAS Emergency Operations Centre. | £1,000
+<strong>Gen Moxie</strong> [Charity number: [1165829](https://findthatcharity.uk/orgid/GB-CHC-1165829)]<br>The Hope Collective aims to galvanise the innate kindness and compassion of people across the globe, to ?club together? with the sole intention of raising as much as possible to heal and nurture the spirit within each child and young adult in need; helping them to create a better life and future. The projects will be in developing countries, worn torn communities and areas of natural disaster. | £2,535
+<strong>Unity Together We Make A Difference SCIO</strong> [Charity number: [SC050118](https://findthatcharity.uk/orgid/GB-SC-SC050118)]<br>4. The organisation’s purposes are: 4.1 The prevention and relief of poverty by helping any suffering person to gain access to funds and grants or through the provision of financial assistance by ourselves 4.2 The advancement of citizenship or community development by holding classes, events and seminars structured to increase engagement and to help empower communities to overcome social, economic and environmental challenges. 4.3 The provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended by running various sports classes including but not limited to football, badminton, cricket, yoga and zumba  4.4 The relief of those in need by reason of age, ill-health, disability, financial hardship or other disadvantage by providing funds for the reconstruction of schools, places of worship and homes, by providing basic food provisions for the poor and those affected by natural disasters or war and the establishment of medical and rehabilitation clinics for victims of war, oppression and drug abuse. | £115,625
+<strong>CHRIST APOSTOLIC CHURCH HOUSE OF REFUGE</strong> [Charity number: [1079846](https://findthatcharity.uk/orgid/GB-CHC-1079846)]<br>1.Furtherance of Christianity and Christian Education; Providing Advocacy, advice and information.2.Reliefing poverty by working in co-operation with other charitable and christian organisation in a common effort to assist victims of war,disaster and other misfortunes.3. Helping general Public/Manking,;Elderly/Old people;Children/young people. | £167,194
+<strong>WANSTEAD HOUSE COMMUNITY ASSOCIATION</strong> [Charity number: [303190](https://findthatcharity.uk/orgid/GB-CHC-303190)]<br>Provision of adult education classes, family learning courses, clubs, groups, activities for junior, teenage and adult members of the local community together with functions, social events, fund raising and workshops.  Partnerships with local authority, education centre, community police, counselling groups, workskill workshops and other community groups. | £172,460
+<strong>MANGLIBAI HARIDAS KHIARA (UK) CHARITABLE TRUST</strong> [Charity number: [1129543](https://findthatcharity.uk/orgid/GB-CHC-1129543)]<br>Donations to smaller charities, more especially towards those which concentrate on poorer/developing countries dealing with famine, children, the infirm, the elderly, AIDS and AIDS related problems. | £52,946
+<strong>THE SUSSEX POLICE CHARITABLE TRUST</strong> [Charity number: [257564](https://findthatcharity.uk/orgid/GB-CHC-257564)]<br>The charity provides assistance and support to members and retired members, including their partners and dependent family, who are in need and/or hardship and/or distress. Membership is open to Sussex police officers, staff, special constables and volunteers. | £208,754

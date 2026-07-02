@@ -3,8 +3,8 @@
 Social care is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Social care](SC.md) category.
 
-3,617 charities have been tagged with this tag.
-This represents 1.78% of all charities.
+3,610 charities have been tagged with this tag.
+This represents 1.77% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 899 | 1.26%
-£10k - £100k | 968 | 1.38%
-£100k - £250k | 451 | 2.01%
-£250k - £500k | 326 | 2.95%
-£500k - £1m | 220 | 3.18%
-£1m - £10m | 483 | 5.27%
-Over £10m | 141 | 6.29%
-Total | 3,488 | 1.80%
+Under £10k | 894 | 1.25%
+£10k - £100k | 967 | 1.37%
+£100k - £250k | 450 | 2.01%
+£250k - £500k | 322 | 2.91%
+£500k - £1m | 220 | 3.16%
+£1m - £10m | 486 | 5.30%
+Over £10m | 140 | 6.23%
+Total | 3,479 | 1.80%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 3,023 | 1.76%
-oscr | 370 | 1.48%
-ccni | 224 | 3.21%
-Total | 3,617 | 1.78%
+ccew | 3,018 | 1.76%
+oscr | 368 | 1.48%
+ccni | 224 | 3.20%
+Total | 3,610 | 1.77%
 
 
 ## Ten largest charities (by income)
@@ -49,8 +49,8 @@ Name | Latest income
 <strong>METHODIST HOMES</strong> [Charity number: [1083995](https://findthatcharity.uk/orgid/GB-CHC-1083995)]<br>Methodist Homes is a charity providing care, accommodation and support services for older people throughout Britain.  We are one of the largest charitable care providers in the sector and amongst the largest charities in Britain, providing services to 15,000 older people for nearly 70 years. | £283,275,000
 <strong>Royal Mencap Society</strong> [Charity number: [SC041079](https://findthatcharity.uk/orgid/GB-SC-SC041079)]<br>‘The charity's objects ('Objects') are specifically restricted to advancing the health, education and the well-being of people with a learning disability and their families and carers (the beneficiaries) by providing, procuring or facilitating care, services and facilities and to advance equality and diversity for people with a learning disability.’ | £244,357,000
 <strong>ROYAL MENCAP SOCIETY</strong> [Charity number: [222377](https://findthatcharity.uk/orgid/GB-CHC-222377)]<br>Provide support and advice services for people with a learning disabilty including care and support, advocacy, housing, leisure and employment. We work to improve services, challenge prejudice and directly support people to live their lives as they choose. We offer support through our website, printed resources and helpline. Our regional advisers offer direct support by phone, email and in person. | £244,357,000
-<strong>THE SALVATION ARMY SOCIAL WORK TRUST</strong> [Charity number: [215174](https://findthatcharity.uk/orgid/GB-CHC-215174)]<br>The provision of supported accommodation for homeless people Older peoples housing and supportWork to help unemployed people back into workAnti-Human Trafficking workAddiction Support ServicesOutreach programmes and services to communitiesFamily tracing serviceFrontline assistance to emergency services personnel and people affected by disasters | £239,727,000
 <strong>Salvation Army Social Work Trust</strong> [Charity number: [SC037691](https://findthatcharity.uk/orgid/GB-SC-SC037691)]<br>' in promoting the charitable work of the Salvation Army in such one or more of the following ways as the General for the time being of the Salvation Army shall think fit namely : (1) relief of poverty sickness suffering distress incapacity or old age. (2) advancement of education. (3) training in Christian and moral principles. and (4) assistance of those in need of protection' | £239,727,000
+<strong>THE SALVATION ARMY SOCIAL WORK TRUST</strong> [Charity number: [215174](https://findthatcharity.uk/orgid/GB-CHC-215174)]<br>The provision of supported accommodation for homeless people Older peoples housing and supportWork to help unemployed people back into workAnti-Human Trafficking workAddiction Support ServicesOutreach programmes and services to communitiesFamily tracing serviceFrontline assistance to emergency services personnel and people affected by disasters | £239,727,000
 <strong>THE ORDERS OF ST JOHN CARE TRUST</strong> [Charity number: [1048355](https://findthatcharity.uk/orgid/GB-CHC-1048355)]<br>To provide care to older people through care homes specialising in residential, dementia and nursing care, together with intermediate and day care.Care in the community is also provided in hospitals, at home and through the provision of extra care housing. | £233,636,544
 <strong>COMMUNITY INTEGRATED CARE</strong> [Charity number: [519996](https://findthatcharity.uk/orgid/GB-CHC-519996)]<br>COMMUNITY INTEGRATED CARE WORK ACROSS THE WHOLE OF THE CARE SPECTRUM DELIVERING DIVERSE SUPPORT AND CARE SERVICES ACROSS ENGLAND AND SCOTLAND.  THE CHARITY PROVIDES SUPPORTED LIVING FOR PEOPLE WITH LEARNING OR PHYSICAL DIFFICULTIES AND/OR MENTAL HEALTH CONCERNS . | £197,363,000
 <strong>TURNING POINT</strong> [Charity number: [234887](https://findthatcharity.uk/orgid/GB-CHC-234887)]<br>Turning Point provides health and social care services for people with a learning disability and also people at risk of, or with a mental health diagnosis, mental health issues, drug or alcohol use, misuse or dependency or other addictive behaviours. | £192,496,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>FRIENDS OF THE BEACON</strong> [Charity number: [1024925](https://findthatcharity.uk/orgid/GB-CHC-1024925)]<br>Friends of the Beacon is the charitable body supporting the non NHS activities of the Beacon Centre in Guildford (part of Phyllis Tuckwell Hospice Care) a Palliative Day Care facility for persons suffering from cancer or other life changing/threatening illlness serving patients within the area covered by the Surrey PCT | £30,482
-<strong>AMAYA</strong> [Charity number: [1175763](https://findthatcharity.uk/orgid/GB-CHC-1175763)]<br>THE PURPOSE OF THE CHARITY IS TO RELIEF THE POVERTY OF PEOPLE IN WEST AFRICA, WHO ARE THE VICTIMS OF POVERTY BY SUPPLYING CLOTHING AND FOOTWEAR TO CHILDREN ORPHANAGES, REFUGEE CAMPS, WOMEN'S SHELTERS AND COMMUNITY SUPPORT ORGANISATIONS. | 
-<strong>SKEGNESS DAY CENTRE LIMITED</strong> [Charity number: [1097757](https://findthatcharity.uk/orgid/GB-CHC-1097757)]<br>PROVIDE DAY CARE FOR THE ELDERLY AND DISABLED, PROVIDE A DOOR-TO-DOOR SERVICE, COLLECTING CLIENTS TO AND FROM THEIR HOMES AND BRINGING THEM TO THE DAY CENTRE TO BENEFIT FROM THE FACILITIES OFFERED.  PROVIDING FACILITIES IN THE INTEREST OF SOCIAL WELFARE, OR RECREATION OR OTHER SOCIAL LEISURETIME ACTIVITIES, IMPROVING CONDITIONS OF LIFE FOR SUCH PERSONS. | £87,160
-<strong>CHRISTIAN ENTERPRISE FOUNDATION</strong> [Charity number: [294519](https://findthatcharity.uk/orgid/GB-CHC-294519)]<br>Until December 2013 the charity met its objectives by running Lakenheath Village Home residential care home for older people.The home closed in December 2013 and since then the charity supports schemes that will benefit the inhabitants of Lakenheath and the surrounding area by making grants to individuals,making grants to other organisations,providing other finance and other charitable activities. | £26,573
-<strong>THE GRACEWELL FOSTER TRUST</strong> [Charity number: [218796](https://findthatcharity.uk/orgid/GB-CHC-218796)]<br>PROVISION OF SHELTERED HOUSING FOR SINGLE LADIES OVER 55 YEARS OLD WITH LIMITED MEANS | £444,647
-<strong>OPPORTUNITIES R UN LIMITED</strong> [Charity number: [1162465](https://findthatcharity.uk/orgid/GB-CHC-1162465)]<br>The main activity of the charity is the promotion of social inclusion for the public benefit by preventing adults with learning difficulties and/or additional needs including mental health from becoming socially excluded from society, relieving their needs and helping them to integrate in to society.  We work with a variety of day and home care providers to offer opportunities every day.. | £38,125
-<strong>FABRIC FOUNDATION LTD</strong> [Charity number: [1168833](https://findthatcharity.uk/orgid/GB-CHC-1168833)]<br>Our aims are to advance the life and relieve the need of young people who are looked after children, care leavers, care experienced, homeless and asylum seekers through providing; activities, experiences and training, addressing accommodation issues- including the provision of accommodation and support, campaigning for positive change and addressing issues that impact all of these young people. | £40,054
-<strong>REVITALISE RESPITE HOLIDAYS</strong> [Charity number: [295072](https://findthatcharity.uk/orgid/GB-CHC-295072)]<br>ESSENTIAL SERVICES FOR DISABLED PEOPLE AND THEIR CARERS | £8,284,000
-<strong>CAMEO</strong> [Charity number: [1053528](https://findthatcharity.uk/orgid/GB-CHC-1053528)]<br>CAMEO provides respite for the carers of people with dementia in the Borough of Spelthorne. It does this by providing, at its day centres, a weekly programme of activities for sufferers of dementia. | £219,847
-<strong>ROMANIAN CRESTIN TRUST</strong> [Charity number: [1062964](https://findthatcharity.uk/orgid/GB-CHC-1062964)]<br>The trust works in three areas; 1) providing funding to poor families to relieve suffering and the effects of poverty in Barlad 2) provide funding to UK charity (RAKE 1055378) who fund a house for five young adults with learning difficulties known as the House of Roses in Barlad Romania 3) provide funding to Romanian NGO (Asociata Myosotis Romania) who run a day centre  Casa Esme in Barlad Romania | £13,526
+<strong>FRIENDS OF CHERNOBYL'S CHILDREN (WEST LEICESTERSHIRE)</strong> [Charity number: [1142034](https://findthatcharity.uk/orgid/GB-CHC-1142034)]<br>The charity is dedicated to providing 4-week respite breaks in Leicestershire for children affected by the Chernobyl nuclear disaster. Our aim is to bring each child to the UK for 5 consecutive years in the belief that this brings cumulative health benefits and enables them to live fuller and healthier lives. Each child is placed with a volunteer host family during their stay in the UK. | £539
+<strong>WELLDON ACTIVITY GROUP</strong> [Charity number: [1091034](https://findthatcharity.uk/orgid/GB-CHC-1091034)]<br>The charity is a day care centre (Mon-Friday) for adults with physical or learning disabilities. | £25,668
+<strong>TYNDALE CIRCLE DAY CENTRE</strong> [Charity number: [1092159](https://findthatcharity.uk/orgid/GB-CHC-1092159)]<br>A Day Centre, every Thursday, for those suffering from memory loss and who are not in full-time residential care.The aim is to provide a stimulting day in a safe and happy environment. The day, from 10.00am to 2.30pm includes a wide range of activities to connect with different abilities. | £13,657
+<strong>HEALTHWATCH CENTRAL BEDFORDSHIRE</strong> [Charity number: [1154627](https://findthatcharity.uk/orgid/GB-CHC-1154627)]<br>Healthwatch Central Bedfordshire is the local consumer champion promoting choice and influencing the provision of high quality health, social care and wellbeing services for all across Central Bedfordshire.We engage and consult with all sections of the local population so that a wide cross section of views are heard, understood and acted upon. | £242,927
+<strong>Church of Impact</strong> [Charity number: [1143124](https://findthatcharity.uk/orgid/GB-CHC-1143124)]<br>A Pentecostal Church in fellowship with Assemblies of God GB & NI which promotes the advancement of the Christian faith. Providing Regular services of Christian worship, pastoral support and study groups. Serving the community by operating a Domiciliary Care Agency (Greenbank Care) and day-care services for adults with learning difficulties (IMPACT). Supporting missionaries at home and overseas | £485,636
+<strong>AGE CONCERN BEDFORDSHIRE</strong> [Charity number: [1090535](https://findthatcharity.uk/orgid/GB-CHC-1090535)]<br>We provide services to adults over the age of 50 years and their family or carers to make informed choices on benefits and enabling services. Our services include information & advice, befriending & carers respite. Practical help in the home is provided if a client is unable to carry out these tasks for themselves due to ill health or age.We work across the whole of Bedfordshire and Luton. | £1,944,361
+<strong>UNIQUEABILITIES SEND GROUP</strong> [Charity number: [1213936](https://findthatcharity.uk/orgid/GB-CHC-1213936)]<br>We provide monthly sensory sessions in a community centre which includes messy play, crafts and refreshments,  parent and carer support groups to provide practical advice, guidance and reassurance. We also provide fun days out which includes the likes of gymnastic facilities, farm visits, theme parks, museums and soft play | 
+<strong>Direct Link</strong> [Charity number: [SC020111](https://findthatcharity.uk/orgid/GB-SC-SC020111)]<br>To foster good relations between Scotland and Kenya   To raise funds to be transferred to Kenya for the use of schools, orphanages. children and needy   To collect or to purchase and despatch educational equipment, books, etc. for use in schools and   To establish links between teachers and students in Scotland and Kenya and to encourage exchange   between the two countries and to do all things as will properly attain   the above purposes.    The purposes and objects set out in this clause   are hereinafter called 'the purposes of the  Trust' | £18,089
+<strong>HEREFORDSHIRE VOLUNTARY ORGANISATIONS SUPPORT SERVICE</strong> [Charity number: [1096451](https://findthatcharity.uk/orgid/GB-CHC-1096451)]<br>To build the capacity of third sector organisations and provide them with support, information and services including: -Advancement of community health and social care and activities for young people aged 8 to 25. Activities include volunteering services, capacity building, training, networking events and information, interest groups, policy research, Community Wheels and representational work | £618,700
+<strong>CHILDREN PROMOTION SOCIETY ORPHANAGE NEPAL</strong> [Charity number: [1137324](https://findthatcharity.uk/orgid/GB-CHC-1137324)]<br>CPS Orphanage aims to provide orphaned children in Kathmandu, Nepal with a warm and loving environment, a good education and the necessary support when they move onto adult life. The charity was established to provide the funding to enable the Orphanage to achieve its goals. CPS is totally reliant on donations and monies raised via fundraising events. | £21,736
