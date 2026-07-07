@@ -3,8 +3,8 @@
 Charity and VCS support is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charity and VCS support](CV.md) category.
 
-33,534 charities have been tagged with this tag.
-This represents 16.48% of all charities.
+33,519 charities have been tagged with this tag.
+This represents 16.47% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 12,825 | 17.99%
-£10k - £100k | 12,407 | 17.62%
-£100k - £250k | 3,076 | 13.72%
-£250k - £500k | 1,516 | 13.70%
-£1m - £10m | 1,176 | 12.81%
-£500k - £1m | 890 | 12.78%
-Over £10m | 262 | 11.66%
-Total | 32,152 | 16.61%
+Under £10k | 12,812 | 17.99%
+£10k - £100k | 12,406 | 17.62%
+£100k - £250k | 3,078 | 13.72%
+£250k - £500k | 1,514 | 13.68%
+£1m - £10m | 1,178 | 12.83%
+£500k - £1m | 892 | 12.80%
+Over £10m | 262 | 11.65%
+Total | 32,142 | 16.61%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 28,813 | 16.80%
-oscr | 2,944 | 11.80%
-ccni | 1,777 | 25.41%
-Total | 33,534 | 16.48%
+ccew | 28,798 | 16.78%
+oscr | 2,945 | 11.81%
+ccni | 1,776 | 25.40%
+Total | 33,519 | 16.47%
 
 
 ## Ten largest charities (by income)
@@ -49,24 +49,24 @@ Name | Latest income
 <strong>THE BRITISH RED CROSS SOCIETY</strong> [Charity number: [220949](https://findthatcharity.uk/orgid/GB-CHC-220949)]<br>The British Red Cross helps people in crisis, whoever and wherever they are.  We are part of a global network of volunteers, responding to natural disasters, conflicts and individual emergencies.We enable vulnerable people at home and overseas to prepare for and respond to emergencies in their own communities.  And when the crisis is over, we help people to recover and move on with their lives. | £287,100,000
 <strong>METHODIST HOMES</strong> [Charity number: [1083995](https://findthatcharity.uk/orgid/GB-CHC-1083995)]<br>Methodist Homes is a charity providing care, accommodation and support services for older people throughout Britain.  We are one of the largest charitable care providers in the sector and amongst the largest charities in Britain, providing services to 15,000 older people for nearly 70 years. | £283,275,000
 <strong>National Philanthropic Trust UK Limited</strong> [Charity number: [1181128](https://findthatcharity.uk/orgid/GB-CHC-1181128)]<br>The Charity raises funds from a range of donors and makes grants to such exclusively charitable projects as the trustees may determine, both in the UK and abroad. | £225,406,809
-<strong>LIFEARC</strong> [Charity number: [1015243](https://findthatcharity.uk/orgid/GB-CHC-1015243)]<br>SIC Code: 72110 - Research and experimental development on biotechnology1. Performing our own research in order to progress technologies and treatments for the benefit of human health.2. Work with universities, charities, public bodies and industry to accelerate the progression of  biomedical discoveries to develop new treatments or therapeutics for the medical profession and public. | £205,043,000
 <strong>LifeArc</strong> [Charity number: [SC037861](https://findthatcharity.uk/orgid/GB-SC-SC037861)]<br>To promote the public benefit by improving human health and medical research in particular by assisting the progress of the scientific discoveries and new technologies arising from research into therapeutic treatments, drugs, diagnostics, other technologies or information resources.  To work with industry, charities, universities, the health service and other relevant bodies as well as conducting its own research and development as needed to accelerate the progress of these discoveries and technologies to the stage at which they are (i) capable of being made generally available to the medical profession and the public for practical application for the improvement of health and/or (ii) are transferred or licensed to a third party to progress development of such discoveries or technologies towards such goals | £205,043,000
+<strong>LIFEARC</strong> [Charity number: [1015243](https://findthatcharity.uk/orgid/GB-CHC-1015243)]<br>SIC Code: 72110 - Research and experimental development on biotechnology1. Performing our own research in order to progress technologies and treatments for the benefit of human health.2. Work with universities, charities, public bodies and industry to accelerate the progression of  biomedical discoveries to develop new treatments or therapeutics for the medical profession and public. | £205,043,000
 <strong>UBS UK Donor-Advised Foundation</strong> [Charity number: [1153551](https://findthatcharity.uk/orgid/GB-CHC-1153551)]<br>MAKING GRANTS TO UK CHARITIES | £181,245,000
+<strong>THE ROYAL BRITISH LEGION</strong> [Charity number: [219279](https://findthatcharity.uk/orgid/GB-CHC-219279)]<br>To safeguard the welfare, interests and memory of those who are serving or who have served in the Armed Forces. One of the largest membership organisations in the UK, recognised as the custodians of Remembrance and also run the annual Poppy Appeal. | £168,476,000
 <strong>General Medical Council</strong> [Charity number: [SC037750](https://findthatcharity.uk/orgid/GB-SC-SC037750)]<br>The main objective of the General Council in exercising their function is to protect promote and maintain the health and safety of the public. Section 1A Medical Act 1983 (as amended) The commissioners concluded that the GMC is a charity and accordingly is registrable with the Commission pursuant to section 3(2) of the Charities Act 1993. | £167,543,346
-<strong>UK ONLINE GIVING FOUNDATION</strong> [Charity number: [1164887](https://findthatcharity.uk/orgid/GB-CHC-1164887)]<br>Our objective is to promote the effectiveness and efficiency of the charity sector by maximising donor contributions to eligible charities, through a Donor Advised Fund.  By operating with minimal administrative overheads, we can make it easier and more efficient for a broad demographic of donors to give, and worthy organisations to receive donations. | £166,341,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>Clare Congregation of the Presbyterian Church in Ireland</strong> [Charity number: [NI104955](https://findthatcharity.uk/orgid/GB-NIC-104955)]<br>Hold services of worship and other religious activities. These, and all that follows, are open to anyone of appropriate age and/or gender to access, without regard to whether they are members of our congregation. Through prayer, support our members, our own Church, other Christian Churches, the community and leaders in society and government. Organise meetings and events that promote our charitable purpose. Participate in the life of the local community. Participate in and support what the Presbyterian Church in Ireland and the supervising Presbytery does. Support other secular and Christian organisations and charities through volunteering, financial gifts and prayer. | £181,829
-<strong>THE EMERGENCY RESPONSE TEAM SEARCH AND RESCUE UK</strong> [Charity number: [1196312](https://findthatcharity.uk/orgid/GB-CHC-1196312)]<br>We were established to provide relief and assistance of people in the UK or any part of the world who are the victims of war or natural disaster, trouble, or catastrophe in particular by the supply of medical aid or search & rescue service to such persons. We provide training and education to support and that build capacity and resilience. We are also the umbrella body to other organisations. | 
-<strong>SEDGEFIELD PRIMARY SCHOOL PTFA</strong> [Charity number: [1100765](https://findthatcharity.uk/orgid/GB-CHC-1100765)]<br>Build social bonds between parents, family and teachers. Organise activities to raise funds for resources or experiences which enhance the education and experience of the pupils at the school. | £12,424
-<strong>THE MOOSE INTERNATIONAL WELFARE SERVICE FUND</strong> [Charity number: [1153351](https://findthatcharity.uk/orgid/GB-CHC-1153351)]<br>The Charitable Trusts are set out in the Foundation Constitution, and its objects are to provide charitable donations to the funds of the Order and to outside charities as determined by the Charity Trustees.  These objects have been achieved by the making of charity dispositions and providing benefits for widows, widowers and others entitled under the terms of the Foundation Constitution. | £150,186
-<strong>BRIGHT FUTURE ORGANISATION LIMITED</strong> [Charity number: [1114671](https://findthatcharity.uk/orgid/GB-CHC-1114671)]<br>Bright Future Organisation enables Principal Carers to take a break or rest by the provision of FREE Support, Relief or Respite Services to the local Communities, especially vulnerable persons by offering Outreach Volunteers or Volunteer Carers.Duties Volunteers perform are:-Companionship Cooking Meals Shopping Light Domestic duties Children Taking children to and from School | £39,163
-<strong>THE HOWBERRY CHARITABLE TRUST</strong> [Charity number: [1080177](https://findthatcharity.uk/orgid/GB-CHC-1080177)]<br>The Trustees support a wide variety of UK and worldwide charitable causes.  In furtherance of the objects, the Trustees continue to make a substantial number of grants to charitable organisations both on a one off and recurring basis. | £35,398
-<strong>FRIENDS OF ST MARY THE VIRGIN, HAYES.</strong> [Charity number: [1028574](https://findthatcharity.uk/orgid/GB-CHC-1028574)]<br>The charity exists to raise funds to repair/maintain/upkeep of the 2* listed church St Mary the Virgin Hayes middlesex | £13,117
-<strong>FERNDOWN GOLF CLUB CHARITY CIO</strong> [Charity number: [1200248](https://findthatcharity.uk/orgid/GB-CHC-1200248)]<br>The principal activity of the charity will aim to raise funds from an annual golf day and related events, including sponsorship and donations. These funds will then be used to provide relief to children and young people, within the area of Dorset and surrounding  counties, who are suffering from physical or learning disabilities, in line with the Charity's objective. | £70,877
-<strong>POOR'S ESTATE</strong> [Charity number: [200640](https://findthatcharity.uk/orgid/GB-CHC-200640)]<br>To provide financial grants within its objects to other charities and organisations. | £51,625
-<strong>THE MEN'S HEALTH FORUM</strong> [Charity number: [1087375](https://findthatcharity.uk/orgid/GB-CHC-1087375)]<br>The Men's Health Forum's mission is to improve the health of men and boys in England, Wales and Scotland. To this end, we carry out research, raise awareness, work to change health policy, share and encourage the latest good practice, work with other charities and provide health information and advice to men through our website, our online chat services, Men's Health Week and our Man Manuals. | £74,008
+<strong>SOUTH FARNHAM SCHOOL TRUST</strong> [Charity number: [802541](https://findthatcharity.uk/orgid/GB-CHC-802541)]<br>Fundraising to enable the trust to provide or assist in the provision of equipment and facilities for South Farnham School. | £415,402
+<strong>SOUTH FARNHAM SCHOOL PARENTS AND FRIENDS ASSOCIATION</strong> [Charity number: [1028238](https://findthatcharity.uk/orgid/GB-CHC-1028238)]<br>Various fund raising activities to support South Farnham School | £46,601
+<strong>SOUTHGATE FAMILY CHURCH</strong> [Charity number: [1133003](https://findthatcharity.uk/orgid/GB-CHC-1133003)]<br>WE HOLD: REGULAR SERVICES FOR CHRISTIAN WORSHIP IN THE 3-ESTATES OF KINGS NORTON.A DEBT RELIEF CENTRE WORKING IN PARTNERSHIP WITH CAP (CHRISTIANS AGAINST POVERTY). THERE ARE ALSO NUMEROUS SEASONAL ACTIVITIES, INCLUDING: CAMPING, OUTWARD BOUND ACTIVITIES, COMMUNITY BBQ'S AND CAROL SERVICE, THESE EVENTS INVOLVE HUNDREDS OF LOCAL RESIDENTS AND MOBILISE MANY VOLUNTEERS (100+). | £83,049
+<strong>THE TOP CHARITY LIMITED</strong> [Charity number: [1155742](https://findthatcharity.uk/orgid/GB-CHC-1155742)]<br>The charity is reliant on voluntary donations from members of Top Online Partners Group Limited. These donations are paid over to the charity chosen by the members. The charity has also adopted Shropshire,Staffordshire & Cheshire Blood Bikes as its main charity for a period of no less than 12 months. Various fund raising events are organised throughout this period and donations collected are paid. | £172,234
+<strong>FRIENDS OF MARCH RAILWAY STATION (FOMRS)</strong> [Charity number: [1172812](https://findthatcharity.uk/orgid/GB-CHC-1172812)]<br>The  Friends  Of  March  Railway  Station  (FOMRS)  is  a  group  of  community  volunteers who wish  to  make  the  station  a  vibrant  and  attractive  place  to  visit  and  use,  both for  the  those  using  the  railways  and  for  the  community.The  group  also  sets out to  preserve  the  heritage  of  March  Station and  the  History  of  the  Railways  influence in the community. | £6,451
+<strong>THE KERRY GREEN TRUST</strong> [Charity number: [1080831](https://findthatcharity.uk/orgid/GB-CHC-1080831)]<br>TO GRANT WISHES TO ISLAND CHILDREN WITH LIFE THREATENING OR TERMINAL ILLNESS , BY MEANS OF FUND RAISING, DONATIONS. | £3,441
+<strong>THE ROSENBERG MEMORIAL FUND</strong> [Charity number: [1161777](https://findthatcharity.uk/orgid/GB-CHC-1161777)]<br>Donations to various registered charities for the benefit of students studying in the fields of medicine, architecture and the applied arts and general charitable purposes for the advancement of health or saving lives, education and training. | £48,827
+<strong>BOSMERE COUNTY JUNIOR SCHOOL PARENT TEACHER ASSOCIATION</strong> [Charity number: [1073605](https://findthatcharity.uk/orgid/GB-CHC-1073605)]<br>Fund raising to support the activities of the school, organising events for the school. | £14,834
+<strong>THE SKINNERS' SCHOOL PARENTS' ASSOCIATION</strong> [Charity number: [1103916](https://findthatcharity.uk/orgid/GB-CHC-1103916)]<br>Various fundraising events to provide facilities for the school | £45,253
+<strong>PTA RODBOURNE CHENEY PRIMARY SCHOOL</strong> [Charity number: [1171299](https://findthatcharity.uk/orgid/GB-CHC-1171299)]<br>We run events to raise money to put back into the school. | £5,522

@@ -3,7 +3,7 @@
 Associations is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Associations](AS.md) category.
 
-46,095 charities have been tagged with this tag.
+46,091 charities have been tagged with this tag.
 This represents 22.65% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 19,030 | 26.70%
-£10k - £100k | 19,186 | 27.25%
-£100k - £250k | 3,188 | 14.22%
-£250k - £500k | 1,336 | 12.07%
-£500k - £1m | 715 | 10.27%
+Under £10k | 19,015 | 26.70%
+£10k - £100k | 19,187 | 27.25%
+£100k - £250k | 3,187 | 14.21%
+£250k - £500k | 1,334 | 12.05%
+£500k - £1m | 716 | 10.28%
 £1m - £10m | 807 | 8.79%
-Over £10m | 185 | 8.23%
-Total | 44,447 | 22.96%
+Over £10m | 184 | 8.18%
+Total | 44,430 | 22.96%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,016 | 22.16%
-oscr | 5,816 | 23.32%
-ccni | 2,263 | 32.36%
-Total | 46,095 | 22.65%
+ccew | 38,015 | 22.16%
+oscr | 5,815 | 23.31%
+ccni | 2,261 | 32.34%
+Total | 46,091 | 22.65%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>GELLIGAER AND DISTRICT WELFARE ASSOCIATION</strong> [Charity number: [218819](https://findthatcharity.uk/orgid/GB-CHC-218819)]<br>provision of sporting facilities and public open space for use by the local community | £50
-<strong>2ND EXETER (ST MICHAEL'S) SCOUT GROUP</strong> [Charity number: [301212](https://findthatcharity.uk/orgid/GB-CHC-301212)]<br>Providing scouting activities to young people aged 6 to 14 years. We have groups of Beaver Scouts, Cub Scouts and Scouts.The 2nd Exeter Scout Group is affiliated to a national organisation, the Scout Association, although the Group is locally led and locally run by volunteers. All fundraising has to be found locally. For more info please see www.scouts.org.uk. | £43,048
-<strong>THE WAYZ</strong> [Charity number: [1181340](https://findthatcharity.uk/orgid/GB-CHC-1181340)]<br>The Wayz is a safe place for young people to attend; catering for a wide variety of young people 8-25yr olds. Creating the opportunity to try new things they are  part of a journey  which is designed to develop each young person in regards to their own needs and aspirations. supports young people gain the confidence and understanding when dealing with current issues and challenges in their lives. | £169,018
-<strong>TRURO LIONS CLUB</strong> [Charity number: [1179688](https://findthatcharity.uk/orgid/GB-CHC-1179688)]<br>Lions Club of Truro provides financial and service support to individuals and other charitable organisations in the Truro area. The Club donates to Lions International to help with emergency and disaster appeals. Funds are acquired through  regular book sales,  annual Crystal golf competition.  Christmas & Easter raffles We provide personnel to support other Charities fund raising activities | £27,966
-<strong>THE INCLUDE PROJECT</strong> [Charity number: [1177785](https://findthatcharity.uk/orgid/GB-CHC-1177785)]<br>Include.org provides creative community activities, training and consultancy  to make the world more welcoming for people with understanding or speaking difficulties. We empower people with communication needs to help train inclusive communication partners within The Include Choir. We teach a range of evidence-based techniques to help others include people with communication needs. | £170,011
-<strong>WEST HILL PRIMARY SCHOOL PARENTS, TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1041234](https://findthatcharity.uk/orgid/GB-CHC-1041234)]<br>The main activity of the charity is to raise funds to support and advance the education of the pupils of West Hill Primary School (EX11 1UQ). The main events are a village fete in June and a winter ball in November. | £18,304
-<strong>LONDON TITANS WHEELCHAIR BASKETBALL CLUB</strong> [Charity number: [299497](https://findthatcharity.uk/orgid/GB-CHC-299497)]<br>To operate a wheelchair basketball club providing disabled and able bodied people to opportunity to play the sport at whatever level they want to, ranging from recreational up to National and International standards.  To promote  fitness and competitiveness whilst taking part in league matches representing the club.  To provide a sociable and friendly atmosphere where all are welcome. | £64,934
-<strong>MEVAGISSEY ROWING CLUB</strong> [Charity number: [1209711](https://findthatcharity.uk/orgid/GB-CHC-1209711)]<br>TO PROMOTE COMMUNITY PARTICIPATION IN HEALTHY RECREATION BY PROVIDING FACILITIES FOR THE PARTICIPATION IN PILOT GIG ROWING BENEFITING PEOPLE OF ALL AGES AND ABILITIES RESIDING IN AND AROUND MEVAGISSEY AS WELL AS THE WIDER PUBLIC RESIDING IN THE COUNTY OF CORNWALL . 'FACILITIES' MEANS: EQUIPMENT AND ORGANISING SPORTING ACTIVITIES. | 
-<strong>FORGET-ME-NOT BUDDIES (TAMESIDE)</strong> [Charity number: [1183245](https://findthatcharity.uk/orgid/GB-CHC-1183245)]<br>Forget-Me-Not Buddies is a group run by Carers and Volunteers that specifically offers subsidised social activities and interaction for persons living with Dementia and their Carers.  It offers support from people who have walked the full path of the Dementia journey, from diagnosis to beyond demise of the diagnosed.  The group is based in Tameside and accepts members from surrounding areas. | £34,133
-<strong>Girlguiding North Antrim</strong> [Charity number: [NI103930](https://findthatcharity.uk/orgid/GB-NIC-103930)]<br>Organisation’s Activities Girlguiding believes in the value of learning by doing. This is put into practice through a Method with five interlinking elements, known as the Five Essentials of guiding: • working together in small groups • encouraging self-government and decision making • a balanced and varied programme • caring for the individual • sharing a commitment to a common standard The Guiding Method is delivered to young members grouped by age into four sections: Rainbow Guides, Brownie Guides, Guides and members of The Senior Section. Its principles apply to all members, including adults. | £1,624
+<strong>Friends of Biggar & Upper Clydesale Museum</strong> [Charity number: [SC019323](https://findthatcharity.uk/orgid/GB-SC-SC019323)]<br>The object of the Friends shall be the education of the public concerning the Biggar Museums by promotion, support, assistance and improvement of the BIGGAR MUSEUM TRUST through the activities of a group of Friends. | £8,462
+<strong>ILMINSTER YOUNG FARMERS' CLUB</strong> [Charity number: [274568](https://findthatcharity.uk/orgid/GB-CHC-274568)]<br>A rural Youth movement for young people aged 10-26yrs.  Members can gain confidence and recognised Skills in Public Speaking, Sports Competitions, Drama and Entertainments, Stockjudging and Cattle Showing, Duke of Edingburgh and Meetings & Social Events. | £13,126
+<strong>LUTON SOUTH DIVISION GUIDE ASSOCIATION</strong> [Charity number: [300471](https://findthatcharity.uk/orgid/GB-CHC-300471)]<br>Offer activities for girls and women under Girlguiding UK | £25,680
+<strong>ST CLEMENTS HILL PRIMARY ACADEMY PARENT AND TEACHER ASSOCIATION</strong> [Charity number: [1191590](https://findthatcharity.uk/orgid/GB-CHC-1191590)]<br>The object of the association is to advance the education of pupils at the school in particular by - developing effective relationships between the staff parents and others associated with the school, engaging in activities or providing facilities or equipment which support the school and advance the education of the pupils | £2,301
+<strong>Parents Staff and Friends of Coton Church of England (VC) Primary School</strong> [Charity number: [1096055](https://findthatcharity.uk/orgid/GB-CHC-1096055)]<br>The association seeks to raise funds on behalf of the school, to advance the education and development of the pupils at Coton C of E Primary School.Proceeds of the fund raising will be used to purchase new facilities and equipment, and to maintain and refurbish existing equipment, as determined by the PTA committee, to meet the objectives of the Association. | £16,630
+<strong>Demonstration of Holy Ghost and Power Ministry</strong> [Charity number: [SC042574](https://findthatcharity.uk/orgid/GB-SC-SC042574)]<br>Our purpose is to glorify God by conducting a Holy Ghost guided church in accordance with the Word of God, promoting the worship of our God, administering the ordinances and Biblical discipline, seeking to win the lost to Christ through personal witnessing and the preaching of the gospel, carrying on evangelistic programs around the world, establishing other churches, defending the faith, and maintaining a good testimony for Christ in our community by godliness and good works. We aim for the church to walk in Love and to help humanity. | £20,465
+<strong>THE HILLSIDE AND ROKEBY COMMUNITY ASSOCIATION</strong> [Charity number: [513198](https://findthatcharity.uk/orgid/GB-CHC-513198)]<br>The profile of the association needs to be raised to attract more people to fund raising events. The community lunches continue to be  successful. We need more people on the committee and residents are urged to join.  The Chairman thanked the Committee for their commitment and their supporting efforts. | £60
+<strong>LINCOLNSHIRE NORTH FEDERATION OF WOMENS INSTITUTES</strong> [Charity number: [1015949](https://findthatcharity.uk/orgid/GB-CHC-1015949)]<br>To improve the quality of life for women and their families, through lifelong learning. To advance the education of women relating to citizenship and public issues at local, national and international level.    Offer a wide range of learning opportunities and encourage members to adopt healthier and sustainable life styles by supporting leisure activities, the sciences and combined arts. | £89,235
+<strong>Ashwoods Christian Fellowship</strong> [Charity number: [NI102784](https://findthatcharity.uk/orgid/GB-NIC-102784)]<br>The Association is established to advance Christianity, relieve poverty, sickness and distress, among people in Northern Ireland primarily, but also in India and any other part of the world and in particular: (a) to promote Christianity, by preaching the Gospel and by holding prayer meetings and religious services for public worship; (b) to relief of persons in need as a result of poverty, famine, war or other disaster, natural or otherwise in any part of the World; (c) to provide support and financial aid to such other charitable institutions and/ or charitable purposes as may from time to time be determined in accordance with the law of charity. | £1,381
+<strong>WAREHAM AND PURBECK YOUNG FARMERS CLUB</strong> [Charity number: [1029374](https://findthatcharity.uk/orgid/GB-CHC-1029374)]<br>youth club for members aged between 10 and 28 years, including farming activities and sportsevents between other yfc's | £1,778

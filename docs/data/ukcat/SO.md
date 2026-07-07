@@ -3,7 +3,7 @@
 Society is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Society](SO.md) category.
 
-7,987 charities have been tagged with this tag.
+7,989 charities have been tagged with this tag.
 This represents 3.93% of all charities.
 
 ## Keywords to find charities
@@ -20,14 +20,14 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 3,366 | 4.72%
-£10k - £100k | 2,009 | 2.85%
-£100k - £250k | 816 | 3.64%
-£250k - £500k | 457 | 4.13%
+Under £10k | 3,361 | 4.72%
+£10k - £100k | 2,012 | 2.86%
+£100k - £250k | 818 | 3.65%
+£250k - £500k | 459 | 4.15%
 £1m - £10m | 371 | 4.04%
-£500k - £1m | 286 | 4.11%
-Over £10m | 99 | 4.41%
-Total | 7,404 | 3.83%
+£500k - £1m | 285 | 4.09%
+Over £10m | 99 | 4.40%
+Total | 7,405 | 3.83%
 
 
 ## Distribution by charity regulator
@@ -36,8 +36,8 @@ Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 ccew | 2,692 | 1.57%
 ccni | 247 | 3.53%
-oscr | 5,048 | 20.24%
-Total | 7,987 | 3.93%
+oscr | 5,050 | 20.25%
+Total | 7,989 | 3.93%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>READ FOR GOOD</strong> [Charity number: [1130309](https://findthatcharity.uk/orgid/GB-CHC-1130309)]<br>Read for Good's aim is the advancement of education of children and young people in the UK, by the promotion of reading for pleasure and associated literacy skills; and the advancement of citizenship, and the provision of relief to disadvantaged children and young people in the UK. | £1,479,090
-<strong>Friends of The Meadows and Bruntsfield Links</strong> [Charity number: [SC045955](https://findthatcharity.uk/orgid/GB-SC-SC045955)]<br>The organisation's purposes are:  4.1 Advancement of Arts, Heritage, Culture or Science to promote the historical value of the area, its scenic, architectural, landscape and ecological qualities for the enjoyment of people living and visiting the area.  4.2 Advancement of Environmental Protection or Improvement  To encourage conservation, protect, enhance and improve the landscape, biodiversity and sustainable use for the benefit of people and wildlife.  4.3 Advancement of Citizenship or Community Development  To engage and involve local community in environmental issues and action connected to 4.2 above, through information exchange, educational and practical activities  | £6,504
-<strong>About Youth</strong> [Charity number: [SC046776](https://findthatcharity.uk/orgid/GB-SC-SC046776)]<br>The organisation’s purposes are: 4.1 To advance the citizenship, education and wellbeing of young people by. 4.1.1 Providing youth specific advice, information and support and. 4.1.2 Providing activities to develop skills, capacities and capabilities 4.1.3 By delivering programmes of informal and community education 4.2 To relieve and alleviate the effects of disadvantage for young people in economic/financial hardship by delivering projects and services which provide guidance and support to move people into positive destinations. 4.3 To provide recreational activities supporting young people’s learning, well-being and development via the delivery of weekly open access youth services for young people.  | £134,925
-<strong>DARUL YATAMA BHARUCH CHARITY UK</strong> [Charity number: [1216352](https://findthatcharity.uk/orgid/GB-CHC-1216352)]<br>(1)THE PREVENTION OR RELIEF OF POVERTY PRIMARILY IN INDIA, BY MEANS OF, BUT NOT EXCLUSIVELY, MAKING GRANTS FOR ITEMS, EQUIPMENT, SERVICES AND FACILITIES, INCLUDING THE PROVISION OF FOOD, CLOTHING, OTHER BASIC NECESSITIES, AND COSTS FOR MEDICAL TREATMENT FOR THE BENEFIT OF THE SAID PERSONS;(2)TO ADVANCE EDUCATION FOR THE BENEFIT OF THE GENERAL PUBLIC BY MEANS OF, BUT NOT EXCLUSIVELY, THE PROVISION OR THE ASSISTANCE IN THE PROVISION OF EDUCATIONAL ACTIVITIES AND FACILITIES, SUCH AS SCHOOLS;(3)TO ADVANCE THE RELIGION OF ISLAM BY MEANS OF, BUT MEANS OF BUT NOT EXCLUSIVELY, THE ASSISTANCE IN THE PROVISION OF FACILITIES FOR ISLAMIC EDUCATION IN ACCORDANCE WITH THE TEACHINGS OF THE QURAN AND THE TEACHINGS OF THE PROPHET MUHAMMAD (PEACE BE UPON HIM), AS INTERPRETED AND ACCEPTED BY THE AHLE-SUNNAH WAL-JAMAA-AH HANAFI DEOBANDI SCHOOL OF THOUGHT. | 
-<strong>HISTORICAL MEMORY TRUST</strong> [Charity number: [1185792](https://findthatcharity.uk/orgid/GB-CHC-1185792)]<br>To promote human rights (as set out in the Universal Declaration of Human Rights andsubsequent United Nations conventions and declarations) in Central and EasternEuropean countries that are members of the European Union by providing grant fundingfor all or any of the following: Research into human rights issues; Educating the public; Raising awareness on human rights issues. | 
-<strong>WORD OF LIFE CELEBRATIONS CENTRE</strong> [Charity number: [1168912](https://findthatcharity.uk/orgid/GB-CHC-1168912)]<br>General Charitable Purposes,Education/training,The Prevention Or Relief Of Poverty,Food bankReligious Activities.Economic/community Development/employment,Human Rights/religious Or Racial Harmony/equality Or Diversity.Recreation,Arts/culture/heritage/science,Other Charitable Purposes.Who:Children/young People,Elderly/old people.People With Disabilities | £38,454
-<strong>Duntocher Village Hall</strong> [Charity number: [SC043724](https://findthatcharity.uk/orgid/GB-SC-SC043724)]<br>The aim of this association shall be (i)To generally promote the benefit of the inhabitants of Duntocher and its environs by the advancement of citizenship and community development  opportunities  (ii)To relieve poverty and distress by increasing the availability of, and facilitating access recreational facilities, or the organisation of recreational facilities, with the object of improving the conditions of life for the persons for whom the facilities are primarily intended | £55,026
-<strong>14th Motherwell Guide Unit</strong> [Charity number: [SC039063](https://findthatcharity.uk/orgid/GB-SC-SC039063)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship' | £3,471
-<strong>Third Sector Interface Moray</strong> [Charity number: [SC042954](https://findthatcharity.uk/orgid/GB-SC-SC042954)]<br>4.1 the advancement of education.  4.2 the advancement of health.  4.3 the prevention or relief of poverty  4.4 the advancement of citizenship, community development and social enterprise  4.5 the advancement of environmental protection or improvement  4.6 the advancement of the arts, heritage, culture or science,  4.7 the provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended  4.8 the advancement of urban and rural regeneration  4.9 the promotion of growth within the third sector, including taking initiatives that will increase trading activity, innovation and business development within the third sector. | £1,610,806
-<strong>3rd Peebles Guide Unit</strong> [Charity number: [SC049059](https://findthatcharity.uk/orgid/GB-SC-SC049059)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £3,682
+<strong>Girlguiding Scottish Borders Central District</strong> [Charity number: [SC038941](https://findthatcharity.uk/orgid/GB-SC-SC038941)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship' | 
+<strong>Ross-shire Trefoil Guild</strong> [Charity number: [SC042189](https://findthatcharity.uk/orgid/GB-SC-SC042189)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £959
+<strong>MARKAZI JAMIA MOSQUE RIZA & ISLAMIC CENTRE</strong> [Charity number: [1149039](https://findthatcharity.uk/orgid/GB-CHC-1149039)]<br>The principle object of charity is to advance the Islamic faith for the public benefit.The charity runs after school Islamic classes for the children and facilitate Congregational prayer. Trust also works closely with inter-faith to provide access to the mosque for local schools & colleges for educational purposes. | £266,580
+<strong>162b Greenbank Brownies</strong> [Charity number: [SC036003](https://findthatcharity.uk/orgid/GB-SC-SC036003)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £1,373
+<strong>OXFORD PRIDE GROUP LTD</strong> [Charity number: [1151400](https://findthatcharity.uk/orgid/GB-CHC-1151400)]<br>PROMOTE EQUALITY AND DIVERSITY FOR THE PUBLIC BENEFIT AND IN PARTICULAR THE ELIMINATION OF DISCRIMINATION ON THE GROUNDS OF SEXUAL ORIENTATION, INCLUDING IN PARTICULAR BUT NOT EXCLUSIVELY BY RAISING THE AWARENESS OF THE PUBLIC WITH REGARD TO ALL ASPECTS OF DISCRIMINATION IN SOCIETY AND ISSUES AND DIFFICULTIES AFFECTING THE LIVES OF LESBIAN, GAY AND BISEXUAL AND TRANSGENDER PEOPLE. | £96,609
+<strong>2nd Markinch Guide Unit</strong> [Charity number: [SC036444](https://findthatcharity.uk/orgid/GB-SC-SC036444)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £330
+<strong>N.I. Alternatives Ltd</strong> [Charity number: [NI101039](https://findthatcharity.uk/orgid/GB-NIC-101039)]<br>NIA is a regional restorative justice and community safety organisation that aims to promote and develop non-violent, community responses to issues of low-level crime, anti-social behaviour and community conflict in Northern Ireland. It will achieve this by addressing four inter-related problems: the failure of the formal justice system, the breakdown of relationships between the community and the statutory sector, anti-social behaviour in local communities and punishment beatings and attacks. In practice this means that the agency delivers a wide range of interventions that include intensive youth support, victim support, family support, restorative conferencing, mediation services, detached street work, preventative group work, anti-hate crime initiatives, personal development programmes and other community safety programmes. | £2,354,233
+<strong>Centre for Scottish Public Policy 2021</strong> [Charity number: [SC051458](https://findthatcharity.uk/orgid/GB-SC-SC051458)]<br>The organisation's purposes are: (a) the advancement of education , (b) the advancement of citizenship or community development   | £500
+<strong>Granite City Taekwondo</strong> [Charity number: [SC051164](https://findthatcharity.uk/orgid/GB-SC-SC051164)]<br>The Organisation has been formed to benefit the community of Aberdeen which comprises the Aberdeen City local government boundary ('the Community') with the following purposes (the 'Purposes'): 4.1 The advancement of public participation in sport which involves physical skill and exertion. 4.2 The provision of recreational facilities and the organisation of recreational activities, with the primary object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. For persons who have need of them by reason of their age, ill-health, disability, financial hardship or other disadvantage. 4.3 The advancement of citizenship and community development, including the advancement of urban and rural regeneration and the promotion of civic responsibility and volunteering, the voluntary sector or the effectiveness or efficiency of charities. | £37,469
+<strong>17c Castlehill Brownies</strong> [Charity number: [SC036448](https://findthatcharity.uk/orgid/GB-SC-SC036448)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £3,110

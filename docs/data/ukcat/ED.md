@@ -3,7 +3,7 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-83,749 charities have been tagged with this tag.
+83,757 charities have been tagged with this tag.
 This represents 41.16% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,893 | 39.14%
-£10k - £100k | 27,979 | 39.74%
-£100k - £250k | 9,537 | 42.54%
-£250k - £500k | 4,771 | 43.11%
-£500k - £1m | 3,183 | 45.72%
-£1m - £10m | 4,429 | 48.26%
-Over £10m | 1,206 | 53.67%
-Total | 78,998 | 40.82%
+Under £10k | 27,868 | 39.13%
+£10k - £100k | 27,991 | 39.76%
+£100k - £250k | 9,535 | 42.52%
+£250k - £500k | 4,775 | 43.13%
+£500k - £1m | 3,183 | 45.68%
+£1m - £10m | 4,430 | 48.26%
+Over £10m | 1,207 | 53.67%
+Total | 78,989 | 40.82%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 68,524 | 39.95%
-oscr | 12,466 | 49.98%
-ccni | 2,759 | 39.45%
-Total | 83,749 | 41.16%
+ccew | 68,531 | 39.94%
+oscr | 12,468 | 49.99%
+ccni | 2,758 | 39.45%
+Total | 83,757 | 41.16%
 
 
 ## Ten largest charities (by income)
@@ -46,8 +46,8 @@ Name | Latest income
 -----|--------:
 <strong>University Of Edinburgh</strong> [Charity number: [SC005336](https://findthatcharity.uk/orgid/GB-SC-SC005336)]<br>The advancement of education. Any other purpose that may reasonably be regarded as analogous to any of the other preceding purposes. | £1,534,200,000
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £1,070,400,000
-<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £1,010,444,268
 <strong>THE BRITISH COUNCIL</strong> [Charity number: [209131](https://findthatcharity.uk/orgid/GB-CHC-209131)]<br>The British Council creates friendly knowledge and understanding between the people of the UK and other countries. We do this by making a positive contribution to the UK and the countries we work with. We reach millions of people across the world, working with over 100 countries in the fields of arts and culture, English language, education and civil society. | £1,010,444,268
+<strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £1,010,444,268
 <strong>United Learning LTD</strong> [Charity number: [313999](https://findthatcharity.uk/orgid/GB-CHC-313999)]<br>THE CHARITABLE GROUP PROVIDES EDUCATION THROUGH THE OPERATION OF INDEPENDENT SCHOOLS AND THROUGH THE OPERATION OF ACADEMIES ON BEHALF OF THE DEPARTMENT FOR EDUCATION AND THE EDUCATION FUNDING AGENCY | £789,957,000
 <strong>LLOYD'S REGISTER FOUNDATION</strong> [Charity number: [1145988](https://findthatcharity.uk/orgid/GB-CHC-1145988)]<br>Lloyd's Register Foundation promotes safety and education. Most of the consolidated income is attributable to the Lloyd's Register Group, a trading group that distributes profit to the Foundation. It is received dividends and not the consolidated trading income that is available to the Foundation. The trading group is a 'Social Investment' that also furthers the Foundation's charitable aims. | £691,735,000
 <strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £634,070,682
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>NEW WAYS TRUST</strong> [Charity number: [254333](https://findthatcharity.uk/orgid/GB-CHC-254333)]<br>To assist young people who need education and training | £128
-<strong>Clube Nova Vida Angola</strong> [Charity number: [1099713](https://findthatcharity.uk/orgid/GB-CHC-1099713)]<br>Holdhands organises sports activities for young people and children aged 8 to 16. Offers activities, including entertainment for senior people of our community to overcome isolation. | £3,905
-<strong>CONISTON CHURCH OF ENGLAND HOME SCHOOL ASSOCIATION</strong> [Charity number: [1064969](https://findthatcharity.uk/orgid/GB-CHC-1064969)]<br>Support for school. | £17,944
-<strong>THE BRIZEN YOUNG PEOPLE'S CENTRE</strong> [Charity number: [1143826](https://findthatcharity.uk/orgid/GB-CHC-1143826)]<br>The Brizen charity's main objective is to provide a base for young people between the ages of 8 to 19, for them to enjoy social activities both internally & externally. We also encourage education on life skills & sexual health. There is also an ongoing initiative with youth workers organising outreach work to encourage more young people into the centre. | £9,969
-<strong>COLDFALL SUPPORT</strong> [Charity number: [1177992](https://findthatcharity.uk/orgid/GB-CHC-1177992)]<br>To advance education for the public benefit of the pupils at Coldfall Primary School by providing facilities or equipment or activities which support the school and advance the education of the pupils. | £34,813
-<strong>CHASODIM FUND</strong> [Charity number: [1083443](https://findthatcharity.uk/orgid/GB-CHC-1083443)]<br>The Chasodim Fund is constituted by Trust Deed, and its objects are to provide general charitable donations and in particular for the relief of poverty and the advancement of religion and religious education. | £249,583
-<strong>UKLFI CHARITABLE TRUST</strong> [Charity number: [1169041](https://findthatcharity.uk/orgid/GB-CHC-1169041)]<br>The charity advances legal education into the causes and effects of anti-semitism in particular anti-semitism which manifests itself with regard to the State of Israel and promotes racial harmony for the public benefit by the elimination of such anti-semitism, by providing legal support, advice advocacy and assistance to the victims. | £586,462
-<strong>PRO TERRA SANCTA UK</strong> [Charity number: [1178965](https://findthatcharity.uk/orgid/GB-CHC-1178965)]<br>The objects of the Charity are, for the public benefit:To foster bonds between the Holy Land and the World through Emergency relief, Humanitarian and medical assistance for all those in need, the preservation and development of the artistic, archaeological and cultural heritage of the Holy Land, and through Education and assistance to build hope for a future of peace and development for all. | £14,035
-<strong>BROADSTAIRS AND ST PETER'S HERITAGE FOUNDATION</strong> [Charity number: [1188128](https://findthatcharity.uk/orgid/GB-CHC-1188128)]<br>TO ADVANCE EDUCATION FOR THE PUBLIC BENEFIT IN THE HISTORICAL HERITAGE OF BROADSTAIRS & ST PETERS. COLLECTING AND PRESERVING ARTEFACTS AND DOCUMENTS RELATING TO THE AREA. MAINTAINING AN ON-LINE PHOTOGRAPHIC ARCHIVE, COLLECTING AND PUBLISHING ASSOCIATED INFORMATION, INCLUDING ORAL AND WRITTEN RECORDS. | 
-<strong>Place for Hope</strong> [Charity number: [SC045224](https://findthatcharity.uk/orgid/GB-SC-SC045224)]<br>4.1 To advance conflict resolution and reconciliation through mediation as a means to help individuals, groups and leaders in faith communities and the wider community live more effectively with difference and diversity.  4.2 To advance citizenship, community development and peace-making through promoting methods of interaction and dialogue which support healthy relationships and reconciliation drawing on the wisdom from Christian and other religious traditions.  4.3 To advance conflict resolution and reconciliation through the promotion of societal harmony, and prevent conflict, by providing trained mediators to work with individuals and within communities, addressing issues of inequality and division. and  4.4 To advance education through the provision of training in mediation and conflict resolution, conflict reconciliation and conflict transformation.    | £396,877
+<strong>BORN TO BE BEAUTIFUL</strong> [Charity number: [1188397](https://findthatcharity.uk/orgid/GB-CHC-1188397)]<br>Born to be Beautiful empowers women who are held in the grip of poverty and discrimination by teaching marketable vocational skills in beauty therapy. Once trained students are supported to set up their own businesses or finding gainful employment. We operate in Uganda and India. | £5,176
+<strong>MARPLE & DISTRICT U3A</strong> [Charity number: [1109853](https://findthatcharity.uk/orgid/GB-CHC-1109853)]<br>Advances the education of older people and those who are retired from full time work, by all means including associated activities conducive to learning and personal development, in Marple & District and its surrounding locality. | £15,397
+<strong>MARAHOUE UK</strong> [Charity number: [1205703](https://findthatcharity.uk/orgid/GB-CHC-1205703)]<br>1. To advance education in the arts for the public benefit,through events such as dance classes, African conga anddrum classes and cultural classes relating to the Gourocommunity.2. The relief of those in need, by reason of youth, age, illhealth, disability, financial hardship or other disadvantageof those based in the UK and Ivory Coast, by providing asignposting service for such thin | £6,540
+<strong>Association for Mathematics in Education</strong> [Charity number: [1117838](https://findthatcharity.uk/orgid/GB-CHC-1117838)]<br>The Mathematical Association, formed in 1871, works to support and improve the teaching of mathematics. It is represented on all major bodies concerned with mathematics education in the UK and has wide influence through its members, publications and activities. Primary/secondary schools teachers, lecturers in further/higher education, advisers, inspectors, practising mathematicians are members. | £392,000
+<strong>Scottish Pelvic Floor Network</strong> [Charity number: [SC051535](https://findthatcharity.uk/orgid/GB-SC-SC051535)]<br>The organisation's purposes are:  To improve patient's service in Scotland by:  Promoting a uniform approach to continence and pelvic floor reconstruction management. Promote evidence based practice. To raise and set standards of training in pelvic floor function. Establishing a network for clinical exchange of experience and knowledge support worldwide.  To establish a network of Urogynaecology/ Urology/ Colo-rectal clinicians, nurses doctors and/or units interested in collaborative clinical research throughout Scotland and beyond.  3. Support members in the process of continuous professional development.  4. To encourage the study and management of pelvic floor function including, but not limited to, urinary incontinence, pelvic organ prolapse and faecal incontinence  5. Undertake new, and promote established, collaborative research projects. | £5,756
+<strong>FAMILY PASSEL</strong> [Charity number: [1199137](https://findthatcharity.uk/orgid/GB-CHC-1199137)]<br>Family Passel is a charity organisation with charitable purposes. The charity supports  the community and vulnerable people through various events, discussions, workshops and social inclusion activities. Family passel offers personal advice, referrals, training and education. A faith-based charity that aims to support the community through outreaches, counselling, health and fitness and research. | £32,000
+<strong>BITTERN PRESS</strong> [Charity number: [1202105](https://findthatcharity.uk/orgid/GB-CHC-1202105)]<br>To advance the education of the public in the arts in such ways as the charity trustees think fit. | £72
+<strong>Humanists International 2020</strong> [Charity number: [SC050629](https://findthatcharity.uk/orgid/GB-SC-SC050629)]<br>The advancement of Humanism. The advancement of education and in particular the study of and the dissemination of knowledge about Humanism and about the arts and science as they relate to Humanism. The promotion of equality and non-discrimination and the protection of human rights generally and in particular as it relates to religion and belief.  The promotion of understanding between people holding religious and non-religious beliefs so as to advance harmonious cooperation in society. and  To do all such other lawful things as are conducive or incidental to furthering or advancing any of the above mentioned objects. | £554,092
+<strong>ST. CHARLES' HOSPITAL CLINICAL TUTORS FUND</strong> [Charity number: [1078278](https://findthatcharity.uk/orgid/GB-CHC-1078278)]<br>Funding medical education | £162
+<strong>THE ACHOR TRUST</strong> [Charity number: [801181](https://findthatcharity.uk/orgid/GB-CHC-801181)]<br>erection equiping and maintenanceof christian schools and alms houses. | £4,125

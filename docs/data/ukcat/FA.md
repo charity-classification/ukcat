@@ -3,7 +3,7 @@
 Facilities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Facilities](FA.md) category.
 
-19,539 charities have been tagged with this tag.
+19,535 charities have been tagged with this tag.
 This represents 9.60% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 7,379 | 10.35%
-£10k - £100k | 8,883 | 12.62%
-£100k - £250k | 1,395 | 6.22%
+Under £10k | 7,381 | 10.36%
+£10k - £100k | 8,874 | 12.60%
+£100k - £250k | 1,398 | 6.23%
 £250k - £500k | 622 | 5.62%
-£500k - £1m | 286 | 4.11%
-£1m - £10m | 292 | 3.18%
+£500k - £1m | 285 | 4.09%
+£1m - £10m | 293 | 3.19%
 Over £10m | 35 | 1.56%
-Total | 18,892 | 9.76%
+Total | 18,888 | 9.76%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 17,440 | 10.17%
-oscr | 1,705 | 6.84%
-ccni | 394 | 5.63%
-Total | 19,539 | 9.60%
+ccew | 17,435 | 10.16%
+oscr | 1,706 | 6.84%
+ccni | 394 | 5.64%
+Total | 19,535 | 9.60%
 
 
 ## Ten largest charities (by income)
@@ -46,8 +46,8 @@ Name | Latest income
 -----|--------:
 <strong>THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY</strong> [Charity number: [205846](https://findthatcharity.uk/orgid/GB-CHC-205846)]<br>To look after places of historic interest or natural beauty permanently for the benefit of the nation across England, Wales and Northern Ireland. | £766,195,000
 <strong>CANAL & RIVER TRUST</strong> [Charity number: [1146792](https://findthatcharity.uk/orgid/GB-CHC-1146792)]<br>Canal & River Trust is the charitable operator and guardian of 2,000 miles of historic waterways across England and Wales. In addition to caring for the waterways so that they are available for the public to enjoy, the Trust maintains the nations' third largest collection of listed heritage structures, as well as museums, archives, and hundreds of important wildlife sites. | £232,600,000
-<strong>ROYAL SOCIETY FOR THE PROTECTION OF BIRDS</strong> [Charity number: [207076](https://findthatcharity.uk/orgid/GB-CHC-207076)]<br>To promote the conservation of biological diversity and the natural environment for the public benefit by conserving wild birds and other wildlife, and the environment on which they depend,protecting, restoring and re-creating habitats.To raise public understanding and awareness,and to provide information on,such matters.To advance education of the public in conservation of the natural environment | £194,964,000
 <strong>Royal Society for the Protection of Birds</strong> [Charity number: [SC037654](https://findthatcharity.uk/orgid/GB-SC-SC037654)]<br>1.  The Objects shall be:       1)  To promote the conservation of biological diversity and the natural environment for the public benefit, in particular but not         exclusively by:             a.	conserving wild birds and other wildlife, and the environment on which they depend.             b.	protecting, restoring and re-creating habitats.  And, in furtherance of that primary objective, to raise public understanding and awareness of, and to provide information on, such matters.         2) To advance education of the public in conservation of the natural environment. | £194,964,000
+<strong>ROYAL SOCIETY FOR THE PROTECTION OF BIRDS</strong> [Charity number: [207076](https://findthatcharity.uk/orgid/GB-CHC-207076)]<br>To promote the conservation of biological diversity and the natural environment for the public benefit by conserving wild birds and other wildlife, and the environment on which they depend,protecting, restoring and re-creating habitats.To raise public understanding and awareness,and to provide information on,such matters.To advance education of the public in conservation of the natural environment | £194,964,000
 <strong>ROYAL OPERA HOUSE COVENT GARDEN FOUNDATION</strong> [Charity number: [211775](https://findthatcharity.uk/orgid/GB-CHC-211775)]<br>Presentation of opera and ballet performances at the Royal Opera House Covent Garden and tours in the United Kingdom and overseas | £182,080,000
 <strong>THE FOOTBALL FOUNDATION</strong> [Charity number: [1079309](https://findthatcharity.uk/orgid/GB-CHC-1079309)]<br>The Charity's current and on-going activities are:to put in place a new generation of modern facilities in parks, local leagues and schools;to provide capital/revenue support to increase participation in grass roots football, andto strenghten the links between football and the community and to harness its potential as a force for good in society. | £150,067,000
 <strong>HISTORIC ROYAL PALACES</strong> [Charity number: [1068852](https://findthatcharity.uk/orgid/GB-CHC-1068852)]<br>a)to manage, conserve, renovate and repair the Palaces (Hampton Court, Tower of London, Kensington Palace, Kew Palace, Banqueting House, Hillsborough Castle) to a high standard consistent with their status; b)to help everyone to learn about the Palaces, the skills required for their conservation and the wider story of how monarchs and people together have shaped society, by all appropriate means | £138,596,000
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>WIGGINTON VILLAGE HALL</strong> [Charity number: [304390](https://findthatcharity.uk/orgid/GB-CHC-304390)]<br>Stewardship and maintenance of Wigginton Village Hall, an essential village amenity. | £6,409
-<strong>TOWNSEND MEMORIAL HALL (THE VILLAGE HALL AND COTTAGE)</strong> [Charity number: [228878](https://findthatcharity.uk/orgid/GB-CHC-228878)]<br>The provision and maintenance of a village hall for the use of the inhabitants of the Parish of Clifton-upon-Dunsmore without distinction of political, religious or other opinions, including the use for meetings, lectures, classes, and for other forms of recreation and leisure occupation, with the object of improving the conditions of life for the said inhabitants. | £23,102
-<strong>MIDDLETON CHENEY VILLAGE HALL</strong> [Charity number: [304222](https://findthatcharity.uk/orgid/GB-CHC-304222)]<br>VILLAGE HALL | £25,464
-<strong>ST MARY'S VILLAGE HALL CIO</strong> [Charity number: [1176742](https://findthatcharity.uk/orgid/GB-CHC-1176742)]<br>St Mary's Village Hall is available to hire for all community events and fundraising events as well as private parties and functions and meetings and conferences and weddings etc. At present the groups that hire the hall on a regular basis are Mother and Toddler group, Beavers, yoga, pilates, boot camp and a youth group. | £22,251
-<strong>CHIDEOCK VILLAGE HALL</strong> [Charity number: [301121](https://findthatcharity.uk/orgid/GB-CHC-301121)]<br>Village hall use for local activities including art and dance classes, table tennis, whist, bingo, WI, Chideock Society, village lunch, weddings and quiz nights etc | £14,921
-<strong>ROWLSTONE VILLAGE HALL</strong> [Charity number: [1117106](https://findthatcharity.uk/orgid/GB-CHC-1117106)]<br>We maintain the building of Rowlstone Village Hall for the benefit of local organisations to hold meetings, social events, and usage for private functions by individuals and groups. | £629
-<strong>MELDON VILLAGE HALL</strong> [Charity number: [1076747](https://findthatcharity.uk/orgid/GB-CHC-1076747)]<br>Maintaining and managing our Community Hall for  local community social functions/events.Hall also available for hire for use by local and regional clubs/socities/organisations for their events/meetings, activities, entertainments, classes or demonstrations/social activities. The local general public may also hire the Hall for their private functions (e.g. Birthday parties / weddings). | £9,480
-<strong>MINSTER COMMUNITY CENTRE</strong> [Charity number: [1106267](https://findthatcharity.uk/orgid/GB-CHC-1106267)]<br>Minster Community Centre provides recreational and educational community facilities for the benefit of residents of all ages in Minster-on-Sea.  This includes the provision of a venue for a youth club etc. | 
-<strong>MABEL GALE BEQUEST</strong> [Charity number: [200857](https://findthatcharity.uk/orgid/GB-CHC-200857)]<br>The Mabel Gale Bequest maintains 12 one bedroomed flats and surrounding gardens for elderly poor ladies in Bridport, Dorset. | £40,857
-<strong>LANGLEY BURRELL VILLAGE HALL</strong> [Charity number: [305536](https://findthatcharity.uk/orgid/GB-CHC-305536)]<br>Management of Community Hall, Playing Field and associated facilities for public and charitable hire. | £36,099
+<strong>Milton Community Woodland Trust</strong> [Charity number: [SC054609](https://findthatcharity.uk/orgid/GB-SC-SC054609)]<br>4	The organisation has been formed to benefit the community of Milton Village and Easter Ross (“the Community”), with the Purposes listed in clause 5 below (“the Purposes”), to be exercised following the principles of sustainable development (where sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their own needs). 5	The organisation’s purposes are: a)	Primarily, To advance environmental protection and improvement of Milton Woodlands, including but not limited to: i.	Conservation, protection and enhancement of the natural environment. ii.	Maintenance, improvement or provision of environmental amenities for the Community. and iii.	The preservation of buildings or sites of architectural, historic or other importance to the Community. b)	Secondarily, To facilitate recreational and educational activities for members of the Community and the public, with the object of improving the conditions of life for the Community. | 
+<strong>JAMIA MASJID BILAL AND COMMUNITY CENTRE</strong> [Charity number: [1039448](https://findthatcharity.uk/orgid/GB-CHC-1039448)]<br>Promoting & providing facilities for Islamic religion.Providing facilities in the interest of social welfare & leisure time activities for the people of Wolverhampton. | £240,108
+<strong>Aakhirah Community Trust</strong> [Charity number: [1217000](https://findthatcharity.uk/orgid/GB-CHC-1217000)]<br>TO RELIEVE POVERTY, FINANCIAL HARDSHIP AND SOCIAL AND ECONOMIC DISADVANTAGE FOR THE PUBLIC BENEFIT AMONG RESIDENTS OF LEICESTER AND ITS SURROUNDING AREAS, PARTICULARLY THOSE WHO ARE ELDERLY, DISABLED, OR OTHERWISE VULNERABLE.IN FURTHERANCE OF THESE OBJECTS, THE CIO WILL:? PROVIDE PRACTICAL ASSISTANCE, SUPPORT AND SERVICES TO INDIVIDUALS IN NEED, INCLUDING HELP WITH ACCESS TO ESSENTIAL GOODS AND COMMUNITY FACILITIES;? ARRANGE OR FUND TRANSPORT TO ENABLE ELDERLY, DISABLED OR VULNERABLE INDIVIDUALS TO ACCESS COMMUNITY CENTRES AND PARTICIPATE IN COMMUNITY LIFE;? SUPPORT THE DELIVERY OF ESSENTIAL ITEMS, INCLUDING GROCERIES, TO THOSE UNABLE TO ACCESS THEM INDEPENDENTLY DUE TO AGE, DISABILITY OR HARDSHIP;? WORK THROUGH TRUSTED LOCAL NETWORKS, PARTNERS AND COMMUNITY ORGANISATIONS TO PROVIDE SAFE AND SUPPORTIVE ENVIRONMENTS FOR VULNERABLE INDIVIDUALS;? PROVIDE FINANCIAL ASSISTANCE OR SUPPORT TO ORGANISATIONS AND PARTNERS DELIVERING SERVICES THAT ALIGN WITH THESE OBJECTS. | 
+<strong>Cladh Hallan Association</strong> [Charity number: [SC042978](https://findthatcharity.uk/orgid/GB-SC-SC042978)]<br>2. The association's objects are: (a) To conserve and maintain, operate and manage Hallan Cemetery and its memorials, gravesites, tombs, cemetery wall, and other historic features for the benefit of the Community. (b) To advance the education of the public by making available the burial records of the lives of those buried in Hallan Cemetery by collecting and preserving the genealogy, heritage and culture of the lives of the inhabitants of South Uist and related areas through the ages by maintaining a Cemetery website. | £14,099
+<strong>RIVINGTON HERITAGE TRUST</strong> [Charity number: [1064700](https://findthatcharity.uk/orgid/GB-CHC-1064700)]<br>To consult with stakeholders on the use and development of Rivington Terraced Gardens for the benefit of the public and the environment.The objects of the Trust shall be to:-(i) conserve, preserve, maintain, protect and enhance for the benefit of the public all beneficial aspects and features of the environment of land and structures of outstanding natural beauty or of historic or architec | £297,591
+<strong>SCOULTON VILLAGE HALL</strong> [Charity number: [803173](https://findthatcharity.uk/orgid/GB-CHC-803173)]<br>The Village Hall is available for hire to residents of the village of Scoulton and its surrounding area. | £3,139
+<strong>THE SHAFTESBURY COMMUNITY ASSOCIATION</strong> [Charity number: [285919](https://findthatcharity.uk/orgid/GB-CHC-285919)]<br>The trust has a small community hall in North Shaftesbury for the benefit of the local groups of the town, particulary those who live and/or work North of the A30/A350 road. It is also used for social occasions, clubs and family gatherings. | £6,482
+<strong>ALCESTER WAR MEMORIAL TOWN HALL CIO</strong> [Charity number: [1183360](https://findthatcharity.uk/orgid/GB-CHC-1183360)]<br>Preservation and maintenance of Alcester War Memorial Town Hall.  Financed by renting out the Hall for events. | £21,529
+<strong>REDE VILLAGE HALL</strong> [Charity number: [273479](https://findthatcharity.uk/orgid/GB-CHC-273479)]<br>Fundraising to maintain village hall for benefit of all village. | £5,748
+<strong>MILNSBRIDGE VILLAGE HALL</strong> [Charity number: [1172735](https://findthatcharity.uk/orgid/GB-CHC-1172735)]<br>The Village Hall is maintained by our charity to provide activities compatible with our charity aims. Includes running groups for the good of the local community, such as friendship groups,  events such as seasonal fairs, entertainment eg ceilidh, coffee mornings, music,  Christmas day dinner for those who may be alone. Hall is hired out for activities such  dance, yoga, zumba, pilates,kurling,etc | £25,803

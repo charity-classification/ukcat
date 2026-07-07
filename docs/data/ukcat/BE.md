@@ -3,7 +3,7 @@
 Beneficiary group is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Beneficiary group](BE.md) category.
 
-77,666 charities have been tagged with this tag.
+77,673 charities have been tagged with this tag.
 This represents 38.17% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 26,174 | 36.72%
-£10k - £100k | 26,226 | 37.25%
-£100k - £250k | 9,275 | 41.37%
-£250k - £500k | 4,542 | 41.04%
-£500k - £1m | 2,740 | 39.36%
-£1m - £10m | 3,776 | 41.14%
-Over £10m | 935 | 41.61%
-Total | 73,668 | 38.06%
+Under £10k | 26,156 | 36.72%
+£10k - £100k | 26,228 | 37.25%
+£100k - £250k | 9,284 | 41.40%
+£250k - £500k | 4,540 | 41.01%
+£500k - £1m | 2,743 | 39.37%
+£1m - £10m | 3,775 | 41.13%
+Over £10m | 936 | 41.62%
+Total | 73,662 | 38.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 63,962 | 37.29%
-oscr | 10,272 | 41.19%
-ccni | 3,432 | 49.08%
-Total | 77,666 | 38.17%
+ccew | 63,969 | 37.28%
+oscr | 10,273 | 41.19%
+ccni | 3,431 | 49.08%
+Total | 77,673 | 38.17%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THURROCK EAST GUIDE ASSOCIATION</strong> [Charity number: [298699](https://findthatcharity.uk/orgid/GB-CHC-298699)]<br>A selection of outdoor and indoor activities promoting independance and encouragement with young people. | 
-<strong>EQUALLY ABLED</strong> [Charity number: [1206705](https://findthatcharity.uk/orgid/GB-CHC-1206705)]<br>get together sessions for young people with additional needs, sessions include video gaming, workshops, crafts, active fitness sessions and more | £53,899
-<strong>Highworth Grammar School Trust, School Fund</strong> [Charity number: [1076273](https://findthatcharity.uk/orgid/GB-CHC-1076273)]<br>TO ADVANCE THE EDUCATION OF THE PUPILS OF HIGHWORTH GRAMMAR SCHOOL FOR GIRLS (HEREINAFTER CALLED "THE SCHOOL") BY PROVIDING OR ASSISTING IN THE PROVISION OF EDUCATIONAL , RECREATIONAL AND OTHER CHARITABLE FACILITIES IN AUGMENTATION OF SUCH FACILITIES FINANCED BY THE LOCAL EDUCATION AUTHORITY OR THE DEPARTMENT FOR EDUCATION (DFE). | £564,714
-<strong>GLOBAL COMMUNITY OUTREACH</strong> [Charity number: [1165717](https://findthatcharity.uk/orgid/GB-CHC-1165717)]<br>The aim of Global Community Outreach is to serve the needs of asylum seekers, migrants and refugees with a view to improve the condition of their lives and help them to successfully adapt within a new culture. | 
-<strong>FRIENDS UNITE NEWFIELD</strong> [Charity number: [1106973](https://findthatcharity.uk/orgid/GB-CHC-1106973)]<br>Newfield School aims to bring the school and the local community together by holding events so as to break down any misconceptions about pupils with disabilities. We provide information, advice and support to those living in the local area and the borough of Sefton. | £1,546
-<strong>NEWENT COMMUNITY SCHOOL  PARENT ASSOCIATION</strong> [Charity number: [1195391](https://findthatcharity.uk/orgid/GB-CHC-1195391)]<br>We hold events for parents an pupils to raise funds for the school | £1,793
-<strong>FRIENDS OF ST. HELEN'S SCHOOL</strong> [Charity number: [1063011](https://findthatcharity.uk/orgid/GB-CHC-1063011)]<br>Fundraising activities for parents and children of St Helen's School including children's cinema afternoons & discos, parents' ball, quiz night, summer fair and Easter craft fair | £24,674
-<strong>MELIN DARON CYF</strong> [Charity number: [1194355](https://findthatcharity.uk/orgid/GB-CHC-1194355)]<br>We are a charitable community-based organisation, and are focused on restoring and developing Aberdaron's historic grade II water mill.Our plan is to use the restored asset for educational, tourism and heritage purposes.  Our vision is for school-children to grind locally grown corn into flour and bake bread in the adjacent Islyn Bakery, and for  visitors to share  this experience. | £204,545
-<strong>PREGNANCY CENTRES NETWORK</strong> [Charity number: [1164610](https://findthatcharity.uk/orgid/GB-CHC-1164610)]<br>Supporting pregnancy centres across the UK and encouraging best practice. | £100,984
-<strong>INTERNATIONAL COMMITTEE FOR REHABILITATION AID TO AFGHANISTAN (ICRAA)</strong> [Charity number: [1154654](https://findthatcharity.uk/orgid/GB-CHC-1154654)]<br>ICRAA is a UK-based non-profit charitable organisation seeks to aid repatriation and recovery programmes in Afghanistan and for Afghan refugees in Pakistan, such as health, education, agriculture, animal welfare and as well as disaster relief. All of these programmes are to be delivered free of charge to the communities with which we work. | £1,945
+<strong>Renew Church, Scotland SCIO</strong> [Charity number: [SC050473](https://findthatcharity.uk/orgid/GB-SC-SC050473)]<br>Purposes 4 The organisation's purposes are: 4.1 the advancement of the Christian religion in accordance with the Statement of Beliefs in the Schedule hereto attached in such parts of Scotland or the world as the Trustees may from time to time think fit and to fulfil such other purposes which are exclusively charitable according to the law of Scotland and are connected with the charitable work of the charity. 4.2 the relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage. | £40,869
+<strong>MINSTEAD TRUST</strong> [Charity number: [1053319](https://findthatcharity.uk/orgid/GB-CHC-1053319)]<br>Provision of residential and day training work, social and domestic skills for young adults with learning disabilities. Provided through a range of activities from classroom studies, different levels of supervised accommodation in our own premises at local supported housing, work place skills through extensive horticultural and workplace facilities as well as work placements in the community. | £8,652,805
+<strong>PERSON TO PERSON CITIZEN ADVOCACY</strong> [Charity number: [1185625](https://findthatcharity.uk/orgid/GB-CHC-1185625)]<br>The relief of people with a learning disability within Mid Glamorgan. To assist those people to realise their full potential and to lead fulfilling lives.  To assist those people to obtain their full rights and privileges as a citizen. To provide long term friendship and support. To provide information to people with a learning disability. | £40,500
+<strong>HOME-START TEESSIDE</strong> [Charity number: [1108495](https://findthatcharity.uk/orgid/GB-CHC-1108495)]<br>Home - Start offers support, friendship and practical help to parents with young children, in local communities. Volunteers, who are usually parents themselves are recruited and trained to visit families at home who have at least one child under 5, to offer them informal, friendly and confidential support. | £150,966
+<strong>THE KEARNS FOUNDATION</strong> [Charity number: [1174340](https://findthatcharity.uk/orgid/GB-CHC-1174340)]<br>Established to make a positive contribution to personal development for community benefit through: a small grants programme (Max 250.00) supporting young people, community volunteers and groups, a programme of training and support for voluntary organisations and new groups and the management of a residential activity centre and campsite (established under reg no 1156557 and incorporated in 2017) | £5,175
+<strong>CHARITIES ADMINISTERED FOR ROMAN CATHOLIC PURPOSES IN CONNECTION WITH THE SISTERS OF CHARITY OF OUR LADY MOTHER OF MERCY</strong> [Charity number: [234283](https://findthatcharity.uk/orgid/GB-CHC-234283)]<br>Religious activities, including social and pastoral work, assistance to elderly people and persons suffering from disability or poverty. | 
+<strong>ROUNDABOUT TALKING NEWS</strong> [Charity number: [276417](https://findthatcharity.uk/orgid/GB-CHC-276417)]<br>Local news read on to an audio cassette once a week for visually impaired people | £14,161
+<strong>WANDSWORTH YOUTH RIVER CLUB</strong> [Charity number: [293841](https://findthatcharity.uk/orgid/GB-CHC-293841)]<br>W.Y.R.C. provides training facilities, boating and leisure time activities from its boathouse on the river Thames. All the provisions are for young people up to age 25 years, and are members of the club and the Scout Association or the Sea Rangers Association. Activities include canoeing, rowing, sailing and power boating under qualified leaders. | £14,221
+<strong>1ST MARSTON GREEN SCOUT GROUP</strong> [Charity number: [524591](https://findthatcharity.uk/orgid/GB-CHC-524591)]<br>A Scout Group that works with boys and girls from the age of 6 onwards providing activities that develop the individual. | £30,006
+<strong>PARENTS AND FRIENDS OF THE SCHOOL</strong> [Charity number: [1103324](https://findthatcharity.uk/orgid/GB-CHC-1103324)]<br>Raising funds to purchase equipment and goods that the school budget does not support. | £11,529

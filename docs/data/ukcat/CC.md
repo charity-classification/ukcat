@@ -3,7 +3,7 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-8,904 charities have been tagged with this tag.
+8,906 charities have been tagged with this tag.
 This represents 4.38% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,731 | 2.43%
-£10k - £100k | 3,048 | 4.33%
-£100k - £250k | 2,499 | 11.15%
+Under £10k | 1,730 | 2.43%
+£10k - £100k | 3,047 | 4.33%
+£100k - £250k | 2,500 | 11.15%
 £250k - £500k | 728 | 6.58%
 £500k - £1m | 358 | 5.14%
 £1m - £10m | 241 | 2.63%
 Over £10m | 26 | 1.16%
-Total | 8,631 | 4.46%
+Total | 8,630 | 4.46%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,631 | 4.45%
-oscr | 679 | 2.72%
-ccni | 594 | 8.49%
-Total | 8,904 | 4.38%
+ccew | 7,632 | 4.45%
+oscr | 680 | 2.73%
+ccni | 594 | 8.50%
+Total | 8,906 | 4.38%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>EASTERN GREEN VILLAGE HALL</strong> [Charity number: [1183455](https://findthatcharity.uk/orgid/GB-CHC-1183455)]<br>We run a Village Hall to provide facilities and activities for the local community. Ofsted Registered Pre-School, WI, Slimming World, Taekwondo Training for Children and Adults, Dancing all ages, Church Group, Golden Years for senior citizens, Ofsted Registered Holiday Club throughout school holidays, Yoga and Pilates. Room Hire for Parties, Meetings and Charity Events. | £26,615
-<strong>Fellowship of Independent Methodist Churches - Dungannon</strong> [Charity number: [NI107133](https://findthatcharity.uk/orgid/GB-NIC-107133)]<br>We hold services of worship each Lord’s Day and a Bible Study and Prayer Meeting each week. Where available we also hold a Sunday School and Bible Class. We provide a structured programme of activities for primary school children in Weekly Bible Clubs and Summer Holiday Bible Clubs for children from within the church and outside it. We seek to reach people outside of the Christian faith as well as nurturing those who profess it, through the preaching and teaching of the Word of God, as contained in the Bible, and through pastoral support and visits. Where available we run a Mother and Toddler Group, Children’s Club and a Youth Club. Where available we host a website with information about us and our meetings together with downloadable sermons. We hold special meetings from time to time, to give a Christian perspective and for evangelistic purposes. We hold missionary meetings and endeavour to support a number of missionaries and Missionary Societies both inside and outside our denomination, and both within Northern Ireland and abroad. This support is given through prayer, encouragement and financial aid. We distribute invitations to meetings and Christian literature to homes in the area of benefit and the surrounding area. We may also seek to support individuals who find themselves in need, either at home or abroad. We also provide a structured programme for teenagers and young people both inside church premises and outside and a varied programme of activities, both social and religious, for women from within and without the church fellowship. | £154,039
-<strong>AISKEW UNDER FIVES PRE-SCHOOL</strong> [Charity number: [1162395](https://findthatcharity.uk/orgid/GB-CHC-1162395)]<br>Provision of term time pre-school facilities through play and education. Preparing children for the transition to school | £111,207
-<strong>THE ASHILL COMMUNITY CENTRE</strong> [Charity number: [283109](https://findthatcharity.uk/orgid/GB-CHC-283109)]<br>The Centre caters for such organisations as Scouts & Guides,Youth Clubs,Bowling,Playgroup,Garden Club, W.I., Golden Link,Gymnastics, Yoga, Badminton etc. as well as social events such as parties, concerts, Bingo etc.We try to provide facilities and opportunities for all age groups to enjoy. | £20,757
-<strong>HANLEY SWAN PRE-SCHOOL PLAYGROUP</strong> [Charity number: [1122154](https://findthatcharity.uk/orgid/GB-CHC-1122154)]<br>Village pre-school playgroup | £53
-<strong>WILLOWFIELD PRE-SCHOOL LIMITED</strong> [Charity number: [1142187](https://findthatcharity.uk/orgid/GB-CHC-1142187)]<br>Willowfield Pre-school operates from a Local Community Hall in Laindon, Basildon, Essex and provides education and development for children under school age 2-5 years.  We provide a safe, caring and stimulating environment to allow each child to develop at their own pace.  We provide high quality care and work in partnership with all our parents to help children to learn and develop. | £245,590
-<strong>FITTLEWORTH AND DISTRICT PLAYGROUP</strong> [Charity number: [1057649](https://findthatcharity.uk/orgid/GB-CHC-1057649)]<br>Pre-school offering full day-care for three months to five year olds. | 
-<strong>Killyleagh Early Years Parent/Toddler Group</strong> [Charity number: [NI101772](https://findthatcharity.uk/orgid/GB-NIC-101772)]<br>We bring parents and children together and allow them to play and relax in a safe and neutral environment. We provide cross-community interaction from an early age and emphasis on improving good quality provision for Early Years | 
-<strong>ST. PETER'S CHILDREN'S CENTRE LTD</strong> [Charity number: [1096305](https://findthatcharity.uk/orgid/GB-CHC-1096305)]<br>NURSERY | £569,389
-<strong>3 CORNERS CIO PRE-SCHOOL AND OUT OF SCHOOL CLUB</strong> [Charity number: [1213823](https://findthatcharity.uk/orgid/GB-CHC-1213823)]<br>We provide:1. Pre-school service for 2-4 year olds.2. Out of School Club service (wraparound care) for our Pre-school children and the children of Triangle (Cof E) Primary School, Triangle, Sowerby Bridge, where we are based.3. Holiday Club for those children as described in 1 and 2 and other children living in the local area up tothe age of 11 years. | 
+<strong>WOOLPIT CHILDCARE CENTRE LIMITED</strong> [Charity number: [1121387](https://findthatcharity.uk/orgid/GB-CHC-1121387)]<br>Childcare provision for 2-11 year olds, 8am-4.15pm weekdays. Ofsted registered. | £182,620
+<strong>THE BATH HOUSE CHILDREN'S COMMUNITY CENTRE</strong> [Charity number: [1089829](https://findthatcharity.uk/orgid/GB-CHC-1089829)]<br>Childcare for children aged 1 year to 12 years. Nursery education, holiday and after school care. | £821,004
+<strong>Roslin Parent & Toddler Group</strong> [Charity number: [SC020262](https://findthatcharity.uk/orgid/GB-SC-SC020262)]<br>To provide in the interests of social welfare a good enviroment for babies and children up to the ages of five by providing mothers of such children with a means of alleviation of stress by mutual support where such support is not readily available from within the community and by providing play facilities for the children in which the mothers can participate as will improve the physical and intellectual developement of the children and strenghten the relationship between mother and child, and generally to act in accordance with and in furtherance of the aims of the Scottish Pre-School Play Association. | £1,006
+<strong>THE OLIVER SPORTS GROUND</strong> [Charity number: [304888](https://findthatcharity.uk/orgid/GB-CHC-304888)]<br>Provides a Recreation ground with childrens play area for the people of great Cornard | 
+<strong>DILWYN PLAYGROUP</strong> [Charity number: [1128558](https://findthatcharity.uk/orgid/GB-CHC-1128558)]<br>Operate playgroup for children aged 2 to 5 | £71,393
+<strong>BLUE BELL HILL VILLAGE HALL</strong> [Charity number: [302700](https://findthatcharity.uk/orgid/GB-CHC-302700)]<br>Blue Bell Hill Village Hall's current activites include: Daily Pre school, Dance School, Table Tennis, Yoga, Children's Parties, Crafts, Carer's Support Group,  Religious Gatherings. | £27,186
+<strong>Donaghmore District Community Association</strong> [Charity number: [NI103429](https://findthatcharity.uk/orgid/GB-NIC-103429)]<br>DDCA's main activity is managing and developing The Torrent Complex. This is a key community asset in Mid Ulster that encompasses a four badminton sized Sports Hall, MUGA pitch, Conference facilities, Multipurpose Room, Fitness Suite and Communal Areas. The Complex is home to Donaghmore GAA. Lollipop Playgroup, Bardic Theatre, St Patrick’s Youth Club, BEAM, Irish TV & Jim Hamill Photography. The Torrent Complex has an extensive year long programme that has something for all interests. Currently we are in our 'Spring Programme' which comprises of a weekly programme of over 30 activities including a Parent, Baby and Toddler Group, children's Judo, Gymnastics and Irish Dancing, a wide range of Fitness Classes to accommodate all fitness levels e.g. Pilates, Yoga, 50+ Spinning, Circuits, Zumba, Bums & Tums, Kettlebells, Fit as a Fiddle @ 50+years. etc. DCCA & Torrent Complex is at the epi centre of community development engaging with a total of 50 community groups in the rural villages of Donaghmore, Castlecaulfield and Carland by providing meeting space and specialist knowledge on sustainability. Other noteworthy activities at the complex include Slimming Consultants, Personal Training, Baby Massage, Sports Massage, Pregnancy Yoga, Open Door Club, Seasonal Multisports Camps, Drama, Dance and Music Lessons. | £197,919
+<strong>RAINBOW (LONG SUTTON)</strong> [Charity number: [1056911](https://findthatcharity.uk/orgid/GB-CHC-1056911)]<br>Provides full and sessional day care for children from the age of three months to school age. Each age group has own outside pay areas and children are supported by experienced and qualified staff. Out of school care for up to eleven years of age operates after school and during school holidays. Open 7.30am to 6pm, 50 weeks of the year. | £439,516
+<strong>COGGES UNDER FIVES ASSOCIATION</strong> [Charity number: [1037157](https://findthatcharity.uk/orgid/GB-CHC-1037157)]<br>Pre-school for children aged between 2 and 5.Provides care and education to pre-school children in the local area. | £144,894
+<strong>Phoenix Parents' Council</strong> [Charity number: [NI101852](https://findthatcharity.uk/orgid/GB-NIC-101852)]<br>Our Parents' Council is made up of a group of elected parents and staff as well as additional parents who are recognised committee members. We meet on a monthly basis as a committee and are constantly striving to recruit more parents as members. We keep in regular contact with parents through the school's weekly newsletter. We try to ensure that all parents feel welcome to join the Parents' Council or simply help out at events. We organise many fundraising events throughout each school year. These have, in the past included Family Fun Runs, Family Fact Trails, School Discos, Uniform Bring & Buy Sales, Breakfast with Santa mornings, Table Quizzes, a Christmas Craft Fayre, design your own Christmas card, a school calendar, Christmas hamper raffle, raffles at school productions/events, bag packing at the local supermarkets and the weekly Bonus Ball draw. These events are enjoyed by pupils, parents and staff, as well as the wider community. In addition to fundraising, we provide help and support to the teaching staff with school-run events such as Sports Day, Coffee Mornings, school assemblies etc... We have experienced tremendous support from local businesses in the past, as has been evident at our Christmas Fayre, in advertisements for our school production programmes and the most recent 10-year anniversary calendar. The PTA ultimately provide much needed funds to help subsidise school trips, new technology in classrooms, playground equipment and simple treats for the children. | £10,438
