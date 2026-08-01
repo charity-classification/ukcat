@@ -3,8 +3,8 @@
 Beneficiary group is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Beneficiary group](BE.md) category.
 
-77,673 charities have been tagged with this tag.
-This represents 38.17% of all charities.
+77,712 charities have been tagged with this tag.
+This represents 38.16% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 26,156 | 36.72%
-£10k - £100k | 26,228 | 37.25%
-£100k - £250k | 9,284 | 41.40%
-£250k - £500k | 4,540 | 41.01%
-£500k - £1m | 2,743 | 39.37%
-£1m - £10m | 3,775 | 41.13%
-Over £10m | 936 | 41.62%
-Total | 73,662 | 38.06%
+Under £10k | 26,115 | 36.71%
+£10k - £100k | 26,235 | 37.29%
+£100k - £250k | 9,294 | 41.29%
+£250k - £500k | 4,562 | 41.03%
+£500k - £1m | 2,752 | 39.44%
+£1m - £10m | 3,771 | 41.08%
+Over £10m | 935 | 41.45%
+Total | 73,664 | 38.06%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 63,969 | 37.28%
-oscr | 10,273 | 41.19%
-ccni | 3,431 | 49.08%
-Total | 77,673 | 38.17%
+ccew | 63,983 | 37.27%
+oscr | 10,297 | 41.23%
+ccni | 3,432 | 49.02%
+Total | 77,712 | 38.16%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Renew Church, Scotland SCIO</strong> [Charity number: [SC050473](https://findthatcharity.uk/orgid/GB-SC-SC050473)]<br>Purposes 4 The organisation's purposes are: 4.1 the advancement of the Christian religion in accordance with the Statement of Beliefs in the Schedule hereto attached in such parts of Scotland or the world as the Trustees may from time to time think fit and to fulfil such other purposes which are exclusively charitable according to the law of Scotland and are connected with the charitable work of the charity. 4.2 the relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage. | £40,869
-<strong>MINSTEAD TRUST</strong> [Charity number: [1053319](https://findthatcharity.uk/orgid/GB-CHC-1053319)]<br>Provision of residential and day training work, social and domestic skills for young adults with learning disabilities. Provided through a range of activities from classroom studies, different levels of supervised accommodation in our own premises at local supported housing, work place skills through extensive horticultural and workplace facilities as well as work placements in the community. | £8,652,805
-<strong>PERSON TO PERSON CITIZEN ADVOCACY</strong> [Charity number: [1185625](https://findthatcharity.uk/orgid/GB-CHC-1185625)]<br>The relief of people with a learning disability within Mid Glamorgan. To assist those people to realise their full potential and to lead fulfilling lives.  To assist those people to obtain their full rights and privileges as a citizen. To provide long term friendship and support. To provide information to people with a learning disability. | £40,500
-<strong>HOME-START TEESSIDE</strong> [Charity number: [1108495](https://findthatcharity.uk/orgid/GB-CHC-1108495)]<br>Home - Start offers support, friendship and practical help to parents with young children, in local communities. Volunteers, who are usually parents themselves are recruited and trained to visit families at home who have at least one child under 5, to offer them informal, friendly and confidential support. | £150,966
-<strong>THE KEARNS FOUNDATION</strong> [Charity number: [1174340](https://findthatcharity.uk/orgid/GB-CHC-1174340)]<br>Established to make a positive contribution to personal development for community benefit through: a small grants programme (Max 250.00) supporting young people, community volunteers and groups, a programme of training and support for voluntary organisations and new groups and the management of a residential activity centre and campsite (established under reg no 1156557 and incorporated in 2017) | £5,175
-<strong>CHARITIES ADMINISTERED FOR ROMAN CATHOLIC PURPOSES IN CONNECTION WITH THE SISTERS OF CHARITY OF OUR LADY MOTHER OF MERCY</strong> [Charity number: [234283](https://findthatcharity.uk/orgid/GB-CHC-234283)]<br>Religious activities, including social and pastoral work, assistance to elderly people and persons suffering from disability or poverty. | 
-<strong>ROUNDABOUT TALKING NEWS</strong> [Charity number: [276417](https://findthatcharity.uk/orgid/GB-CHC-276417)]<br>Local news read on to an audio cassette once a week for visually impaired people | £14,161
-<strong>WANDSWORTH YOUTH RIVER CLUB</strong> [Charity number: [293841](https://findthatcharity.uk/orgid/GB-CHC-293841)]<br>W.Y.R.C. provides training facilities, boating and leisure time activities from its boathouse on the river Thames. All the provisions are for young people up to age 25 years, and are members of the club and the Scout Association or the Sea Rangers Association. Activities include canoeing, rowing, sailing and power boating under qualified leaders. | £14,221
-<strong>1ST MARSTON GREEN SCOUT GROUP</strong> [Charity number: [524591](https://findthatcharity.uk/orgid/GB-CHC-524591)]<br>A Scout Group that works with boys and girls from the age of 6 onwards providing activities that develop the individual. | £30,006
-<strong>PARENTS AND FRIENDS OF THE SCHOOL</strong> [Charity number: [1103324](https://findthatcharity.uk/orgid/GB-CHC-1103324)]<br>Raising funds to purchase equipment and goods that the school budget does not support. | £11,529
+<strong>SUNDOWNS</strong> [Charity number: [1089679](https://findthatcharity.uk/orgid/GB-CHC-1089679)]<br>TO SUPPORT PEOPLE WHO HAVE DOWNS SYNDROME AND THEIR FAMILIES. TO RAISE AWARENESS OF THE POSITIVE CONTRIBUTION PEOPLE WHO HAVE DOWNS SYNDROME MAKE TO SOCIETY. | £27,398
+<strong>SCORTON PUBLIC HALL</strong> [Charity number: [223939](https://findthatcharity.uk/orgid/GB-CHC-223939)]<br>Scorton Village Hall is used by the people of Scorton in Lancashire for community activities such as youth club, toddler group, WI, keep fit, dancing classes, parish council, church groups and by the local school. It is also hired out for parties, fundraising, events and fairs. | £13,769
+<strong>South Ayrshire Arts Partnership</strong> [Charity number: [SC047297](https://findthatcharity.uk/orgid/GB-SC-SC047297)]<br>4. The organisations purposes are to promote the advancement of the arts and culture by delivering on the following outcomes: 4.1 Arts, culture, and creative industries enhance the lives of people in South Ayrshire, with access to arts and cultural activities for all communities. 4.2 Creative practitioners are attracted to South Ayrshire because of its commitment to becoming and remaining a high quality artistic and cultural base. 4.3 Young people in South Ayrshire are inspired to become and to remain involved in artistic work and cultural activities of all kinds.  | 
+<strong>Gate Church International SCIO</strong> [Charity number: [SC003542](https://findthatcharity.uk/orgid/GB-SC-SC003542)]<br>The organisation’s purposes are:  4.1 to advance the Christian faith in accordance with the Statement of Beliefs in the Schedule hereto attached in such parts of Dundee, Scotland or the world as the Trustees may from time to time think fit and to fulfil such other purposes which are exclusively charitable according to the law of Scotland and are connected with the charitable work of the charity.  4.2 to relieve those in need by reason of age, ill-health, disability, financial hardship or other disadvantage in such parts of Dundee, Scotland or the world as the Trustees may from time to time think fit.  4.3 to provide or assist in the provision of facilities in the interests of social welfare for recreation and other leisure time occupation of individuals who have need of such facilities by reason of their youth, age, infirmity or disability, financial hardship or social circumstances with the object of improving their conditions of life.  4.4 to advance education in particular but not by way of limitation through the provision of life-skills courses as the Trustees may from time to time think fit. and  4.5 the prevention or relief of poverty in such parts of Dundee, Scotland or the world as the Trustees may from time to time think fit.  | £360,303
+<strong>LONG MOUNTAIN COFE SCHOOL AND PRE-SCHOOL PARENTS, TEACHERS AND FRIENDS ASSOCIATION</strong> [Charity number: [1025374](https://findthatcharity.uk/orgid/GB-CHC-1025374)]<br>FUND RAISING FOR THE CHILDREN OF LONG MOUNTAIN COFE PRIMARY SCHOOL | £5,815
+<strong>African Youth Development Action Project</strong> [Charity number: [SC034993](https://findthatcharity.uk/orgid/GB-SC-SC034993)]<br>To advance the education of young people in africa through the provision of information, guidance and services in relaiton to health, the enviroment and culture b) To alleviate poverty among young people in Africa by enabling them to access education and career choices through the provision of employment guidance, advice and information c) To advance the education of young people in countruies outwith Africa by increasing their awareness of health,employment, enviromental and cultural issues affecting African Youth | 
+<strong>HIGH KINGSDOWN COMMUNITY ASSOCIATION</strong> [Charity number: [1179906](https://findthatcharity.uk/orgid/GB-CHC-1179906)]<br>Our main charitable purposes are to provide activities that are of benefit to children; to encourage the participation of older and more isolated people; to provide opportunities for volunteering in recreational gardening and gaining knowledge of wildlife and nature. We provide social activities for everyone living in the vicinity of High Kingsdown and support during the Covid 19 crisis. | £3,567
+<strong>CROFT WOMEN'S INSTITUTE</strong> [Charity number: [519788](https://findthatcharity.uk/orgid/GB-CHC-519788)]<br>Grants given to member biannually to further knowledge/skills in their chosen area.Grants made where needed locally that benefit community | £6,775
+<strong>RICHMOND GOOD NEIGHBOURS</strong> [Charity number: [1187997](https://findthatcharity.uk/orgid/GB-CHC-1187997)]<br>We are a small charity,based in Richmond. Our team of volunteers support elderly or housebound residents shopping who live in the heart of the borough of Richmond visiting or driving clients to medical appointments or social activities. Essentially we do what a good neighbour should do. | £44,766
+<strong>TRELECH WOMEN'S INSTITUTE</strong> [Charity number: [1033945](https://findthatcharity.uk/orgid/GB-CHC-1033945)]<br>Actively involved in the community, supporting worthwhile ventures in our village. | £467

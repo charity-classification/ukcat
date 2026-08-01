@@ -3,7 +3,7 @@
 Leisure is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Leisure](LE.md) category.
 
-30,404 charities have been tagged with this tag.
+30,421 charities have been tagged with this tag.
 This represents 14.94% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,087 | 14.16%
-£10k - £100k | 11,809 | 16.77%
-£100k - £250k | 3,028 | 13.50%
-£250k - £500k | 1,497 | 13.52%
-£500k - £1m | 838 | 12.03%
-£1m - £10m | 993 | 10.82%
-Over £10m | 187 | 8.31%
-Total | 28,439 | 14.70%
+Under £10k | 10,095 | 14.19%
+£10k - £100k | 11,812 | 16.79%
+£100k - £250k | 3,034 | 13.48%
+£250k - £500k | 1,518 | 13.65%
+£500k - £1m | 836 | 11.98%
+£1m - £10m | 996 | 10.85%
+Over £10m | 187 | 8.29%
+Total | 28,478 | 14.71%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 22,307 | 13.00%
-oscr | 7,005 | 28.08%
-ccni | 1,092 | 15.62%
-Total | 30,404 | 14.94%
+ccew | 22,308 | 13.00%
+oscr | 7,021 | 28.11%
+ccni | 1,092 | 15.60%
+Total | 30,421 | 14.94%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>SULTANIA EDUCATION AND COMMUNITY INSTITUTE</strong> [Charity number: [1147288](https://findthatcharity.uk/orgid/GB-CHC-1147288)]<br>TO PROMOTE FOR THE BENEFIT OF THE INHABITANTS OF SANDWELL AND THE SURROUNDING AREA THE PROVISION OF FACILITIES FOR RECREATION FOR THE PUBLIC AT LARGE IN THE INTERESTS OF SOCIAL WELFARE AND WITH THE OBJECT OF IMPROVING THE CONDITION OF LIFE OF THE SAID INHABITANTS AND THE MUSLIM COMMUNITY. | £20,768
-<strong>Taynuilt Village Hall</strong> [Charity number: [SC017528](https://findthatcharity.uk/orgid/GB-SC-SC017528)]<br>For the purposes of physical/ mental training and recreation and social, moral and intellectual development through the medium of reading and recreation rooms, library, lectures, classes, recreatons and entertainmentor otherwise as may be found expedient for the inhabitants of the former parish of Muckairn. | £21,102
-<strong>BURY GATEWAY</strong> [Charity number: [1094663](https://findthatcharity.uk/orgid/GB-CHC-1094663)]<br>Running a drop-in centreSocial ClubSports Training | £35,246
-<strong>TEENS TRAILBLAZERS</strong> [Charity number: [1198836](https://findthatcharity.uk/orgid/GB-CHC-1198836)]<br>We aim to enhance the lives of young people by providing recreational activities for social welfare and fostering skill development, enabling them to become responsible and engaged members of society. | £158,150
-<strong>DOWN HATHERLEY BOYS' CLUB</strong> [Charity number: [301518](https://findthatcharity.uk/orgid/GB-CHC-301518)]<br>To provide the facility to play cricket for under 18's | £4,420
-<strong>THE HIGH LANE WAR MEMORIAL VILLAGE HALL</strong> [Charity number: [520063](https://findthatcharity.uk/orgid/GB-CHC-520063)]<br>The Village Hall has 2 halls with modern facilities available to rent for events. activities include  WI, Keep fit, Flower Club, Scottish Dancing, Mini Athletics, Hartbeeps, Tiny Talk, Yoga, Box n Burn, U3A . It is also the meeting point for High Lane Residents' Association, High Lane Village Forum &amp; High Lane Allotments. | £38,406
-<strong>MENDLESHAM COMMUNITY CHARITY</strong> [Charity number: [282391](https://findthatcharity.uk/orgid/GB-CHC-282391)]<br>To enhance the quality and conditions of life for the members of the community residing in the Parish of Mendlesham (the Mendlesham Community) by the advancement of amateur sport, education and health for the public benefit of the Mendlesham Community. This to include supporting the provision of recreational facilities, playing fields, playgroups, a community centre and other amenities. | £13,314
-<strong>North East Active Team (NEAT) SCIO</strong> [Charity number: [SC051958](https://findthatcharity.uk/orgid/GB-SC-SC051958)]<br>4 The organisation is established for charitable purposes only, and in particular, the objects are to promote public participation in sport and to advance the arts and culture. and in furtherance of these by  4.1 promoting access to extra-curricular activities in the Arts and Sport for children and young people in education who are disadvantaged financially.  4.2 Working in partnership with other bodies to achieve the purposes | £750
-<strong>GWYNEDD (CAERNARFON) FEDERATION OF WOMEN'S INSTITUTES</strong> [Charity number: [228500](https://findthatcharity.uk/orgid/GB-CHC-228500)]<br>PROVIDES EDUCATIONAL AND TRAINING WORKSHOPS AND ARRANGES SPORTS ACITIVIES FOR MEMBERS. ALSO TAKES PART IN SEVERAL CAMPAIGNS RUN BY THE NATIONAL FEDERATION OF WOMEN'S INSTITUTES. | £17,581
-<strong>DOVER LIFE GUARD CLUB</strong> [Charity number: [270111](https://findthatcharity.uk/orgid/GB-CHC-270111)]<br>The charity teaches people to swim, offers life saving, water polo, long distance and open water swimming, and competition swimming to national standard. Dover Lifeguard Club is an accredited swim 21 club. | £212,925
+<strong>CLEAN ASCENT</strong> [Charity number: [1183266](https://findthatcharity.uk/orgid/GB-CHC-1183266)]<br>To protect and preserve good health among people living in Devon who arerecovering from substance or alcohol abuse, in particular by providing rockclimbing, hill walking and mountaineering experiences and tuition designed tosupport their recovery, improve and nurture their physical and mental health andwell-being and reduce the likelihood of relapse. | £5,000
+<strong>Forres Skate Park Initiative [SCIO]</strong> [Charity number: [SC049947](https://findthatcharity.uk/orgid/GB-SC-SC049947)]<br>The organisation's purposes are: 4.1 Provision of Accessible Recreational Facilities 4.2 Advancement of the Public participation in Sport | £629
+<strong>Ellen Kerr Awards Scheme</strong> [Charity number: [SC011496](https://findthatcharity.uk/orgid/GB-SC-SC011496)]<br>The objects of the Scheme shall be: - (a) to advance the education and training of young adults at large in the West of Scotland in agricultural, country life, home craft and citizenship skills and related subject. and (b) in the interests of the social welfare of these young adults, to provide and promote the provision of facilities and activities for recreation and other leisure time occupations, being facilities and activities which will improve their conditions of life and which will assist in the development of their spiritual and mental capacities, self-reliance and individual responsibility so that they may grow to full maturity as responsible individuals and members of the community. These objects shall be achieved by the making of Awards which will assist such young adults, their Clubs, their District Associations and the Association in the West of Scotland to achieve these objects. | £15,209
+<strong>Young Life International</strong> [Charity number: [SC043473](https://findthatcharity.uk/orgid/GB-SC-SC043473)]<br>3.1 The promotion of the Christian faith among children and young people. 3.2 To advance, in accordance with a Christian ethos, life and help young people through: (a) the provision of recreational and leisure activities provided in the interest of social welfare, designed to improve their conditions of life. and (b) providing support and activities which develop their skills, capacities and capabilities to enable them to participate as mature and responsible individuals. 3.3 The relief of those in need, by reason of youth, age, ill-health, disability, financial hardship or other disadvantage. | £3,424,704
+<strong>COMMUNITY DEVELOPMENT ASSOCIATION FOR MINORITY COMMUNITIES LTD</strong> [Charity number: [1114410](https://findthatcharity.uk/orgid/GB-CHC-1114410)]<br>Supplementary School Classes Basic English Classes For Refugees Employment and work Opportunity:  Outreach Support and Interpreting Services Family Support Services Advice and advocacy services and Telephone Help Line         Sport Activities Elderly and Women Social Club Cultural and Social events Community gathering and Consultation Meetings | £82,779
+<strong>Guth Airson Iarrtasan Nis (GAIN)</strong> [Charity number: [SC047399](https://findthatcharity.uk/orgid/GB-SC-SC047399)]<br>The organisations purposes are: To provide recreational facilities in the Ness area of the Isle of Lewis through the improvement, management and development of the Eoropie Dunes Park, thereby enabling the public at large to interact with the natural habitat of the area in a unique and engaging way. To advance education by creating a greater environmental awareness and appreciation in the community, with the general public and, particularly, in young people, through the use of the said facilities. | £6,542
+<strong>PETER HARRISON FOUNDATION</strong> [Charity number: [1076579](https://findthatcharity.uk/orgid/GB-CHC-1076579)]<br>Two grant programmes are open to applications:1. Opportunities through Sport - applications accepted from charities throughout the United Kingdom;2. Special Needs and Care for Children and Young People - applications accepted from charities where the beneficiaries are in: Berkshire; Buckinghamshire; Hampshire; Isle of Wight; Kent; Oxfordshire; Surrey; East Sussex; and West Sussex. | £3,076,392
+<strong>HOGARTH CHARITABLE TRUST COMPANY LIMITED</strong> [Charity number: [1084019](https://findthatcharity.uk/orgid/GB-CHC-1084019)]<br>To promote the benefit of young people of the borough of Hounslow without distinction of gender, sexual orientation, nationality or race or of religious or other opinions by the provision of facilities in the interests of social welfare for recreation and leisure time occupation with the aim of improving the quality of life for young people. | £264,568
+<strong>MANCHESTER MACCABI COMMUNITY AND SPORTS CLUB</strong> [Charity number: [1203429](https://findthatcharity.uk/orgid/GB-CHC-1203429)]<br>TO FURTHER OR BENEFIT , WITH A FOCUS ON THE JEWISH COMMUNITY, THE RESIDENTS OF BURY, MANCHESTER, SALFORD AND THE SURROUNDING AREAS WITHOUT DISTINCTION OF SEX, SEXUAL ORIENTATION, RACE, POLITICAL, RELIGIOUS OR OTHER OPINIONS BY ASSOCIATING TOGETHER THE SAID RESIDENTS, AND THE LOCAL AUTHORITIES, VOLUNTARY BODIES AND OTHER ORGANISATIONS IN A COMMON EFFORT TO PROMOTE EDUCATION, CULTURE, SOCIAL WELFARE AND COHESION AND PHYSICAL & MENTAL WELLBEING THROUGH THE PROVISION AND MAINTENANCE OF A COMMUNITY CENTRE FOR USE OF THE RESIDENTS AND OTHERS. | 
+<strong>MILTON BRYAN VILLAGE HALL ASSOCIATION</strong> [Charity number: [292553](https://findthatcharity.uk/orgid/GB-CHC-292553)]<br>Provides a meeting place for members of the village - activities include indoor sport, whist drives, bingo, jumble sales, children's and adult birthday parties etc.... | £4,365

@@ -3,8 +3,8 @@
 Society is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Society](SO.md) category.
 
-7,989 charities have been tagged with this tag.
-This represents 3.93% of all charities.
+8,015 charities have been tagged with this tag.
+This represents 3.94% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 3,361 | 4.72%
-£10k - £100k | 2,012 | 2.86%
-£100k - £250k | 818 | 3.65%
-£250k - £500k | 459 | 4.15%
-£1m - £10m | 371 | 4.04%
-£500k - £1m | 285 | 4.09%
-Over £10m | 99 | 4.40%
-Total | 7,405 | 3.83%
+Under £10k | 3,356 | 4.72%
+£10k - £100k | 2,013 | 2.86%
+£100k - £250k | 828 | 3.68%
+£250k - £500k | 467 | 4.20%
+£1m - £10m | 372 | 4.05%
+£500k - £1m | 284 | 4.07%
+Over £10m | 100 | 4.43%
+Total | 7,420 | 3.83%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 2,692 | 1.57%
+ccew | 2,695 | 1.57%
 ccni | 247 | 3.53%
-oscr | 5,050 | 20.25%
-Total | 7,989 | 3.93%
+oscr | 5,073 | 20.31%
+Total | 8,015 | 3.94%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Girlguiding Scottish Borders Central District</strong> [Charity number: [SC038941](https://findthatcharity.uk/orgid/GB-SC-SC038941)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship' | 
-<strong>Ross-shire Trefoil Guild</strong> [Charity number: [SC042189](https://findthatcharity.uk/orgid/GB-SC-SC042189)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £959
-<strong>MARKAZI JAMIA MOSQUE RIZA & ISLAMIC CENTRE</strong> [Charity number: [1149039](https://findthatcharity.uk/orgid/GB-CHC-1149039)]<br>The principle object of charity is to advance the Islamic faith for the public benefit.The charity runs after school Islamic classes for the children and facilitate Congregational prayer. Trust also works closely with inter-faith to provide access to the mosque for local schools & colleges for educational purposes. | £266,580
-<strong>162b Greenbank Brownies</strong> [Charity number: [SC036003](https://findthatcharity.uk/orgid/GB-SC-SC036003)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £1,373
-<strong>OXFORD PRIDE GROUP LTD</strong> [Charity number: [1151400](https://findthatcharity.uk/orgid/GB-CHC-1151400)]<br>PROMOTE EQUALITY AND DIVERSITY FOR THE PUBLIC BENEFIT AND IN PARTICULAR THE ELIMINATION OF DISCRIMINATION ON THE GROUNDS OF SEXUAL ORIENTATION, INCLUDING IN PARTICULAR BUT NOT EXCLUSIVELY BY RAISING THE AWARENESS OF THE PUBLIC WITH REGARD TO ALL ASPECTS OF DISCRIMINATION IN SOCIETY AND ISSUES AND DIFFICULTIES AFFECTING THE LIVES OF LESBIAN, GAY AND BISEXUAL AND TRANSGENDER PEOPLE. | £96,609
-<strong>2nd Markinch Guide Unit</strong> [Charity number: [SC036444](https://findthatcharity.uk/orgid/GB-SC-SC036444)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £330
-<strong>N.I. Alternatives Ltd</strong> [Charity number: [NI101039](https://findthatcharity.uk/orgid/GB-NIC-101039)]<br>NIA is a regional restorative justice and community safety organisation that aims to promote and develop non-violent, community responses to issues of low-level crime, anti-social behaviour and community conflict in Northern Ireland. It will achieve this by addressing four inter-related problems: the failure of the formal justice system, the breakdown of relationships between the community and the statutory sector, anti-social behaviour in local communities and punishment beatings and attacks. In practice this means that the agency delivers a wide range of interventions that include intensive youth support, victim support, family support, restorative conferencing, mediation services, detached street work, preventative group work, anti-hate crime initiatives, personal development programmes and other community safety programmes. | £2,354,233
-<strong>Centre for Scottish Public Policy 2021</strong> [Charity number: [SC051458](https://findthatcharity.uk/orgid/GB-SC-SC051458)]<br>The organisation's purposes are: (a) the advancement of education , (b) the advancement of citizenship or community development   | £500
-<strong>Granite City Taekwondo</strong> [Charity number: [SC051164](https://findthatcharity.uk/orgid/GB-SC-SC051164)]<br>The Organisation has been formed to benefit the community of Aberdeen which comprises the Aberdeen City local government boundary ('the Community') with the following purposes (the 'Purposes'): 4.1 The advancement of public participation in sport which involves physical skill and exertion. 4.2 The provision of recreational facilities and the organisation of recreational activities, with the primary object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. For persons who have need of them by reason of their age, ill-health, disability, financial hardship or other disadvantage. 4.3 The advancement of citizenship and community development, including the advancement of urban and rural regeneration and the promotion of civic responsibility and volunteering, the voluntary sector or the effectiveness or efficiency of charities. | £37,469
-<strong>17c Castlehill Brownies</strong> [Charity number: [SC036448](https://findthatcharity.uk/orgid/GB-SC-SC036448)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty, and good citizenship. | £3,110
+<strong>MUNDI</strong> [Charity number: [1120802](https://findthatcharity.uk/orgid/GB-CHC-1120802)]<br>The main purpose of MUNDI's work is to advance education among children and young people in the City of Nottingham, County of Nottinghamshire and the East Midlands Region about global citizenship and development issues and to promote equality of opportunity and good relations between persons of different ethnic and religious groups | 
+<strong>MANCHESTER AND WARRINGTON AREA QUAKER MEETING (RELIGIOUS SOCIETY OF FRIENDS)</strong> [Charity number: [1172087](https://findthatcharity.uk/orgid/GB-CHC-1172087)]<br>We hold Quaker Meetings for Worship in five locations across Manchester and Warrington.  Our Meetings are open to all, including children.We work to build peace, protect the environment and promote equality.  We raise money to support causes we believe in including work with destitute asylum seekers and work to relieve poverty. | £1,111,249
+<strong>East Lothian Climate Action Network</strong> [Charity number: [SC055099](https://findthatcharity.uk/orgid/GB-SC-SC055099)]<br>The organisation’s purposes are:  1 The advancement of education. to promote, sustain and increase individual and collective knowledge and understanding of the climate and nature emergencies and to support the development and sharing of the knowledge and skills required to build resilient communities across East Lothian.  2 The advancement of environmental protection and improvement for the public benefit in East Lothian, in particular by:  Raising awareness and understanding of environmental issues among people and organisations in communities across East Lothian,  Encouraging and facilitating collaborative, community-led action to protect and improve the local environment and build local resilience.   3 The advancement of citizenship or community development, in particular supporting local, community and volunteer action to build just, thriving and resilient communities across East Lothian. | 
+<strong>Kentallen & Duror Community SCIO</strong> [Charity number: [SC025839](https://findthatcharity.uk/orgid/GB-SC-SC025839)]<br>The Organisation’s purposes are:  4.1 To advance citizenship and community development  4.2 To support and promote the health, welfare, education and recreation of the communities of Kentallen and Duror  4.3 To support and promote the protection and improvement of the local and nearby environment of Kentallen and Duror for the communities of Kentallen and Duror and for visitors  4.4 To support and promote the improvement of communications of all kinds within and out-with the communities and the areas of Kentallen and Duror  4.5 Further, to fulfil the above purposes, to provide and maintain facilities to include a community centre and/or such other hub or place of contact as well as such other facilities as may be appropriate and achievable for the attainment of the foregoing purposes | £26,696
+<strong>3rd Dalkeith Guide Unit</strong> [Charity number: [SC039045](https://findthatcharity.uk/orgid/GB-SC-SC039045)]<br>'Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship' | £3,485
+<strong>Scottish Youth Theatre Ltd</strong> [Charity number: [SC014283](https://findthatcharity.uk/orgid/GB-SC-SC014283)]<br>The company’s objects are to secure: 1. the advancement of education. 2. the advancement of citizenship or community development. 3. the advancement of the arts and culture. and  4. the provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended by: positioning the company and Scotland at the forefront of youth theatre internationally by creating aspirational theatre-making experiences by, for and with young people, enabling young people to develop their talent and encouraging exploration and experimentation. operating a vibrant centre for youth theatre and youth arts. building strategic collaborations with other youth theatre sectoral and educational organisations to strengthen all aspects of youth theatre in Scotland. creating opportunities that increase participation in and engagement with youth theatre, promoting equality across all areas of activity.  | £202,399
+<strong>ROTARY CLUB OF REDCAR TRUST FUND</strong> [Charity number: [1126599](https://findthatcharity.uk/orgid/GB-CHC-1126599)]<br>We raise funds & make donations in support of both local & national good causes. We make contributions to Rotary International's Polio Plus programme dedicated to the eradication of world polio. We contribute to the Rotary International Foundation, which aims to advance world understanding, goodwill, & peace through the improvement of health, the support of education & the alleviation of poverty. | £8,536
+<strong>2nd Cardonald Rangers</strong> [Charity number: [SC052413](https://findthatcharity.uk/orgid/GB-SC-SC052413)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £708
+<strong>Inveresk Village Society SCIO</strong> [Charity number: [SC051258](https://findthatcharity.uk/orgid/GB-SC-SC051258)]<br>Purposes 4 The SCIO's purpose is for the benefit of the public: (i) to advance the citizenship and community development of the village of Inveresk, by improving and maintaining the amenity thereof, and promoting activities and events for the benefit of the residents/citizens of Inveresk.    | £2,483
+<strong>1st Bankfoot Guide Unit</strong> [Charity number: [SC045948](https://findthatcharity.uk/orgid/GB-SC-SC045948)]<br>Promoting the instruction of girls of all classes in the principles of discipline, loyalty and good citizenship | £4,683

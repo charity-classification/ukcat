@@ -3,8 +3,8 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-8,906 charities have been tagged with this tag.
-This represents 4.38% of all charities.
+8,904 charities have been tagged with this tag.
+This represents 4.37% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,730 | 2.43%
-£10k - £100k | 3,047 | 4.33%
-£100k - £250k | 2,500 | 11.15%
-£250k - £500k | 728 | 6.58%
-£500k - £1m | 358 | 5.14%
+Under £10k | 1,720 | 2.42%
+£10k - £100k | 3,050 | 4.34%
+£100k - £250k | 2,492 | 11.07%
+£250k - £500k | 735 | 6.61%
+£500k - £1m | 359 | 5.15%
 £1m - £10m | 241 | 2.63%
-Over £10m | 26 | 1.16%
-Total | 8,630 | 4.46%
+Over £10m | 26 | 1.15%
+Total | 8,623 | 4.46%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,632 | 4.45%
-oscr | 680 | 2.73%
-ccni | 594 | 8.50%
-Total | 8,906 | 4.38%
+ccew | 7,630 | 4.44%
+oscr | 680 | 2.72%
+ccni | 594 | 8.48%
+Total | 8,904 | 4.37%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>WOOLPIT CHILDCARE CENTRE LIMITED</strong> [Charity number: [1121387](https://findthatcharity.uk/orgid/GB-CHC-1121387)]<br>Childcare provision for 2-11 year olds, 8am-4.15pm weekdays. Ofsted registered. | £182,620
-<strong>THE BATH HOUSE CHILDREN'S COMMUNITY CENTRE</strong> [Charity number: [1089829](https://findthatcharity.uk/orgid/GB-CHC-1089829)]<br>Childcare for children aged 1 year to 12 years. Nursery education, holiday and after school care. | £821,004
-<strong>Roslin Parent & Toddler Group</strong> [Charity number: [SC020262](https://findthatcharity.uk/orgid/GB-SC-SC020262)]<br>To provide in the interests of social welfare a good enviroment for babies and children up to the ages of five by providing mothers of such children with a means of alleviation of stress by mutual support where such support is not readily available from within the community and by providing play facilities for the children in which the mothers can participate as will improve the physical and intellectual developement of the children and strenghten the relationship between mother and child, and generally to act in accordance with and in furtherance of the aims of the Scottish Pre-School Play Association. | £1,006
-<strong>THE OLIVER SPORTS GROUND</strong> [Charity number: [304888](https://findthatcharity.uk/orgid/GB-CHC-304888)]<br>Provides a Recreation ground with childrens play area for the people of great Cornard | 
-<strong>DILWYN PLAYGROUP</strong> [Charity number: [1128558](https://findthatcharity.uk/orgid/GB-CHC-1128558)]<br>Operate playgroup for children aged 2 to 5 | £71,393
-<strong>BLUE BELL HILL VILLAGE HALL</strong> [Charity number: [302700](https://findthatcharity.uk/orgid/GB-CHC-302700)]<br>Blue Bell Hill Village Hall's current activites include: Daily Pre school, Dance School, Table Tennis, Yoga, Children's Parties, Crafts, Carer's Support Group,  Religious Gatherings. | £27,186
-<strong>Donaghmore District Community Association</strong> [Charity number: [NI103429](https://findthatcharity.uk/orgid/GB-NIC-103429)]<br>DDCA's main activity is managing and developing The Torrent Complex. This is a key community asset in Mid Ulster that encompasses a four badminton sized Sports Hall, MUGA pitch, Conference facilities, Multipurpose Room, Fitness Suite and Communal Areas. The Complex is home to Donaghmore GAA. Lollipop Playgroup, Bardic Theatre, St Patrick’s Youth Club, BEAM, Irish TV & Jim Hamill Photography. The Torrent Complex has an extensive year long programme that has something for all interests. Currently we are in our 'Spring Programme' which comprises of a weekly programme of over 30 activities including a Parent, Baby and Toddler Group, children's Judo, Gymnastics and Irish Dancing, a wide range of Fitness Classes to accommodate all fitness levels e.g. Pilates, Yoga, 50+ Spinning, Circuits, Zumba, Bums & Tums, Kettlebells, Fit as a Fiddle @ 50+years. etc. DCCA & Torrent Complex is at the epi centre of community development engaging with a total of 50 community groups in the rural villages of Donaghmore, Castlecaulfield and Carland by providing meeting space and specialist knowledge on sustainability. Other noteworthy activities at the complex include Slimming Consultants, Personal Training, Baby Massage, Sports Massage, Pregnancy Yoga, Open Door Club, Seasonal Multisports Camps, Drama, Dance and Music Lessons. | £197,919
-<strong>RAINBOW (LONG SUTTON)</strong> [Charity number: [1056911](https://findthatcharity.uk/orgid/GB-CHC-1056911)]<br>Provides full and sessional day care for children from the age of three months to school age. Each age group has own outside pay areas and children are supported by experienced and qualified staff. Out of school care for up to eleven years of age operates after school and during school holidays. Open 7.30am to 6pm, 50 weeks of the year. | £439,516
-<strong>COGGES UNDER FIVES ASSOCIATION</strong> [Charity number: [1037157](https://findthatcharity.uk/orgid/GB-CHC-1037157)]<br>Pre-school for children aged between 2 and 5.Provides care and education to pre-school children in the local area. | £144,894
-<strong>Phoenix Parents' Council</strong> [Charity number: [NI101852](https://findthatcharity.uk/orgid/GB-NIC-101852)]<br>Our Parents' Council is made up of a group of elected parents and staff as well as additional parents who are recognised committee members. We meet on a monthly basis as a committee and are constantly striving to recruit more parents as members. We keep in regular contact with parents through the school's weekly newsletter. We try to ensure that all parents feel welcome to join the Parents' Council or simply help out at events. We organise many fundraising events throughout each school year. These have, in the past included Family Fun Runs, Family Fact Trails, School Discos, Uniform Bring & Buy Sales, Breakfast with Santa mornings, Table Quizzes, a Christmas Craft Fayre, design your own Christmas card, a school calendar, Christmas hamper raffle, raffles at school productions/events, bag packing at the local supermarkets and the weekly Bonus Ball draw. These events are enjoyed by pupils, parents and staff, as well as the wider community. In addition to fundraising, we provide help and support to the teaching staff with school-run events such as Sports Day, Coffee Mornings, school assemblies etc... We have experienced tremendous support from local businesses in the past, as has been evident at our Christmas Fayre, in advertisements for our school production programmes and the most recent 10-year anniversary calendar. The PTA ultimately provide much needed funds to help subsidise school trips, new technology in classrooms, playground equipment and simple treats for the children. | £10,438
+<strong>G-old Community Partnership</strong> [Charity number: [NI100101](https://findthatcharity.uk/orgid/GB-NIC-100101)]<br>The core elements of Surestart include outreach and home visiting services, to make contact as early as possible in a child's life and draw families into using other services. Family support including befriending, social support and parenting information, both group and home based. Good quality play, learning and childcare experiences for children (both group and home based). Primary and community health care and advice. Speech language and communication support and support for all children in the community recognising their differing needs. Surestart programmes have been designed specifically to reflect and respond to local needs. | £1,221,327
+<strong>RISBY PRE-SCHOOL & CHILDCARE SERVICES</strong> [Charity number: [1030761](https://findthatcharity.uk/orgid/GB-CHC-1030761)]<br>Non profit making charitable Preschool and Childcare Services providing early years care and education for children from 2 to 11 years. | £218,872
+<strong>LITTLE TYSILIOS PRE-SCHOOL</strong> [Charity number: [1202405](https://findthatcharity.uk/orgid/GB-CHC-1202405)]<br>The advancement of education for the public benefit through the provision of a pre-school facility to enhance the education of children aged two to five years and to aid personal, social emotional and physical development of children. | 
+<strong>NEW STEPPING STONES PLAYGROUP</strong> [Charity number: [1191172](https://findthatcharity.uk/orgid/GB-CHC-1191172)]<br>Pre-school playgroup | £222,684
+<strong>NURSERY RHYMES PLAYGROUP</strong> [Charity number: [1180347](https://findthatcharity.uk/orgid/GB-CHC-1180347)]<br>The activities and objects of the charity are specifically to provide high quality affordable childcare that enhances the development, care and education of pre school children, in a safe and stimulating environment, where they can learn through play in partnership with parents and carers. The playgroup is in Treharris within the County Borough of Merthyr Tydfil. | £141,390
+<strong>CILYCWM SPORTS AND PLAYAREA ACTION COMMITTEE</strong> [Charity number: [1064877](https://findthatcharity.uk/orgid/GB-CHC-1064877)]<br>Manages Play Area and sports field | 
+<strong>Greater Shantallow Area Partnership</strong> [Charity number: [NI100209](https://findthatcharity.uk/orgid/GB-NIC-100209)]<br>The GSAP is a core community support agency, which works with and on behalf of the people living within the Greater Shantallow Area, an area which suffers from high levels of multiple deprivation in relation to income, employment, health and disability, education, skills and training, child poverty and income deprivation affecting older people. The GSAP defines its role to be one of acting as a central resource for individuals and community/voluntary groups in the Greater Shantallow area by providing projects, programmes, services in the fields of education and training, health and well being, sport and recreation, early intervention, arts and culture, after school activities and family support and the delivery of capacity building and technical assistance to the C/V sector based within the Greater Shantallow Area. GSAP deliver our programmes, services and activities by effectively targeting those most at risk from social exclusion in particular unemployed, lone parents, those with a disability, carers, elderly, low income working families, children in low income families and disaffected youth and by targeting the most disadvantaged neighbourhoods within the Greater Shantallow Area thus ensuring the effective and efficient targeting and use of resources. In addition we identify and articulate local needs, provide information to and gather feedback from residents and community/voluntary groups in the area, help influence policy makers and service providers that operate within the Greater Shantallow Area and promote the case for local investment within the area. | £1,122,416
+<strong>ASHTON KEYNES PRE SCHOOL</strong> [Charity number: [1027601](https://findthatcharity.uk/orgid/GB-CHC-1027601)]<br>Provides pre-school education for children aged between two years 6 months and five years. | £101,227
+<strong>BYBROOK PRESCHOOL</strong> [Charity number: [1163933](https://findthatcharity.uk/orgid/GB-CHC-1163933)]<br>Bybrook Pre-school is a friendly and welcoming pre-school based in the Village Hall in Yatton Keynell, just a couple of miles from Chippenham.  It is a village pre-school which offers a large main play area, as well as fantastic opportunities for outdoor play. This includes a natural wooded garden at the rear, a front patio and a recreational field with a newly built playground. | £139,961
+<strong>NORTH COMMON PRE - SCHOOL</strong> [Charity number: [1004028](https://findthatcharity.uk/orgid/GB-CHC-1004028)]<br>Pre-school Playgroup | £102,746

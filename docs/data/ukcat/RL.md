@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-45,935 charities have been tagged with this tag.
-This represents 22.57% of all charities.
+46,002 charities have been tagged with this tag.
+This represents 22.59% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,635 | 16.34%
-£10k - £100k | 16,718 | 23.74%
-£100k - £250k | 7,741 | 34.52%
-£250k - £500k | 3,365 | 30.40%
-£500k - £1m | 1,647 | 23.64%
-£1m - £10m | 1,506 | 16.41%
-Over £10m | 336 | 14.94%
-Total | 42,948 | 22.19%
+Under £10k | 11,627 | 16.34%
+£10k - £100k | 16,707 | 23.75%
+£100k - £250k | 7,786 | 34.59%
+£250k - £500k | 3,370 | 30.31%
+£500k - £1m | 1,637 | 23.46%
+£1m - £10m | 1,518 | 16.54%
+Over £10m | 337 | 14.94%
+Total | 42,982 | 22.21%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,094 | 22.20%
-oscr | 5,846 | 23.44%
-ccni | 1,995 | 28.54%
-Total | 45,935 | 22.57%
+ccew | 38,163 | 22.23%
+oscr | 5,844 | 23.40%
+ccni | 1,995 | 28.50%
+Total | 46,002 | 22.59%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE BARHAM CENTRE</strong> [Charity number: [1086753](https://findthatcharity.uk/orgid/GB-CHC-1086753)]<br>The advancement of religion, education, and the provision of a meeting place at Mount Pisgah Chapel Parkmill for the local community and visitors to Parkmill in accordance with the aims of Lady Diane Barham who caused the Chapel to be constructed in 1822. | £3,021
-<strong>BOSLEY SCHOOL PARENT TEACHER ASSOCIATION</strong> [Charity number: [1094545](https://findthatcharity.uk/orgid/GB-CHC-1094545)]<br>To raise money for the local school and church | £5,773
-<strong>GREEN ACADEMY TRUST</strong> [Charity number: [1129270](https://findthatcharity.uk/orgid/GB-CHC-1129270)]<br>Islamic Nursery SchoolIndependent Islamic Primary SchoolIndependent Islamic Secondary SchoolAfter School Quran and Islamic Studies classesWeekend Youth play activitiesBi-Weekly adult Islamic study classes for brothersWeekly Islamic study circles for sistersIslamic Matrimonial servicesPrayer FacilitiesIslamic Library | £2,095,096
-<strong>CHRISTIANS IN SCIENCE</strong> [Charity number: [1121422](https://findthatcharity.uk/orgid/GB-CHC-1121422)]<br>Organising national and regional conferences; publication of a learned journal and a regular newsletter; provision of web-based and printed resources; provision of speakers for events in the general area of science and religion; responding to queries and questions from the media and from the wider public: collaboration with other charities working in related areas | £72,519
-<strong>PAYNE'S CHARITY</strong> [Charity number: [238632](https://findthatcharity.uk/orgid/GB-CHC-238632)]<br>Paynes Charity provides for the support of the poor of Swavesey and the maintenance of the Parish and Priory Church of St Andrew, Swavesey. | £89
-<strong>HILLFIELDS PARK BAPTIST CHURCH</strong> [Charity number: [1148273](https://findthatcharity.uk/orgid/GB-CHC-1148273)]<br>? regular public worship, prayer, Bible study, preaching and teaching;? baptism; ? the Communion of the Lord?s Supper;? evangelism and mission;? the teaching and encouragement of young people; ? nurture and growth of Christian disciples;? education and training for Christian and community service;? pastoral care;? supporting and encouraging charitable social action | £127,739
-<strong>PARK STREET BAPTIST CHURCH</strong> [Charity number: [1202850](https://findthatcharity.uk/orgid/GB-CHC-1202850)]<br>PSBC exists for the worship of God and the advancement of the Christian faith by activities including but not restricted to regular public worship, communion, prayer, Bible study, preaching, teaching, baptism, evangelism, mission, discipling, working with children and young people, providing pastoral care and supporting and encouraging charitable social action. | £94,360
-<strong>ADURA LO NGBA AGBARA KO MINISTRY: (ITS BY PRAYER NOT BY MIGHT MINISTRY)</strong> [Charity number: [1198162](https://findthatcharity.uk/orgid/GB-CHC-1198162)]<br>Religious activities | £23,052
-<strong>SELAH FOUNDATION</strong> [Charity number: [1130283](https://findthatcharity.uk/orgid/GB-CHC-1130283)]<br>TO ADVANCE AND PROPAGATE THE CHRISTIAN FAITH, HOLDING OF PRAYER MEETINGS,LECTURES,CONFERENCES,PRODUCING AND DISTRIBUTING LITERATURE ON THE BIBLE,ENLIGHTEN OTHERS ABOUT THE CHRISTIAN FAITH IN ACCORDANCE WITH THE TEACHINGS OF THE BIBLE;PROVIDE AID AND SUPPORT TO ITS MEMBERS AND COMMUNITY | £14,027
-<strong>FARRINGDON VILLAGE HALL</strong> [Charity number: [1206624](https://findthatcharity.uk/orgid/GB-CHC-1206624)]<br>The provision and maintenance of a village hall for the use of the inhabitants of the Parish of Farringdon and the surrounding area without distinction of political, religious or other opinions including use for meetings, lectures and classes and other forms of recreation and leisure time occupation with the object of improving the conditions of life for the inhabitants | £4,763
+<strong>GROWING YOUNG DISCIPLES</strong> [Charity number: [1178450](https://findthatcharity.uk/orgid/GB-CHC-1178450)]<br>Support, research and training for those working with children and young people in Christian discipleship | £425,766
+<strong>HERTFORDSHIRE LEA VALLEY ASSOCIATION</strong> [Charity number: [1033750](https://findthatcharity.uk/orgid/GB-CHC-1033750)]<br>The objects of the charity shall be to advance education and to provide facilities recreation or other leisue time occupation in the interests of social welfare, with the object of improving the conditions of life for women in the area of benefit without disinction of political, religious or other opinions. | £5,759
+<strong>THE HUNTINGDON FOUNDATION LIMITED</strong> [Charity number: [286504](https://findthatcharity.uk/orgid/GB-CHC-286504)]<br>The principal activity of the company was that of a charity, with particular reference to the establishment and continued support of Jewish schools.To achieve the objects, the charity uses its income to make charitable donations and grants to Jewish schools, other educational organisations and other charities. | £772,445
+<strong>COVENANT MINISTRIES INTERNATIONAL WORLDWIDE</strong> [Charity number: [1205238](https://findthatcharity.uk/orgid/GB-CHC-1205238)]<br>To advance the Christian faith for the benefit of the public in such parts of the United Kingdom or the world and in ways as the trustees from time to time may deem fit, through the holding of prayer meetings, lectures, public celebration of religious festivals, producing and/or distributing literature on Christianity to enlighten others about the Christian religion | £5,227
+<strong>FRIENDS OF DRAYCOT CERNE CHAPEL</strong> [Charity number: [1145604](https://findthatcharity.uk/orgid/GB-CHC-1145604)]<br>to acquire and run and maintain Draycot Cerne Chapel | £740
+<strong>Tay Charitable Trust</strong> [Charity number: [SC001004](https://findthatcharity.uk/orgid/GB-SC-SC001004)]<br>For the relief of poverty, the advancement of education or religion or for other purposes beneficial to the community. | £241,058
+<strong>EMMANUEL REVIVAL MINISTRIES</strong> [Charity number: [1133577](https://findthatcharity.uk/orgid/GB-CHC-1133577)]<br>1 Establishing and overseeing Revival fellowships 2 Prayer & Praise Gatherings3 Conferences & training courses.4 Prayer counselling surgeries for those hurting, confused or seeking. 5 Establishing local run welfare projects6 Resource centre sourced with materials from around the world.7 Worldwide preaching, teaching and enabling ministry.8 Worldwide support network for Revivalists | £39,428
+<strong>THE CROWN CHURCH</strong> [Charity number: [1095028](https://findthatcharity.uk/orgid/GB-CHC-1095028)]<br>Sunday morning meetingCell group meetingPrayerTraining and Support to Leaders and MembersOutreachBuilding links with Brunel University and local churchesSupporting and playing a part in the work of NewfrontiersSupporting other Christian agencies in the relief of the poor and oppressed overseas | £381,523
+<strong>CENTRE FOR HEALTH AND PASTORAL CARE</strong> [Charity number: [1099836](https://findthatcharity.uk/orgid/GB-CHC-1099836)]<br>The objectives of the Charity are to relieve those in need and in particular the sick and those in poor health and to advance public education but not exclusively by:a)promoting the christian ministry of healing and other therapiesb)providing counselling,retreats and both educational and training coursesc)providing pastoral care for the benefit of the whole community | £290,578
+<strong>BRITISH UNION OF SPIRITIST SOCIETIES</strong> [Charity number: [1136512](https://findthatcharity.uk/orgid/GB-CHC-1136512)]<br>Advancement of Religion, Advice and Counselling, Prevention or Relief of Poverty for the Public Benefit, Promotion of Social Inclusion and Promotion of Religious Harmony by:Promoting public lectures and seminars with the objective of the study and dissemination of the moral values of the Spiritist Doctrine which is capable of being advanced for public benefit. | £2,195

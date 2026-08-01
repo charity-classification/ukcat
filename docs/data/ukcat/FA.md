@@ -4,7 +4,7 @@ Facilities is a tag in the [UK-CAT classification](../tag_list.md) of charities 
 UK. It is part of the [Facilities](FA.md) category.
 
 19,535 charities have been tagged with this tag.
-This represents 9.60% of all charities.
+This represents 9.59% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 7,381 | 10.36%
-£10k - £100k | 8,874 | 12.60%
-£100k - £250k | 1,398 | 6.23%
-£250k - £500k | 622 | 5.62%
-£500k - £1m | 285 | 4.09%
-£1m - £10m | 293 | 3.19%
-Over £10m | 35 | 1.56%
-Total | 18,888 | 9.76%
+Under £10k | 7,356 | 10.34%
+£10k - £100k | 8,879 | 12.62%
+£100k - £250k | 1,412 | 6.27%
+£250k - £500k | 626 | 5.63%
+£500k - £1m | 280 | 4.01%
+£1m - £10m | 292 | 3.18%
+Over £10m | 35 | 1.55%
+Total | 18,880 | 9.75%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 17,435 | 10.16%
-oscr | 1,706 | 6.84%
-ccni | 394 | 5.64%
-Total | 19,535 | 9.60%
+ccew | 17,433 | 10.16%
+oscr | 1,708 | 6.84%
+ccni | 394 | 5.63%
+Total | 19,535 | 9.59%
 
 
 ## Ten largest charities (by income)
@@ -53,20 +53,20 @@ Name | Latest income
 <strong>HISTORIC ROYAL PALACES</strong> [Charity number: [1068852](https://findthatcharity.uk/orgid/GB-CHC-1068852)]<br>a)to manage, conserve, renovate and repair the Palaces (Hampton Court, Tower of London, Kensington Palace, Kew Palace, Banqueting House, Hillsborough Castle) to a high standard consistent with their status; b)to help everyone to learn about the Palaces, the skills required for their conservation and the wider story of how monarchs and people together have shaped society, by all appropriate means | £138,596,000
 <strong>THE ROYAL HORTICULTURAL SOCIETY</strong> [Charity number: [222879](https://findthatcharity.uk/orgid/GB-CHC-222879)]<br>The RHS was founded in 1804 to inspire passion and excellence in horticulture.  We want to enrich everyone's life through plants, and make the UK a greener and more beautiful place.  To achieve our aim we undertake scientific research; provide education, training and horticultural advice; support community horticulture projects; and share our renowned gardens and shows with the public. | £124,804,000
 <strong>THE ROYAL PARKS [LIMITED]</strong> [Charity number: [1172042](https://findthatcharity.uk/orgid/GB-CHC-1172042)]<br>We look after eight of London's largest open spaces; Hyde, The Green, Richmond, Greenwich, St James's, Bushy and The Regent's Parks, and Kensington Gardens. We also manage other important open spaces in the capital including Grosvenor Square Garden, Brompton Cemetery, Victoria Tower Gardens, Canning Green and Poet's Corner. | £109,911,000
-<strong>THE WOODLAND TRUST</strong> [Charity number: [294344](https://findthatcharity.uk/orgid/GB-CHC-294344)]<br>Our Objects are to conserve restore & re-establish trees & in particular broad leaved trees, plants and all forms of wildlife & thereby to secure & enhance the enjoyment by the public of the natural environment.Our vision is a UK rich in native woods & trees for people & wildlife. Life's better with trees strengthening the role of  woods & trees in our landscapes & rekindling our love of them. | £89,379,000
+<strong>The Woodland Trust</strong> [Charity number: [SC038885](https://findthatcharity.uk/orgid/GB-SC-SC038885)]<br>The objects of the Trust (the 'Objects') are to conserve restore and re-establish trees and in particular broad leaved trees, plants and all forms of wildlife and thereby to secure and enhance the enjoyment by the public of the natural environment | £89,379,000
 
 
 ## Ten random charities
 
 Name | Latest income
 -----|--------:
-<strong>Milton Community Woodland Trust</strong> [Charity number: [SC054609](https://findthatcharity.uk/orgid/GB-SC-SC054609)]<br>4	The organisation has been formed to benefit the community of Milton Village and Easter Ross (“the Community”), with the Purposes listed in clause 5 below (“the Purposes”), to be exercised following the principles of sustainable development (where sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their own needs). 5	The organisation’s purposes are: a)	Primarily, To advance environmental protection and improvement of Milton Woodlands, including but not limited to: i.	Conservation, protection and enhancement of the natural environment. ii.	Maintenance, improvement or provision of environmental amenities for the Community. and iii.	The preservation of buildings or sites of architectural, historic or other importance to the Community. b)	Secondarily, To facilitate recreational and educational activities for members of the Community and the public, with the object of improving the conditions of life for the Community. | 
-<strong>JAMIA MASJID BILAL AND COMMUNITY CENTRE</strong> [Charity number: [1039448](https://findthatcharity.uk/orgid/GB-CHC-1039448)]<br>Promoting & providing facilities for Islamic religion.Providing facilities in the interest of social welfare & leisure time activities for the people of Wolverhampton. | £240,108
-<strong>Aakhirah Community Trust</strong> [Charity number: [1217000](https://findthatcharity.uk/orgid/GB-CHC-1217000)]<br>TO RELIEVE POVERTY, FINANCIAL HARDSHIP AND SOCIAL AND ECONOMIC DISADVANTAGE FOR THE PUBLIC BENEFIT AMONG RESIDENTS OF LEICESTER AND ITS SURROUNDING AREAS, PARTICULARLY THOSE WHO ARE ELDERLY, DISABLED, OR OTHERWISE VULNERABLE.IN FURTHERANCE OF THESE OBJECTS, THE CIO WILL:? PROVIDE PRACTICAL ASSISTANCE, SUPPORT AND SERVICES TO INDIVIDUALS IN NEED, INCLUDING HELP WITH ACCESS TO ESSENTIAL GOODS AND COMMUNITY FACILITIES;? ARRANGE OR FUND TRANSPORT TO ENABLE ELDERLY, DISABLED OR VULNERABLE INDIVIDUALS TO ACCESS COMMUNITY CENTRES AND PARTICIPATE IN COMMUNITY LIFE;? SUPPORT THE DELIVERY OF ESSENTIAL ITEMS, INCLUDING GROCERIES, TO THOSE UNABLE TO ACCESS THEM INDEPENDENTLY DUE TO AGE, DISABILITY OR HARDSHIP;? WORK THROUGH TRUSTED LOCAL NETWORKS, PARTNERS AND COMMUNITY ORGANISATIONS TO PROVIDE SAFE AND SUPPORTIVE ENVIRONMENTS FOR VULNERABLE INDIVIDUALS;? PROVIDE FINANCIAL ASSISTANCE OR SUPPORT TO ORGANISATIONS AND PARTNERS DELIVERING SERVICES THAT ALIGN WITH THESE OBJECTS. | 
-<strong>Cladh Hallan Association</strong> [Charity number: [SC042978](https://findthatcharity.uk/orgid/GB-SC-SC042978)]<br>2. The association's objects are: (a) To conserve and maintain, operate and manage Hallan Cemetery and its memorials, gravesites, tombs, cemetery wall, and other historic features for the benefit of the Community. (b) To advance the education of the public by making available the burial records of the lives of those buried in Hallan Cemetery by collecting and preserving the genealogy, heritage and culture of the lives of the inhabitants of South Uist and related areas through the ages by maintaining a Cemetery website. | £14,099
-<strong>RIVINGTON HERITAGE TRUST</strong> [Charity number: [1064700](https://findthatcharity.uk/orgid/GB-CHC-1064700)]<br>To consult with stakeholders on the use and development of Rivington Terraced Gardens for the benefit of the public and the environment.The objects of the Trust shall be to:-(i) conserve, preserve, maintain, protect and enhance for the benefit of the public all beneficial aspects and features of the environment of land and structures of outstanding natural beauty or of historic or architec | £297,591
-<strong>SCOULTON VILLAGE HALL</strong> [Charity number: [803173](https://findthatcharity.uk/orgid/GB-CHC-803173)]<br>The Village Hall is available for hire to residents of the village of Scoulton and its surrounding area. | £3,139
-<strong>THE SHAFTESBURY COMMUNITY ASSOCIATION</strong> [Charity number: [285919](https://findthatcharity.uk/orgid/GB-CHC-285919)]<br>The trust has a small community hall in North Shaftesbury for the benefit of the local groups of the town, particulary those who live and/or work North of the A30/A350 road. It is also used for social occasions, clubs and family gatherings. | £6,482
-<strong>ALCESTER WAR MEMORIAL TOWN HALL CIO</strong> [Charity number: [1183360](https://findthatcharity.uk/orgid/GB-CHC-1183360)]<br>Preservation and maintenance of Alcester War Memorial Town Hall.  Financed by renting out the Hall for events. | £21,529
-<strong>REDE VILLAGE HALL</strong> [Charity number: [273479](https://findthatcharity.uk/orgid/GB-CHC-273479)]<br>Fundraising to maintain village hall for benefit of all village. | £5,748
-<strong>MILNSBRIDGE VILLAGE HALL</strong> [Charity number: [1172735](https://findthatcharity.uk/orgid/GB-CHC-1172735)]<br>The Village Hall is maintained by our charity to provide activities compatible with our charity aims. Includes running groups for the good of the local community, such as friendship groups,  events such as seasonal fairs, entertainment eg ceilidh, coffee mornings, music,  Christmas day dinner for those who may be alone. Hall is hired out for activities such  dance, yoga, zumba, pilates,kurling,etc | £25,803
+<strong>NETHERFIELD VILLAGE HALL AND RECREATION GROUND</strong> [Charity number: [305284](https://findthatcharity.uk/orgid/GB-CHC-305284)]<br>Provision of Village Hall | 
+<strong>SOUTH WEALD PARISH HALL</strong> [Charity number: [301404](https://findthatcharity.uk/orgid/GB-CHC-301404)]<br>South Weald Parish Hall provides facilities for all ages in the Brentwood , Essex area. Such facilities include fitness and dance classes,childrens groups, Brownies, Drama groups and childrens parties. | £25,405
+<strong>BRAINTREE AND BOCKING RECREATION GROUNDS</strong> [Charity number: [301262](https://findthatcharity.uk/orgid/GB-CHC-301262)]<br>The charity provides facilities for recreation and sports for use by the People of Braintree. This comprises sports fields, hard courts and Gym areas. The Charity currently hosts several local football teams, an armature boxing club and a martial arts club on a regular basis. | £200
+<strong>WOMEN'S INSTITUTE - THORVERTON</strong> [Charity number: [229868](https://findthatcharity.uk/orgid/GB-CHC-229868)]<br>We hold regular educational meetings for members where Speakers talk on a variety of subjects. We also hold community focussed events such as Saturday market and Sunday brunch as well as weekly Chatter Cafe and Soup Club offering affordable meals, companionship and informal support.  Our premises are available for hire, such as history society talks. | £3,176
+<strong>STOKENHAM VILLAGE GREEN ASSOCIATION</strong> [Charity number: [1090879](https://findthatcharity.uk/orgid/GB-CHC-1090879)]<br>To maintain the village green as a amenity for the parishoners of stokenham parish | £1,300
+<strong>STEWARTS BURNBY HALL GARDENS AND MUSEUM TRUST CIO</strong> [Charity number: [1155844](https://findthatcharity.uk/orgid/GB-CHC-1155844)]<br>The object of the Trust is the provision and maintenance of Burnby Hall Gardens and Museum as a public park, ornamental gardens and museum for the benefit of the inhabitants of Pocklington and the neighbourhood for the purpose of improving the conditions of life for the said inhabitants. | £721,727
+<strong>WARWICKSHIRE RURAL COMMUNITY COUNCIL</strong> [Charity number: [1081017](https://findthatcharity.uk/orgid/GB-CHC-1081017)]<br>WRCC has many contacts in communities.  Our ethos is to build the capacity of local communities, whilst ensuring that rural community life is protected and enhanced.  Our staff work with communities in a number of ways, ranging from advising village hall committees to promoting sustainable rural economic development to   enabling effective consultation with rural communities | £1,060,932
+<strong>SHAHJALAL COMMUNITY CENTRE</strong> [Charity number: [1132107](https://findthatcharity.uk/orgid/GB-CHC-1132107)]<br>Community work | £186,508
+<strong>CHITTERNE VILLAGE HALL</strong> [Charity number: [305489](https://findthatcharity.uk/orgid/GB-CHC-305489)]<br>Provision of Village Hall for benefit of residents of Chitterne | £10,310
+<strong>PUBLIC PLEASURE OR RECREATION GROUND</strong> [Charity number: [523716](https://findthatcharity.uk/orgid/GB-CHC-523716)]<br>Sport & Recreation | 
