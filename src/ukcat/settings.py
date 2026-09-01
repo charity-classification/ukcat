@@ -62,4 +62,4 @@ CCNI_DATA = "https://www.charitycommissionni.org.uk/api/charity-search/exportSea
 CCNI_ACTIVITIES_CSV = "./data/ccni_activities.csv"
 
 # Community Interest Company (CIC) data
-CIC_DATA = "https://github.com/uk-third-sector-database/tso-database-builder/raw/refs/heads/main/tcss-cic36-forms-Feb2026.zip?download="
+CIC_DATA = "https://github.com/uk-third-sector-database/tso-database-builder/raw/refs/heads/main/tcss-cic-statements-Jul2026.zip?download="
