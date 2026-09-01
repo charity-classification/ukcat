@@ -1,6 +1,8 @@
+from __future__ import annotations
+
 import os
 import pickle
-from typing import Optional, Sequence
+from typing import Sequence
 
 import click
 import pandas as pd
@@ -73,7 +75,7 @@ def apply_icnptso(
     id_field: str,
     name_field: str,
     fields_to_use: Sequence[str],
-    save_location: Optional[str],
+    save_location: str | None,
     sample: int,
     add_names: bool,
     manual_files: Sequence[str],

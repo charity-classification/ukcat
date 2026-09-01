@@ -53,11 +53,11 @@ def fetch_cics(
                 with z.open(f) as csvfile:
                     cics = pd.read_csv(csvfile)
 
-    csv_config = dict(
-        index=False,
-        date_format="%Y-%m-%d",
-        float_format="%d",
-    )
+    csv_config = {
+        "index": False,
+        "date_format": "%Y-%m-%d",
+        "float_format": "%d",
+    }
     for f in CIC_FIELDS:
         cics.loc[:, f] = cics[f].fillna("").str.replace("\n", " ")
 

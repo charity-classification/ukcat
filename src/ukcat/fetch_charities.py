@@ -249,11 +249,11 @@ def fetch_charities(
         ]
     )
 
-    csv_config = dict(
-        index=False,
-        date_format="%Y-%m-%d",
-        float_format="%d",
-    )
+    csv_config = {
+        "index": False,
+        "date_format": "%Y-%m-%d",
+        "float_format": "%d",
+    }
     for f in ["activities", "objects"]:
         charities.loc[:, f] = charities[f].fillna("").str.replace("\n", " ")
 

@@ -14,7 +14,7 @@ TOP2000_FILE = os.path.join(DATA_DIR, "top2000.csv")
 MANUAL_ADJUSTMENTS_FILE = os.path.join(DATA_DIR, "manual_adjustments.csv")
 
 # regexes for use in machine learning models and text cleaning
-REPLACE_BY_SPACE_RE = re.compile("[/(){}\[\]\|@,;]")
+REPLACE_BY_SPACE_RE = re.compile(r"[/(){}\[\]\|@,;]")
 BAD_SYMBOLS_RE = re.compile("[^0-9a-z #+_]")
 ADDITIONAL_STOPWORDS = [
     "trust",

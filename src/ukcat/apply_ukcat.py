@@ -1,4 +1,6 @@
-from typing import Optional, Sequence
+from __future__ import annotations
+
+from typing import Sequence
 
 import click
 import pandas as pd
@@ -58,7 +60,7 @@ def apply_ukcat(
     id_field: str,
     name_field: str,
     fields_to_use: Sequence[str],
-    save_location: Optional[str],
+    save_location: str | None,
     sample: int,
     add_names: bool,
     include_groups: bool,

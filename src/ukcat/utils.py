@@ -22,4 +22,4 @@ def regnumber_to_orgid(reg_number: str) -> str:
         return "GB-NIC-{}".format(re.sub("[^0-9]", "", reg_number))
     if reg_number.startswith("S"):
         return "GB-SC-SC{}".format(re.sub("[^0-9]", "", reg_number).zfill(6))
-    return "GB-CHC-{}".format(reg_number)
+    return f"GB-CHC-{reg_number}"

@@ -7,15 +7,13 @@ name = "ukcat"
 dynamic = ["version"]
 description = 'This repository is the home of the UK Charity Activity Tags, a project to classify every UK registered charity using two classification taxonomies.'
 readme = "readme.md"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 license = "MIT"
 keywords = []
 authors = [{ name = "David Kane", email = "david@dkane.net" }]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python",
-  "Programming Language :: Python :: 3.8",
-  "Programming Language :: Python :: 3.9",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",

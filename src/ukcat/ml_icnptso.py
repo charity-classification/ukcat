@@ -1,5 +1,7 @@
+from __future__ import annotations
+
 import pickle
-from typing import Optional, Sequence
+from typing import Sequence
 
 import click
 import nltk
@@ -95,7 +97,7 @@ def create_ml_model(
     sample_files: Sequence[str],
     fields: Sequence[str],
     category_field: str,
-    save_location: Optional[str],
+    save_location: str | None,
 ) -> Pipeline:
     # create the sample dataframe
     df = pd.concat([pd.read_csv(f) for f in sample_files]).reset_index()
@@ -103,7 +105,7 @@ def create_ml_model(
     # select the rows where ICNPTSO is not null
     df = df[df[category_field].notnull()]
 
-    click.echo("Loaded sample dataset [{:,.0f} rows]".format(len(df)))
+    click.echo(f"Loaded sample dataset [{len(df):,.0f} rows]")
 
     # `y` is the ICNPTSO code attached to the charity.
     y = df[category_field].values
@@ -116,8 +118,8 @@ def create_ml_model(
         X, y, test_size=ML_TEST_TRAIN_SIZE, random_state=ML_RANDOM_STATE
     )
     click.echo("Split into test and training data")
-    click.echo(" - {:,.0f} test rows".format(len(X_test)))
-    click.echo(" - {:,.0f} training rows".format(len(X_train)))
+    click.echo(f" - {len(X_test):,.0f} test rows")
+    click.echo(f" - {len(X_train):,.0f} training rows")
 
     # create the training pipeline
     click.echo("Creating training pipeline")
@@ -134,10 +136,10 @@ def create_ml_model(
     click.echo("Testing model accuracy")
     y_pred = nb.predict(X_test)
 
-    click.echo("Accuracy: {:.4f}".format(accuracy_score(y_pred, y_test)))
+    click.echo(f"Accuracy: {accuracy_score(y_pred, y_test):.4f}")
 
     if save_location:
-        click.echo("Saving model to [{}]".format(save_location))
+        click.echo(f"Saving model to [{save_location}]")
         with open(save_location, "wb") as model_file:
             pickle.dump(nb, model_file)
 
