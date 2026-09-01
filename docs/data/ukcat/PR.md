@@ -3,7 +3,7 @@
 Professions is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Professions](PR.md) category.
 
-1,291 charities have been tagged with this tag.
+1,290 charities have been tagged with this tag.
 This represents 0.63% of all charities.
 
 ## Keywords to find charities
@@ -21,23 +21,23 @@ The regular expression used to find charities in this tag is:
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
 Under £10k | 459 | 0.65%
-£10k - £100k | 401 | 0.57%
-£100k - £250k | 154 | 0.68%
-£250k - £500k | 72 | 0.65%
-£500k - £1m | 47 | 0.67%
-£1m - £10m | 78 | 0.85%
+£10k - £100k | 398 | 0.57%
+£100k - £250k | 153 | 0.68%
+£250k - £500k | 74 | 0.66%
+£500k - £1m | 46 | 0.66%
+£1m - £10m | 80 | 0.87%
 Over £10m | 47 | 2.08%
-Total | 1,258 | 0.65%
+Total | 1,257 | 0.65%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 1,114 | 0.65%
+ccew | 1,113 | 0.65%
 oscr | 130 | 0.52%
 ccni | 47 | 0.67%
-Total | 1,291 | 0.63%
+Total | 1,290 | 0.63%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>REGINALD HUNT NECESSITOUS CLERGY FUND</strong> [Charity number: [216329](https://findthatcharity.uk/orgid/GB-CHC-216329)]<br>Provision of grants to members of the Clergy in need | 
-<strong>EAST ANGLIA DIOCESE DEPENDENT PRIESTS' FUND</strong> [Charity number: [1102707](https://findthatcharity.uk/orgid/GB-CHC-1102707)]<br>Financial support to sick and dependent priests in the Diocese of East Anglia | £100,381
-<strong>WARWICKSHIRE MINERS' WELFARE TRUST FUND SCHEME</strong> [Charity number: [519724](https://findthatcharity.uk/orgid/GB-CHC-519724)]<br>The trust makes grants to those who work in, or have worked in, the coal mining industry and are suffering hardship, it also supports organisations in coalfield areas/communities | £22,828
-<strong>RENISHAW MINERS WELFARE TRUST</strong> [Charity number: [520499](https://findthatcharity.uk/orgid/GB-CHC-520499)]<br>Social activities for local people and families in the communities of Renishaw and Spinkhill including support for local football teams, golf sections,  fishing club and children's entertainment IE parties at Christmas/easter/Halloween with help & support to local seniors outings/day trips | £52,865
-<strong>THE BISHOP INGLE HOLIDAY TRUST</strong> [Charity number: [207523](https://findthatcharity.uk/orgid/GB-CHC-207523)]<br>To assist in the provision of holidays in the interests of social welfare for clergy, ordinands and lay workers of the Church of England and their families. | £24,374
-<strong>STAKEFORD AND BOMARSUND MINER'S WELFARE SCHEME</strong> [Charity number: [522038](https://findthatcharity.uk/orgid/GB-CHC-522038)]<br>Operating throughout the Choppington Parish, the Welfare provides sporting, social and community facilities. With three pitches and a multi user games area, the Welfare acts as a sporting hub for the wider community and provides expert coaching for cricket, football & bowls.Open on a daily basis and run entirely by volunteers we provide a home for many local voluntary organisations and clubs. | £107,858
-<strong>NEVEREST ORTHOPAEDICS FOUNDATION</strong> [Charity number: [1167446](https://findthatcharity.uk/orgid/GB-CHC-1167446)]<br>1. Sending a team of UK Surgeons & Theatre  Nurses to Nepal to treat sick patients & educate Nepali surgeons/hospital staff about best orthopaedic practice 2. to support a Nepali orphanage 3. to pay Nepali orphans' school fees | £11,603
-<strong>FRATERNITAS SACERDOTALIS SANCTI PETRI LIMITED</strong> [Charity number: [1129964](https://findthatcharity.uk/orgid/GB-CHC-1129964)]<br>Pastoral support to laity and clergy in England and Wales, through parochial ministry, retreats, training sessions, publications, pilgrimages and spiritual guidance. Special charism: the Extraordinary Form of the Roman rite (Roman Catholic Church). | £504,991
-<strong>DUDLEY MINERS RECREATION GROUND</strong> [Charity number: [1087509](https://findthatcharity.uk/orgid/GB-CHC-1087509)]<br>AN OPEN SPACE FOR THE INHABITANTS OF DUDLEY AND THE NEIGHBOURHOOD THEREOF | 
-<strong>CELYNEN COLLIERIES INSTITUTE AND MEMORIAL HALL LIMITED (COMPANY NO. 07295916)</strong> [Charity number: [1137112](https://findthatcharity.uk/orgid/GB-CHC-1137112)]<br>The object of the charity is the provision of an institute and memorial hall for the benefit of the inhabitants (as are members of the mining community) of Newbridge and surrounding area with the object of improving the conditions of life for the said inhabitants. Also, the promotion of education by the preservation of buildings or sites of historic or architectural importance. | £198,882
+<strong>BRYNNA MINERS WELFARE GROUND ASSOCIATION</strong> [Charity number: [1046306](https://findthatcharity.uk/orgid/GB-CHC-1046306)]<br>HOLDING OF AN OPEN SPACE AS AN ENDOWMENT | 
+<strong>FEDERATION OF CATHOLIC PRIESTS</strong> [Charity number: [251477](https://findthatcharity.uk/orgid/GB-CHC-251477)]<br>As a support and resource group for clergy, FCP arranges an annual pilgrimage/conference. This takes place at Walsingham with speakers each giving a lecture each on various aspects of priestly tasks. A number of study days have been organised in different parts of the country focussing on priestly formation and clergy education, it is hoped that a larger number of priests will be able to attend. | £831
+<strong>WHARNCLIFFE WOODMOOR MINERS' WELFARE SCHEME</strong> [Charity number: [523537](https://findthatcharity.uk/orgid/GB-CHC-523537)]<br>RECREATION GROUND FOR PROVIDING FACILITIES FOR PHYSICAL TRAINING AND RECREATION | £27,451
+<strong>BRIGHOUSE WAR MEMORIAL (NURSES' ENDOWMENT) FUND</strong> [Charity number: [224587](https://findthatcharity.uk/orgid/GB-CHC-224587)]<br>To provide financial assistance to people in need who reside in the former Borough of Brighouse | £6,696
+<strong>WEST MIDLANDS 4X4 RESPONSE</strong> [Charity number: [1190329](https://findthatcharity.uk/orgid/GB-CHC-1190329)]<br>Assisting the emergency services and local communities in West Midlands, Shropshire, Staffordshire, Warwickshire by providing logistical support. Volunteer drivers donate their time and vehicles to assist in times of need. We provide critical transport when contingency plans fail - such as the transport of nurses through snow to get to patients. We are able to transport people or equipment. | £14,141
+<strong>WEST HAMPSTEAD WOMEN'S CENTRE</strong> [Charity number: [1085824](https://findthatcharity.uk/orgid/GB-CHC-1085824)]<br>We provide safe and supportive space for all women to meet and reduce isolation; activities aimed towards preventative health, education and Crisis Intervention; Asian and Somali women's group, Irish women's support group, Rape and Sexual Assualt Group,Nurse,CAB surgery,Asian Women's Health Calendar,Workshops, Volunteer's Project, Gardening Project, Massage, Cancer support Classes and Events. | £154,944
+<strong>MAC KEITH PRESS</strong> [Charity number: [1086014](https://findthatcharity.uk/orgid/GB-CHC-1086014)]<br>Mac Keith Press publishes information on child neurodisability & developmental medicine in order to advance understanding, treatment & care of children with disabilities. Primarily aimed at a health orientated audience of therapists, doctors, nurses and health workers, publications are also of interest to psychologists, special teachers & others involved in the care of children with disabilities. | £698,517
+<strong>JACKSDALE MINERS WELFARE RECREATION GROUND</strong> [Charity number: [504717](https://findthatcharity.uk/orgid/GB-CHC-504717)]<br>provide sports and social activities for the community | 
+<strong>SHILBOTTLE MINERS' WELFARE RECREATION GROUND</strong> [Charity number: [522133](https://findthatcharity.uk/orgid/GB-CHC-522133)]<br>Provision and maintenance of a village hall and recreational ground. | £4,460
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST MARK, REGENT'S PARK</strong> [Charity number: [1133861](https://findthatcharity.uk/orgid/GB-CHC-1133861)]<br>St Mark's Church offers regular public worship which is open to all. It provides a sacred space for prayer and contemplation. Chiefly through the activities of the vicar, it engages in pastoral work, including visiting the sick and bereaved. Christianity is taught through sermons and  courses. The church also supports other charities in the UK and overseas. | £276,610

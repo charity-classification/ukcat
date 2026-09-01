@@ -3,8 +3,8 @@
 Arts is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Arts](AR.md) category.
 
-29,716 charities have been tagged with this tag.
-This represents 14.59% of all charities.
+29,759 charities have been tagged with this tag.
+This represents 14.60% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,578 | 13.46%
-£10k - £100k | 11,542 | 16.41%
-£100k - £250k | 2,961 | 13.15%
-£250k - £500k | 1,558 | 14.01%
-£500k - £1m | 970 | 13.90%
-£1m - £10m | 1,185 | 12.91%
-Over £10m | 259 | 11.48%
-Total | 28,053 | 14.49%
+Under £10k | 9,557 | 13.44%
+£10k - £100k | 11,593 | 16.47%
+£100k - £250k | 2,954 | 13.09%
+£250k - £500k | 1,563 | 14.03%
+£500k - £1m | 975 | 13.96%
+£1m - £10m | 1,187 | 12.92%
+Over £10m | 257 | 11.37%
+Total | 28,086 | 14.51%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 23,654 | 13.78%
-oscr | 4,702 | 18.83%
-ccni | 1,360 | 19.43%
-Total | 29,716 | 14.59%
+ccew | 23,684 | 13.79%
+oscr | 4,715 | 18.87%
+ccni | 1,360 | 19.40%
+Total | 29,759 | 14.60%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>DOVE MINISTRIES</strong> [Charity number: [292591](https://findthatcharity.uk/orgid/GB-CHC-292591)]<br>Promotion of Christian faith through book distribution and allied activities. | 
-<strong>THE ELLESMERE PORT AND NESTON TALKING NEWSPAPER FOR THE VISUALLY IMPAIRED</strong> [Charity number: [508588](https://findthatcharity.uk/orgid/GB-CHC-508588)]<br>Providing memory sticks and on-line/smartphone application access to our Talking Newspaper for the blind & partially sighted. | £831
-<strong>CLOVEN TONGUES OF FIRE MINISTRY UK</strong> [Charity number: [1203889](https://findthatcharity.uk/orgid/GB-CHC-1203889)]<br>(A) TO ADVANCE THE CHRISTIAN RELIGION FOR THE BENEFIT OF THE PUBLIC IN THE UNITED KINGDOM AND ELSEWHERE IN ACCORDANCE WITH THE DOCTRINES SET OUT IN HOLY BIBLE, THROUGH: I. THE HOLDING OF PRAYER MEETINGS; BROADCASTING OF CHRISTIAN MESSAGES OF AN EVANGELISTIC AND TEACHING NATURE, PUBLIC CELEBRATION OF RELIGIOUS FESTIVALS, PRODUCING AND/OR DISTRIBUTING LITERATURE ON THE CHRISTIAN FAITH AND ENLIGHTENING OTHERS ABOUT CHRISTIANITY. II. THE PROVISION OF PASTORAL CARE IN THE COMMUNITIES THAT WE SERVE. THIS INCLUDES CARRYING OUT EVANGELISTIC AND COMMUNITY OUTREACH WORK IN THE COMMUNITY THAT IS BENEFICIAL TO THEIR SOCIAL WELL-BEING; SUCH AS HOLDING EVENTS, CREATING AND CIRCULATING RESOURCES AIMED AT EMPOWERING THE COMMUNITY AND SUPPORTING OTHER CHRISTIAN MINISTRIES WITH DEDICATED RESOURCES FOR MISSIONARY ACTIVITIES.B) THE PREVENTION OR RELIEF OF POVERTY AND THE RELIEF OF FINANCIAL HARDSHIP BY PROVIDING GRANTS, ITEMS AND SERVICES TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS WORKING TO PREVENT OR RELIEVE POVERTY. | £500
-<strong>Culture, Heritage, and Arts Assembly, Argyll and The Isles  </strong> [Charity number: [SC049113](https://findthatcharity.uk/orgid/GB-SC-SC049113)]<br>4 The organisation's purposes are the advancement of the arts, heritage and culture practioners within Argyll and Bute through: 4.1 developing as cultural and heritage practitioners and organisations by working co-operatively and in partnership with others. 4.2 developing and utilising effective communication across geographic and sectoral boundaries. 4.3 co-operatively growing our audiences and customers by marketing ourselves and others locally, nationally and internationally. 4.4 developing and delivering partnership projects that will excite, educate and entertain our communities and our visitors. and 4.5 accessing and sharing resources and training in order to bring culture and heritage to a wider audience.  | £178,091
-<strong>THE GUILD CHURCH COUNCIL OF THE GUILD CHURCH OF ST DUNSTAN-IN-THE-WEST, FLEET STREET, LONDON</strong> [Charity number: [1203990](https://findthatcharity.uk/orgid/GB-CHC-1203990)]<br>St Dunstan's serves the non resident day-time population around Fleet Street. The church holds weekly Holy Communion services in the Anglo-Catholic tradition of the church of England at 12.30pm on Tuesdays & regular concerts on Wednsdays. St Dunstan's also hosts the Romanian Orthodox congregation, local choirs and musicians. The church is open to visitors and private prayer on weekdays. | £181,421
-<strong>FRIENDS OF ATHERSTONE HERITAGE</strong> [Charity number: [1066922](https://findthatcharity.uk/orgid/GB-CHC-1066922)]<br>To demonstrate and celebrate the history and art of Atherstone and the surrounding villages. | £2,017
-<strong>THE ECCLESIASTICAL HISTORY SOCIETY</strong> [Charity number: [1053883](https://findthatcharity.uk/orgid/GB-CHC-1053883)]<br>To advance public education in Ecclesiastical History, mainly through conferences and publications. | £44,601
-<strong>SOUTH ESSEX AFRICAN CARIBBEAN ASSOCIATION</strong> [Charity number: [1190932](https://findthatcharity.uk/orgid/GB-CHC-1190932)]<br>The purpose of, South African Caribbean Association (SEACA) is to advance the education of the public, in the arts, crafts, culture, history and heritage of the African Caribbean community in Britain.We celebrate and share, African and Caribbean culture, acknowledging the traditions through different medias, be it education, film, music etc.The principal office of the CIO is in Southend, Essex | £590
-<strong>KIRTLING POOR'S LAND CHARITY</strong> [Charity number: [239247](https://findthatcharity.uk/orgid/GB-CHC-239247)]<br>Charity operates within the education area of Kirtling (Primary School situated at Cheveley).  Books and other aids for Religious teaching in Scholl.  Also consideration for grants for the elderly, if need should arise. | £1,149
-<strong>RADLETT THEATRE COMPANY</strong> [Charity number: [296407](https://findthatcharity.uk/orgid/GB-CHC-296407)]<br>To promote the advancement and improvement of general education in relation to all aspects of the Art of Drama and the public appreciation of such Art | £712
+<strong>THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF HOLY TRINITY, STEVENAGE</strong> [Charity number: [1131873](https://findthatcharity.uk/orgid/GB-CHC-1131873)]<br>Regular public worship open to all.The provision of sacred space for personal prayer and contemplation.Pastoral work, including visiting the sick and bereaved.Teaching Christianity through sermons, courses and small groups.Promotion of Christianity through the staging of events and meetings, and the distribution of literature.Supporting other charities in the UK and overseas. | £125,097
+<strong>Forres Highland Games</strong> [Charity number: [SC046639](https://findthatcharity.uk/orgid/GB-SC-SC046639)]<br>The organisation's purposes are: 4.1 The advancement of public participation in sport and the advancement of the arts, heritage and culture, through promoting and convening an annual Highland Games in Forres (include music, Highland dancing and other cultural events). | £70,442
+<strong>CHANDLERS FORD WOMENS INSTITUTE</strong> [Charity number: [1020604](https://findthatcharity.uk/orgid/GB-CHC-1020604)]<br>Educational Talks, Craft Group, Choir, Attend Workshops, Discuss Resolutions, Support Campains,  Hold Social Events,  Support Local Community Projects. | £1,923
+<strong>HEATON ST BARNABAS VILLAGE HALL</strong> [Charity number: [523505](https://findthatcharity.uk/orgid/GB-CHC-523505)]<br>Provides accommodation for various activities in the community such as "parent and toddlers", art (painting) club, youth club, private parties, Shalom Pentecostal Church.This hall is managed by the Parish of Girlington, Heaton and Manninghamhttps://bradfordwest.church/bookings/ | £8,195
+<strong>BANNER THEATRE COMPANY LIMITED</strong> [Charity number: [510316](https://findthatcharity.uk/orgid/GB-CHC-510316)]<br>Developing community theatre productions based on interviews with disadvantaged communities, touring these productions throughout the country, and running workshops using materials based on the productions. | £24,037
+<strong>POTENTIAL DIFFERENCE THEATRE</strong> [Charity number: [1166204](https://findthatcharity.uk/orgid/GB-CHC-1166204)]<br>Potential Difference is a theatre company that uses storytelling to insprie, excite and engage people with ideas from science, philosophy and technology. We strive to create experiences that are expose people to new ideas in thrilling and accessible ways, and challenge the divide between science and the arts. We also lead talks, seminars and workshops for the public, and in educational settings | £72,162
+<strong>Thomson Charitable Trust</strong> [Charity number: [SC010317](https://findthatcharity.uk/orgid/GB-SC-SC010317)]<br>The said Trustees are directed after payment of the whole expenses of administration of the Trust created to apply the whole or such part of the income of the Trust Estate or even of the capital thereof as the Trustees may in their sole discretion decide to such existing or future charitable institutions, societies, associations, objects and/or indigent persons and without prejudice thereto the said Trustees shall have power to contribute, promote, further or otherwise benefit such charitable purposes connected with education and/or music and/or any sphere whatsoever of the arts generally as they may in their sole discretion think fit, subject always, however, to the fact that any payment of any kind made by the said Trustees as herein directed shall only be to institutions, societies, associations, objects, indigent persons and/or other bodies which the law prevailing at the time of payment would regard as charitable. | £109,802
+<strong>AFRICA OYE</strong> [Charity number: [1062484](https://findthatcharity.uk/orgid/GB-CHC-1062484)]<br>The principal activity of the company is to promote concerts and festivals to celebrate the cultural heritage and music of Africa, the Caribbean and the Americas.  Africa Oye has an international reputation for world class performances. | £550,234
+<strong>BIRMINGHAM CONTEMPORARY MUSIC GROUP</strong> [Charity number: [1001474](https://findthatcharity.uk/orgid/GB-CHC-1001474)]<br>The Charity was established to advance the education of the public by promoting and developing the artistic taste, knowledge, understanding and appreciation of contemporary music. | £629,672
+<strong>FRIENDS OF HERTFORDSHIRE COUNTY YOUTH MUSIC GROUPS</strong> [Charity number: [312150](https://findthatcharity.uk/orgid/GB-CHC-312150)]<br>Financial support for the musical activities of the members of Hertfordshire County Youth Music Groups e.g. for attendance at courses or for instrument use. From 21st October 2009 incorporated the Brenda Kitchingman Foundation, also known as BKF, which functions within the framework and objectives of the Friends. | £3,511

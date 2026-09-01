@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-83,820 charities have been tagged with this tag.
-This represents 41.16% of all charities.
+83,909 charities have been tagged with this tag.
+This represents 41.18% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,858 | 39.16%
-£10k - £100k | 27,949 | 39.73%
-£100k - £250k | 9,562 | 42.48%
-£250k - £500k | 4,796 | 43.13%
-£500k - £1m | 3,185 | 45.65%
-£1m - £10m | 4,427 | 48.23%
-Over £10m | 1,210 | 53.63%
-Total | 78,987 | 40.81%
+Under £10k | 27,858 | 39.19%
+£10k - £100k | 27,976 | 39.74%
+£100k - £250k | 9,544 | 42.29%
+£250k - £500k | 4,815 | 43.23%
+£500k - £1m | 3,200 | 45.83%
+£1m - £10m | 4,425 | 48.18%
+Over £10m | 1,211 | 53.58%
+Total | 79,029 | 40.82%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 68,563 | 39.94%
-oscr | 12,498 | 50.04%
-ccni | 2,759 | 39.41%
-Total | 83,820 | 41.16%
+ccew | 68,632 | 39.95%
+oscr | 12,519 | 50.09%
+ccni | 2,758 | 39.34%
+Total | 83,909 | 41.18%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>SWINDON HINDU TEMPLE TRUST</strong> [Charity number: [1158603](https://findthatcharity.uk/orgid/GB-CHC-1158603)]<br>Swindon Hindu Temple is a place for Hindu worship and community cohesion, and caters for the religious, social, spiritual, cultural and educational needs of the Hindu community in particular and other communities in general in and around the borough of Swindon, Wiltshire. | £41,782
-<strong>EAST ALLINGTON PRIMARY SCHOOL PTFA</strong> [Charity number: [1172412](https://findthatcharity.uk/orgid/GB-CHC-1172412)]<br>We are a primary school parent, teacher and friends association, raising money to provide facilities and equipment for the school. | £13,746
-<strong>Lochaber Pride / Pròis Loch Abair [SCIO]</strong> [Charity number: [SC052441](https://findthatcharity.uk/orgid/GB-SC-SC052441)]<br>The mission of Lochaber Pride / Pròis Loch Abair is to enhance and sustain the well-being of the LGBTQ+ and allied communities by providing programs and services that cultivate community. advocate for LGBTQ+ interests. educate and empower, and provide social support. We promote unity, inclusion, and awareness of sexual and gender diversity and aim to create a sense of community and safe spaces for LGBTQ individuals, their families and their allies. We are committed to providing cultural, artistic, social and educational events which affirm the lives of lesbian, gay, bisexual, transsexual, transgender and queer people and our allies and supporters throughout Lochaber. | £391
-<strong>FRIENDS OF STANFORD SCHOOL</strong> [Charity number: [1158396](https://findthatcharity.uk/orgid/GB-CHC-1158396)]<br>KS1 & KS2 Discos (1 each term)Winter Wonderland & Ice SkatingChristmas HampersQuiz NightFun RunSummer FeteRefreshments for Stanford's Got Talent & Sports Day | £11,008
-<strong>MILBORNE PORT PRIMARY SCHOOL P T F A</strong> [Charity number: [1004250](https://findthatcharity.uk/orgid/GB-CHC-1004250)]<br>Christmas/Summer fayre. Raffles. Sponsored events. School discos. | £7,401
-<strong>JAMIA MOSQUE ANWAR-UL-LOOM TRUST</strong> [Charity number: [1103529](https://findthatcharity.uk/orgid/GB-CHC-1103529)]<br>Charitys provides following activities, evening and weeekend classes for children education in arabic and urdu language, holds special gathering for islamic calender days.etc | £506,659
-<strong>BLACKDOWN  ACAPELLA</strong> [Charity number: [1216584](https://findthatcharity.uk/orgid/GB-CHC-1216584)]<br>Blackdown Acapella is a vocal harmony chorus made up of women of all ages. The chorus is registered with LABBS, ladies Association of British barbershop singers. The chorus sings in a four part harmony with no instrumental accompaniment. The chorus preforms for local events, charities and in competitions across the country. Blackdown Acapella run educational programs for those wishing to join. | 
-<strong>STRATFORD ST. MARY CHAPEL</strong> [Charity number: [1153673](https://findthatcharity.uk/orgid/GB-CHC-1153673)]<br>Stratford St Mary Christian Fellowship is a Rural Church supporting our local community.Sparks Kids Club ages 7-11 every Friday 5-6.30pmIgnotion Youth Club ages 12-16 every Friday 7.30-9.30pmWe also support Christians in Moldova & Pakistan through prayer & financial gifts. | £26,694
-<strong>THE PARENT TEACHER ASSOCIATION OF ST ANDREWS CATHOLIC PRIMARY SCHOOL</strong> [Charity number: [1164041](https://findthatcharity.uk/orgid/GB-CHC-1164041)]<br>We carry out fundraising events within the school, including school discos, family fun night, Christmas, Mother & Father's Day Boutiques and Summer Fair | £21,549
-<strong>BURGHILL ACADEMY PTFA</strong> [Charity number: [1152718](https://findthatcharity.uk/orgid/GB-CHC-1152718)]<br>raising funds by way of fund raising events, such as fetes, easter egg hut, beetle drive, halloween party, pamper evenings and croc 8 running race and applicants for grants | £6,984
+<strong>PARTNERSHIP FOR LEARNING</strong> [Charity number: [1077173](https://findthatcharity.uk/orgid/GB-CHC-1077173)]<br>Training and conference venue | £658,089
+<strong>LATIN YOUTH TALENT</strong> [Charity number: [1215856](https://findthatcharity.uk/orgid/GB-CHC-1215856)]<br>We advance education in the arts for young people of Latin American heritage in the UK through theatre, performance, and creative training. We run workshops, productions, and youth programmes that build cultural pride, confidence, and community connection | 
+<strong>COTON-IN-THE-ELMS COMMUNITY CENTRE</strong> [Charity number: [1086988](https://findthatcharity.uk/orgid/GB-CHC-1086988)]<br>Provides building/facilities/open space for all community activities both educational & recreational. | £4,765
+<strong>Flax Art Studios Ltd</strong> [Charity number: [NI100150](https://findthatcharity.uk/orgid/GB-NIC-100150)]<br>Flax Art Studios aims “To significantly contribute to the regions visual art practice through studio provision and resources; acting as a hub for professional development, international networking opportunities; and fostering greater understanding through outreach and engagement activity.” Flax Art Studios was established in 1989 and has a track record of 25 years of working at the cutting edge of contemporary art in Belfast. Flax is dedicated to the provision of:- • A portfolio of flexible, subsidised (Arts Council of Northern Ireland funded) and affordable studio provision tailored to cater for the needs of emerging, mid-career and established artists from all backgrounds, particularly those working with large scale sculpture, installation and new/time based media. • Access for artists to a range of subsidised shared resources such as a unique professional wood and metal workshop, IT and AV equipment. • Opportunities for fostering International Exchange and networking opportunities through its longstanding international residency programme aimed at mid-career international artists and curators whose work engages primarily with place. • By developing links and opportunities for exchange for locally based artists with like-minded international arts organisations. • Opportunities for emerging artists to develop their professional practice post academic studies through free studio provision for one year and through mentoring support from Arts professionals, through the Graduate Residency Award Programme which is funded by the Arts Council of Northern Ireland. • Audience and participation development programmes for public benefit through for example free workshops, talks, exhibitions and open studio days. By developing partnerships and working relationships with arts and community organisations to initiate high quality collaborative activities which are open and accessible to all and for public benefit. These activities are publicly funded. | £170,861
+<strong>Learmount Community Development Group Ltd</strong> [Charity number: [NI102977](https://findthatcharity.uk/orgid/GB-NIC-102977)]<br>Learmount Community Development Group (LCDG) was established in 1991 "to empower and support the people of Learmount in working towards the social, environmental and educational development of the community through voluntary action." The main activities of LCDG revolve around the provision of services/activities for all residents in the Park Ward. We continually address the multiple inequalities and deprivations that rural people consistently experience and endeavour to alleviate this through the provision of essential services in the local area. Consequently our main activities include: - Provision of Resource Centre and Community Centre to house local groups and provide outreach services i.e. Parent & Toddler Group, Playgroup, 60+ Luncheon Club, Outreach Health Centre including G.P, treatment room and provision of prescriptions, Post Office service, Citizens Advice, Credit Union, Park & District Farms Association, St. Mary's Youth Club, and Drop in Centre - Provision of personal, social, educational, environmental activities, events and programmes such as IT, Yoga, Craft Classes, First Aid, Healthy Living, Santa Trail, Outings, History Club etc - Provision of administration services to local groups and individuals living in the area - The group have been very successful in accessing funding for Capital Build, Environmental Projects, Village Enhancements and Learmount Forest improvements - LCDG are the lobbyists for the community when issues arise with statutory agencies such as DRD, Translink, DHSS&PS etc. We act as a pressure group on matters of concern to the area and attend meetings and forums further afield when necessary - One of our greatest accolades is our volunteering programme which offers a range of services provided by volunteers such as Good Morning Park (a telephone support service for older people), Befriending, Transport, Kid’s Club, Environmental Club, Book Club, Fishing Club, Collection of Recyclable items, Collection of Clinic items etc | £173,822
+<strong>WE HAVE ONE WORLD</strong> [Charity number: [1215046](https://findthatcharity.uk/orgid/GB-CHC-1215046)]<br>We advance arts and education for children and young people by staging concerts and outreach workshops, providing mentoring, and awarding grants/bursaries to individuals and charities. We also support projects that relieve hardship for children in the UK and overseas. | 
+<strong>HOPE GIVERS</strong> [Charity number: [1130381](https://findthatcharity.uk/orgid/GB-CHC-1130381)]<br>Learning and training activitiesAdvice and advocacyHome visitation to disabled and elderly peopleAfter school activities for kids and young peopleSport and recreation activitiesSocial eventsSocial entrepreneurshipCommunity awareness and cohesion seminarsEducational seminars on topics such as domestic violence, sexually transmitted diseases, drugs. | 
+<strong>NEW LIFE CHRISTIAN CENTRE (WAKEFIELD)</strong> [Charity number: [1119328](https://findthatcharity.uk/orgid/GB-CHC-1119328)]<br>Church ministry to all ages in the local community. Affiliated to AOG. Supports several overeas missions.Educational facilities provided through pre school group. | £631,044
+<strong>WIVETON RECREATION ROOM</strong> [Charity number: [1085432](https://findthatcharity.uk/orgid/GB-CHC-1085432)]<br>THE HALL IS USED FOR VILLAGE FUNCTIONS, OUTSIDE LETTINGS INCLUDING ADULT EDUCATION CLASSES AND WE ARE RESPONSIBLE FOR MAINTAINING THE BUILDING AND ITS CONTENTS. | £4,966
+<strong>COPPICE COMMUNITY HUB</strong> [Charity number: [1201969](https://findthatcharity.uk/orgid/GB-CHC-1201969)]<br>Coppice Community Hub offers recreational, social, and educational activities that promote physical and mental health, community cohesion, and personal development. Our programs are tailored to all ages and backgrounds, creating a welcoming and supportive environment for the benefit of the community. | £13,324

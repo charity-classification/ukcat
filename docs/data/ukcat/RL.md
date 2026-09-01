@@ -3,8 +3,8 @@
 Religion is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Religion](RL.md) category.
 
-46,002 charities have been tagged with this tag.
-This represents 22.59% of all charities.
+46,051 charities have been tagged with this tag.
+This represents 22.60% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 11,627 | 16.34%
-£10k - £100k | 16,707 | 23.75%
-£100k - £250k | 7,786 | 34.59%
-£250k - £500k | 3,370 | 30.31%
-£500k - £1m | 1,637 | 23.46%
-£1m - £10m | 1,518 | 16.54%
-Over £10m | 337 | 14.94%
-Total | 42,982 | 22.21%
+Under £10k | 11,604 | 16.32%
+£10k - £100k | 16,703 | 23.73%
+£100k - £250k | 7,836 | 34.72%
+£250k - £500k | 3,382 | 30.36%
+£500k - £1m | 1,639 | 23.47%
+£1m - £10m | 1,519 | 16.54%
+Over £10m | 337 | 14.91%
+Total | 43,020 | 22.22%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 38,163 | 22.23%
-oscr | 5,844 | 23.40%
-ccni | 1,995 | 28.50%
-Total | 46,002 | 22.59%
+ccew | 38,220 | 22.25%
+oscr | 5,833 | 23.34%
+ccni | 1,998 | 28.50%
+Total | 46,051 | 22.60%
 
 
 ## Ten largest charities (by income)
@@ -46,8 +46,8 @@ Name | Latest income
 -----|--------:
 <strong>CANTERBURY CHRIST CHURCH UNIVERSITY</strong> [Charity number: [1098136](https://findthatcharity.uk/orgid/GB-CHC-1098136)]<br>UNIVERSITY OF HIGHER EDUCATION INSTITUTION, INCLUDING RESEARCH. | £353,761,000
 <strong>OASIS CHARITABLE TRUST</strong> [Charity number: [1026487](https://findthatcharity.uk/orgid/GB-CHC-1026487)]<br>Oasis Charitable Trust is a family of organisations running community Hubs providing holistic support to the communities we serve. Our work includes our Academies programme, youthwork, Chaplaincy services & churches, anti human traffiking campaigning through STOP THE TRAFFIK, Higher Education courses through Oasis College and supported housing through Oasis Aquila Housing. | £344,497,000
-<strong>Salvation Army</strong> [Charity number: [SC009359](https://findthatcharity.uk/orgid/GB-SC-SC009359)]<br>The objects of the Army shall be the advancement of the Christian religion, as promulgated in the religious doctrines set out in Schedule 1 to this Act which are professed, believed and taught by the Army and, pursuant thereto,  the advancement of education,  the relief of poverty. and other charitable objects beneficial to society or the community of mankind as a whole.  | £338,297,000
 <strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £338,297,000
+<strong>Salvation Army</strong> [Charity number: [SC009359](https://findthatcharity.uk/orgid/GB-SC-SC009359)]<br>The objects of the Army shall be the advancement of the Christian religion, as promulgated in the religious doctrines set out in Schedule 1 to this Act which are professed, believed and taught by the Army and, pursuant thereto,  the advancement of education,  the relief of poverty. and other charitable objects beneficial to society or the community of mankind as a whole.  | £338,297,000
 <strong>The Shaw Trust Limited</strong> [Charity number: [SC039856](https://findthatcharity.uk/orgid/GB-SC-SC039856)]<br>The objects of the company are: (a) To relieve any person who is in need because of any disability or because of any other disadvantage resulting from unemployment, youth, age, financial hardship, ill-health or because they are offenders, ex-offenders or are at risk of offending. (b) The promotion of the health, equality and independence of disabled people. and (c) The prevention and relief of poverty. in particular by providing education, training, rehabilitation, support, employment opportunities and personal development opportunities. The company will be non-party in politics and non-sectarian in religion. | £291,074,000
 <strong>ST MICHAEL'S SCHOOL (LEIGH-ON-SEA) LIMITED</strong> [Charity number: [280688](https://findthatcharity.uk/orgid/GB-CHC-280688)]<br>To carry on as an Independent Preparatory School as an educational charity and to provide for the training and instruction of pupils on the basis of Christian principles | £288,800,113
 <strong>ISLAMIC RELIEF WORLDWIDE</strong> [Charity number: [328158](https://findthatcharity.uk/orgid/GB-CHC-328158)]<br>1. Responding to emergencies2. Caring for orphans and children in need3. Supporting education4. Providing access to health care and water5. Promoting sustainable livelihood6. Campaigning and advocacy on humanitrian issues | £275,575,689
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>GROWING YOUNG DISCIPLES</strong> [Charity number: [1178450](https://findthatcharity.uk/orgid/GB-CHC-1178450)]<br>Support, research and training for those working with children and young people in Christian discipleship | £425,766
-<strong>HERTFORDSHIRE LEA VALLEY ASSOCIATION</strong> [Charity number: [1033750](https://findthatcharity.uk/orgid/GB-CHC-1033750)]<br>The objects of the charity shall be to advance education and to provide facilities recreation or other leisue time occupation in the interests of social welfare, with the object of improving the conditions of life for women in the area of benefit without disinction of political, religious or other opinions. | £5,759
-<strong>THE HUNTINGDON FOUNDATION LIMITED</strong> [Charity number: [286504](https://findthatcharity.uk/orgid/GB-CHC-286504)]<br>The principal activity of the company was that of a charity, with particular reference to the establishment and continued support of Jewish schools.To achieve the objects, the charity uses its income to make charitable donations and grants to Jewish schools, other educational organisations and other charities. | £772,445
-<strong>COVENANT MINISTRIES INTERNATIONAL WORLDWIDE</strong> [Charity number: [1205238](https://findthatcharity.uk/orgid/GB-CHC-1205238)]<br>To advance the Christian faith for the benefit of the public in such parts of the United Kingdom or the world and in ways as the trustees from time to time may deem fit, through the holding of prayer meetings, lectures, public celebration of religious festivals, producing and/or distributing literature on Christianity to enlighten others about the Christian religion | £5,227
-<strong>FRIENDS OF DRAYCOT CERNE CHAPEL</strong> [Charity number: [1145604](https://findthatcharity.uk/orgid/GB-CHC-1145604)]<br>to acquire and run and maintain Draycot Cerne Chapel | £740
-<strong>Tay Charitable Trust</strong> [Charity number: [SC001004](https://findthatcharity.uk/orgid/GB-SC-SC001004)]<br>For the relief of poverty, the advancement of education or religion or for other purposes beneficial to the community. | £241,058
-<strong>EMMANUEL REVIVAL MINISTRIES</strong> [Charity number: [1133577](https://findthatcharity.uk/orgid/GB-CHC-1133577)]<br>1 Establishing and overseeing Revival fellowships 2 Prayer & Praise Gatherings3 Conferences & training courses.4 Prayer counselling surgeries for those hurting, confused or seeking. 5 Establishing local run welfare projects6 Resource centre sourced with materials from around the world.7 Worldwide preaching, teaching and enabling ministry.8 Worldwide support network for Revivalists | £39,428
-<strong>THE CROWN CHURCH</strong> [Charity number: [1095028](https://findthatcharity.uk/orgid/GB-CHC-1095028)]<br>Sunday morning meetingCell group meetingPrayerTraining and Support to Leaders and MembersOutreachBuilding links with Brunel University and local churchesSupporting and playing a part in the work of NewfrontiersSupporting other Christian agencies in the relief of the poor and oppressed overseas | £381,523
-<strong>CENTRE FOR HEALTH AND PASTORAL CARE</strong> [Charity number: [1099836](https://findthatcharity.uk/orgid/GB-CHC-1099836)]<br>The objectives of the Charity are to relieve those in need and in particular the sick and those in poor health and to advance public education but not exclusively by:a)promoting the christian ministry of healing and other therapiesb)providing counselling,retreats and both educational and training coursesc)providing pastoral care for the benefit of the whole community | £290,578
-<strong>BRITISH UNION OF SPIRITIST SOCIETIES</strong> [Charity number: [1136512](https://findthatcharity.uk/orgid/GB-CHC-1136512)]<br>Advancement of Religion, Advice and Counselling, Prevention or Relief of Poverty for the Public Benefit, Promotion of Social Inclusion and Promotion of Religious Harmony by:Promoting public lectures and seminars with the objective of the study and dissemination of the moral values of the Spiritist Doctrine which is capable of being advanced for public benefit. | £2,195
+<strong>THE REDEEMED CHRISTIAN CHURCH OF GOD EVERLASTING FATHER'S ABODE WAKEFIELD</strong> [Charity number: [1199532](https://findthatcharity.uk/orgid/GB-CHC-1199532)]<br>The organisation operates as a church | £112,277
+<strong>THE BARLASTON HALL TRUST LIMITED</strong> [Charity number: [513207](https://findthatcharity.uk/orgid/GB-CHC-513207)]<br>Maintains a disused church | £6
+<strong>ROBANNA CHARITABLE ORGANISATION</strong> [Charity number: [1185481](https://findthatcharity.uk/orgid/GB-CHC-1185481)]<br>To advance the Orthodox Jewish religion through grants to synagogues and religious organisations, support Jewish and general education, relieve poverty and financial hardship, and assist in the relief of sickness and infirmity through grants to individuals and charities. | £205,688
+<strong>THE DICK LUCAS TRUST</strong> [Charity number: [1074445](https://findthatcharity.uk/orgid/GB-CHC-1074445)]<br>THE OBJECT OF THE TRUST IS TO ADVANCE THE CHRISTIAN FAITH FOR THE BENEFIT OF THE PEOPLE OF THE UNITED KINGDOM AND BEYOND IN PARTICULAR (BUT NOT EXCLUSIVELY) BY THE PROCLAMATION AND TEACHING OF THE WORD OF GOD AND TESTIMONY OF JESUS CHRIST SET FORTH IN SCRIPTURE AND BY THE CONTINUING TRAINING OF THOSE ENGAGED IN OR TO ENGAGE IN SUCH MINISTRY. | £15,849
+<strong>FRIENDS OF SABEEL UK (FOSUK)</strong> [Charity number: [1116817](https://findthatcharity.uk/orgid/GB-CHC-1116817)]<br>FOSUK supports the Sabeel Theology Centre in Jerusalem, supports and encourages the Christian community in the Holy Land (Israel & the Palestinian areas of Gaza, the West Bank and East Jerusalem) in their life and witness and raises awareness in the United Kingdom concerning Christians in the Holy Land and promotes links with them. | £86,383
+<strong>GLOBAL BETTER COVENANT MINISTRY</strong> [Charity number: [1174578](https://findthatcharity.uk/orgid/GB-CHC-1174578)]<br>We are a multicultural family church based in the heart of Northampton, following Jesus? in what he taught and how he lived his life.Our dream is to be a people that are devoted to God through worship, developing others through discipleship, and demonstrating kindness through evangelism. | £26,556
+<strong>WOODSIDE GREEN CHRISTIAN CENTRE</strong> [Charity number: [1140110](https://findthatcharity.uk/orgid/GB-CHC-1140110)]<br>The charity is a Christian church to:Advance the Christian religion.Relieve persons who are in conditions of need, poverty or distress or who are aged or sick.To engage in such other charitable activities of benefit to the community in South Norwood and Croydon or elsewhere as the Trustees may from time to time think fit.The primary objective of the church is of an evangelical nature. | 
+<strong>DHAMMAKAYA INTERNATIONAL SOCIETY OF THE UNITED KINGDOM</strong> [Charity number: [1103950](https://findthatcharity.uk/orgid/GB-CHC-1103950)]<br>The principal activity of the charity during the year was that of a Buddhist Temple, religious teaching, meditation Centre, administration support for new Temple building and awarding grants for Buddhist research. | £345,748
+<strong>STEVE AND JAN WORTHY CHARITABLE TRUST</strong> [Charity number: [1094002](https://findthatcharity.uk/orgid/GB-CHC-1094002)]<br>The advancement of the christian faith by encouragement, equipping and enabling churches and other christian organisations for effective evangelism, particularly through music and ministry. | £10,954
+<strong>TRUST PROPERTY HELD IN CONNECTION WITH BURY ROAD UNITED REFORMED CHURCH GOSPORT</strong> [Charity number: [262108](https://findthatcharity.uk/orgid/GB-CHC-262108)]<br>Church activities - services, outreach, buildings for use by the community etc. | £4,854

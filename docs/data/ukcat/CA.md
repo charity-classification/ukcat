@@ -3,8 +3,8 @@
 Charitable activities is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Charitable activities](CA.md) category.
 
-29,611 charities have been tagged with this tag.
-This represents 14.54% of all charities.
+29,649 charities have been tagged with this tag.
+This represents 14.55% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 10,815 | 15.20%
-£10k - £100k | 9,216 | 13.10%
-£100k - £250k | 2,729 | 12.12%
-£250k - £500k | 1,605 | 14.43%
-£500k - £1m | 1,259 | 18.05%
-£1m - £10m | 1,854 | 20.20%
-Over £10m | 381 | 16.89%
-Total | 27,859 | 14.39%
+Under £10k | 10,814 | 15.21%
+£10k - £100k | 9,231 | 13.11%
+£100k - £250k | 2,738 | 12.13%
+£250k - £500k | 1,602 | 14.38%
+£500k - £1m | 1,262 | 18.08%
+£1m - £10m | 1,854 | 20.19%
+Over £10m | 382 | 16.90%
+Total | 27,883 | 14.40%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 25,958 | 15.12%
-oscr | 2,884 | 11.55%
-ccni | 769 | 10.98%
-Total | 29,611 | 14.54%
+ccew | 25,992 | 15.13%
+oscr | 2,890 | 11.56%
+ccni | 767 | 10.94%
+Total | 29,649 | 14.55%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>THE GARTH TRUST</strong> [Charity number: [501315](https://findthatcharity.uk/orgid/GB-CHC-501315)]<br>Make grants to specific church linked organisations inc school, charities etc for general charitable purposes | £32,256
-<strong>BENEVOLENT FUND OF THE LODGE OF LORRAINE</strong> [Charity number: [231409](https://findthatcharity.uk/orgid/GB-CHC-231409)]<br>Funds a variety of charitable institutions with ad hoc grants and gifts | £3,116
-<strong>FRIENDS OF ST. PAUL'S C.E. PRIMARY SCHOOL</strong> [Charity number: [1092310](https://findthatcharity.uk/orgid/GB-CHC-1092310)]<br>Fund raising events in co-ordination with staff, children and parents of school.Makes grants to organisation. Provides human resources for school events.Provides advocacy/advice/information. | £10,194
-<strong>Scots Language Resource Centre Association Ltd</strong> [Charity number: [SC021747](https://findthatcharity.uk/orgid/GB-SC-SC021747)]<br>The Association objects shall be: (i) to promote, support and assist the interests of the Scots language through the establishment of a National Resource Centre dedicated to this end. (ii) to collect published and unpublished texts, audio tapes and film in or concerning or using the Scots language, according to a collecting policy agreed with the National Library of Scotland, and either directly or in association with partners, make these available to the public for lending or consultation. (iii) to support and assist other bodies with specific remits which involve the usage, furtherance, study or collection of Scots language resources, and to maintain liaison with such bodies to avoid duplication of effort.  (iv) to support and assist in, or undertake original research or the preparation of educational materials or new publications in the Scots language. (v) to support and assist in the implementation of any national, regional, local or other scheme for the training of teachers, actors, broadcasters or others engaged in public uses of the Scots language. (vi) to maintain liaison with libraries and library organisations, to support and assist their efforts in defining good practice in regard to the provision by libraries of Scots language material. | £91,926
-<strong>THE EMPOWERMENT GROUP</strong> [Charity number: [1190584](https://findthatcharity.uk/orgid/GB-CHC-1190584)]<br>- Provides Services- Provides Advocacy/advice/information- People Of A Particular Ethnic Or Racial Origin | £85,971
-<strong>THE CAVENDISH FAMILY CHARITABLE TRUST</strong> [Charity number: [279614](https://findthatcharity.uk/orgid/GB-CHC-279614)]<br>Makes grants to other charities in England & Wales | £1,173
-<strong>S.P. CHARITABLE TRUST</strong> [Charity number: [1082164](https://findthatcharity.uk/orgid/GB-CHC-1082164)]<br>To make donations to charitable institutions as the trustees see fit from time to time. | £17,362
-<strong>The Keith and Celia Coombs Trust</strong> [Charity number: [1149791](https://findthatcharity.uk/orgid/GB-CHC-1149791)]<br>Making donations to various charities from funds raised from companies and individuals | £51,000
-<strong>GUILD OF ST BONIFACE</strong> [Charity number: [213233](https://findthatcharity.uk/orgid/GB-CHC-213233)]<br>Supports current Bishop of Plymouth by making annual grant for his use. | £17,606
-<strong>BAIT LIMUD VCHESED</strong> [Charity number: [1174642](https://findthatcharity.uk/orgid/GB-CHC-1174642)]<br>THE ADVANCEMENT OF THE JEWISH FAITH FOR THE BENEFIT OF THE PUBLIC BY PROVIDING GRANTS TO OTHER RELIGIOUS CHARITIES.THE ADVANCEMENT OF ORTHODOX JEWISH EDUCATION AND EDUCATION IN GENERAL BY PROVIDING GRANTS TO EDUCATIONAL INSTITUTION.THE RELIEF OF POVERTY BY PROVIDING GRANTS TO OTHER CHARITIES WORKING AND TO QUALIFYING NEEDY FAMILIES WHO ARE INVOLVED IN THE FURTHERANCE OF THE JEWISH FAITH. | £5,808,246
+<strong>THE FRIENDS OF MASASI & NEWALA</strong> [Charity number: [1009963](https://findthatcharity.uk/orgid/GB-CHC-1009963)]<br>To provide funds to assist the Church of England with its missionary activities in the Dioceses of Masasi and Newala.To carry out such other legally charitable purposes for the relief of poverty, the advancement of education or the provision of health care in the said Dioceses as the Trustees shall from time to time by deed or deeds executed with their unanimous consent declare. | £4,511
+<strong>King George VI Northern Ireland Youth Council</strong> [Charity number: [NI100178](https://findthatcharity.uk/orgid/GB-NIC-100178)]<br>The Organisation administers grants to projects put forward by the Mary Peters Trust and Youthnet to provide financial assistance to young people aged from 14 to 25 to help enhance their performance through training and competition, together with youth activities to develop education and skills. | £13,692
+<strong>WALKING TOGETHER FOUNDATION</strong> [Charity number: [1184811](https://findthatcharity.uk/orgid/GB-CHC-1184811)]<br>The Walking Together Foundation initiates and funds ecumenical outreach projects anywhere in the world that have as their object the advancement of education, the prevention or relief of poverty, the advancement of health or the saving of lives.  It does this by making grants to fund social outreach projects run jointly by Dioceses of the Roman Catholic, Anglican and other Christian Churches. | £14,700
+<strong>The Lorimer Society (Incorporating the Hew Lorimer Trust)</strong> [Charity number: [SC027135](https://findthatcharity.uk/orgid/GB-SC-SC027135)]<br>The Company's object is to advance the education of the public about the life and work of Hew Lorimer and as a means of achieving such an object:  (a) To preserve and promote the work of Hew Lorimer  (b) To form a full archive of his life and work  (c) To foster excellence in stone carving, letter cutting and sculpture and iconography  (d) To recognise, as Hew Lorimer did, the interrelatedness of the arts, by fostering the work of living painters, sculptors, musicians, poets and other artists and craftspeople in Scotland | £1,347
+<strong>THE H ALLIANCE</strong> [Charity number: [1212348](https://findthatcharity.uk/orgid/GB-CHC-1212348)]<br>Educational programmes and grants | 
+<strong>CYCLING FOR HUMANITY</strong> [Charity number: [1206271](https://findthatcharity.uk/orgid/GB-CHC-1206271)]<br>THE PREVENTION OR RELIEF OF POVERTY IN THE UK AND AROUND THE WORLD BY PROVIDING: GRANTS, ITEMS AND SERVICES TO INDIVIDUALS IN NEED AND/OR CHARITIES, OR OTHER ORGANISATIONS WORKING TO PREVENT OR RELIEVE POVERTY | £39,919
+<strong>will2win Foundation</strong> [Charity number: [1147881](https://findthatcharity.uk/orgid/GB-CHC-1147881)]<br>The aim of the Will to Win Foundation is to raise money for and distribute grants to individuals, organisations and clubs to enable people of all ages and abilities to play sport. | £1,702
+<strong>THE ALEXIS TRUST</strong> [Charity number: [262861](https://findthatcharity.uk/orgid/GB-CHC-262861)]<br>We make grants to individuals and organisations who meet the obectives of the Trust.  These are usually from a regular list of recipients who we keep re-appraising.  A few grants are made annually to applicants who fulfill the objectives either here or abroad, for personal or organisational needs. | £21,512
+<strong>THE SHAMELESS FUND</strong> [Charity number: [1212089](https://findthatcharity.uk/orgid/GB-CHC-1212089)]<br>The Shameless Fund supports LGBTQ organisations through grants and awareness raising support, generating income through brand collaborations to forge a world where every LGBTQ person can live authentically, love freely and thrive without the burdens of discrimination, oppression or shame. | 
+<strong>LEWISHAM CHURCHES FOR ASYLUM SEEKERS</strong> [Charity number: [1070172](https://findthatcharity.uk/orgid/GB-CHC-1070172)]<br>LEWCAS is an ecumenical group working to help and campaign for the rights of refugees and asylum seekers. We provide regular food and basic household items for the destitute, travel cards to enable asylum seekers to study English at Lewisham College and give financial support to the work of the Lewisham Refugee Network, Action for Refugees in Lewisham and sometimes to people in particular need. | £15,522

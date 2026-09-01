@@ -3,8 +3,8 @@
 Heritage is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Heritage](HR.md) category.
 
-13,586 charities have been tagged with this tag.
-This represents 6.67% of all charities.
+13,616 charities have been tagged with this tag.
+This represents 6.68% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 5,340 | 7.51%
-£10k - £100k | 4,377 | 6.22%
-£100k - £250k | 1,231 | 5.47%
-£250k - £500k | 723 | 6.50%
-£1m - £10m | 577 | 6.29%
-£500k - £1m | 415 | 5.95%
-Over £10m | 130 | 5.76%
-Total | 12,793 | 6.61%
+Under £10k | 5,351 | 7.53%
+£10k - £100k | 4,386 | 6.23%
+£100k - £250k | 1,227 | 5.44%
+£250k - £500k | 720 | 6.46%
+£1m - £10m | 579 | 6.30%
+£500k - £1m | 414 | 5.93%
+Over £10m | 130 | 5.75%
+Total | 12,807 | 6.61%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 9,275 | 5.40%
-oscr | 3,851 | 15.42%
-ccni | 460 | 6.57%
-Total | 13,586 | 6.67%
+ccew | 9,292 | 5.41%
+oscr | 3,864 | 15.46%
+ccni | 460 | 6.56%
+Total | 13,616 | 6.68%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>COVENTRY KERALA COMMUNITY</strong> [Charity number: [1165748](https://findthatcharity.uk/orgid/GB-CHC-1165748)]<br>ARTS/CULTURE/HERITAGE/SCIENCEPEOPLE OF A PARTICULAR ETHNIC OR RACIAL ORIGINAMATEUR SPORTECONOMIC/COMMUNITY DEVELOPMENT/EMPLOYMENTHUMAN RIGHTS/RELIGIOUS OR RACIAL HARMONY/EQUALITY OR DIVERSITY | £31,225
-<strong>MINISTRY OF RESTORATION CHARITABLE TRUST</strong> [Charity number: [327278](https://findthatcharity.uk/orgid/GB-CHC-327278)]<br>The Promotion and progression of Christianity by advancing the Christian religion with a view that all mankind will be restored to the knowledge of God. | £163,682
-<strong>YORUBA HERITAGE ART AND CULTURAL GROUP MIDLANDS UK</strong> [Charity number: [1215259](https://findthatcharity.uk/orgid/GB-CHC-1215259)]<br>For the public benefit, to advance education in Yoruba culture and heritage across the Midlands by providing classes, workshops, cultural events and community programmes, and by promoting understanding, inclusion and intercultural dialogue in such ways as the trustees consider appropriate. | 
-<strong>Luthermuir Hall And Park Committee</strong> [Charity number: [SC008917](https://findthatcharity.uk/orgid/GB-SC-SC008917)]<br>1. The advancement of civic responsibility or community development 2. The advancement of arts, heritage, culture or science 3. The advancement of public participation in sport. | £37,430
-<strong>THE RUGBY FOOTBALL MUSEUM</strong> [Charity number: [1178948](https://findthatcharity.uk/orgid/GB-CHC-1178948)]<br>The purpose of the charity is to establish a museum of Rugby Football in the town of Rugby | 
-<strong>Craigmillar Park Association</strong> [Charity number: [SC027293](https://findthatcharity.uk/orgid/GB-SC-SC027293)]<br>(i) To stimulate public interest in, and care for, the beauty, character and history of the immediate area, and through other agencies, the entire Newington district  (ii) To secure the preservation, protection, development and improvement of features of public, architectural or historical interest in the area of benefit  (iii) To promote high standards of planning and architecture in or affecting the area of benefiymd  (iv) In the interests of social welfare, to provide or assist in the provision of recreation or other leisure time occupation either for the benefit of the general public, or for the benefit of those who by reason of their youth, age, infirmity or disablement, poverty, social or economic circumstances have a need of such facilities with the object of improving their conditions of life | £346
-<strong>Badenoch Shinty Memories Group</strong> [Charity number: [SC054018](https://findthatcharity.uk/orgid/GB-SC-SC054018)]<br>The Organisation has been formed with the following Purposes to be exercised following the principles of sustainable development (where sustainable development means development which meets the needs of the present without compromising the ability of future generations to meet their own needs):  4.1 To enable elderly people in our rural community, particularly those experiencing loneliness, isolation, dementia and depression, to have a better quality of life. General wellbeing is promoted through reminiscence, social activities and sensory and visual stimulation - based, but not solely, on Shinty.  4.2 To contribute to the preservation of shinty's heritage, culture and history through artefacts, memorabilia, photographs and other material which can be used to assist with the purposes of the organisation.  4.3 To be recognised as a 'compassionate community' and maintain this status through its activities. | £35,495
-<strong>GRAND DUCHESS ELIZABETH ROMANOV SOCIETY</strong> [Charity number: [1185012](https://findthatcharity.uk/orgid/GB-CHC-1185012)]<br>Our aim is to advance knowledge and education for the public benefit in the history of Britain and Russia. We promote the memory of Grand Duchess Elizabeth (1864-1918), the granddaughter of Queen Victoria, and other members of the Russian Imperial House and aristocratic families. We operate a website, organise conferences, exhibitions, trips, publish books and a magazine. We erected a monument. | £2,134
-<strong>THE BOGNOR REGIS FRIENDS OF THE HOSPITALS</strong> [Charity number: [252215](https://findthatcharity.uk/orgid/GB-CHC-252215)]<br>To provide patients in the Bognor Regis War Memorial Hospital with comforts and amenities including facilities, buildings & equipment not normally available through the NHS & in certain circumstances to subscribe towards specialised equipment located or to be located at other hospitals which also serve our community. | £80,461
-<strong>THE CHERISH FREEDOM TRUST</strong> [Charity number: [1157697](https://findthatcharity.uk/orgid/GB-CHC-1157697)]<br>TO ADVANCE EDUCATION BY PROMOTING PUBLIC KNOWLEDGE AND UNDERSTANDING OF THE HISTORY OF THE 20TH CENTURY AND MORE RECENT HISTORY, PARTICULARLY IN RELATION TO THE LIFE AND WORK OF THE RT. HON. THE BARONESS THATCHER OF KESTEVEN LG, OM, FRS AND FOR THE GENERAL PURPOSES OF SUCH CHARITABLE BODIES OR FOR SUCH OTHER EXCLUSIVELY CHARITABLE PURPOSES AS THE TRUSTEES MAY FROM TIME TO TIME DECIDE | £119,964
+<strong>BARKWAY WAR MEMORIAL</strong> [Charity number: [238851](https://findthatcharity.uk/orgid/GB-CHC-238851)]<br>War Memorial is a dedication to those who died in the World Wars. An Annual Service is held at the War Memorial on Remembrance Day. | 
+<strong>Bruntsfield Evangelical Church SCIO</strong> [Charity number: [SC049393](https://findthatcharity.uk/orgid/GB-SC-SC049393)]<br>The organisation's purposes are: 4.1 to advance religion by (i) upholding and teaching Christian faith and values in accordance with the Statement of Faith as set by the elders of Bruntsfield Evangelical Church (the ?Elders?) from time to time. (ii) meeting together regularly for the purposes of worship, prayer, Bible teaching and fellowship. (iii) the baptism of those who profess faith in Jesus Christ. (iv) regular observance of the Lord's Supper (communion). and (v) support of Christian mission locally and worldwide. 4.2 to relieve poverty by active engagement in the support of those in need and by financial contributions to poverty relief.  4.3 to advance community development by making facilities available to local community groups in accordance with the organisation's beliefs and principles. and 4.4 to advance heritage by making facilities available to groups for the purposes of activities and events of that  nature in accordance with the organisation's beliefs and principles.  | £252,951
+<strong>ABBOTT WELFARE CHARITY TRUST</strong> [Charity number: [1142661](https://findthatcharity.uk/orgid/GB-CHC-1142661)]<br>To advance the education for the public benefit in Hindu culture, traditions and history.  To advance the Hindu religion for the public benefit. | 
+<strong>Portsmouth Historic Quarter Trust</strong> [Charity number: [293188](https://findthatcharity.uk/orgid/GB-CHC-293188)]<br>To preserve the Historic Dockyard at Portsmouth so that it may be enjoyed by the public for generations to come.  To restore, maintain and find appropriate new uses for buildings of outstanding historic and architectural interest in the Dockyard. | £4,551,000
+<strong>FARNBOROUGH GOSPEL HALL</strong> [Charity number: [1208402](https://findthatcharity.uk/orgid/GB-CHC-1208402)]<br>1. IN OR TOWARDS THE UPKEEP AND REPAIR OF THE FABRIC OF THE GOSPEL HALL, AT FARNBOROUGH, AND THE MAINTENANCE OF THE SERVICES THEREIN. 2. IN FURTHERING THE RELIGIOUS WORK OF THE OPEN BRETHREN IN TATSFIELD AND FARNBOROUGH. | 
+<strong>SOUTHAMPTON ARCHAEOLOGY SOCIETY</strong> [Charity number: [276070](https://findthatcharity.uk/orgid/GB-CHC-276070)]<br>Holds meetings with guest speakers on archaelogical subjects. Arranges study days on particular periods of history and outings to places of archaelogical importance & interest. | £7,408
+<strong>Brechin Cathedral Trust SCIO</strong> [Charity number: [SC052872](https://findthatcharity.uk/orgid/GB-SC-SC052872)]<br>The organisations purposes are: To promote, conserve and maintain Brechin Cathedral as an architectural, cultural and spiritual resource of national and local heritage significance, and to provide inclusive access to the Cathedral which will enhance the experience of visitors coming to Brechin.  To conserve and maintain the fabric of Brechin Cathedral and the Cathedral Hall and to allow them to be made available for study in the interests of academic and musical research and public education. To manage and promote Brechin Cathedral and the Cathedral Hall as venues for public events, especially for youths, for education and for music, as appropriate. | £70,819
+<strong>The Kirk At Killearnan</strong> [Charity number: [SC054875](https://findthatcharity.uk/orgid/GB-SC-SC054875)]<br>The Organisation's main purpose is consistent with furthering the achievement of sustainable development. The Organisation's Purposes are:  The advancement of the arts, heritage, culture or science. The advancement of citizenship or community development. The provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended. The advancement of religion. | 
+<strong>Carluke Parish Historical Society</strong> [Charity number: [SC009403](https://findthatcharity.uk/orgid/GB-SC-SC009403)]<br>The aims of the Society shall be to encourage all residents to promote the following objects:- a) To stimulate public interest in, and awareness of the natural features of, and human activity in, the Parish, past and present. b) To work towards the eventual establishment of and thereafter to maintain or assist in maintaining a local museum or permanent exhibition place. c) To discover, acquire, copy, compile and preserve all records of local interest. d) To discover, identify, acquire, copy, catalogue and preserve all objects and artifacts of local interest. e) To encourage the identification, preservation and maintenance of all local buildings and sites of interest or significance and the erection where appropriate of plaques and memorials. f) To encourage the organisation locally of all forms of cultural, recreational, charitable and intellectual activity. g) To promote the interests of the local community in all matters affecting the quality of life in the Parish. h) To pursue these ends by means of meetings, exhibitions, lectures, publications, conferences and publicity, the making or giving of commendations, prizes and awards and the promotion of schemes of a charitable nature. | £4,764
+<strong>THE STABLES TRUST LIMITED</strong> [Charity number: [211361](https://findthatcharity.uk/orgid/GB-CHC-211361)]<br>The preservation of the 'Stables' building and its operation as a theatre and arts centre. | £230,812

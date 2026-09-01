@@ -3,8 +3,8 @@
 Health is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Health](HE.md) category.
 
-30,186 charities have been tagged with this tag.
-This represents 14.82% of all charities.
+30,222 charities have been tagged with this tag.
+This represents 14.83% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 9,040 | 12.71%
-£10k - £100k | 9,030 | 12.84%
-£100k - £250k | 3,498 | 15.54%
-£250k - £500k | 2,187 | 19.67%
-£500k - £1m | 1,476 | 21.16%
-£1m - £10m | 2,285 | 24.89%
-Over £10m | 655 | 29.03%
-Total | 28,171 | 14.56%
+Under £10k | 9,021 | 12.69%
+£10k - £100k | 9,022 | 12.82%
+£100k - £250k | 3,506 | 15.53%
+£250k - £500k | 2,197 | 19.72%
+£500k - £1m | 1,479 | 21.18%
+£1m - £10m | 2,284 | 24.87%
+Over £10m | 656 | 29.03%
+Total | 28,165 | 14.55%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 22,370 | 13.03%
-oscr | 6,500 | 26.02%
-ccni | 1,316 | 18.80%
-Total | 30,186 | 14.82%
+ccew | 22,399 | 13.04%
+oscr | 6,511 | 26.05%
+ccni | 1,312 | 18.72%
+Total | 30,222 | 14.83%
 
 
 ## Ten largest charities (by income)
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>Glasgow City Foundation</strong> [Charity number: [SC045450](https://findthatcharity.uk/orgid/GB-SC-SC045450)]<br>1.1 to advance public participation in sport.  1.2 to advance education, learning and employability. 1.3 to promote equality and diversity.  1.4 to provide recreational facilities, or to organise recreational activities for community participation to advance health, wellbeing, learning and employability for the persons for whom the facilities or activities are primarily intended. and 1.5 the advancement of any of the above purposes or objects by the giving of grants or loans or the provision of credit or other forms of assistance, financial or otherwise, to persons undertaking projects, initiatives and/or activities which further any of the above purposes or objects and which are wholly charitable within the meaning of the Taxes Act and section 7 of the Charities and Trustee Investment (Scotland) Act 2005   | £326,437
-<strong>MK ARTS FOR HEALTH</strong> [Charity number: [1107625](https://findthatcharity.uk/orgid/GB-CHC-1107625)]<br>Deliver community arts projects in schools, GP surgeries, residential care homes and day care centres; Provide supportive opportunities and work experience for volunteers, particularly people with mental health issues and learning disabilities; Commission artwork for healthcare settings; Manage Artists' Training Residencies;Deliver arts and health education for health care staff. | £156,334
-<strong>LEPROSY OUTREACH</strong> [Charity number: [1152002](https://findthatcharity.uk/orgid/GB-CHC-1152002)]<br>Leprosy: We raise awareness of leprosy, its effects, stigma, social exclusion and provide medication for leprosy sufferers. We raise funds through grants and donations. Relief of Poverty: We alleviate poverty by providing food, clean water, hygiene items and financial support. Health: We promote healthy living through education and awareness events offering advice, advocacy, and information. | £26,956
-<strong>SMILE (PRESTON) (SELF MOTIVATION IN LASTING ENDORPHINS)</strong> [Charity number: [1098658](https://findthatcharity.uk/orgid/GB-CHC-1098658)]<br>We are Self-Help Support Group for Chronic Pain Sufferers and work closely with the Pain Management Clinic at Royal Preston Hospital (RPH).  SMILE stands for Self-Motivation in Lasting Endorphins and we ensure that Self Motivation is given a helping hand by having a weekly physiotherapy approved gentle exercise session followed by relaxation both proven methods for helping chronic pain sufferers. | £9,613
-<strong>BRITISH KERALITES ASSOCIATION (BKA)</strong> [Charity number: [1108424](https://findthatcharity.uk/orgid/GB-CHC-1108424)]<br>SERVICES FOR ELDERLY PEOPLE, SERVICES TO CHILDREN AND YOUNG PERSONS, ORGANIZING HEALTH SEMINARS AND YOGA SESSIONS ETC | £24,993
-<strong>RACE AGAINST DEMENTIA</strong> [Charity number: [1165559](https://findthatcharity.uk/orgid/GB-CHC-1165559)]<br>The preservation and protection of the health of the public in particular by promoting  research into the causal mechanisms of neurodegenerative diseases with the aim of treating or preventing dementia. The promotion of the relief and treatment of those suffering from dementia and related disorders and the provision of support both for such persons and those caring for them. | £2,997,498
-<strong>DANDELIONS RETREAT</strong> [Charity number: [1217284](https://findthatcharity.uk/orgid/GB-CHC-1217284)]<br>THE OBJECTS OF THE CIO ARE:FOR THE PUBLIC BENEFIT TO RELIEVE THE NEEDS OF ADULTS SUFFERING FROM BEREAVEMENT DUE TO LOSS OF A LOVED ONE TO SUICIDE BY PROVIDING STRUCTURED PEER SUPPORT, RESPITE OPPORTUNITIES, SUPPORT AND PRACTICAL ADVICE. | 
-<strong>POSITIVE EAST</strong> [Charity number: [1001582](https://findthatcharity.uk/orgid/GB-CHC-1001582)]<br>A HOLISTIC RANGE OF SERVICES THAT ENABLES PEOPLE LIVING WITH HIV TO PROMOTE THEIR HEALTH AND WELLBEING, SUPPORT SELF MANAGEMENT AND REGAIN THEIR INDEPENDENCE. THIS IS DONE THROUGH ADVICE, SUPPORT GROUPS AND TRAINING. ADDITIONALLY WE RUN PREVENTION PROGRAMMES TO PROMOTE TESTING AND SAFER SEX PRACTICES TO REDUCE ONWARD INFECTION. THIS IS DONE FROM OUR BASE IN EAST LONDON. | £1,930,134
-<strong>Outreach Community Church Ltd.</strong> [Charity number: [SC040467](https://findthatcharity.uk/orgid/GB-SC-SC040467)]<br>2.1 The objects of the Church ('the Objects') are for the benefit of the public: (1) to advancethe Christian faith in accordance with the Statement in such ways and in such parts of the United Kingdom or the world asthe Church Councilfrom time to time may think fit. (2) to relieve sickness and financial hardship and to promote and preserve good health by the provision of funds, goods or services of any kind including through the provision of counselling and support in such parts of the United Kingdom or the world as the Church Council from time to time think fit. and (3) to advance education in such ways and in such parts of the United Kingdom or the world asthe Church Council form time to time may think fit. | £205,610
-<strong>COVENTRY REGION OF THE PIONEER TOTAL ABSTINENCE ASSOCIATION OF THE SACRED HEART</strong> [Charity number: [251497](https://findthatcharity.uk/orgid/GB-CHC-251497)]<br>Support for those who drink alcohol to excess Support for the elderly in the local areasupport different charities throughout the year give advice to those requiring help specifically to do with alcohol abuse and misuse | £7,827
+<strong>NOOR WATER PROJECT</strong> [Charity number: [1215054](https://findthatcharity.uk/orgid/GB-CHC-1215054)]<br>TO RELIEVE POVERTY AND PRESERVE AND PROTECT GOOD HEALTH IN PARTICULAR BY BUILDING WELLS, PUMPS AND THE INSTALLATION OF WATER FILTRATION SYSTEMS IN PAKISTAN, IN ORDER TO PROVIDE SAFE AND CLEAN WATER, BY THE PROVISION OF GRANTS AND FUNDING. | 
+<strong>Arkordia</strong> [Charity number: [SC039951](https://findthatcharity.uk/orgid/GB-SC-SC039951)]<br>Arkordia will operate solely as a non-profit making charity with the following charitable purposes:  4 The advancement of health and mental wellbeing, the promotion of equality and diversity and any other similar charitable purpose through the following activities in furtherance of the aforementioned purposes-  4.1 to provide long and short term individual and group psychotherapy, counselling and creative therapies for individual adults and couples. 4.2 to ensure that services will be available irrespective of income and will be accessible to those on a low income. 4.3 to provide access to services irrespective of class, race, ethnicity, age, gender, religious affinity, disability or sexual orientation. 4.4 to assist and support individuals to develop appropriate control over, and satisfaction with, their lives. 4.5 to provide training and development opportunities for those working in this field.  | £4,132
+<strong>WOODLAND VIEW DEMENTIA SUPPORT GROUP</strong> [Charity number: [1160799](https://findthatcharity.uk/orgid/GB-CHC-1160799)]<br>Our charity provides help to Dementia sufferers which is not available through the usual channels.We raise funds to improve the environments in Nursing homes by arranging events and providing dementia friendly equipment to enable residents to take part in a variety of activities.It is vital for residents to receive adequate stimulation and remain engaged with those around them as long as possible. | £947
+<strong>SHELTER FROM THE STORM</strong> [Charity number: [1125575](https://findthatcharity.uk/orgid/GB-CHC-1125575)]<br>Provision of shelter, food, advice, counselling and other forms of charitable support to those who are homeless or otherwise socially and economically disadvantaged. | £484,417
+<strong>LEWES OPEN DOOR</strong> [Charity number: [1185742](https://findthatcharity.uk/orgid/GB-CHC-1185742)]<br>Lewes Open Door runs a support service for guests to receive food, drinks, clothing, toiletries and bedding .We provide signposting to statutory & other voluntary services and limited outreach in accompanying individuals to appointments with recovery services, GPs & other health services, banks, the Job Centre & similar organisations. | £3,655
+<strong>PORTSMOUTH ABUSE AND RAPE COUNSELLING SERVICE</strong> [Charity number: [1079950](https://findthatcharity.uk/orgid/GB-CHC-1079950)]<br>Face to face therapy: Ports. P01-P06 13 yrs+. Ports. and South East Hampshire 13 yrs+. Schools: Outreach schools programme P01-P06. Phone Support: Telephone helplines Mon 1pm - 3pm; Wed. 7pm-10pm, Fri 7pm-10pm. | 
+<strong>SWINTON LIONS COMMUNITY SPORTS FOUNDATION</strong> [Charity number: [1167461](https://findthatcharity.uk/orgid/GB-CHC-1167461)]<br>To benefit those working or studying in Swinton and Greater Manchester, in advancing education, health, amateur sport and local heritage.(1) Education via appropriate projects. (2) Health via sporting activity and encouraging healthy lifestyles.(3) Amateur sport participation, especially rugby league.(4) Advance and protect the Heritage of Swinton Lions RLFC and the town of Swinton. | £126,035
+<strong>Royal Voluntary Service</strong> [Charity number: [SC038924](https://findthatcharity.uk/orgid/GB-SC-SC038924)]<br>The relief of poverty, distress, suffering or need among all sections of the community primarily in the United Kingdom by all charitable means and particularly by providing: i) Assistance largely in kind and facilities for individuals in the community (ii) Assistance in kind to victims of emergencies or disasters (iii) Advice and facilities to relieve the needs of those in hospital, in prison or in the armed services and their families, and Such other purposes for the benefit of the community as shall be exclusively charitable | £41,481,000
+<strong>MAYAMIKO TRUST</strong> [Charity number: [1126126](https://findthatcharity.uk/orgid/GB-CHC-1126126)]<br>(i) Relief of poverty and the improvement of life in all disadvantaged areas of the world, particularly Africa.(ii) Promote sustainable economic growth and regeneration(iii) Relief of unemployment(iv) To relieve sickness and financial hardship and to promote good health to those affected by (but not limited to) HIV/AIDS by the provision of goods/services of any kind including counselling. | £5,529
+<strong>THE GRAEAE THEATRE COMPANY LIMITED</strong> [Charity number: [284589](https://findthatcharity.uk/orgid/GB-CHC-284589)]<br>Graeae is a disabled-led theatre company that profiles the skills of disabled actors, writers and directors. The artistic approach creates aesthetically accessible productions that include a disabled and non-disabled audience. The company has built an enviable reputation for producing thrilling and innovative work, particularly built around the creative use of sign language and audio description. | £1,571,276

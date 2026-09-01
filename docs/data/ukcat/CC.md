@@ -3,7 +3,7 @@
 Childcare is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Childcare](CC.md) category.
 
-8,904 charities have been tagged with this tag.
+8,897 charities have been tagged with this tag.
 This represents 4.37% of all charities.
 
 ## Keywords to find charities
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 1,720 | 2.42%
-£10k - £100k | 3,050 | 4.34%
-£100k - £250k | 2,492 | 11.07%
-£250k - £500k | 735 | 6.61%
-£500k - £1m | 359 | 5.15%
-£1m - £10m | 241 | 2.63%
+Under £10k | 1,713 | 2.41%
+£10k - £100k | 3,043 | 4.32%
+£100k - £250k | 2,494 | 11.05%
+£250k - £500k | 741 | 6.65%
+£500k - £1m | 358 | 5.13%
+£1m - £10m | 239 | 2.60%
 Over £10m | 26 | 1.15%
-Total | 8,623 | 4.46%
+Total | 8,614 | 4.45%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 7,630 | 4.44%
-oscr | 680 | 2.72%
-ccni | 594 | 8.48%
-Total | 8,904 | 4.37%
+ccew | 7,625 | 4.44%
+oscr | 678 | 2.71%
+ccni | 594 | 8.47%
+Total | 8,897 | 4.37%
 
 
 ## Ten largest charities (by income)
@@ -47,7 +47,7 @@ Name | Latest income
 <strong>THE SALVATION ARMY</strong> [Charity number: [214779](https://findthatcharity.uk/orgid/GB-CHC-214779)]<br>A Christian Movement committed to putting belief into action: taking a holistic approach, engaging with physical, emotional and spiritual needs, offering services without discrimination.In addition to Christian Worship, in buildings and the open air, services include drop in centres, lunch clubs, parent and toddler groups, debt advice, youth clubs, after school clubs & emergency food parcels. | £338,297,000
 <strong>BERKHAMSTED SCHOOLS GROUP</strong> [Charity number: [310630](https://findthatcharity.uk/orgid/GB-CHC-310630)]<br>The education (including social and physical training) of boys and girls aged 3 -18, with a subsidiary nursery school for children from 5 months old. | £49,855,000
 <strong>Aberlour Child Care Trust</strong> [Charity number: [SC007991](https://findthatcharity.uk/orgid/GB-SC-SC007991)]<br>3.1. The charitable purposes of the Trust are: 3.1.1 to provide, maintain and promote care, accommodation, support, training and/or services: 3.1.1.1 primarily for children and young persons who are in need of care, protection, assistance and/or training. 3.1.1.2 for vulnerable and/or disadvantaged adults whose assistance by the Trust will provide care, protection and/or assistance to children and young persons. and 3.1.1.3 for adults who are vulnerable and/ or disadvantaged and therefore remain in need of care, protection, assistance and/or training. 3.1.2 to provide, maintain and promote education, training, consultancy, research and information for: 3.1.2.1 the beneficiaries listed in 3.1.1, as may be required to meet their specific educational and physical needs. 3.1.2.2 current and prospective individuals and agencies involved whether through the Trust or otherwise, with issues relating principally to the beneficiaries listed in 3.1.1. and 3.1.2.3 members of the public generally and decision makers about the activities of the Trust and issues arising therefrom. | £32,489,000
-<strong>ONE YMCA</strong> [Charity number: [1102301](https://findthatcharity.uk/orgid/GB-CHC-1102301)]<br>THE PROVISION OF SOCIAL HOUSING FOR SINGLE PEOPLE, THE TRAINING AND DEVELOPMENT OF YOUNG PEOPLE AND RESIDENTS.IN ADDITION WE OPERATE A WIDE RANGE OF CHILDRENS' CENTRES AND A FULL DAY NURSERY.OTHER SERVICES PROVIDED FOR THE COMMUNITY INCLUDE HEALTH, SPORTS AND RECREATION PROGRAMMES AND FACILITIES AND MEETING SPACES FOR COMMUNITY GROUPS. | £30,951,955
+<strong>YMCA Chiltern Group</strong> [Charity number: [1102301](https://findthatcharity.uk/orgid/GB-CHC-1102301)]<br>THE PROVISION OF SOCIAL HOUSING FOR SINGLE PEOPLE, THE TRAINING AND DEVELOPMENT OF YOUNG PEOPLE AND RESIDENTS.IN ADDITION WE OPERATE A WIDE RANGE OF CHILDRENS' CENTRES AND A FULL DAY NURSERY.OTHER SERVICES PROVIDED FOR THE COMMUNITY INCLUDE HEALTH, SPORTS AND RECREATION PROGRAMMES AND FACILITIES AND MEETING SPACES FOR COMMUNITY GROUPS. | £30,951,955
 <strong>PRE-SCHOOL LEARNING ALLIANCE</strong> [Charity number: [1096526](https://findthatcharity.uk/orgid/GB-CHC-1096526)]<br>A membership organisation for early years providers, our charitable purpose is to give children the best start in life by providing services that promote child development and support families especially those in deprived areas. This is achieved through early intervention and family services programmes, advising and representing our members and developing our own settings in deprived communities. | £26,850,000
 <strong>Learning Disability Network London Limited</strong> [Charity number: [801081](https://findthatcharity.uk/orgid/GB-CHC-801081)]<br>Providing quality services and creating new opportunities for people with learning disabilities and their families.  Our services include registered care, supported housing, community support, leisure activities, short breaks, a drop in, playschemes, a children and family centre, a pre-school nursery, play and youth services and a family support service. | £22,700,031
 <strong>THE ALDENHAM FOUNDATION</strong> [Charity number: [298140](https://findthatcharity.uk/orgid/GB-CHC-298140)]<br>Trustee of the Aldenham School Charity and St Hilda's Educatioal Trust Ltd, charities engaged in secondary, primary and nursery education. | £22,616,296
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>G-old Community Partnership</strong> [Charity number: [NI100101](https://findthatcharity.uk/orgid/GB-NIC-100101)]<br>The core elements of Surestart include outreach and home visiting services, to make contact as early as possible in a child's life and draw families into using other services. Family support including befriending, social support and parenting information, both group and home based. Good quality play, learning and childcare experiences for children (both group and home based). Primary and community health care and advice. Speech language and communication support and support for all children in the community recognising their differing needs. Surestart programmes have been designed specifically to reflect and respond to local needs. | £1,221,327
-<strong>RISBY PRE-SCHOOL & CHILDCARE SERVICES</strong> [Charity number: [1030761](https://findthatcharity.uk/orgid/GB-CHC-1030761)]<br>Non profit making charitable Preschool and Childcare Services providing early years care and education for children from 2 to 11 years. | £218,872
-<strong>LITTLE TYSILIOS PRE-SCHOOL</strong> [Charity number: [1202405](https://findthatcharity.uk/orgid/GB-CHC-1202405)]<br>The advancement of education for the public benefit through the provision of a pre-school facility to enhance the education of children aged two to five years and to aid personal, social emotional and physical development of children. | 
-<strong>NEW STEPPING STONES PLAYGROUP</strong> [Charity number: [1191172](https://findthatcharity.uk/orgid/GB-CHC-1191172)]<br>Pre-school playgroup | £222,684
-<strong>NURSERY RHYMES PLAYGROUP</strong> [Charity number: [1180347](https://findthatcharity.uk/orgid/GB-CHC-1180347)]<br>The activities and objects of the charity are specifically to provide high quality affordable childcare that enhances the development, care and education of pre school children, in a safe and stimulating environment, where they can learn through play in partnership with parents and carers. The playgroup is in Treharris within the County Borough of Merthyr Tydfil. | £141,390
-<strong>CILYCWM SPORTS AND PLAYAREA ACTION COMMITTEE</strong> [Charity number: [1064877](https://findthatcharity.uk/orgid/GB-CHC-1064877)]<br>Manages Play Area and sports field | 
-<strong>Greater Shantallow Area Partnership</strong> [Charity number: [NI100209](https://findthatcharity.uk/orgid/GB-NIC-100209)]<br>The GSAP is a core community support agency, which works with and on behalf of the people living within the Greater Shantallow Area, an area which suffers from high levels of multiple deprivation in relation to income, employment, health and disability, education, skills and training, child poverty and income deprivation affecting older people. The GSAP defines its role to be one of acting as a central resource for individuals and community/voluntary groups in the Greater Shantallow area by providing projects, programmes, services in the fields of education and training, health and well being, sport and recreation, early intervention, arts and culture, after school activities and family support and the delivery of capacity building and technical assistance to the C/V sector based within the Greater Shantallow Area. GSAP deliver our programmes, services and activities by effectively targeting those most at risk from social exclusion in particular unemployed, lone parents, those with a disability, carers, elderly, low income working families, children in low income families and disaffected youth and by targeting the most disadvantaged neighbourhoods within the Greater Shantallow Area thus ensuring the effective and efficient targeting and use of resources. In addition we identify and articulate local needs, provide information to and gather feedback from residents and community/voluntary groups in the area, help influence policy makers and service providers that operate within the Greater Shantallow Area and promote the case for local investment within the area. | £1,122,416
-<strong>ASHTON KEYNES PRE SCHOOL</strong> [Charity number: [1027601](https://findthatcharity.uk/orgid/GB-CHC-1027601)]<br>Provides pre-school education for children aged between two years 6 months and five years. | £101,227
-<strong>BYBROOK PRESCHOOL</strong> [Charity number: [1163933](https://findthatcharity.uk/orgid/GB-CHC-1163933)]<br>Bybrook Pre-school is a friendly and welcoming pre-school based in the Village Hall in Yatton Keynell, just a couple of miles from Chippenham.  It is a village pre-school which offers a large main play area, as well as fantastic opportunities for outdoor play. This includes a natural wooded garden at the rear, a front patio and a recreational field with a newly built playground. | £139,961
-<strong>NORTH COMMON PRE - SCHOOL</strong> [Charity number: [1004028](https://findthatcharity.uk/orgid/GB-CHC-1004028)]<br>Pre-school Playgroup | £102,746
+<strong>BISHOP CORNISH EDUCATION CENTRE</strong> [Charity number: [1111431](https://findthatcharity.uk/orgid/GB-CHC-1111431)]<br>The Charity operates a pre-school and provides before & after School care and opportunities for music education in a purpose-built eco-education centre. It also offers adult training in education and child care, and provides environmental education and opportunities to promote environmental benefit. | £248,338
+<strong>LITTLEMORE PRE-SCHOOL</strong> [Charity number: [1196601](https://findthatcharity.uk/orgid/GB-CHC-1196601)]<br>Pre-School aims to enhance the development & education of children primarily under statutory school age, offering appropriate care facilities, play & learning.  We ensure that it offers opportunities for all children whatever their race, culture, religion, means or ability.  Parents are encouraged to become fully involved.  The aims of the Pre-School Learning Alliance underpin all our practice. | £137,536
+<strong>FRIENDS OF WHITCHURCH</strong> [Charity number: [1047710](https://findthatcharity.uk/orgid/GB-CHC-1047710)]<br>Raising funds for Whitchurch primary School and Nursery through various fund raising events during the academic year. | £17,462
+<strong>ERMINGTON PRE-SCHOOL UNIT</strong> [Charity number: [1034037](https://findthatcharity.uk/orgid/GB-CHC-1034037)]<br>Childcare for children between the ages of 2 and 5 years. The children follow the Early Years Foundation Stage Framework and learn lots from fun learning/games sessions, colouring, interesting trips. Visitors are encouraged, to widen all the childrens experiences. | £95,165
+<strong>SHAJALAL MOSQUE & ISLAMIC CULTURAL CENTRE</strong> [Charity number: [1145075](https://findthatcharity.uk/orgid/GB-CHC-1145075)]<br>The organisation promotes and arranges social cohesiveness, interfaith dialogue, children's after school teachings, feeding the poor | £108,777
+<strong>Friends of Acorns</strong> [Charity number: [1031613](https://findthatcharity.uk/orgid/GB-CHC-1031613)]<br>Friends of Acorns raise funds to enrich and support the development of children who are in the Early Years Foundation Stage of education (EYFS) within Acorns Pre-School, Christain Malford, Church of England Primary School, the village of Christian Malford and adjoining communities. | £2,882
+<strong>ALPHA PRE-SCHOOL</strong> [Charity number: [1029418](https://findthatcharity.uk/orgid/GB-CHC-1029418)]<br>Pre-School Playgroup | £67,918
+<strong>HANNAH ANDERTON'S SCHOOL CHARITY</strong> [Charity number: [526688](https://findthatcharity.uk/orgid/GB-CHC-526688)]<br>Money is provided for students after school leaving age when they are persuing further or higher education or an apprenticeship. | £77
+<strong>Playtime Early Years</strong> [Charity number: [SC000767](https://findthatcharity.uk/orgid/GB-SC-SC000767)]<br>To advance the education and social development of pre-school children with the emphasis on the play experience, so that they become successful learners, confident Individuals, responsible citizens and effective contributors, and take a constructive place in the community and also to develop and enhance the education of their parents, carers and other appropriate persons. | £170,204
+<strong>Butterfly Club</strong> [Charity number: [SC041939](https://findthatcharity.uk/orgid/GB-SC-SC041939)]<br>To provide a holiday club for the children of Haysholm and James McFarlane special needs school for children with severe and complex learning disabilities . We aim for the holiday club to provide the children with fun and educational activities and to take them out and about on outings within the local and wider community. We aim to give them the chance to have valued experiences and opportunities they might not otherwise have. | 
