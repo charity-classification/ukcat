@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import os
 import pickle
-from typing import Sequence
+from collections.abc import Sequence
 
 import click
 import pandas as pd
