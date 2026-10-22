@@ -4,12 +4,12 @@
 
 A collection of definitions of classifications relevant to non profit organisations.
 
-For lists of categories in these classifications see [github.com/drkane/charity-lookups](https://github.com/drkane/charity-lookups/tree/master/classification)
+For lists of categories in these classifications see [github.com/drkane/charity-lookups](https://github.com/drkane/charity-lookups/tree/main/classification)
 
  - [International Classification of Non-profit and Third Sector Organizations (ICNP/TSO) [PDF]](https://unstats.un.org/unsd/nationalaccount/docs/UN_TSE_HB_FNL_web.pdf)
  - [International Classification of Non-profit Organisations (ICNPO)](https://unstats.un.org/unsd/classifications/Family/Detail/2008)
  - [National Taxonomy of Exempt Entities (NTEE)](https://nccs.urban.org/project/national-taxonomy-exempt-entities-ntee-codes)
- - [Charity Commission for England and Wales](https://github.com/drkane/charity-lookups/blob/master/classification/ccew.md)
+ - [Charity Commission for England and Wales](https://github.com/drkane/charity-lookups/blob/main/classification/ccew.md)
  - [Standard Industrial Classification (SIC2007 - UK version)](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)
 - Candid [Philanthropy Classification System](https://taxonomy.candid.org/resources/downloads/full-pcs-taxonomy-with-definitions) - based on NTEE
 - [Draft Framework for data on Diversity, Equality and Inclusion](https://www.tsiconsultancy.com/updated-dei-data-group-population-framework/)
