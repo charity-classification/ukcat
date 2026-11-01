@@ -3,8 +3,8 @@
 Education is a tag in the [UK-CAT classification](../tag_list.md) of charities in the 
 UK. It is part of the [Education](ED.md) category.
 
-83,909 charities have been tagged with this tag.
-This represents 41.18% of all charities.
+83,936 charities have been tagged with this tag.
+This represents 41.17% of all charities.
 
 ## Keywords to find charities
 
@@ -20,24 +20,24 @@ The regular expression used to find charities in this tag is:
 
 Income band | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-Under £10k | 27,858 | 39.19%
-£10k - £100k | 27,976 | 39.74%
-£100k - £250k | 9,544 | 42.29%
-£250k - £500k | 4,815 | 43.23%
-£500k - £1m | 3,200 | 45.83%
-£1m - £10m | 4,425 | 48.18%
-Over £10m | 1,211 | 53.58%
-Total | 79,029 | 40.82%
+£10k - £100k | 28,060 | 39.70%
+Under £10k | 27,734 | 39.26%
+£100k - £250k | 9,527 | 41.88%
+£250k - £500k | 4,889 | 43.26%
+£1m - £10m | 4,464 | 48.42%
+£500k - £1m | 3,217 | 45.64%
+Over £10m | 1,221 | 53.32%
+Total | 79,112 | 40.80%
 
 
 ## Distribution by charity regulator
 
 Regulator | Charities with tag | Percent of all charities
 ------------|-------------------:|-------------------------:
-ccew | 68,632 | 39.95%
-oscr | 12,519 | 50.09%
-ccni | 2,758 | 39.34%
-Total | 83,909 | 41.18%
+ccew | 68,675 | 39.95%
+oscr | 12,518 | 50.11%
+ccni | 2,743 | 39.18%
+Total | 83,936 | 41.17%
 
 
 ## Ten largest charities (by income)
@@ -46,8 +46,8 @@ Name | Latest income
 -----|--------:
 <strong>University Of Edinburgh</strong> [Charity number: [SC005336](https://findthatcharity.uk/orgid/GB-SC-SC005336)]<br>The advancement of education. Any other purpose that may reasonably be regarded as analogous to any of the other preceding purposes. | £1,534,200,000
 <strong>University Of Glasgow Court</strong> [Charity number: [SC004401](https://findthatcharity.uk/orgid/GB-SC-SC004401)]<br>The advancement of education. The advancement of health. The advancement of, arts, heritage, culture, or science. | £1,070,400,000
-<strong>THE BRITISH COUNCIL</strong> [Charity number: [209131](https://findthatcharity.uk/orgid/GB-CHC-209131)]<br>The British Council creates friendly knowledge and understanding between the people of the UK and other countries. We do this by making a positive contribution to the UK and the countries we work with. We reach millions of people across the world, working with over 100 countries in the fields of arts and culture, English language, education and civil society. | £1,010,444,268
 <strong>British Council</strong> [Charity number: [SC037733](https://findthatcharity.uk/orgid/GB-SC-SC037733)]<br>(a)         promote cultural relationships between the people of the United Kingdom and other countries. (b)         develop a wider knowledge of the English language. and (c)          encourage educational co-operation between the United Kingdom and other countries, support the advancement of United Kingdom education and education standards overseas, and otherwise promote education.  | £1,010,444,268
+<strong>THE BRITISH COUNCIL</strong> [Charity number: [209131](https://findthatcharity.uk/orgid/GB-CHC-209131)]<br>The British Council creates friendly knowledge and understanding between the people of the UK and other countries. We do this by making a positive contribution to the UK and the countries we work with. We reach millions of people across the world, working with over 100 countries in the fields of arts and culture, English language, education and civil society. | £1,010,444,268
 <strong>United Learning LTD</strong> [Charity number: [313999](https://findthatcharity.uk/orgid/GB-CHC-313999)]<br>THE CHARITABLE GROUP PROVIDES EDUCATION THROUGH THE OPERATION OF INDEPENDENT SCHOOLS AND THROUGH THE OPERATION OF ACADEMIES ON BEHALF OF THE DEPARTMENT FOR EDUCATION AND THE EDUCATION FUNDING AGENCY | £789,957,000
 <strong>LLOYD'S REGISTER FOUNDATION</strong> [Charity number: [1145988](https://findthatcharity.uk/orgid/GB-CHC-1145988)]<br>Lloyd's Register Foundation promotes safety and education. Most of the consolidated income is attributable to the Lloyd's Register Group, a trading group that distributes profit to the Foundation. It is received dividends and not the consolidated trading income that is available to the Foundation. The trading group is a 'Social Investment' that also furthers the Foundation's charitable aims. | £691,735,000
 <strong>CARDIFF UNIVERSITY</strong> [Charity number: [1136855](https://findthatcharity.uk/orgid/GB-CHC-1136855)]<br>The University provides Higher Education to the general public which will also include numerous research activities. For more detail see the Public Benefit Statement within the Annual Financial Statements. | £634,070,682
@@ -60,13 +60,13 @@ Name | Latest income
 
 Name | Latest income
 -----|--------:
-<strong>MARCHERNOMICS</strong> [Charity number: [1219179](https://findthatcharity.uk/orgid/GB-CHC-1219179)]<br>TO ADVANCE THE EDUCATION OF THE PUBLIC IN GENERAL (AND PARTICULARLY AMONGST FINANCIAL PROFESSIONALS) ON THE SUBJECTS OF ECONOMICS, FINANCE AND THE POLITICAL ECONOMY. | 
-<strong>Castle Tower Parents, Friends and Staff Association</strong> [Charity number: [NI104163](https://findthatcharity.uk/orgid/GB-NIC-104163)]<br>We help to raise vital funds for the school through various mediums such as: the summer & Christmas fairs, Chinese nights and fireside quizzes. In consultation with teachers from all three campuses, we then allocate funds where they are most needed. The Association have raised money for: trips, sensory equipment, I pads, cameras, bikes, helmets and outdoor equipment, raised beds and equipment for gardening. Our aim has always been to forge closer links between home and school by bringing parents/carers together socially in support of the school. However, we also want to strengthen links between parents/carers because we believe this will naturally benefit us as carers and have a positive impact on the school as a whole. We are aware that parents/carers rarely have the opportunity to meet and to that end we will run coffee mornings and times when parents/carers can meet and relax together, exchange experiences and ideas. | £19,255
-<strong>IPPLEPEN PRIMARY SCHOOL PARENT TEACHER ASSOCIATION</strong> [Charity number: [283416](https://findthatcharity.uk/orgid/GB-CHC-283416)]<br>Raising funds to spend for the benefit of the children of Ipplepen Primary School, Newton Abbot Devon. | £3,790
-<strong>THE FERNHURST CENTRE LIMITED</strong> [Charity number: [1097445](https://findthatcharity.uk/orgid/GB-CHC-1097445)]<br>The principal activity of the centre is to operate the Fernhurst Centre at 2 Crossfield Fernhurst, providing computer/IT, cafe and education facilities and courses for the benefit of the community. | £117,324
-<strong>BROCKHAMPTON PTA</strong> [Charity number: [1101248](https://findthatcharity.uk/orgid/GB-CHC-1101248)]<br>Fundraising activities based in school, for example Discos, Spring dance, summer fair, sponsored events etc. | £9,421
-<strong>FRIENDS OF ST ROBERT SOUTHWELL SCHOOL</strong> [Charity number: [1043848](https://findthatcharity.uk/orgid/GB-CHC-1043848)]<br>We exist to promote the welfare of the children of St Robert Southwell School in home, school and community.  We assist and support the school staff by working in cooperation with them to further their vision for the school. | £13,543
-<strong>HUMAN AID FOR ALL</strong> [Charity number: [1187459](https://findthatcharity.uk/orgid/GB-CHC-1187459)]<br>(1)TO RELIEVE FINANCIAL HARDSHIP, DISTRESS AND SUFFERING AMONG POOR PEOPLE, ORPHANS AND OTHER PEOPLE IN NEED BY MEANS OF, BUT NOT EXCLUSIVELY, MAKING GRANTS OR LOANS FOR PROVIDING OR PAYING FOR ITEMS, EQUIPMENT, SERVICES AND FACILITIES, INCLUDING THE PROVISION OF FOOD, WATER, CLOTHING AND ACCOMMODATION FOR THE BENEFIT OF THE SAID PERSONS;(2) TO ADVANCE EDUCATION FOR THE BENEFIT OF THE GENERAL PUBLIC BY MEANS OF, BUT NOT EXCLUSIVELY, THE PROVISION OR THE ASSISTANCE IN THE PROVISION OF EDUCATIONAL ACTIVITIES AND FACILITIES, SUCH AS A SUPPLEMENTARY SCHOOL AND ADULT EDUCATION CLASSES FOR THE BENEFIT OF SAID PERSONS. | 
-<strong>WAYLAND MEN'S SHED</strong> [Charity number: [1213606](https://findthatcharity.uk/orgid/GB-CHC-1213606)]<br>TO PROMOTE SOCIAL INCLUSION FOR THE PUBLIC BENEFIT BY PREVENTING PEOPLE PARTICULARLY BUT NOT EXCLUSIVELY MEN AGED 18 OR OVER, WITHIN NORFOLK AND THE SURROUNDING AREA, FROM BECOMING SOCIALLY EXCLUDED, RELIEVING THE NEEDS OF THOSE PEOPLE WHO ARE SOCIALLY EXCLUDED AND ASSISTING THEM TO INTEGRATE INTO SOCIETY THROUGH THE PROVISION OF FACILITIES IN WHICH THEY CAN MEET JOINTLY OR INDIVIDUALLY TO UNDERTAKE CREATIVE, PHYSICAL OR RECREATIONAL ACTIVITIES, LEARN OR PASS ON SKILLS AND KNOWLEDGE AND SUPPORT EACH OTHER SOCIALLY.FOR THE PURPOSE OF THIS CLAUSE 'SOCIALLY EXCLUDED' MEANS BEING EXCLUDED FROM SOCIETY, OR PARTS OF SOCIETY, AS A RESULT OF ONE OF MORE OF THE FOLLOWING FACTORS: UNEMPLOYMENT; FINANCIAL HARDSHIP; YOUTH OR OLD AGE; ILL HEALTH (PHYSICAL OR MENTAL). | 
-<strong>FUNDS HELD IN CONNECTION WITH THE DUNHAM ROAD UNITARIAN CHAPEL</strong> [Charity number: [230482](https://findthatcharity.uk/orgid/GB-CHC-230482)]<br>To Permit the chapel and sunday school to be used occupied and enjoyed fo the public worship of almighty God and for the religious instruction of the members of the congregation. | £107,690
-<strong>THE FRIENDS OF CLUTTON SCHOOL</strong> [Charity number: [1081577](https://findthatcharity.uk/orgid/GB-CHC-1081577)]<br>To raise funds for Clutton Church of England Primary School. Headteacher decides on how that money is spent in order to enhance children's education. | £1,250
+<strong>ROLLE CANAL & NORTHERN DEVON WATERWAYS SOCIETY</strong> [Charity number: [1215712](https://findthatcharity.uk/orgid/GB-CHC-1215712)]<br>The Society aims to conserve, restore and maintain the Rolle Canal, a small tub boat canal which ran from Weare Giffard to Great Torrington in North Devon between 1827 and 1871.  Our key objective is to advance public education and awareness of the canal and other waterways in the area and the role they played in the industrial and economic development of North Devon. | 
+<strong>CHARITY OF JOHN BUCKLAND AND MARY BUCKLAND</strong> [Charity number: [243655](https://findthatcharity.uk/orgid/GB-CHC-243655)]<br>Provide grants for education and training and relief of poverty for children and young people, the elderly and old people. | £4,050
+<strong>KING'S ACADEMY BINFIELD & KING'S ACADEMY OAKWOOD PTA</strong> [Charity number: [1189128](https://findthatcharity.uk/orgid/GB-CHC-1189128)]<br>The objects of the CIO are to advance the education and wellbeing of the pupils of Kings Academy Binfield and Kings Academy Oakwood by providing and/or assisting in the provision of facilities for education at the Academy | £8,802
+<strong>KJV COMMUNITY CHILDREN'S CHOIR CHARITABLE INCORPORATED ORGANISATION</strong> [Charity number: [1198653](https://findthatcharity.uk/orgid/GB-CHC-1198653)]<br>KJV Community Children's Choir is a non-auditioned, Saturday community choir for 150 Cambridge children aged 6-18. It's free for primary-aged children with a small charge for secondary children. Most of the children come from state schools. The choir has a conductor, an accompanist, an assistant teacher and an administrator. We perform at at least two concerts per year in prestigious local venues. | £31,300
+<strong>KIDS OF MALAWI UK</strong> [Charity number: [1183319](https://findthatcharity.uk/orgid/GB-CHC-1183319)]<br>Kids of Malawi aims to improve the health of children in Malawi through staffing, training, supply provision and research at Malawian Health Care Centres. | £2,284
+<strong>The Orchy and Awe Community Trust Limited</strong> [Charity number: [SC054780](https://findthatcharity.uk/orgid/GB-SC-SC054780)]<br>4.1 The objects of the Company are to advance the interests, activities, well-being, sustainability and resilience of the communities within the parish of Glenorchy and Innishail(as defined), to make them places where current and future generations can thrive by: • Funding , operating or otherwise assisting in the provision of village halls and other meeting places Funding, providing, operating or otherwise assisting in the provision of affordable or social housing to meet the needs of all sectors of our community. • Provision of recreational, sports, cultural activities and clubs, with particular emphasis on young people including funding and provision of facilities, pitches, equipment and education. • Promoting and organising community events, seminars and social activities to facilitate social interaction. • Working collaboratively and in partnership with other organisations within and without the defined area to achieve this. | 
+<strong>BEARREM CHARITABLE TRUST</strong> [Charity number: [1195297](https://findthatcharity.uk/orgid/GB-CHC-1195297)]<br>The Trust makes grants to a wide range of charities; in particular, to charities concerned with education, religion, physical and mental health, the arts and the protection of the environment. | £12,305
+<strong>UGANDA MUSLIM COMMUNITY (UMC) MANCHESTER TWALE</strong> [Charity number: [1177180](https://findthatcharity.uk/orgid/GB-CHC-1177180)]<br>1. To advance Islam, in particular but not exclusively by the provision of a Mosque in Manchester2. To further or benefit the residents of Manchester and the neighbourhood, in education with the objective of improving the conditions of their life.3. To promote religious harmony for the benefit of the public by organising awareness of different religious beliefs. | £12,977
+<strong>STRONG BOX</strong> [Charity number: [1213649](https://findthatcharity.uk/orgid/GB-CHC-1213649)]<br>Strong Box promotes community participation in healthy sports by providing suitable facilities for amateur and recreational boxing. The boxing gym is in central Bishops Stortford.  All our coaches are volunteers and England Boxing accredited they hold boxing-based fitness classes and amateur boxing training sessions to suit all fitness levels for youths, teens, adults and amateur boxers. | 
+<strong>Drumbo & District Community Association</strong> [Charity number: [NI107237](https://findthatcharity.uk/orgid/GB-NIC-107237)]<br>Drumbo and District Community Association undertakes a wide range of activities including our bi-annual summer fete and Christmas Tree lights turn-on events which are attended by people of all ages. The 2-3 mini-bus outings each year are aimed at the area's older people and combine educational locations and social networking both in the mini buses (provided by the Council) and over refreshment breaks etc. We run two fund-raising charity concerts each year, attended by over 200 people and also occasional afternoon teas. We also hold a monthly drop-in centre focused on friendship and mutual support of attendees and have recently launched a Men's Shed aimed at supporting older men's mental health and social inclusion. We have also been instrumental in obtaining a grant from the Lagan Rural Partnership to complete a village regeneration project which included removing overhead wiring, providing street furniture, new landscape architecture and complete resurfacing of the village. This was done in association with Lisburn and Castlereagh City Council. | £10,166
